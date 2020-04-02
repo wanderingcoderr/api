@@ -1,9 +1,5 @@
 [
   {
-    "update": "10 recoveries in Haryana\n",
-    "timestamp": 1585748028
-  },
-  {
     "update": "1 new case in Bihar\n3 deaths in West Bengal\n",
     "timestamp": 1585748541
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Delhi\n",
     "timestamp": 1585854489
+  },
+  {
+    "update": "5 new cases in Uttar Pradesh\n2 new cases in Puducherry\n",
+    "timestamp": 1585861723
   }
 ]
