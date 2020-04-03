@@ -579,29 +579,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "542",
+			"confirmeddelta": "553",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "13",
-			"lastupdatedtime": "03/04/2020 23:32:28",
+			"deceaseddelta": "14",
+			"lastupdatedtime": "03/04/2020 23:42:28",
 			"recovereddelta": "38",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2773",
-			"confirmed": "3087",
-			"deaths": "85",
+			"active": "2783",
+			"confirmed": "3098",
+			"deaths": "86",
 			"delta": {
-				"active": 542,
-				"confirmed": 542,
+				"active": 553,
+				"confirmed": 553,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "542",
-			"deltadeaths": "13",
+			"deltaconfirmed": "553",
+			"deltadeaths": "14",
 			"deltarecovered": "38",
-			"lastupdatedtime": "03/04/2020 23:32:28",
+			"lastupdatedtime": "03/04/2020 23:42:28",
 			"recovered": "229",
 			"state": "Total",
 			"statecode": "TT"
@@ -769,9 +769,9 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "114",
+			"active": "113",
 			"confirmed": "128",
-			"deaths": "3",
+			"deaths": "4",
 			"delta": {
 				"active": 4,
 				"confirmed": 4,
@@ -779,9 +779,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "4",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 18:22:26",
+			"lastupdatedtime": "03/04/2020 23:42:33",
 			"recovered": "11",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -1003,19 +1003,19 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "7",
-			"confirmed": "9",
+			"active": "18",
+			"confirmed": "20",
 			"deaths": "0",
 			"delta": {
-				"active": 4,
-				"confirmed": 4,
+				"active": 15,
+				"confirmed": 15,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "15",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "03/04/2020 14:27:25",
+			"lastupdatedtime": "03/04/2020 23:42:38",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"
