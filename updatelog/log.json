@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Jammu and Kashmir\n",
-    "timestamp": 1585752729
-  },
-  {
     "update": "15 new cases and 1 death in Maharashtra\n",
     "timestamp": 1585753238
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Goa\n1 recovery in Odisha\n",
     "timestamp": 1585889643
+  },
+  {
+    "update": "12 new cases in Andhra Pradesh\n",
+    "timestamp": 1585891301
   }
 ]
