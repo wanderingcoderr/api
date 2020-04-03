@@ -579,7 +579,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "347",
+			"confirmeddelta": "350",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
 			"lastupdatedtime": "03/04/2020 18:42:24",
@@ -589,8 +589,8 @@
 	],
 	"statewise": [
 		{
-			"active": "2623",
-			"confirmed": "2892",
+			"active": "2626",
+			"confirmed": "2895",
 			"deaths": "75",
 			"delta": {
 				"active": 347,
@@ -1003,8 +1003,8 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "4",
-			"confirmed": "6",
+			"active": "7",
+			"confirmed": "9",
 			"deaths": "0",
 			"delta": {
 				"active": 1,
