@@ -582,7 +582,7 @@
 			"confirmeddelta": "347",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "3",
-			"lastupdatedtime": "03/04/2020 18:22:24",
+			"lastupdatedtime": "03/04/2020 18:42:24",
 			"recovereddelta": "3",
 			"statesdelta": "0"
 		}
@@ -601,7 +601,7 @@
 			"deltaconfirmed": "347",
 			"deltadeaths": "3",
 			"deltarecovered": "3",
-			"lastupdatedtime": "03/04/2020 18:22:24",
+			"lastupdatedtime": "03/04/2020 18:42:24",
 			"recovered": "194",
 			"state": "Total",
 			"statecode": "TT"
@@ -673,7 +673,7 @@
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "2",
-			"lastupdatedtime": "03/04/2020 18:12:24",
+			"lastupdatedtime": "03/04/2020 18:42:25",
 			"recovered": "30",
 			"state": "Kerala",
 			"statecode": "KL"
