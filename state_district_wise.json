@@ -1291,15 +1291,29 @@
           "confirmed": 0
         }
       },
-      "Durg": {
-        "confirmed": 2,
+      "Rajnandgaon": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Bilaspur": {
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Durg": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Korba": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
