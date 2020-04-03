@@ -579,7 +579,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "7",
+			"confirmeddelta": "21",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "03/04/2020 09:22:24",
@@ -589,12 +589,12 @@
 	],
 	"statewise": [
 		{
-			"active": "2289",
-			"confirmed": "2552",
+			"active": "2303",
+			"confirmed": "2566",
 			"deaths": "72",
 			"delta": {
-				"active": 7,
-				"confirmed": 7,
+				"active": 21,
+				"confirmed": 21,
 				"deaths": 0,
 				"recovered": 0
 			},
@@ -659,12 +659,12 @@
 			"state": "Delhi"
 		},
 		{
-			"active": "137",
-			"confirmed": "140",
+			"active": "151",
+			"confirmed": "154",
 			"deaths": "0",
 			"delta": {
-				"active": 7,
-				"confirmed": 7,
+				"active": 21,
+				"confirmed": 21,
 				"deaths": 0,
 				"recovered": 0
 			},

@@ -331,10 +331,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 9,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 19
         }
       },
       {
@@ -1938,7 +1938,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 460,
+        "confirmed": 446,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
