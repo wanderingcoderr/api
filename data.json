@@ -581,17 +581,17 @@
 		{
 			"confirmeddelta": "95",
 			"counterforautotimeupdate": "645",
-			"deceaseddelta": "2",
-			"lastupdatedtime": "03/04/2020 14:27:24",
+			"deceaseddelta": "3",
+			"lastupdatedtime": "03/04/2020 17:17:31",
 			"recovereddelta": "1",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2374",
+			"active": "2373",
 			"confirmed": "2640",
-			"deaths": "74",
+			"deaths": "75",
 			"delta": {
 				"active": 95,
 				"confirmed": 95,
@@ -599,9 +599,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "95",
-			"deltadeaths": "2",
+			"deltadeaths": "3",
 			"deltarecovered": "1",
-			"lastupdatedtime": "03/04/2020 14:27:24",
+			"lastupdatedtime": "03/04/2020 17:17:31",
 			"recovered": "192",
 			"state": "Total",
 			"statecode": "TT"
@@ -1021,9 +1021,9 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "4",
+			"active": "3",
 			"confirmed": "6",
-			"deaths": "1",
+			"deaths": "2",
 			"delta": {
 				"active": 0,
 				"confirmed": 0,
@@ -1031,9 +1031,9 @@
 				"recovered": 0
 			},
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/04/2020 22:42:28",
+			"lastupdatedtime": "03/04/2020 17:17:36",
 			"recovered": "1",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
