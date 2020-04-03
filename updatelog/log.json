@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Gujarat\n",
-    "timestamp": 1585801478
-  },
-  {
     "update": "30 new cases in Telangana\n",
     "timestamp": 1585802540
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Karnataka\n",
     "timestamp": 1585918407
+  },
+  {
+    "update": "2 recoveries in Kerala\n",
+    "timestamp": 1585919515
   }
 ]
