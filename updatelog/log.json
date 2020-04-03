@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Assam\n1 new case in Manipur\n",
-    "timestamp": 1585800954
-  },
-  {
     "update": "2 recoveries in Gujarat\n",
     "timestamp": 1585801478
   },
@@ -198,5 +194,9 @@
   {
     "update": "9 new cases in Kerala\n22 new cases in Madhya Pradesh\n",
     "timestamp": 1585917858
+  },
+  {
+    "update": "3 new cases in Karnataka\n",
+    "timestamp": 1585918407
   }
 ]
