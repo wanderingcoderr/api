@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Delhi\n",
-    "timestamp": 1585829369
-  },
-  {
     "update": "67 new cases in Delhi\n4 new cases in Uttar Pradesh\n8 new cases in Jammu and Kashmir\n",
     "timestamp": 1585830439
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Delhi\n6 new cases in Uttarakhand\n",
     "timestamp": 1585930699
+  },
+  {
+    "update": "1 new case in Ladakh\n",
+    "timestamp": 1585931180
   }
 ]
