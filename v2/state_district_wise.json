@@ -323,10 +323,10 @@
       },
       {
         "district": "Tonk",
-        "confirmed": 4,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -335,6 +335,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Bikaner",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       }
     ]
@@ -1930,10 +1938,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 467,
+        "confirmed": 460,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
