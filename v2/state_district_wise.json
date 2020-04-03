@@ -1264,7 +1264,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 26,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1272,7 +1272,7 @@
       },
       {
         "district": "Visakhapatnam",
-        "confirmed": 24,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1296,7 +1296,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 10,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1312,7 +1312,7 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1344,7 +1344,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 5,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
