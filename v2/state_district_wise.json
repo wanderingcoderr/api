@@ -623,10 +623,10 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 49,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -831,10 +831,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 102,
+        "confirmed": 99,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 102
+          "confirmed": 99
         }
       }
     ]
