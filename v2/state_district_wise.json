@@ -1272,7 +1272,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 52,
+        "confirmed": 51,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kadapa",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
