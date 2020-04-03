@@ -51,7 +51,7 @@
         }
       },
       "Thiruvananthapuram": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -94,13 +94,6 @@
       },
       "Kollam": {
         "confirmed": 5,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "No foreign travel history": {
-        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
