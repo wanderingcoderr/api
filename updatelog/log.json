@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Karnataka\n1 recovery in Jammu and Kashmir\n",
-    "timestamp": 1585826688
-  },
-  {
     "update": "2 deaths in Delhi\n",
     "timestamp": 1585829369
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Gujarat\n",
     "timestamp": 1585929081
+  },
+  {
+    "update": "2 new cases in Delhi\n6 new cases in Uttarakhand\n",
+    "timestamp": 1585930699
   }
 ]
