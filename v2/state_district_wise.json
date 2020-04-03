@@ -1256,7 +1256,7 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 8
@@ -1264,7 +1264,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 27,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1344,7 +1344,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 16,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
