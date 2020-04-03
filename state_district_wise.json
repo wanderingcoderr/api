@@ -1206,10 +1206,10 @@
   "Odisha": {
     "districtData": {
       "Khordha": {
-        "confirmed": 7,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 10
         }
       },
       "Bhadrak": {
@@ -1220,17 +1220,10 @@
         }
       },
       "Cuttack": {
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
-        }
-      },
-      "Unknown": {
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 6
+          "confirmed": 1
         }
       },
       "Puri": {
@@ -1535,10 +1528,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 55,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 32
+          "confirmed": 37
         }
       },
       "Morena": {
@@ -1781,7 +1774,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 31,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

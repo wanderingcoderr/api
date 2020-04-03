@@ -1386,10 +1386,10 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 7,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 10
         }
       },
       {
@@ -1402,18 +1402,10 @@
       },
       {
         "district": "Cuttack",
-        "confirmed": 2,
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 6,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 6
+          "confirmed": 1
         }
       },
       {
@@ -1765,10 +1757,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 55,
+        "confirmed": 60,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 32
+          "confirmed": 37
         }
       },
       {
@@ -2050,7 +2042,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
