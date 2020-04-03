@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 new cases in Rajasthan\n24 new cases in Andhra Pradesh\n",
-    "timestamp": 1585760078
-  },
-  {
     "update": "2 new cases in Chandigarh\n",
     "timestamp": 1585761726
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Odisha\n",
     "timestamp": 1585904274
+  },
+  {
+    "update": "1 death in Andhra Pradesh\n",
+    "timestamp": 1585906447
   }
 ]
