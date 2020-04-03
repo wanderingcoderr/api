@@ -160,14 +160,14 @@
 			"negative": "1714",
 			"numicubeds": "",
 			"numisolationbeds": "",
-			"numventilators": "",
+			"numventilators": "1761",
 			"peopleinisolation": "",
 			"positive": "88",
 			"source": "https://gujcovid19.gujarat.gov.in/",
 			"state": "Gujarat",
 			"totaltested": "1862",
 			"unconfirmed": "60",
-			"updatedon": "02/04/2020"
+			"updatedon": "03/04/2020"
 		},
 		{
 			"negative": "885",
