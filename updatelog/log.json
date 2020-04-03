@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Maharashtra\n",
-    "timestamp": 1585765940
-  },
-  {
     "update": "3 new cases in Assam\n1 new case in Manipur\n",
     "timestamp": 1585800954
   },
@@ -198,5 +194,9 @@
   {
     "update": "102 new cases in Tamil Nadu\n91 new cases in Delhi\n5 new cases in Jammu and Kashmir\n4 new cases in Punjab\n4 new cases in Assam\n",
     "timestamp": 1585915702
+  },
+  {
+    "update": "9 new cases in Kerala\n22 new cases in Madhya Pradesh\n",
+    "timestamp": 1585917858
   }
 ]
