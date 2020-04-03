@@ -568,11 +568,11 @@
 			"totalrecovered": "169"
 		},
 		{
-			"dailyconfirmed": "484",
+			"dailyconfirmed": "486",
 			"dailydeceased": "16",
 			"dailyrecovered": "22",
 			"date": "02 April ",
-			"totalconfirmed": "2543",
+			"totalconfirmed": "2545",
 			"totaldeceased": "72",
 			"totalrecovered": "191"
 		}
@@ -582,15 +582,15 @@
 			"confirmeddelta": "0",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
-			"lastupdatedtime": "03/04/2020 02:37:24",
+			"lastupdatedtime": "03/04/2020 08:52:24",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2280",
-			"confirmed": "2543",
+			"active": "2282",
+			"confirmed": "2545",
 			"deaths": "72",
 			"delta": {
 				"active": 0,
@@ -598,7 +598,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 02:37:24",
+			"lastupdatedtime": "03/04/2020 08:52:24",
 			"recovered": "191",
 			"state": "Total"
 		},
@@ -673,8 +673,8 @@
 			"state": "Rajasthan"
 		},
 		{
-			"active": "107",
-			"confirmed": "126",
+			"active": "109",
+			"confirmed": "128",
 			"deaths": "2",
 			"delta": {
 				"active": 0,
@@ -682,7 +682,7 @@
 				"deaths": 0,
 				"recovered": 0
 			},
-			"lastupdatedtime": "03/04/2020 02:37:25",
+			"lastupdatedtime": "03/04/2020 08:52:25",
 			"recovered": "17",
 			"state": "Uttar Pradesh"
 		},

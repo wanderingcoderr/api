@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Bihar\n3 deaths in West Bengal\n",
-    "timestamp": 1585748541
-  },
-  {
     "update": "2 recoveries in Kerala\n",
     "timestamp": 1585749587
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 new cases in Uttar Pradesh\n2 new cases in Puducherry\n",
     "timestamp": 1585861723
+  },
+  {
+    "update": "2 new cases in Uttar Pradesh\n",
+    "timestamp": 1585884345
   }
 ]
