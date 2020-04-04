@@ -588,7 +588,7 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "19",
+			"confirmeddelta": "35",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "0",
 			"lastupdatedtime": "04/04/2020 10:27:24",
@@ -598,8 +598,8 @@
 	],
 	"statewise": [
 		{
-			"active": "2812",
-			"confirmed": "3127",
+			"active": "2828",
+			"confirmed": "3143",
 			"deaths": "86",
 			"delta": {
 				"active": 19,
@@ -742,8 +742,8 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "161",
-			"confirmed": "164",
+			"active": "177",
+			"confirmed": "180",
 			"deaths": "1",
 			"delta": {
 				"active": 0,
