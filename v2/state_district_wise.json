@@ -663,10 +663,10 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 84,
+        "confirmed": 91,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -703,10 +703,10 @@
       },
       {
         "district": "Madurai",
-        "confirmed": 15,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -759,10 +759,10 @@
       },
       {
         "district": "Karur",
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -783,10 +783,10 @@
       },
       {
         "district": "Namakkal",
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -878,11 +878,27 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 74,
+        "district": "Cuddalore",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 74
+          "confirmed": 3
+        }
+      },
+      {
+        "district": "Kallakurichi",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 57,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 57
         }
       }
     ]

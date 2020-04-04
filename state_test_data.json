@@ -236,17 +236,17 @@
 		},
 		{
 			"_d2mkx": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
-			"negative": "7622",
+			"negative": "8126",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"peopleinisolation": "",
-			"positive": "286",
+			"positive": "295",
 			"source": "https://dashboard.kerala.gov.in/",
 			"state": "Kerala",
-			"totaltested": "8456",
-			"unconfirmed": "548",
-			"updatedon": "02/04/2020"
+			"totaltested": "9139",
+			"unconfirmed": "718",
+			"updatedon": "04/04/2020"
 		},
 		{
 			"negative": "",
