@@ -251,7 +251,7 @@
     "districtData": [
       {
         "district": "Jaipur",
-        "confirmed": 56,
+        "confirmed": 54,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -267,7 +267,7 @@
       },
       {
         "district": "Bhilwara",
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -275,7 +275,7 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -307,7 +307,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 29,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -533,10 +533,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 98,
+        "confirmed": 151,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 53
         }
       },
       {
@@ -908,10 +908,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 27,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       {
@@ -1025,10 +1025,10 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 8,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1101,14 +1101,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     ]
@@ -2162,7 +2154,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 518,
+        "confirmed": 451,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -588,29 +588,29 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "198",
+			"confirmeddelta": "265",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 17:37:24",
+			"lastupdatedtime": "04/04/2020 17:52:35",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "2985",
-			"confirmed": "3306",
+			"active": "3052",
+			"confirmed": "3373",
 			"deaths": "91",
 			"delta": {
-				"active": 198,
-				"confirmed": 198,
+				"active": 265,
+				"confirmed": 265,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "198",
+			"deltaconfirmed": "265",
 			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 17:37:24",
+			"lastupdatedtime": "04/04/2020 17:52:35",
 			"recovered": "230",
 			"state": "Total",
 			"statecode": "TT"
@@ -664,7 +664,7 @@
 			"deltaconfirmed": "59",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 23:32:32",
+			"lastupdatedtime": "04/04/2020 17:47:37",
 			"recovered": "8",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -724,16 +724,16 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "155",
-			"confirmed": "174",
+			"active": "208",
+			"confirmed": "227",
 			"deaths": "2",
 			"delta": {
-				"active": 0,
-				"confirmed": 0,
+				"active": 53,
+				"confirmed": 53,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "53",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "03/04/2020 23:57:28",
@@ -814,19 +814,19 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "73",
-			"confirmed": "78",
+			"active": "87",
+			"confirmed": "92",
 			"deaths": "2",
 			"delta": {
-				"active": 3,
-				"confirmed": 3,
+				"active": 17,
+				"confirmed": 17,
 				"deaths": 0,
 				"recovered": 0
 			},
-			"deltaconfirmed": "3",
+			"deltaconfirmed": "17",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 14:17:34",
+			"lastupdatedtime": "04/04/2020 17:52:40",
 			"recovered": "3",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
