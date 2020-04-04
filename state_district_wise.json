@@ -217,7 +217,7 @@
   "Rajasthan": {
     "districtData": {
       "Jaipur": {
-        "confirmed": 54,
+        "confirmed": 55,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,7 @@
         }
       },
       "Jodhpur": {
-        "confirmed": 23,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -265,11 +265,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 26,
+      "Dungarpur": {
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Churu": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       "Ajmer": {
@@ -279,15 +286,15 @@
           "confirmed": 0
         }
       },
-      "Alwar": {
-        "confirmed": 4,
+      "Army Camp": {
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
-      "Dungarpur": {
-        "confirmed": 1,
+      "Alwar": {
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -300,11 +307,11 @@
           "confirmed": 0
         }
       },
-      "Churu": {
-        "confirmed": 9,
+      "Unknown": {
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 0
         }
       },
       "Bikaner": {
@@ -762,6 +769,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 74,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 74
         }
       }
     }
@@ -1255,6 +1269,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Nainital": {
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 5
+        }
+      },
+      "Haridwar": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -1872,7 +1900,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 451,
+        "confirmed": 371,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
