@@ -392,17 +392,17 @@
 			"updatedon": "02/04/2020"
 		},
 		{
-			"negative": "7220",
+			"negative": "8357",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"peopleinisolation": "",
-			"positive": "133",
+			"positive": "168",
 			"source": "http://www.rajswasthya.nic.in/",
 			"state": "Rajasthan",
-			"totaltested": "7983",
-			"unconfirmed": "630",
-			"updatedon": "02/04/2020"
+			"totaltested": "8852",
+			"unconfirmed": "327",
+			"updatedon": "03/04/2020"
 		},
 		{
 			"negative": "",
