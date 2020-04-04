@@ -66,17 +66,17 @@
 			"updatedon": "02/04/2020"
 		},
 		{
-			"negative": "1591",
+			"negative": "1666",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"peopleinisolation": "",
-			"positive": "24",
-			"source": "https://twitter.com/BiharHealthDept/status/1245686562282549248?s=20",
+			"positive": "31",
+			"source": "https://twitter.com/sanjayjavin/status/1246310268444872710/photo/1",
 			"state": "Bihar",
-			"totaltested": "1618",
-			"unconfirmed": "3",
-			"updatedon": "02/04/2020"
+			"totaltested": "2629",
+			"unconfirmed": "932",
+			"updatedon": "04/04/2020"
 		},
 		{
 			"negative": "98",
