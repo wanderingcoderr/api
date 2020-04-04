@@ -1506,17 +1506,17 @@
         }
       },
       "Surat": {
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ahmadabad": {
-        "confirmed": 43,
+        "confirmed": 45,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 7
         }
       },
       "Vadodara": {
@@ -1714,10 +1714,10 @@
         }
       },
       "Bhagalpur": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Gopalganj": {
@@ -1928,7 +1928,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 334,
+        "confirmed": 330,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
