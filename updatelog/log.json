@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Kerala\n",
-    "timestamp": 1585919515
-  },
-  {
     "update": "3 new cases in Odisha\n",
     "timestamp": 1585920600
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 recoveries in Delhi\n1 recovery in Haryana\n",
     "timestamp": 1586026883
+  },
+  {
+    "update": "3 recoveries in Chandigarh\n",
+    "timestamp": 1586027402
   }
 ]
