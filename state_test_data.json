@@ -418,17 +418,17 @@
 			"updatedon": ""
 		},
 		{
-			"negative": "2559",
+			"negative": "2789",
 			"numicubeds": "",
 			"numisolationbeds": "13323",
 			"numventilators": "3044",
 			"peopleinisolation": "284",
-			"positive": "309",
-			"source": "https://stopcoronatn.in/files/Media_Bulletin_02_04_20_COVID_19_6_PM.pdf",
+			"positive": "411",
+			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-04-20-COVID-19-6-PM.pdf",
 			"state": "Tamil Nadu",
-			"totaltested": "3272",
-			"unconfirmed": "404",
-			"updatedon": "02/04/2020"
+			"totaltested": "3684",
+			"unconfirmed": "484",
+			"updatedon": "03/04/2020"
 		},
 		{
 			"negative": "",
