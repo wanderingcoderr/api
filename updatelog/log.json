@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Andhra Pradesh\n",
-    "timestamp": 1585906447
-  },
-  {
     "update": "1 death in Himachal Pradesh\n",
     "timestamp": 1585914609
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Tamil Nadu\n",
     "timestamp": 1586022090
+  },
+  {
+    "update": "6 deaths in Maharashtra\n",
+    "timestamp": 1586023161
   }
 ]
