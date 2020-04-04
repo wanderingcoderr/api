@@ -1504,7 +1504,7 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1528,7 +1528,7 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 32,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1544,7 +1544,7 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 26,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1577,14 +1577,6 @@
       {
         "district": "Y.S.R.",
         "confirmed": 23,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
