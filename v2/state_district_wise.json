@@ -1733,7 +1733,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 79,
+        "confirmed": 91,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1765,7 +1765,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 34,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,6 +1774,14 @@
       {
         "district": "Morena",
         "confirmed": 22,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Chhindwara",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
