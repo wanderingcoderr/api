@@ -588,18 +588,18 @@
 	],
 	"key_values": [
 		{
-			"confirmeddelta": "345",
+			"confirmeddelta": "366",
 			"counterforautotimeupdate": "645",
 			"deceaseddelta": "5",
-			"lastupdatedtime": "04/04/2020 18:02:24",
+			"lastupdatedtime": "04/04/2020 18:12:33",
 			"recovereddelta": "0",
 			"statesdelta": "0"
 		}
 	],
 	"statewise": [
 		{
-			"active": "3132",
-			"confirmed": "3453",
+			"active": "3153",
+			"confirmed": "3474",
 			"deaths": "91",
 			"delta": {
 				"active": 345,
@@ -610,7 +610,7 @@
 			"deltaconfirmed": "345",
 			"deltadeaths": "5",
 			"deltarecovered": "0",
-			"lastupdatedtime": "04/04/2020 18:02:24",
+			"lastupdatedtime": "04/04/2020 18:12:33",
 			"recovered": "230",
 			"state": "Total",
 			"statecode": "TT"
@@ -670,8 +670,8 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "251",
-			"confirmed": "295",
+			"active": "262",
+			"confirmed": "306",
 			"deaths": "2",
 			"delta": {
 				"active": 0,
@@ -682,7 +682,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/04/2020 19:07:40",
+			"lastupdatedtime": "04/04/2020 18:12:40",
 			"recovered": "42",
 			"state": "Kerala",
 			"statecode": "KL"
@@ -742,8 +742,8 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "177",
-			"confirmed": "180",
+			"active": "187",
+			"confirmed": "190",
 			"deaths": "1",
 			"delta": {
 				"active": 16,

@@ -113,6 +113,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },
@@ -275,7 +283,7 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 7
@@ -331,7 +339,7 @@
       },
       {
         "district": "Army Camp",
-        "confirmed": 18,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -354,11 +362,27 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 10,
+        "district": "Dholpur",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Udaipur",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Bharatpur",
+        "confirmed": 5,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       {
@@ -370,35 +394,11 @@
         }
       },
       {
-        "district": "Jaisalmer",
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Udaipur",
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
         "district": "Dausa",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Bharatpur",
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       },
       {
@@ -2186,7 +2186,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 371,
+        "confirmed": 359,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
