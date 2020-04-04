@@ -286,7 +286,7 @@
           "confirmed": 0
         }
       },
-      "Army Camp": {
+      "Evacuees": {
         "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
@@ -597,17 +597,17 @@
         }
       },
       "Tirunelveli": {
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Tiruppur": {
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Madurai": {
@@ -618,24 +618,24 @@
         }
       },
       "Salem": {
-        "confirmed": 8,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Vellore": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Tiruchirappalli": {
-        "confirmed": 1,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       "Chengalpattu": {
@@ -674,17 +674,17 @@
         }
       },
       "Viluppuram": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Namakkal": {
-        "confirmed": 22,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Namakkal": {
+        "confirmed": 24,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       },
       "Kanniyakumari": {
@@ -702,10 +702,10 @@
         }
       },
       "Theni": {
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Dindigul": {
@@ -737,10 +737,10 @@
         }
       },
       "Ranipet": {
-        "confirmed": 4,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       "Ramanathapuram": {
@@ -751,10 +751,10 @@
         }
       },
       "Thiruvallur": {
-        "confirmed": 1,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       "Nagapattinam": {
@@ -778,11 +778,11 @@
           "confirmed": 2
         }
       },
-      "Unknown": {
-        "confirmed": 57,
+      "Perambalur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 57
+          "confirmed": 1
         }
       }
     }
