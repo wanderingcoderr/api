@@ -358,12 +358,12 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"peopleinisolation": "",
-			"positive": "5",
-			"source": "https://twitter.com/HFWOdisha/status/1245752816200601602?s=20",
+			"positive": "20",
+			"source": "https://twitter.com/HFWOdisha/status/1246135145230303232",
 			"state": "Odisha",
-			"totaltested": "1113",
-			"unconfirmed": "0",
-			"updatedon": "02/04/2020"
+			"totaltested": "1395",
+			"unconfirmed": "267",
+			"updatedon": "03/04/2020"
 		},
 		{
 			"negative": "",
