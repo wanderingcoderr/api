@@ -1283,10 +1283,10 @@
     "districtData": [
       {
         "district": "Amritsar",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1323,10 +1323,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 11
         }
       },
       {
@@ -2186,7 +2186,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 342,
+        "confirmed": 334,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
