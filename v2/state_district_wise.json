@@ -259,7 +259,7 @@
       },
       {
         "district": "Jhunjhunu",
-        "confirmed": 9,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -267,7 +267,7 @@
       },
       {
         "district": "Bhilwara",
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -283,7 +283,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 31,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1725,7 +1725,7 @@
       },
       {
         "district": "Indore",
-        "confirmed": 63,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1757,7 +1757,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 60,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1765,7 +1765,7 @@
       },
       {
         "district": "Morena",
-        "confirmed": 12,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1905,10 +1905,10 @@
     "districtData": [
       {
         "district": "North Goa",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2036,6 +2036,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Golaghat",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
