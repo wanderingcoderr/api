@@ -222,17 +222,17 @@
 			"updatedon": ""
 		},
 		{
-			"negative": "3910",
+			"negative": "4281",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"peopleinisolation": "219",
-			"positive": "124",
-			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/02-04-2020(English).pdf",
+			"positive": "128",
+			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/03-04-2020(English).pdf",
 			"state": "Karnataka",
-			"totaltested": "4181",
-			"unconfirmed": "147",
-			"updatedon": "02/04/2020"
+			"totaltested": "4587",
+			"unconfirmed": "178",
+			"updatedon": "03/04/2020"
 		},
 		{
 			"_d2mkx": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-2nd.pdf",
@@ -457,17 +457,17 @@
 			"updatedon": ""
 		},
 		{
-			"negative": "3264",
+			"negative": "3635",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"peopleinisolation": "",
-			"positive": "121",
+			"positive": "174",
 			"source": "WA circular :/",
 			"state": "Uttar Pradesh",
-			"totaltested": "3583",
-			"unconfirmed": "198",
-			"updatedon": "02/04/2020"
+			"totaltested": "4006",
+			"unconfirmed": "197",
+			"updatedon": "03/04/2020"
 		},
 		{
 			"negative": "554",
