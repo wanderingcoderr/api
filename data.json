@@ -593,6 +593,15 @@
 			"totalconfirmed": "3684",
 			"totaldeceased": "99",
 			"totalrecovered": "286"
+		},
+		{
+			"dailyconfirmed": "605",
+			"dailydeceased": "22",
+			"dailyrecovered": "42",
+			"date": "05 April ",
+			"totalconfirmed": "4289",
+			"totaldeceased": "121",
+			"totalrecovered": "328"
 		}
 	],
 	"statewise": [
@@ -603,7 +612,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 00:10:24",
+			"lastupdatedtime": "06/04/2020 00:11:24",
 			"recovered": "328",
 			"state": "Total",
 			"statecode": "TT"
@@ -735,7 +744,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 00:10:24",
+			"lastupdatedtime": "06/04/2020 00:11:25",
 			"recovered": "21",
 			"state": "Gujarat",
 			"statecode": "GJ"
