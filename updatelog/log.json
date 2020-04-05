@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 recoveries in Kerala\n",
-    "timestamp": 1586004721
-  },
-  {
     "update": "8 new cases in Haryana\n",
     "timestamp": 1586005761
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Chhattisgarh\n",
     "timestamp": 1586098846
+  },
+  {
+    "update": "1 death in Delhi\n44 new cases in Uttar Pradesh\n",
+    "timestamp": 1586102022
   }
 ]

@@ -770,6 +770,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 44,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 44
+        }
       }
     ]
   },
@@ -2441,6 +2449,19 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      }
+    ]
+  },
+  {
+    "state": "Unknown",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 27,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 27
         }
       }
     ]
