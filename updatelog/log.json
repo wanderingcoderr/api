@@ -1,9 +1,5 @@
 [
   {
-    "update": "11 new cases in Kerala\n10 new cases in Andhra Pradesh\n",
-    "timestamp": 1586004220
-  },
-  {
     "update": "8 recoveries in Kerala\n",
     "timestamp": 1586004721
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 recoveries in Maharashtra\n",
     "timestamp": 1586098326
+  },
+  {
+    "update": "1 recovery in Chhattisgarh\n",
+    "timestamp": 1586098846
   }
 ]
