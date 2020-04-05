@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Madhya Pradesh\n",
-    "timestamp": 1586000364
-  },
-  {
     "update": "2 new cases in Rajasthan\n2 deaths in Madhya Pradesh\n",
     "timestamp": 1586000905
   },
@@ -198,5 +194,9 @@
   {
     "update": "58 new cases in Delhi\n",
     "timestamp": 1586094646
+  },
+  {
+    "update": "58 new cases in Maharashtra\n3 new cases in Rajasthan\n",
+    "timestamp": 1586095183
   }
 ]
