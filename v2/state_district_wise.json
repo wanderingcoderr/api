@@ -549,26 +549,26 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 44,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Ghaziabad",
-        "confirmed": 14,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
         "district": "Lucknow",
-        "confirmed": 10,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -589,18 +589,18 @@
       },
       {
         "district": "Varanasi",
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Kanpur Nagar",
-        "confirmed": 7,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -629,18 +629,18 @@
       },
       {
         "district": "Lakhimpur",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Shamli",
-        "confirmed": 6,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -653,10 +653,10 @@
       },
       {
         "district": "Bareilly",
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -725,26 +725,26 @@
       },
       {
         "district": "Hapur",
-        "confirmed": 1,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Ghazipur",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Banda",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -772,11 +772,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 44,
+        "district": "Bara Banki",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 44
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Auraiya",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -1722,10 +1730,10 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 16,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 18
         }
       },
       {
@@ -2449,19 +2457,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 27,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 27
         }
       }
     ]
