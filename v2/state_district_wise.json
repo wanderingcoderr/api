@@ -222,10 +222,10 @@
       },
       {
         "district": "Ranga Reddy",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 232,
+        "confirmed": 227,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 0
         }
       },
       {
@@ -262,6 +262,38 @@
       },
       {
         "district": "Adilabad",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Nirmal",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Nizamabad",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Peddapalli",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Sangareddy",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1908,10 +1940,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 26,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 27
         }
       }
     ]
