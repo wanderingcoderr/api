@@ -1,9 +1,5 @@
 [
   {
-    "update": "7 new cases and 4 recoveries in Uttar Pradesh\n",
-    "timestamp": 1586016772
-  },
-  {
     "update": "1 death in Tamil Nadu\n",
     "timestamp": 1586022090
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Telangana\n6 new cases in Rajasthan\n",
     "timestamp": 1586111007
+  },
+  {
+    "update": "1 death in Punjab\n",
+    "timestamp": 1586111536
   }
 ]
