@@ -331,7 +331,7 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 27,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -354,7 +354,7 @@
         }
       },
       {
-        "district": "Dholpur",
+        "district": "Dhaulpur",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -403,14 +403,6 @@
       },
       {
         "district": "Karauli",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Kurnool",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
