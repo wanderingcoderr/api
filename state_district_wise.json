@@ -1106,10 +1106,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 359,
+        "confirmed": 360,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Nagpur": {
@@ -1162,10 +1162,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 49,
+        "confirmed": 104,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 55
         }
       },
       "Sangli": {
@@ -2082,7 +2082,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 92,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

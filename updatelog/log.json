@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Karnataka\n11 new cases in Odisha\n",
-    "timestamp": 1585937591
-  },
-  {
     "update": "5 new cases in Madhya Pradesh\n",
     "timestamp": 1585938115
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Karnataka\n",
     "timestamp": 1586080394
+  },
+  {
+    "update": "56 new cases in Maharashtra\n",
+    "timestamp": 1586080928
   }
 ]
