@@ -1,7 +1,7 @@
 const daily = require("./states_daily.json");
 const fs = require('fs');
 
-var confirmed_csv = "Date,TT,";
+var confirmed_csv = "date,TT,";
 var recovered_csv;
 var deceased_csv;
 
