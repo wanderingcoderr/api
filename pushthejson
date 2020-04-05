@@ -25,6 +25,7 @@ cp ./data.json ./data_prev.json
 node sheet-to-json_generic.js
 node raw_data-to-state_district_wise_data.js
 node generate_activity_log.js ${BOT_TOKEN}
+node states_daily_to_csv.js
 
 rm ./data_prev.json
 
