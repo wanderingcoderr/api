@@ -256,34 +256,34 @@
 			"updatedon": "05/04/2020"
 		},
 		{
-			"negative": "1666",
+			"negative": "2299",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "31",
-			"source": "https://twitter.com/sanjayjavin/status/1246310268444872710/photo/1",
+			"positive": "32",
+			"source": "https://twitter.com/sanjayjavin/status/1246667952054665216",
 			"source2": "",
 			"state": "Bihar",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "2629",
-			"unconfirmed": "932",
-			"updatedon": "04/04/2020"
+			"totaltested": "3037",
+			"unconfirmed": "706",
+			"updatedon": "05/04/2020"
 		},
 		{
-			"negative": "1250",
+			"negative": "1429",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "106",
-			"source": "https://twitter.com/diprjk/status/1246412229072670721/photo/1",
+			"source": "https://twitter.com/diprjk/status/1246764514135040000",
 			"source2": "",
 			"state": "Jammu and Kashmir",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "1551",
-			"unconfirmed": "195",
-			"updatedon": "04/04/2020"
+			"unconfirmed": "16",
+			"updatedon": "05/04/2020"
 		},
 		{
 			"negative": "11439",
