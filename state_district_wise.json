@@ -206,10 +206,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 257,
+        "confirmed": 251,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 30
+          "confirmed": 24
         }
       }
     }
@@ -224,10 +224,10 @@
         }
       },
       "Jhunjhunu": {
-        "confirmed": 19,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 2
         }
       },
       "Bhilwara": {
@@ -245,10 +245,10 @@
         }
       },
       "Pali": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Sikar": {
@@ -2170,6 +2170,17 @@
     "districtData": {
       "Lohit": {
         "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      }
+    }
+  },
+  "Unknown": {
+    "districtData": {
+      "Unknown": {
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
