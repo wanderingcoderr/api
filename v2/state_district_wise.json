@@ -1278,7 +1278,7 @@
       },
       {
         "district": "Mumbai",
-        "confirmed": 384,
+        "confirmed": 400,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1286,7 +1286,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 14,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1294,7 +1294,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 59,
+        "confirmed": 65,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1302,7 +1302,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 20,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 3
@@ -1365,8 +1365,16 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 46,
+        "district": "Kolhapur",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Gujarat",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1381,7 +1389,7 @@
         }
       },
       {
-        "district": "Kolhapur",
+        "district": "Nashik",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -1389,8 +1397,8 @@
         }
       },
       {
-        "district": "Nashik",
-        "confirmed": 1,
+        "district": "Unknown",
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
