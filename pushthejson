@@ -23,7 +23,6 @@ npm install moment-timezone
 cp ./data.json ./data_prev.json
 
 node sheet-to-json_generic.js
-node sheet-to-json.js
 node raw_data-to-state_district_wise_data.js
 node generate_activity_log.js ${BOT_TOKEN}
 
