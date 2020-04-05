@@ -16,24 +16,24 @@
         }
       },
       "Kasaragod": {
-        "confirmed": 142,
+        "confirmed": 143,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Pathanamthitta": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Kannur": {
-        "confirmed": 50,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Ernakulam": {
@@ -97,13 +97,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 3
         }
       }
     }
@@ -1120,7 +1113,7 @@
         }
       },
       "Mumbai": {
-        "confirmed": 392,
+        "confirmed": 390,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 29
@@ -1134,7 +1127,7 @@
         }
       },
       "Thane": {
-        "confirmed": 50,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1765,7 +1758,7 @@
         "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 0
         }
       }
     }
