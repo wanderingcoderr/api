@@ -1,9 +1,5 @@
 [
   {
-    "update": "75 new cases and 6 recoveries in Telangana\n",
-    "timestamp": 1585925416
-  },
-  {
     "update": "9 recoveries and 2 deaths in Telangana\n1 new case in Haryana\n1 new case in Bihar\n",
     "timestamp": 1585925946
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Maharashtra\n",
     "timestamp": 1586029530
+  },
+  {
+    "update": "34 new cases in Andhra Pradesh\n",
+    "timestamp": 1586066749
   }
 ]

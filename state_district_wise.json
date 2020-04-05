@@ -1092,7 +1092,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 76,
+        "confirmed": 84,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1113,7 +1113,7 @@
         }
       },
       "Thane": {
-        "confirmed": 32,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1141,7 +1141,7 @@
         }
       },
       "Ratnagiri": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1155,7 +1155,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 74,
+        "confirmed": 52,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1190,7 +1190,7 @@
         }
       },
       "Jalgaon": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1205,6 +1205,20 @@
       },
       "Buldana": {
         "confirmed": 6,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Washim": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Hingoli": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1366,10 +1380,10 @@
         }
       },
       "Kurnool": {
-        "confirmed": 4,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       "Anantapur": {
@@ -2047,7 +2061,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 153,
+        "confirmed": 118,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
