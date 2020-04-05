@@ -1326,7 +1326,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 120,
+        "confirmed": 118,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1399,6 +1399,14 @@
       {
         "district": "Latur",
         "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Osmanabad",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
