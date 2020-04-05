@@ -603,19 +603,19 @@
 			"deltaconfirmed": "113",
 			"deltadeaths": "5",
 			"deltarecovered": "8",
-			"lastupdatedtime": "05/04/2020 15:31:24",
+			"lastupdatedtime": "05/04/2020 15:40:23",
 			"recovered": "294",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "605",
-			"confirmed": "691",
+			"active": "604",
+			"confirmed": "690",
 			"deaths": "34",
-			"deltaconfirmed": "56",
+			"deltaconfirmed": "55",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 15:31:28",
+			"lastupdatedtime": "05/04/2020 15:40:25",
 			"recovered": "52",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -825,13 +825,13 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "19",
-			"confirmed": "21",
+			"active": "20",
+			"confirmed": "22",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 00:48:27",
+			"lastupdatedtime": "05/04/2020 15:40:30",
 			"recovered": "2",
 			"state": "Odisha",
 			"statecode": "OR"

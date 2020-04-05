@@ -1262,18 +1262,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 81,
+        "confirmed": 102,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 21
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 360,
+        "confirmed": 388,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 29
         }
       },
       {
@@ -1294,10 +1294,10 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 17,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1310,10 +1310,10 @@
       },
       {
         "district": "Aurangabad",
-        "confirmed": 3,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1334,10 +1334,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 104,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 55
+          "confirmed": 0
         }
       },
       {
@@ -1674,10 +1674,10 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 14,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
