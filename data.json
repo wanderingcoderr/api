@@ -603,7 +603,7 @@
 			"deltaconfirmed": "570",
 			"deltadeaths": "20",
 			"deltarecovered": "35",
-			"lastupdatedtime": "05/04/2020 23:17:26",
+			"lastupdatedtime": "05/04/2020 23:18:25",
 			"recovered": "321",
 			"state": "Total",
 			"statecode": "TT"
@@ -663,7 +663,7 @@
 			"deltaconfirmed": "61",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 23:17:29",
+			"lastupdatedtime": "05/04/2020 23:18:27",
 			"recovered": "33",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -735,7 +735,7 @@
 			"deltaconfirmed": "19",
 			"deltadeaths": "1",
 			"deltarecovered": "8",
-			"lastupdatedtime": "05/04/2020 23:17:30",
+			"lastupdatedtime": "05/04/2020 23:18:30",
 			"recovered": "21",
 			"state": "Gujarat",
 			"statecode": "GJ"

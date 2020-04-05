@@ -198,10 +198,10 @@
     "districtData": [
       {
         "district": "Hyderabad",
-        "confirmed": 36,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       },
       {
@@ -238,10 +238,34 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 288,
+        "confirmed": 232,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 61
+          "confirmed": 5
+        }
+      },
+      {
+        "district": "Warangal Urban",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Vikarabad",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      {
+        "district": "Adilabad",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]

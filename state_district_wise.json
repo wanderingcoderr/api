@@ -171,10 +171,10 @@
   "Telangana": {
     "districtData": {
       "Hyderabad": {
-        "confirmed": 36,
+        "confirmed": 87,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       },
       "Karimnagar": {
@@ -206,10 +206,31 @@
         }
       },
       "Unknown": {
-        "confirmed": 288,
+        "confirmed": 232,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 61
+          "confirmed": 5
+        }
+      },
+      "Warangal Urban": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Vikarabad": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Adilabad": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
