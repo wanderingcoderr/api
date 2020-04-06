@@ -431,10 +431,10 @@
   "Haryana": {
     "districtData": {
       "Gurugram": {
-        "confirmed": 31,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Faridabad": {
@@ -533,6 +533,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      "Unknown": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     }
@@ -2303,7 +2310,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 330,
+        "confirmed": 321,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

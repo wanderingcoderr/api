@@ -496,10 +496,10 @@
     "districtData": [
       {
         "district": "Gurugram",
-        "confirmed": 31,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -612,6 +612,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       }
     ]
@@ -2647,7 +2655,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 330,
+        "confirmed": 321,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
