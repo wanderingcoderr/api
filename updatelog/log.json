@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Tamil Nadu\n",
-    "timestamp": 1586026349
-  },
-  {
     "update": "8 recoveries in Delhi\n1 recovery in Haryana\n",
     "timestamp": 1586026883
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Rajasthan\n",
     "timestamp": 1586153040
+  },
+  {
+    "update": "14 new cases in Andhra Pradesh\n",
+    "timestamp": 1586153381
   }
 ]
