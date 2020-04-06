@@ -606,14 +606,14 @@
 	],
 	"statewise": [
 		{
-			"active": "4267",
+			"active": "4260",
 			"confirmed": "4778",
 			"deaths": "136",
 			"deltaconfirmed": "488",
 			"deltadeaths": "15",
-			"deltarecovered": "46",
-			"lastupdatedtime": "06/04/2020 23:40:24",
-			"recovered": "375",
+			"deltarecovered": "53",
+			"lastupdatedtime": "06/04/2020 23:54:32",
+			"recovered": "382",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -858,14 +858,14 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "11",
+			"active": "4",
 			"confirmed": "14",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/03/2020 11:52:25",
-			"recovered": "3",
+			"deltarecovered": "7",
+			"lastupdatedtime": "06/04/2020 23:54:41",
+			"recovered": "10",
 			"state": "Ladakh",
 			"statecode": "LA"
 		},
