@@ -404,6 +404,21 @@
 			"totaltested": "16008",
 			"unconfirmed": "",
 			"updatedon": "05/04/2020"
+		},
+		{
+			"negative": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "868",
+			"source": "",
+			"source2": "",
+			"state": "Maharashtra",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "17563",
+			"unconfirmed": "",
+			"updatedon": "06/04/2020"
 		}
 	]
 }
