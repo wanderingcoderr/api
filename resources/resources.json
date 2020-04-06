@@ -12185,6 +12185,87 @@
 			"nameoftheorganisation": "Keerthi Catering, Karalimukku",
 			"phonenumber": "9605206907",
 			"state": "Kerala"
+		},
+		{
+			"category": "Ambulance",
+			"city": "Shillong",
+			"contact": "https://sbsa.org.in",
+			"descriptionandorserviceprovided": "We can provide cooked food, ration, essential supplies, all sort of data from North Eastern part of India",
+			"nameoftheorganisation": "Shillong Bengalee Students Association",
+			"phonenumber": "9089723490",
+			"state": ""
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Rajkot",
+			"contact": "http://pdumcrajkot.org/ContactUs.aspx",
+			"descriptionandorserviceprovided": "Testing of covid 19",
+			"nameoftheorganisation": "Government",
+			"phonenumber": "2812458337",
+			"state": ""
+		},
+		{
+			"category": "Free Food",
+			"city": "Hyderabad",
+			"contact": "https://www.akshayapatra.org",
+			"descriptionandorserviceprovided": "They are providing free food and ration ",
+			"nameoftheorganisation": "Akshaya Patra foundation, narsingi",
+			"phonenumber": "040 40031456",
+			"state": ""
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Secunderabad",
+			"contact": "https://www.gandhihospital.in",
+			"descriptionandorserviceprovided": "Covid -19 testing.",
+			"nameoftheorganisation": "Gandhi medical college",
+			"phonenumber": "040 27502742",
+			"state": ""
+		},
+		{
+			"category": "Hospitals and Centers",
+			"city": "Kurnool",
+			"contact": "http://gghknl.com",
+			"descriptionandorserviceprovided": "Covid -19 treatment.",
+			"nameoftheorganisation": "Govt General hospital ",
+			"phonenumber": "08518255422",
+			"state": ""
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Ahmedabad",
+			"contact": "http://bjmcabd.edu.in",
+			"descriptionandorserviceprovided": "Covid -19 testing",
+			"nameoftheorganisation": "B J medical college",
+			"phonenumber": "07922680074",
+			"state": ""
+		},
+		{
+			"category": "Community Kitchen",
+			"city": "Amritsar",
+			"contact": "https://bhaikanhaiyacharity.com",
+			"descriptionandorserviceprovided": "Provides free food",
+			"nameoftheorganisation": "Guru langar ",
+			"phonenumber": "1642262012",
+			"state": ""
+		},
+		{
+			"category": "Free Food",
+			"city": "Latur",
+			"contact": "https://www.facebook.com/Karvaan-223800731776351/",
+			"descriptionandorserviceprovided": "Working together with the local authorities, we are trying to provide as many dry ration kits as possible. Have donated 200 kits so far ",
+			"nameoftheorganisation": "Karvaan foundation, udgir",
+			"phonenumber": "9158010005",
+			"state": ""
+		},
+		{
+			"category": "Mental well being and Emotional support",
+			"city": "Nagpur",
+			"contact": "https://vruksh.org/ctfindia/",
+			"descriptionandorserviceprovided": "\"Call for volunteers to help on ground. If you would like to join the bandwagon, please sign up here on the given website. 27/03 Update: 1. Communications team is working on positive messaging and outreach. 2. Telemedicine team is building an app with a pool of doctors. 3. Set up a Resources Pool for Medical supplies. 4. Onboarding volunteers for different roles. 5. Working on a food app for supporting local restaurants. 6. Covid Accelerator project for scaling prototypes. 7. Mental Health Initiative for supporting people. 8. Centralized Kitchen in Mumbai (in progress)\"",
+			"nameoftheorganisation": "Vruksh",
+			"phonenumber": "9049200723",
+			"state": ""
 		}
 	]
 }
