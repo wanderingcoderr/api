@@ -1204,7 +1204,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 122,
+        "confirmed": 119,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 19
@@ -1232,7 +1232,7 @@
         }
       },
       "Ahmadnagar": {
-        "confirmed": 21,
+        "confirmed": 22,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
@@ -1246,7 +1246,7 @@
         }
       },
       "Aurangabad": {
-        "confirmed": 5,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
