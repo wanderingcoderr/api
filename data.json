@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "3851",
-			"confirmed": "4297",
+			"active": "3852",
+			"confirmed": "4298",
 			"deaths": "118",
-			"deltaconfirmed": "8",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 09:53:27",
+			"lastupdatedtime": "06/04/2020 10:02:27",
 			"recovered": "328",
 			"state": "Total",
 			"statecode": "TT"
@@ -696,7 +696,7 @@
 			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 09:53:28",
+			"lastupdatedtime": "06/04/2020 09:54:29",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -930,13 +930,13 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "3",
-			"confirmed": "3",
+			"active": "4",
+			"confirmed": "4",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "05/04/2020 14:04:29",
+			"lastupdatedtime": "06/04/2020 10:02:32",
 			"recovered": "0",
 			"state": "Jharkhand",
 			"statecode": "JH"
