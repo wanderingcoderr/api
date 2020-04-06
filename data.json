@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4040",
-			"confirmed": "4502",
+			"active": "4081",
+			"confirmed": "4543",
 			"deaths": "125",
-			"deltaconfirmed": "213",
+			"deltaconfirmed": "254",
 			"deltadeaths": "4",
 			"deltarecovered": "8",
-			"lastupdatedtime": "06/04/2020 18:14:27",
+			"lastupdatedtime": "06/04/2020 18:43:24",
 			"recovered": "337",
 			"state": "Total",
 			"statecode": "TT"
@@ -702,13 +702,13 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "258",
-			"confirmed": "266",
+			"active": "295",
+			"confirmed": "303",
 			"deaths": "3",
-			"deltaconfirmed": "14",
+			"deltaconfirmed": "51",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 15:22:24",
+			"lastupdatedtime": "06/04/2020 18:43:25",
 			"recovered": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -822,13 +822,13 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "23",
-			"confirmed": "27",
+			"active": "27",
+			"confirmed": "31",
 			"deaths": "0",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 12:05:32",
+			"lastupdatedtime": "06/04/2020 18:43:26",
 			"recovered": "4",
 			"state": "Uttarakhand",
 			"statecode": "UT"

@@ -935,10 +935,10 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 112,
+        "confirmed": 113,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 14
+          "confirmed": 15
         }
       },
       {
@@ -1039,18 +1039,18 @@
       },
       {
         "district": "Tiruvannamalai",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Viluppuram",
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1103,10 +1103,10 @@
       },
       {
         "district": "Tirupathur",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1187,14 +1187,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 4
         }
       }
     ]
@@ -1720,18 +1712,18 @@
     "districtData": [
       {
         "district": "S.P.S. Nellore",
-        "confirmed": 34,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
         "district": "Prakasam",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1752,10 +1744,10 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1776,10 +1768,10 @@
       },
       {
         "district": "Kurnool",
-        "confirmed": 56,
+        "confirmed": 74,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 21
         }
       },
       {
@@ -1792,18 +1784,18 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 16,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         }
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 23,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       }
     ]
@@ -1857,6 +1849,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 4
         }
       }
     ]
@@ -2623,7 +2623,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 512,
+        "confirmed": 471,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
