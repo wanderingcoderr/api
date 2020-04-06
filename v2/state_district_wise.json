@@ -339,7 +339,7 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 22,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -395,7 +395,7 @@
       },
       {
         "district": "Evacuees",
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -844,8 +844,16 @@
         }
       },
       {
+        "district": "Hathras",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
         "district": "Hatras",
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1236,7 +1244,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 58,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1267,16 +1275,8 @@
         }
       },
       {
-        "district": "Shopian",
+        "district": "Shupiyan",
         "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Kashmir",
-        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
