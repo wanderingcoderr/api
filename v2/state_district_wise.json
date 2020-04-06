@@ -2556,18 +2556,5 @@
         }
       }
     ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      }
-    ]
   }
 ]
