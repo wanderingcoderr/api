@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases in Karnataka\n",
-    "timestamp": 1586092063
-  },
-  {
     "update": "86 new cases in Tamil Nadu\n",
     "timestamp": 1586092589
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 recoveries in Tamil Nadu\n6 recoveries in Bihar\n",
     "timestamp": 1586193315
+  },
+  {
+    "update": "5 new cases in Himachal Pradesh\n",
+    "timestamp": 1586194476
   }
 ]
