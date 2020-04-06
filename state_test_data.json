@@ -106,34 +106,34 @@
 			"updatedon": "02/04/2020"
 		},
 		{
-			"negative": "1954",
+			"negative": "2530",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "193",
-			"source": "https://twitter.com/JansamparkMP/status/1246841187073273857",
+			"positive": "256",
+			"source": "https://twitter.com/JansamparkMP/status/1247180461907955712/photo/2",
 			"source2": "",
 			"state": "Madhya Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "2812",
-			"unconfirmed": "665",
-			"updatedon": "05/04/2020"
+			"totaltested": "3323",
+			"unconfirmed": "537",
+			"updatedon": "06/04/2020"
 		},
 		{
-			"negative": "1236",
+			"negative": "1994",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "37",
-			"source": "https://twitter.com/kbssidhu1961/status/1245680244658339841/photo/1",
+			"positive": "79",
+			"source": "https://twitter.com/kbssidhu1961/status/1247174493841182720",
 			"source2": "",
 			"state": "Punjab",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "1434",
-			"unconfirmed": "161",
-			"updatedon": "02/04/2020"
+			"totaltested": "2384",
+			"unconfirmed": "311",
+			"updatedon": "06/04/2020"
 		},
 		{
 			"negative": "554",
@@ -256,7 +256,7 @@
 			"updatedon": "05/04/2020"
 		},
 		{
-			"negative": "2299",
+			"negative": "2758",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -267,8 +267,8 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "3545",
-			"unconfirmed": "706",
-			"updatedon": "05/04/2020"
+			"unconfirmed": "755",
+			"updatedon": "06/04/2020"
 		},
 		{
 			"negative": "1583",
@@ -361,19 +361,19 @@
 			"updatedon": "05/04/2020"
 		},
 		{
-			"negative": "4796",
+			"negative": "5595",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "278",
+			"positive": "308",
 			"source": "",
 			"source2": "",
 			"state": "Uttar Pradesh",
 			"totalpeopleinquarantine": "3927",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "5255",
+			"totaltested": "6073",
 			"unconfirmed": "179",
-			"updatedon": "05/04/2020"
+			"updatedon": "06/04/2020"
 		},
 		{
 			"negative": "",
