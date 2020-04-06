@@ -15646,7 +15646,7 @@
 			"agebracket": "36",
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "26/03/2020",
 			"detectedcity": "",
 			"detecteddistrict": "Malappuram",
@@ -15658,10 +15658,10 @@
 			"patientnumber": "712",
 			"source1": "https://twitter.com/xpresskerala/status/1243154932452093953?s=19",
 			"source2": "https://www.facebook.com/malappuramcollector/posts/3176047549107330",
-			"source3": "",
+			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-5-1.pdf",
 			"statecode": "KL",
 			"statepatientnumber": "KL-TV-R6",
-			"statuschangedate": "26/03/2020",
+			"statuschangedate": "05/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
