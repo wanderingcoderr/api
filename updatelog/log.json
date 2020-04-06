@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 recoveries in Chandigarh\n",
-    "timestamp": 1586027402
-  },
-  {
     "update": "1 new case in Assam\n1 new case in Odisha\n",
     "timestamp": 1586027935
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 deaths in Andhra Pradesh\n",
     "timestamp": 1586153788
+  },
+  {
+    "update": "1 new case in Uttarakhand\n",
+    "timestamp": 1586154898
   }
 ]
