@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Assam\n1 new case in Odisha\n",
-    "timestamp": 1586027935
-  },
-  {
     "update": "98 new cases in Maharashtra\n",
     "timestamp": 1586028991
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Uttarakhand\n",
     "timestamp": 1586154898
+  },
+  {
+    "update": "1 recovery in Karnataka\n",
+    "timestamp": 1586156020
   }
 ]
