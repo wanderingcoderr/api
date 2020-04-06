@@ -11,14 +11,10 @@ on:
 jobs:
   update-json-data:
     runs-on: ubuntu-latest
+    container: node:10.9
 
     steps:
       - uses: actions/checkout@v1
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
-        timeout-minutes: 9
-        with:
-          node-version: "12.x"
       - name: push
         run: |
            bash ./pushthejson
