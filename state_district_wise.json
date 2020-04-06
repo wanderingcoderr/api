@@ -1835,10 +1835,10 @@
         }
       },
       "Surat": {
-        "confirmed": 18,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 2
+          "confirmed": 3
         }
       },
       "Ahmadabad": {
@@ -2303,7 +2303,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 331,
+        "confirmed": 330,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
