@@ -406,15 +406,15 @@
 			"updatedon": "05/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "15808",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "868",
-			"source": "",
+			"source": "https://www.cnbctv18.com/healthcare/maharashtra-covid-19-tally-mounts-to-868-with-7-fresh-deaths-5634351.htm",
 			"source2": "",
 			"state": "Maharashtra",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "3498",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "17563",
 			"unconfirmed": "",

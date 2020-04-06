@@ -612,7 +612,7 @@
 			"deltaconfirmed": "488",
 			"deltadeaths": "15",
 			"deltarecovered": "46",
-			"lastupdatedtime": "06/04/2020 23:35:28",
+			"lastupdatedtime": "06/04/2020 23:40:24",
 			"recovered": "375",
 			"state": "Total",
 			"statecode": "TT"
@@ -624,7 +624,7 @@
 			"deltaconfirmed": "120",
 			"deltadeaths": "7",
 			"deltarecovered": "14",
-			"lastupdatedtime": "06/04/2020 23:35:30",
+			"lastupdatedtime": "06/04/2020 23:40:25",
 			"recovered": "70",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -1297,6 +1297,14 @@
 			"totalpositivecases": "3554",
 			"totalsamplestested": "89534",
 			"updatetimestamp": "5/4/2020 21:00"
+		},
+		{
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_06April_9PM_IST.pdf",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "4135",
+			"totalsamplestested": "101068",
+			"updatetimestamp": "6/4/2020 21:00"
 		}
 	]
 }
