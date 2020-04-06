@@ -1,9 +1,5 @@
 [
   {
-    "update": "6 recoveries in Kerala\n1 recovery in Jammu and Kashmir\n2 recoveries in Uttarakhand\n",
-    "timestamp": 1586090478
-  },
-  {
     "update": "5 new cases in Karnataka\n",
     "timestamp": 1586092063
   },
@@ -198,5 +194,9 @@
   {
     "update": "13 new cases in Rajasthan\n1 recovery in Manipur\n",
     "timestamp": 1586192731
+  },
+  {
+    "update": "5 recoveries in Tamil Nadu\n6 recoveries in Bihar\n",
+    "timestamp": 1586193315
   }
 ]
