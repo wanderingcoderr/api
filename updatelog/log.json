@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Tamil Nadu\n",
-    "timestamp": 1586073534
-  },
-  {
     "update": "2 deaths in Maharashtra\n4 recoveries in Jharkhand\n",
     "timestamp": 1586074582
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 recoveries in Karnataka\n",
     "timestamp": 1586176478
+  },
+  {
+    "update": "50 new cases in Tamil Nadu\n13 new cases in Kerala\n",
+    "timestamp": 1586177076
   }
 ]
