@@ -1382,18 +1382,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 103,
+        "confirmed": 122,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 19
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 406,
+        "confirmed": 469,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
@@ -1406,7 +1406,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1414,10 +1414,10 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 20,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1454,10 +1454,10 @@
       },
       {
         "district": "Satara",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1542,7 +1542,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 59,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1562,6 +1562,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Palghar",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]
@@ -2027,26 +2035,26 @@
       },
       {
         "district": "Surat",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 53,
+        "confirmed": 64,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
         "district": "Vadodara",
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2067,10 +2075,10 @@
       },
       {
         "district": "Mahesana",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2107,10 +2115,10 @@
       },
       {
         "district": "Patan",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2550,19 +2558,6 @@
       {
         "district": "Lohit",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      }
-    ]
-  },
-  {
-    "state": "Unknown",
-    "districtData": [
-      {
-        "district": "Unknown",
-        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
