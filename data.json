@@ -606,13 +606,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4275",
-			"confirmed": "4759",
+			"active": "4276",
+			"confirmed": "4760",
 			"deaths": "135",
-			"deltaconfirmed": "470",
+			"deltaconfirmed": "471",
 			"deltadeaths": "14",
 			"deltarecovered": "20",
-			"lastupdatedtime": "06/04/2020 22:03:47",
+			"lastupdatedtime": "06/04/2020 22:13:27",
 			"recovered": "349",
 			"state": "Total",
 			"statecode": "TT"
@@ -648,7 +648,7 @@
 			"deltaconfirmed": "22",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 22:03:50",
+			"lastupdatedtime": "06/04/2020 22:04:40",
 			"recovered": "16",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -768,7 +768,7 @@
 			"deltaconfirmed": "20",
 			"deltadeaths": "2",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 22:03:55",
+			"lastupdatedtime": "06/04/2020 22:04:53",
 			"recovered": "29",
 			"state": "Haryana",
 			"statecode": "HR"
@@ -1050,13 +1050,13 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "06/04/2020 22:13:50",
 			"recovered": "0",
 			"state": "Tripura",
 			"statecode": "TR"

@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Uttarakhand\n",
-    "timestamp": 1586089430
-  },
-  {
     "update": "8 new cases in Kerala\n",
     "timestamp": 1586089944
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Delhi\n1 death in Haryana\n",
     "timestamp": 1586190878
+  },
+  {
+    "update": "1 new case in Tripura\n",
+    "timestamp": 1586191475
   }
 ]

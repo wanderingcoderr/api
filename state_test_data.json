@@ -11,8 +11,8 @@
 			"state": "Delhi",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "2621",
-			"unconfirmed": "2621",
+			"totaltested": "3694",
+			"unconfirmed": "3694",
 			"updatedon": "01/04/2020"
 		},
 		{
@@ -166,19 +166,19 @@
 			"updatedon": "03/04/2020"
 		},
 		{
-			"negative": "938",
+			"negative": "1639",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "44",
-			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/BULLETIN%20EVENING03042020.pdf",
+			"positive": "79",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Media%20Bulletin%2006042020Evening.pdf",
 			"source2": "",
 			"state": "Haryana",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "1325",
-			"unconfirmed": "343",
-			"updatedon": "03/04/2020"
+			"totaltested": "2194",
+			"unconfirmed": "476",
+			"updatedon": "06/04/2020"
 		},
 		{
 			"negative": "4281",
@@ -246,14 +246,14 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "278",
-			"source": "WA circular :/",
+			"source": "https://twitter.com/AdityaRajKaul/status/1247180981078863872",
 			"source2": "",
 			"state": "Uttar Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "5255",
 			"unconfirmed": "181",
-			"updatedon": "05/04/2020"
+			"updatedon": "06/04/2020"
 		},
 		{
 			"negative": "2758",
@@ -343,21 +343,6 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "05/04/2020"
-		},
-		{
-			"negative": "2299",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "32",
-			"source": "",
-			"source2": "",
-			"state": "Bihar",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "3037",
-			"unconfirmed": "706",
 			"updatedon": "05/04/2020"
 		},
 		{
