@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Rajasthan\n",
-    "timestamp": 1586072496
-  },
-  {
     "update": "2 deaths in Tamil Nadu\n",
     "timestamp": 1586073534
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 deaths in West Bengal\n",
     "timestamp": 1586175859
+  },
+  {
+    "update": "8 recoveries in Karnataka\n",
+    "timestamp": 1586176478
   }
 ]
