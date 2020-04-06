@@ -1,9 +1,5 @@
 [
   {
-    "update": "34 new cases in Andhra Pradesh\n",
-    "timestamp": 1586066749
-  },
-  {
     "update": "14 new cases in Gujarat\n",
     "timestamp": 1586068317
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases in Karnataka\n",
     "timestamp": 1586163544
+  },
+  {
+    "update": "1 death in Andhra Pradesh\n1 new case in Dadra and Nagar Haveli\n",
+    "timestamp": 1586166709
   }
 ]
