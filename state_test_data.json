@@ -419,6 +419,21 @@
 			"totaltested": "17563",
 			"unconfirmed": "",
 			"updatedon": "06/04/2020"
+		},
+		{
+			"negative": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "West Bengal",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1301",
+			"unconfirmed": "",
+			"updatedon": "06/04/2020"
 		}
 	]
 }
