@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Chandigarh\n",
-    "timestamp": 1586103082
-  },
-  {
     "update": "30 new cases in Telangana\n1 death in Uttar Pradesh\n6 new cases in Rajasthan\n6 new cases and 4 recoveries in Gujarat\n",
     "timestamp": 1586106538
   },
@@ -198,5 +194,9 @@
   {
     "update": "23 new cases in Haryana\n",
     "timestamp": 1586247296
+  },
+  {
+    "update": "1 new case in Odisha\n",
+    "timestamp": 1586247839
   }
 ]
