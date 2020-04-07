@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Uttarakhand\n",
-    "timestamp": 1586154898
-  },
-  {
     "update": "1 recovery in Karnataka\n",
     "timestamp": 1586156020
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 deaths in Maharashtra\n6 recoveries in Tamil Nadu\n1 recovery in Chhattisgarh\n",
     "timestamp": 1586268835
+  },
+  {
+    "update": "12 recoveries in Telangana\n",
+    "timestamp": 1586269441
   }
 ]
