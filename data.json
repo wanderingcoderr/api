@@ -615,13 +615,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4664",
-			"confirmed": "5247",
+			"active": "4728",
+			"confirmed": "5311",
 			"deaths": "150",
-			"deltaconfirmed": "469",
+			"deltaconfirmed": "533",
 			"deltadeaths": "16",
 			"deltarecovered": "39",
-			"lastupdatedtime": "07/04/2020 21:54:27",
+			"lastupdatedtime": "07/04/2020 22:13:24",
 			"recovered": "433",
 			"state": "Total",
 			"statecode": "TT"
@@ -687,25 +687,25 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "281",
-			"confirmed": "305",
+			"active": "308",
+			"confirmed": "332",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "27",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 17:36:28",
+			"lastupdatedtime": "07/04/2020 22:13:26",
 			"recovered": "21",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
 		},
 		{
-			"active": "301",
-			"confirmed": "328",
+			"active": "316",
+			"confirmed": "343",
 			"deaths": "2",
-			"deltaconfirmed": "27",
+			"deltaconfirmed": "42",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 19:24:39",
+			"lastupdatedtime": "07/04/2020 22:13:27",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -723,13 +723,13 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "239",
-			"confirmed": "268",
+			"active": "261",
+			"confirmed": "290",
 			"deaths": "18",
-			"deltaconfirmed": "12",
+			"deltaconfirmed": "34",
 			"deltadeaths": "3",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 13:04:35",
+			"lastupdatedtime": "07/04/2020 22:13:29",
 			"recovered": "11",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"

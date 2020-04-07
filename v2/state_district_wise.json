@@ -315,10 +315,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 103,
+        "confirmed": 106,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 3
+          "confirmed": 6
         }
       },
       {
@@ -435,18 +435,18 @@
       },
       {
         "district": "Bharatpur",
-        "confirmed": 5,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Bikaner",
-        "confirmed": 11,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -483,10 +483,10 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 13
         }
       },
       {
@@ -929,6 +929,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 27,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 27
         }
       }
     ]
@@ -2341,10 +2349,10 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 73,
+        "confirmed": 85,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 12
+          "confirmed": 24
         }
       },
       {
@@ -2357,10 +2365,10 @@
       },
       {
         "district": "Ujjain",
-        "confirmed": 8,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -2429,10 +2437,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 1,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       }
     ]
@@ -2772,7 +2780,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 152,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

@@ -1,9 +1,5 @@
 [
   {
-    "update": "27 new cases in Uttar Pradesh\n3 new cases in Jammu and Kashmir\n",
-    "timestamp": 1586174819
-  },
-  {
     "update": "20 new cases in Delhi\n",
     "timestamp": 1586175283
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 recoveries in Kerala\n10 new cases in Andhra Pradesh\n",
     "timestamp": 1586276639
+  },
+  {
+    "update": "27 new cases in Uttar Pradesh\n15 new cases in Rajasthan\n22 new cases in Madhya Pradesh\n",
+    "timestamp": 1586277845
   }
 ]
