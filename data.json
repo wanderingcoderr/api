@@ -621,7 +621,7 @@
 			"deltaconfirmed": "573",
 			"deltadeaths": "23",
 			"deltarecovered": "61",
-			"lastupdatedtime": "08/04/2020 00:03:24",
+			"lastupdatedtime": "08/04/2020 00:04:24",
 			"recovered": "455",
 			"state": "Total",
 			"statecode": "TT"
@@ -849,7 +849,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 00:03:26",
+			"lastupdatedtime": "08/04/2020 00:04:27",
 			"recovered": "0",
 			"state": "Assam",
 			"statecode": "AS"
@@ -873,7 +873,7 @@
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 00:03:27",
+			"lastupdatedtime": "08/04/2020 00:04:28",
 			"recovered": "1",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
