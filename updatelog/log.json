@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 deaths in West Bengal\n",
-    "timestamp": 1586175859
-  },
-  {
     "update": "8 recoveries in Karnataka\n",
     "timestamp": 1586176478
   },
@@ -198,5 +194,9 @@
   {
     "update": "26 new cases in Delhi\n10 recoveries and 3 deaths in Madhya Pradesh\n",
     "timestamp": 1586278442
+  },
+  {
+    "update": "2 recoveries in Chandigarh\n",
+    "timestamp": 1586279104
   }
 ]
