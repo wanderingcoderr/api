@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 recoveries in Kerala\n11 new cases in Haryana\n",
-    "timestamp": 1586179454
-  },
-  {
     "update": "11 new cases in Punjab\n",
     "timestamp": 1586180661
   },
@@ -198,5 +194,9 @@
   {
     "update": "10 recoveries in Punjab\n4 new cases in Bihar\n",
     "timestamp": 1586283842
+  },
+  {
+    "update": "1 new case in Assam\n9 new cases in Himachal Pradesh\n",
+    "timestamp": 1586284453
   }
 ]

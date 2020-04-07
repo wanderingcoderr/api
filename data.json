@@ -615,13 +615,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4729",
-			"confirmed": "5341",
+			"active": "4739",
+			"confirmed": "5351",
 			"deaths": "157",
-			"deltaconfirmed": "563",
+			"deltaconfirmed": "573",
 			"deltadeaths": "23",
 			"deltarecovered": "61",
-			"lastupdatedtime": "07/04/2020 23:53:23",
+			"lastupdatedtime": "08/04/2020 00:03:24",
 			"recovered": "455",
 			"state": "Total",
 			"statecode": "TT"
@@ -789,7 +789,7 @@
 			"deltaconfirmed": "20",
 			"deltadeaths": "1",
 			"deltarecovered": "10",
-			"lastupdatedtime": "07/04/2020 23:53:25",
+			"lastupdatedtime": "07/04/2020 23:54:26",
 			"recovered": "14",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -825,7 +825,7 @@
 			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "6",
-			"lastupdatedtime": "07/04/2020 23:53:27",
+			"lastupdatedtime": "07/04/2020 23:54:26",
 			"recovered": "15",
 			"state": "Bihar",
 			"statecode": "BR"
@@ -843,13 +843,13 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "27",
-			"confirmed": "27",
+			"active": "28",
+			"confirmed": "28",
 			"deaths": "0",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 11:04:34",
+			"lastupdatedtime": "08/04/2020 00:03:26",
 			"recovered": "0",
 			"state": "Assam",
 			"statecode": "AS"
@@ -867,13 +867,13 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "15",
-			"confirmed": "18",
+			"active": "24",
+			"confirmed": "27",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "9",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "06/04/2020 23:04:27",
+			"lastupdatedtime": "08/04/2020 00:03:27",
 			"recovered": "1",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
