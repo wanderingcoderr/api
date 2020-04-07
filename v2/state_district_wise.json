@@ -2285,10 +2285,10 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 61,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -2716,7 +2716,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 168,
+        "confirmed": 156,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
