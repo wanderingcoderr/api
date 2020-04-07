@@ -1566,7 +1566,7 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1574,7 +1574,7 @@
       },
       {
         "district": "Osmanabad",
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1613,7 +1613,7 @@
         }
       },
       {
-        "district": "Palghar",
+        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

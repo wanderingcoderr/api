@@ -1365,14 +1365,14 @@
         }
       },
       "Nashik": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Osmanabad": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1406,7 +1406,7 @@
           "confirmed": 0
         }
       },
-      "Palghar": {
+      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
