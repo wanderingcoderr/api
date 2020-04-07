@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 new cases in Karnataka\n",
-    "timestamp": 1586163544
-  },
-  {
     "update": "1 death in Andhra Pradesh\n1 new case in Dadra and Nagar Haveli\n",
     "timestamp": 1586166709
   },
@@ -198,5 +194,9 @@
   {
     "update": "73 new cases in Maharashtra\n2 recoveries in Haryana\n",
     "timestamp": 1586272481
+  },
+  {
+    "update": "40 new cases in Telangana\n",
+    "timestamp": 1586274884
   }
 ]
