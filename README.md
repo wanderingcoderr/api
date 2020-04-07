@@ -12,7 +12,11 @@ A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial
 | Travel history                                        | https://api.covid19india.org/travel_history.json      |
 | Raw data                                              | https://api.covid19india.org/raw_data.json            |
 | States Daily changes                                  | https://api.covid19india.org/states_daily.json        |
+| States Daily in csv                                   | http://api.covid19india.org/states_daily_csv/confirmed.csv |
+|                                                       | https://api.covid19india.org/states_daily_csv/deceased.csv |
+|                                                       | https://api.covid19india.org/states_daily_csv/recovered.csv   |
 
+  
 ## Projects Using This API
 
 - [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization)
@@ -25,7 +29,6 @@ A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial
 ## Contribution
 
 - **Development** - We welcome enhancement pull requests and help with solving issues.
-- **Data Operations** - To ensure valid data, active and interested volunteeres from the [community Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24) will be invited to a dedicated data team.
 - **Crowdsource** - Help us collect real-time reliable information coming from different states by reporting via [community Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24).
 
 ## FAQ
