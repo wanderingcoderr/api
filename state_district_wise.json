@@ -1856,10 +1856,10 @@
         }
       },
       "Ahmadabad": {
-        "confirmed": 64,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 13
         }
       },
       "Vadodara": {
@@ -1891,10 +1891,10 @@
         }
       },
       "Bhavnagar": {
-        "confirmed": 13,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Porbandar": {
@@ -1919,10 +1919,10 @@
         }
       },
       "Patan": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       "Chota Udaipur": {
@@ -1944,6 +1944,20 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Anand": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      },
+      "Sabar Kantha": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
@@ -2356,7 +2370,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 211,
+        "confirmed": 192,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
