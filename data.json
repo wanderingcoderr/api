@@ -615,14 +615,14 @@
 	],
 	"statewise": [
 		{
-			"active": "4666",
-			"confirmed": "5237",
+			"active": "4664",
+			"confirmed": "5247",
 			"deaths": "150",
-			"deltaconfirmed": "459",
+			"deltaconfirmed": "469",
 			"deltadeaths": "16",
-			"deltarecovered": "27",
-			"lastupdatedtime": "07/04/2020 21:35:25",
-			"recovered": "421",
+			"deltarecovered": "39",
+			"lastupdatedtime": "07/04/2020 21:53:25",
+			"recovered": "433",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -663,14 +663,14 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "275",
+			"active": "263",
 			"confirmed": "336",
 			"deaths": "2",
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "12",
 			"lastupdatedtime": "06/04/2020 19:24:25",
-			"recovered": "59",
+			"recovered": "71",
 			"state": "Kerala",
 			"statecode": "KL"
 		},
@@ -711,13 +711,13 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "296",
-			"confirmed": "304",
+			"active": "306",
+			"confirmed": "314",
 			"deaths": "3",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "11",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 11:54:39",
+			"lastupdatedtime": "07/04/2020 21:53:28",
 			"recovered": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
