@@ -1,9 +1,5 @@
 [
   {
-    "update": "20 new cases in Delhi\n",
-    "timestamp": 1586175283
-  },
-  {
     "update": "3 deaths in West Bengal\n",
     "timestamp": 1586175859
   },
@@ -198,5 +194,9 @@
   {
     "update": "27 new cases in Uttar Pradesh\n15 new cases in Rajasthan\n22 new cases in Madhya Pradesh\n",
     "timestamp": 1586277845
+  },
+  {
+    "update": "26 new cases in Delhi\n10 recoveries and 3 deaths in Madhya Pradesh\n",
+    "timestamp": 1586278442
   }
 ]

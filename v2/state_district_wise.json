@@ -185,10 +185,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 506,
+        "confirmed": 532,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 25
+          "confirmed": 51
         }
       }
     ]
@@ -2373,10 +2373,10 @@
       },
       {
         "district": "Gwalior",
-        "confirmed": 2,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -2437,10 +2437,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 6,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 5
+          "confirmed": 1
         }
       }
     ]
@@ -2780,7 +2780,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 88,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
