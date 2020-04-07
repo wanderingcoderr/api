@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 298,
+        "confirmed": 296,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 40
@@ -294,6 +294,22 @@
       },
       {
         "district": "Sangareddy",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jagitial",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jogulamba Gadwal",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2437,7 +2453,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Sheopur",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1

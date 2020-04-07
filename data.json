@@ -615,13 +615,13 @@
 	],
 	"statewise": [
 		{
-			"active": "4739",
+			"active": "4738",
 			"confirmed": "5337",
-			"deaths": "153",
+			"deaths": "154",
 			"deltaconfirmed": "559",
-			"deltadeaths": "19",
+			"deltadeaths": "20",
 			"deltarecovered": "51",
-			"lastupdatedtime": "07/04/2020 22:34:24",
+			"lastupdatedtime": "07/04/2020 22:43:24",
 			"recovered": "445",
 			"state": "Total",
 			"statecode": "TT"
@@ -783,13 +783,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "88",
+			"active": "87",
 			"confirmed": "99",
-			"deaths": "7",
+			"deaths": "8",
 			"deltaconfirmed": "20",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 14:04:31",
+			"lastupdatedtime": "07/04/2020 22:43:28",
 			"recovered": "4",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -861,7 +861,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "2",
-			"lastupdatedtime": "07/04/2020 22:34:25",
+			"lastupdatedtime": "07/04/2020 22:35:25",
 			"recovered": "7",
 			"state": "Chandigarh",
 			"statecode": "CH"

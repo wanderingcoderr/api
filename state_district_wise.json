@@ -206,7 +206,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 298,
+        "confirmed": 296,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 40
@@ -255,6 +255,20 @@
         }
       },
       "Sangareddy": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jagitial": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jogulamba Gadwal": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2123,7 +2137,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 2,
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Sheopur": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 1

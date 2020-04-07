@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 recoveries in Karnataka\n",
-    "timestamp": 1586176478
-  },
-  {
     "update": "50 new cases in Tamil Nadu\n13 new cases in Kerala\n",
     "timestamp": 1586177076
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Chandigarh\n",
     "timestamp": 1586279104
+  },
+  {
+    "update": "1 death in Punjab\n",
+    "timestamp": 1586279649
   }
 ]
