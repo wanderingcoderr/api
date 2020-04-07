@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 recoveries in Maharashtra\n",
-    "timestamp": 1586098326
-  },
-  {
     "update": "1 recovery in Chhattisgarh\n",
     "timestamp": 1586098846
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases in Madhya Pradesh\n",
     "timestamp": 1586241257
+  },
+  {
+    "update": "1 recovery in Gujarat\n",
+    "timestamp": 1586241848
   }
 ]
