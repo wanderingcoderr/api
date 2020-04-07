@@ -198,15 +198,15 @@
     "districtData": [
       {
         "district": "Hyderabad",
-        "confirmed": 87,
+        "confirmed": 88,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Karimnagar",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -230,7 +230,7 @@
       },
       {
         "district": "Medchal Malkajgiri",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 296,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 40
+          "confirmed": 38
         }
       },
       {
@@ -262,15 +262,15 @@
       },
       {
         "district": "Adilabad",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Nirmal",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -278,7 +278,7 @@
       },
       {
         "district": "Nizamabad",
-        "confirmed": 1,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -286,7 +286,7 @@
       },
       {
         "district": "Peddapalli",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -310,7 +310,23 @@
       },
       {
         "district": "Jogulamba Gadwal",
-        "confirmed": 1,
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Mahabubnagar",
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Suryapet",
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
