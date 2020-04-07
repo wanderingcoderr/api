@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Andhra Pradesh\n",
-    "timestamp": 1586153788
-  },
-  {
     "update": "1 new case in Uttarakhand\n",
     "timestamp": 1586154898
   },
@@ -198,5 +194,9 @@
   {
     "update": "54 new cases and 2 deaths in Maharashtra\n",
     "timestamp": 1586268317
+  },
+  {
+    "update": "3 deaths in Maharashtra\n6 recoveries in Tamil Nadu\n1 recovery in Chhattisgarh\n",
+    "timestamp": 1586268835
   }
 ]
