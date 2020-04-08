@@ -630,7 +630,7 @@
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 09:43:45",
+			"lastupdatedtime": "08/04/2020 09:44:24",
 			"recovered": "468",
 			"state": "Total",
 			"statecode": "TT"
@@ -690,7 +690,7 @@
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 09:44:00",
+			"lastupdatedtime": "08/04/2020 09:44:24",
 			"recovered": "25",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -1082,7 +1082,7 @@
 	],
 	"tested": [
 		{
-			"_ckd7g": "600",
+			"_cyevm": "600",
 			"source": "Press_Release_ICMR_13March2020.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "5900",
@@ -1091,7 +1091,7 @@
 			"updatetimestamp": "13/3/2020 00:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_18March_6PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "12235",
@@ -1100,7 +1100,7 @@
 			"updatetimestamp": "18/3/2020 18:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_19March_10AM_IST_V2.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "12426",
@@ -1109,7 +1109,7 @@
 			"updatetimestamp": "19/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_19March_6PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "13285",
@@ -1118,7 +1118,7 @@
 			"updatetimestamp": "19/3/2020 18:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_20March_10AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "13486",
@@ -1127,7 +1127,7 @@
 			"updatetimestamp": "20/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_20March_6PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "14514",
@@ -1136,7 +1136,7 @@
 			"updatetimestamp": "20/3/2020 18:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_21March_10AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "14811",
@@ -1145,7 +1145,7 @@
 			"updatetimestamp": "21/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_21March_6PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "16021",
@@ -1154,7 +1154,7 @@
 			"updatetimestamp": "21/3/2020 18:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_22March_10AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "16109",
@@ -1163,7 +1163,7 @@
 			"updatetimestamp": "22/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_22March_6PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "17237",
@@ -1172,7 +1172,7 @@
 			"updatetimestamp": "22/3/2020 18:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_23March_10AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "17493",
@@ -1181,7 +1181,7 @@
 			"updatetimestamp": "23/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_23March_8PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "19817",
@@ -1190,7 +1190,7 @@
 			"updatetimestamp": "23/3/2020 20:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_24March_10AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "19974",
@@ -1199,7 +1199,7 @@
 			"updatetimestamp": "24/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_24March_8PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "21804",
@@ -1208,7 +1208,7 @@
 			"updatetimestamp": "24/3/2020 20:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_25March_10AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "22038",
@@ -1217,7 +1217,7 @@
 			"updatetimestamp": "25/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_25March_8PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "24254",
@@ -1226,7 +1226,7 @@
 			"updatetimestamp": "25/3/2020 20:00"
 		},
 		{
-			"_ckd7g": "0",
+			"_cyevm": "0",
 			"source": "",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "",
@@ -1235,7 +1235,7 @@
 			"updatetimestamp": "26/3/2020 10:00"
 		},
 		{
-			"_ckd7g": "0",
+			"_cyevm": "0",
 			"source": "",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "",
@@ -1244,7 +1244,7 @@
 			"updatetimestamp": "26/3/2020 18:00"
 		},
 		{
-			"_ckd7g": "890",
+			"_cyevm": "890",
 			"source": "ICMR_website_update_27March_9AM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
 			"totalindividualstested": "26798",
@@ -1323,6 +1323,14 @@
 			"totalpositivecases": "4135",
 			"totalsamplestested": "101068",
 			"updatetimestamp": "6/4/2020 21:00"
+		},
+		{
+			"source": "",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "4616",
+			"totalsamplestested": "114015",
+			"updatetimestamp": "7/4/2020 21:00"
 		}
 	]
 }
