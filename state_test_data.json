@@ -674,6 +674,21 @@
 			"totaltested": "4056",
 			"unconfirmed": "272",
 			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "16401",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "363",
+			"source": "http://www.rajswasthya.nic.in/",
+			"source2": "",
+			"state": "Rajasthan",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "17638",
+			"unconfirmed": "874",
+			"updatedon": "08/04/2020"
 		}
 	]
 }
