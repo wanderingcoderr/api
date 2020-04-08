@@ -479,6 +479,36 @@
 			"totaltested": "1289",
 			"unconfirmed": "165",
 			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "16401",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "363",
+			"source": "",
+			"source2": "",
+			"state": "Rajasthan",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "17638",
+			"unconfirmed": "874",
+			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "West Bengal",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1487",
+			"unconfirmed": "",
+			"updatedon": "07/04/2020"
 		}
 	]
 }

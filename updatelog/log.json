@@ -1,9 +1,5 @@
 [
   {
-    "update": "13 new cases in Rajasthan\n1 recovery in Manipur\n",
-    "timestamp": 1586192731
-  },
-  {
     "update": "5 recoveries in Tamil Nadu\n6 recoveries in Bihar\n",
     "timestamp": 1586193315
   },
@@ -198,5 +194,9 @@
   {
     "update": "60 new cases in Maharashtra\n1 new case in Uttarakhand\n",
     "timestamp": 1586337847
+  },
+  {
+    "update": "15 new cases in Rajasthan\n",
+    "timestamp": 1586339648
   }
 ]
