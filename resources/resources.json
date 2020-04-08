@@ -13103,6 +13103,96 @@
 			"nameoftheorganisation": "Midnapore Medical College",
 			"phonenumber": "3222222400",
 			"state": "West Bengal"
+		},
+		{
+			"category": "Free Food",
+			"city": "Noida",
+			"contact": "https://instagram.com/noida_food_relief?igshid=1c9xpa59yglq7",
+			"descriptionandorserviceprovided": "Cooked meals & dry ration packages",
+			"nameoftheorganisation": "Sai Organization ",
+			"phonenumber": "9968234567",
+			"state": ""
+		},
+		{
+			"category": "Accommodation and Shelter Homes",
+			"city": "Hyderabad",
+			"contact": "https://www.secondchanceindia.org/",
+			"descriptionandorserviceprovided": "Provides shelter to homeless",
+			"nameoftheorganisation": "Second chance ",
+			"phonenumber": "08010810850",
+			"state": ""
+		},
+		{
+			"category": "Fire Brigade",
+			"city": "Hyderabad",
+			"contact": "https://fire.telangana.gov.in",
+			"descriptionandorserviceprovided": "Disaster response and fire service",
+			"nameoftheorganisation": "Telangana disaster response ",
+			"phonenumber": "8333923733",
+			"state": ""
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "https://www.ccmb.res.in",
+			"descriptionandorserviceprovided": "CoVID -19 testing lab.",
+			"nameoftheorganisation": "Centre for cellular and molecular biology",
+			"phonenumber": "4027160222",
+			"state": ""
+		},
+		{
+			"category": "Ambulance",
+			"city": "Hyderabad",
+			"contact": "https://www.stanplus.com",
+			"descriptionandorserviceprovided": "Ambulance service ",
+			"nameoftheorganisation": "StanPlus ",
+			"phonenumber": "040 41891299",
+			"state": ""
+		},
+		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Tirupati",
+			"contact": "https://tirupati.cdma.ap.gov.in",
+			"descriptionandorserviceprovided": "It consist of list of vendors,providing home delivery",
+			"nameoftheorganisation": "Tirupati municipal Corporation ",
+			"phonenumber": "9849983062",
+			"state": ""
+		},
+		{
+			"category": "Free Food",
+			"city": "Ahmedabad",
+			"contact": "https://www.mahilahousingtrust.org/",
+			"descriptionandorserviceprovided": "Ration and Sanitation kits",
+			"nameoftheorganisation": "Mahila Housing SEWA Trust",
+			"phonenumber": "9825029281",
+			"state": ""
+		},
+		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Ahmedabad",
+			"contact": "https://ahmedabadcity.gov.in",
+			"descriptionandorserviceprovided": "List of vendors providing home delivery",
+			"nameoftheorganisation": "Amdavad municipal Corporation",
+			"phonenumber": "9726416131",
+			"state": ""
+		},
+		{
+			"category": "Senior Citizen Support",
+			"city": "Kolkata",
+			"contact": "https://www.facebook.com/ushor4you/",
+			"descriptionandorserviceprovided": "Ushor is providing service of delivering essential  along with medicine and groceries  to the people elderly persons staying alone. specially  abled persons. sick person who cannot move out. new born in home. free distribution of ration. free distribution of fresh cooked meal. ",
+			"nameoftheorganisation": "Ushor",
+			"phonenumber": "9831511851\n9831511851\n9062076210",
+			"state": ""
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Navi Mumbai",
+			"contact": "https://www.ketto.org/fundraiser/food4poor",
+			"descriptionandorserviceprovided": "We have been serving 30 40 daily wage workers on a daily basis. We have started facing shortage of funds. Kindly refer the link for campaign.",
+			"nameoftheorganisation": "Food For Poor",
+			"phonenumber": "7977067837",
+			"state": ""
 		}
 	]
 }
