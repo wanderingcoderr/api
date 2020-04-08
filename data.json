@@ -615,23 +615,23 @@
 		{
 			"dailyconfirmed": "573",
 			"dailydeceased": "26",
-			"dailyrecovered": "76",
+			"dailyrecovered": "75",
 			"date": "07 April ",
 			"totalconfirmed": "5351",
 			"totaldeceased": "163",
-			"totalrecovered": "470"
+			"totalrecovered": "469"
 		}
 	],
 	"statewise": [
 		{
-			"active": "4957",
-			"confirmed": "5618",
+			"active": "4985",
+			"confirmed": "5647",
 			"deaths": "170",
-			"deltaconfirmed": "267",
+			"deltaconfirmed": "296",
 			"deltadeaths": "10",
-			"deltarecovered": "21",
-			"lastupdatedtime": "08/04/2020 19:00:25",
-			"recovered": "491",
+			"deltarecovered": "23",
+			"lastupdatedtime": "08/04/2020 19:10:23",
+			"recovered": "492",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -708,10 +708,10 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "308",
-			"confirmed": "332",
+			"active": "337",
+			"confirmed": "361",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "29",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 14:50:25",
@@ -768,14 +768,14 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "134",
+			"active": "133",
 			"confirmed": "167",
 			"deaths": "2",
 			"deltaconfirmed": "24",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 14:40:28",
-			"recovered": "31",
+			"deltarecovered": "1",
+			"lastupdatedtime": "08/04/2020 19:10:25",
+			"recovered": "32",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
@@ -845,7 +845,7 @@
 			"deaths": "0",
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "08/04/2020 18:51:07",
 			"recovered": "5",
 			"state": "Uttarakhand",
