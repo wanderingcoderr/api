@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 new cases in Karnataka\n11 new cases and 3 recoveries in West Bengal\n",
-    "timestamp": 1586246723
-  },
-  {
     "update": "23 new cases in Haryana\n",
     "timestamp": 1586247296
   },
@@ -198,5 +194,9 @@
   {
     "update": "29 new cases in Uttar Pradesh\n1 recovery in Haryana\n",
     "timestamp": 1586353492
+  },
+  {
+    "update": "10 recoveries and 1 death in Uttar Pradesh\n19 new cases in Jammu and Kashmir\n",
+    "timestamp": 1586354070
   }
 ]
