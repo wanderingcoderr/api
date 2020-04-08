@@ -524,6 +524,21 @@
 			"totaltested": "20877",
 			"unconfirmed": "569",
 			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "42",
+			"source": "https://twitter.com/HFWOdisha/status/1247579939206909953",
+			"source2": "",
+			"state": "Odisha",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2441",
+			"unconfirmed": "",
+			"updatedon": "07/04/2020"
 		}
 	]
 }
