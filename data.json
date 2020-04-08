@@ -624,10 +624,10 @@
 	],
 	"statewise": [
 		{
-			"active": "4838",
-			"confirmed": "5480",
+			"active": "4852",
+			"confirmed": "5494",
 			"deaths": "170",
-			"deltaconfirmed": "129",
+			"deltaconfirmed": "143",
 			"deltadeaths": "10",
 			"deltarecovered": "4",
 			"lastupdatedtime": "08/04/2020 16:50:42",
@@ -780,10 +780,10 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "118",
-			"confirmed": "125",
+			"active": "132",
+			"confirmed": "139",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "14",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 00:24:26",
