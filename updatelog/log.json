@@ -1,9 +1,5 @@
 [
   {
-    "update": "14 recoveries in Maharashtra\n",
-    "timestamp": 1586196347
-  },
-  {
     "update": "7 recoveries in Ladakh\n",
     "timestamp": 1586197495
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Punjab\n",
     "timestamp": 1586342679
+  },
+  {
+    "update": "3 deaths in Maharashtra\n",
+    "timestamp": 1586345061
   }
 ]
