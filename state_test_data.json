@@ -436,6 +436,21 @@
 			"updatedon": "06/04/2020"
 		},
 		{
+			"negative": "3125",
+			"numicubeds": "1598",
+			"numisolationbeds": "9492",
+			"numventilators": "993",
+			"positive": "290",
+			"source": "https://twitter.com/JansamparkMP/status/1247554866043473920",
+			"source2": "",
+			"state": "Madhya Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3770",
+			"unconfirmed": "355",
+			"updatedon": "06/04/2020"
+		},
+		{
 			"negative": "1821",
 			"numicubeds": "",
 			"numisolationbeds": "",
