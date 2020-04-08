@@ -434,6 +434,21 @@
 			"totaltested": "1301",
 			"unconfirmed": "",
 			"updatedon": "06/04/2020"
+		},
+		{
+			"negative": "1821",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "141",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_06.04_.2020(1)_.pdf",
+			"source2": "",
+			"state": "Haryana",
+			"totalpeopleinquarantine": "687",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2520",
+			"unconfirmed": "558",
+			"updatedon": "07/04/2020"
 		}
 	]
 }

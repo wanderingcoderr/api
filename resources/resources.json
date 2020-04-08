@@ -1364,7 +1364,7 @@
 			"city": "Alappuzha",
 			"contact": "https://icmr.nic.in/sites/default/files/upload_documents/Govt_COVID19_Testing_Lab_ICMR_Support_29032020_V1.pdf",
 			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "national institute of virology",
+			"nameoftheorganisation": "National institute of virology",
 			"phonenumber": "NA",
 			"state": "Kerala"
 		},
@@ -3317,7 +3317,7 @@
 			"city": "irinjalakuda block panchayath",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "near block office",
+			"nameoftheorganisation": "Near block office",
 			"phonenumber": "NA",
 			"state": "Kerala"
 		},
@@ -3650,7 +3650,7 @@
 			"city": "Kalloopara",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "(Puthesri Junction(Ammu Catering)",
+			"nameoftheorganisation": "Puthesri Junction Ammu Catering",
 			"phonenumber": "9747723792",
 			"state": "Kerala"
 		},
@@ -3695,7 +3695,7 @@
 			"city": "Kalpetta",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "surabhi catering",
+			"nameoftheorganisation": "Surabhi catering",
 			"phonenumber": "9526829810",
 			"state": "Kerala"
 		},
@@ -3704,7 +3704,7 @@
 			"city": "kalpetta",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "hotel centre",
+			"nameoftheorganisation": "Hotel centre",
 			"phonenumber": "8606402371",
 			"state": "Kerala"
 		},
@@ -3758,7 +3758,7 @@
 			"city": "Kangazha",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "pathanadu L.P school",
+			"nameoftheorganisation": "Pathanadu L.P school",
 			"phonenumber": "9847438293",
 			"state": "Kerala"
 		},
@@ -3965,7 +3965,7 @@
 			"city": "Karalam",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "community hall, karalam",
+			"nameoftheorganisation": "Community hall, karalam",
 			"phonenumber": "9744416167",
 			"state": "Kerala"
 		},
@@ -4469,7 +4469,7 @@
 			"city": "Kochi",
 			"contact": "http://www.ernakulam.nic.in",
 			"descriptionandorserviceprovided": "Phone number of District Corona Control Room",
-			"nameoftheorganisation": "`District Corona Control Room",
+			"nameoftheorganisation": "District Corona Control Room",
 			"phonenumber": "04842368802",
 			"state": "Kerala"
 		},
@@ -4604,7 +4604,7 @@
 			"city": "Kodassery",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "kuttichira school,Nayarangadi community hall",
+			"nameoftheorganisation": "Kuttichira school,Nayarangadi community hall",
 			"phonenumber": "9645502093",
 			"state": "Kerala"
 		},
@@ -4613,7 +4613,7 @@
 			"city": "Kodenchery",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "sahakarana bank hotel",
+			"nameoftheorganisation": "Sahakarana bank hotel",
 			"phonenumber": "9446037829",
 			"state": "Kerala"
 		},
@@ -12401,15 +12401,6 @@
 			"nameoftheorganisation": "Odisha Police helpline for goods",
 			"phonenumber": "6742620200",
 			"state": "Odisha"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Multiple",
-			"contact": "https://www.google.com/maps/d/u/0/viewer?mid=1d6xR7a24LtvMkoDMlPDcYHAhY4g9fjVg&ll=21.452471987131748%2C85.6632959927258&z=5",
-			"descriptionandorserviceprovided": "Test Center for covid 19",
-			"nameoftheorganisation": "N/A",
-			"phonenumber": "https://covid.icmr.org.in/index.php/testingfacilities",
-			"state": "PAN India"
 		},
 		{
 			"category": "CoVID-19 Testing Lab",
