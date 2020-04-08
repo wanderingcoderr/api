@@ -693,16 +693,16 @@
 		{
 			"negative": "1885",
 			"numicubeds": "",
-			"numisolationbeds": "",
+			"numisolationbeds": "8649",
 			"numventilators": "",
 			"positive": "153",
 			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2008042020%20evening.pdf",
 			"source2": "",
 			"state": "Haryana",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "545",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "2650",
-			"unconfirmed": "",
+			"unconfirmed": "612",
 			"updatedon": "08/04/2020"
 		}
 	]
