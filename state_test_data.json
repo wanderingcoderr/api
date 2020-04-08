@@ -629,6 +629,21 @@
 			"totaltested": "2937",
 			"unconfirmed": "217",
 			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "10906",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "354",
+			"source": "",
+			"source2": "",
+			"state": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "11986",
+			"unconfirmed": "",
+			"updatedon": ""
 		}
 	]
 }
