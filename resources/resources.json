@@ -595,15 +595,6 @@
 			"state": "Gujarat"
 		},
 		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Ahmedabad",
-			"contact": "https://icmr.nic.in/sites/default/files/upload_documents/Govt_COVID19_Testing_Lab_ICMR_Support_29032020_V1.pdf",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "BJ Medical College",
-			"phonenumber": "7922680074",
-			"state": "Gujarat"
-		},
-		{
 			"category": "Free Food",
 			"city": "Ahmedabad",
 			"contact": "https://www.instagram.com/infoanalytica_foundation/",
@@ -847,15 +838,6 @@
 			"state": "Jharkhand"
 		},
 		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Ranchi",
-			"contact": "https://www.rimsranchi.org/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Rajendra Institute of Medical Sciences",
-			"phonenumber": "6512541533",
-			"state": "Jharkhand"
-		},
-		{
 			"category": "Hospitals and Centers",
 			"city": "Ranchi",
 			"contact": "https://www.rimsranchi.org",
@@ -1049,7 +1031,7 @@
 			"city": "Belgaum",
 			"contact": "http://belagavi.nic.in",
 			"descriptionandorserviceprovided": "Belgaum Corona District Help Line",
-			"nameoftheorganisation": "`Belgaum Corona District Help Line",
+			"nameoftheorganisation": "Belgaum Corona District Help Line",
 			"phonenumber": "08312407290",
 			"state": "Karnataka"
 		},
@@ -1159,15 +1141,6 @@
 			"descriptionandorserviceprovided": "District Corona Help Line",
 			"nameoftheorganisation": "District Corona Help Line",
 			"phonenumber": "08182221010",
-			"state": "Karnataka"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Shimoga",
-			"contact": "https://sims-shimoga.com/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Shimoga Instt. of Medical Sciences, Shivamoga Inst. of Med. Sciences",
-			"phonenumber": "8182229933",
 			"state": "Karnataka"
 		},
 		{

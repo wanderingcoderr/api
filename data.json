@@ -624,10 +624,10 @@
 	],
 	"statewise": [
 		{
-			"active": "4727",
-			"confirmed": "5360",
+			"active": "4742",
+			"confirmed": "5375",
 			"deaths": "165",
-			"deltaconfirmed": "9",
+			"deltaconfirmed": "24",
 			"deltadeaths": "5",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 12:44:24",
@@ -720,10 +720,10 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "306",
-			"confirmed": "314",
+			"active": "321",
+			"confirmed": "329",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "15",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "07/04/2020 21:54:37",

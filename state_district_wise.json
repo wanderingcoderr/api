@@ -1597,10 +1597,10 @@
   "Andhra Pradesh": {
     "districtData": {
       "S.P.S. Nellore": {
-        "confirmed": 43,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Prakasam": {
@@ -1625,10 +1625,10 @@
         }
       },
       "Krishna": {
-        "confirmed": 29,
+        "confirmed": 35,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       "Chittoor": {
@@ -1671,6 +1671,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 3
         }
       }
     }
@@ -2461,10 +2468,10 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 39,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     }
