@@ -106,21 +106,6 @@
 			"updatedon": "02/04/2020"
 		},
 		{
-			"negative": "1954",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "193",
-			"source": "https://twitter.com/JansamparkMP/status/1246841187073273857",
-			"source2": "",
-			"state": "Madhya Pradesh",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "2812",
-			"unconfirmed": "665",
-			"updatedon": "05/04/2020"
-		},
-		{
 			"negative": "1236",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -149,21 +134,6 @@
 			"totaltested": "678",
 			"unconfirmed": "117",
 			"updatedon": "02/04/2020"
-		},
-		{
-			"negative": "3562",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "1761",
-			"positive": "179",
-			"source": "https://gujcovid19.gujarat.gov.in/",
-			"source2": "",
-			"state": "Gujarat",
-			"totalpeopleinquarantine": "12299",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "3972",
-			"unconfirmed": "231",
-			"updatedon": "08/04/2020"
 		},
 		{
 			"negative": "938",
@@ -241,6 +211,36 @@
 			"updatedon": "03/04/2020"
 		},
 		{
+			"negative": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "West Bengal",
+			"totalpeopleinquarantine": "1125",
+			"totalpeoplereleasedfromquarantine": "786",
+			"totaltested": "1042",
+			"unconfirmed": "",
+			"updatedon": "04/04/2020"
+		},
+		{
+			"negative": "1954",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "193",
+			"source": "https://twitter.com/JansamparkMP/status/1246841187073273857",
+			"source2": "",
+			"state": "Madhya Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2812",
+			"unconfirmed": "665",
+			"updatedon": "05/04/2020"
+		},
+		{
 			"negative": "4796",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -299,21 +299,6 @@
 			"totaltested": "12279",
 			"unconfirmed": "580",
 			"updatedon": "05/04/2020"
-		},
-		{
-			"negative": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "West Bengal",
-			"totalpeopleinquarantine": "1125",
-			"totalpeoplereleasedfromquarantine": "786",
-			"totaltested": "1042",
-			"unconfirmed": "",
-			"updatedon": "04/04/2020"
 		},
 		{
 			"negative": "",
@@ -451,6 +436,21 @@
 			"updatedon": "06/04/2020"
 		},
 		{
+			"negative": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "40",
+			"source": "https://twitter.com/HFWOdisha/status/1247579939206909953",
+			"source2": "",
+			"state": "Odisha",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2190",
+			"unconfirmed": "",
+			"updatedon": "07/04/2020"
+		},
+		{
 			"negative": "1821",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -539,6 +539,36 @@
 			"totaltested": "2441",
 			"unconfirmed": "",
 			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "3562",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "1761",
+			"positive": "179",
+			"source": "https://gujcovid19.gujarat.gov.in/",
+			"source2": "",
+			"state": "Gujarat",
+			"totalpeopleinquarantine": "12299",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3972",
+			"unconfirmed": "231",
+			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "4414",
+			"numicubeds": "",
+			"numisolationbeds": "22,049",
+			"numventilators": "3371",
+			"positive": "690",
+			"source": "https://stopcorona.tn.gov.in/",
+			"source2": "",
+			"state": "Tamil Nadu",
+			"totalpeopleinquarantine": "1864",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "5305",
+			"unconfirmed": "",
+			"updatedon": "08/04/2020"
 		}
 	]
 }
