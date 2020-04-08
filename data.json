@@ -633,9 +633,9 @@
 	],
 	"statewise": [
 		{
-			"active": "5231",
+			"active": "5230",
 			"confirmed": "5916",
-			"deaths": "178",
+			"deaths": "179",
 			"deltaconfirmed": "565",
 			"deltadeaths": "18",
 			"deltarecovered": "38",
@@ -801,9 +801,9 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "84",
+			"active": "83",
 			"confirmed": "106",
-			"deaths": "8",
+			"deaths": "9",
 			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
