@@ -501,13 +501,28 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "",
-			"source": "",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_07.04_.2020_.pdf",
 			"source2": "",
 			"state": "West Bengal",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "262",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "1487",
 			"unconfirmed": "",
+			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "19290",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1018",
+			"source": "https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf",
+			"source2": "",
+			"state": "Maharashtra",
+			"totalpeopleinquarantine": "38703",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "20877",
+			"unconfirmed": "569",
 			"updatedon": "07/04/2020"
 		}
 	]
