@@ -65,9 +65,10 @@ data_prev.statewise.forEach(element => {
         full_text = full_text + text + "\n"
         
         total = statewise_new["Total"];
-        tg_full_text = full_text + "\n" + "``` Total cases: "+total.confirmed
-        + "\n" + " Recovered  : "+total.recovered
-        + "\n" + " Deaths     : "+total.deaths+"```";
+        tg_full_text = full_text + "\n"
+            + "``` Total cases: (+" + total.deltaconfirmed + ") " + total.confirmed
+            + "\n" + " Recovered  : (+" + total.deltarecovered + ") " + total.recovered
+            + "\n" + " Deaths     : (+" + total.deltadeaths + ") " + total.deaths + "```";
     }   
 });
 
