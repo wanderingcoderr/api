@@ -541,19 +541,64 @@
 			"updatedon": "07/04/2020"
 		},
 		{
+			"negative": "7308",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "576",
+			"source": "http://health.delhigovt.nic.in/wps/wcm/connect/ed4d3d804dd60b488b60ff982ee7a5c7/HB07A.pdf?MOD=AJPERES&lmod=1435478287&CACHEID=ed4d3d804dd60b488b60ff982ee7a5c7",
+			"source2": "",
+			"state": "Delhi",
+			"totalpeopleinquarantine": "3120",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "9041",
+			"unconfirmed": "1157",
+			"updatedon": "07/04/2020"
+		},
+		{
 			"negative": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "",
-			"source": "http://health.delhigovt.nic.in/wps/wcm/connect/ed4d3d804dd60b488b60ff982ee7a5c7/HB07A.pdf?MOD=AJPERES&lmod=1435478287&CACHEID=ed4d3d804dd60b488b60ff982ee7a5c7",
+			"source": "",
 			"source2": "",
-			"state": "Delhi",
+			"state": "Karnataka",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "3562",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "1761",
+			"positive": "179",
+			"source": "https://gujcovid19.gujarat.gov.in/",
+			"source2": "",
+			"state": "Gujarat",
+			"totalpeopleinquarantine": "12299",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3972",
+			"unconfirmed": "231",
+			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "4414",
+			"numicubeds": "",
+			"numisolationbeds": "22,049",
+			"numventilators": "3371",
+			"positive": "690",
+			"source": "https://stopcorona.tn.gov.in/",
+			"source2": "",
+			"state": "Tamil Nadu",
+			"totalpeopleinquarantine": "1864",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "5305",
+			"unconfirmed": "201",
+			"updatedon": "08/04/2020"
 		}
 	]
 }
