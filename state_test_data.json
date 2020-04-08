@@ -433,7 +433,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "3770",
 			"unconfirmed": "355",
-			"updatedon": "06/04/2020"
+			"updatedon": "07/04/2020"
 		},
 		{
 			"negative": "",
@@ -556,17 +556,17 @@
 			"updatedon": "07/04/2020"
 		},
 		{
-			"negative": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"negative": "5942",
+			"numicubeds": "250",
+			"numisolationbeds": "1540",
+			"numventilators": "130",
+			"positive": "175",
+			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/07-04-2020(English).pdf",
 			"source2": "",
 			"state": "Karnataka",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "6580",
 			"unconfirmed": "",
 			"updatedon": "07/04/2020"
 		},
