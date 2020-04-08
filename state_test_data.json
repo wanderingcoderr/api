@@ -441,13 +441,28 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "141",
-			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_06.04_.2020(1)_.pdf",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2008042020Morning.pdf",
 			"source2": "",
 			"state": "Haryana",
 			"totalpeopleinquarantine": "687",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "2520",
 			"unconfirmed": "558",
+			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "1092",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "32",
+			"source": "",
+			"source2": "",
+			"state": "Uttarakhand",
+			"totalpeopleinquarantine": "176",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1289",
+			"unconfirmed": "165",
 			"updatedon": "07/04/2020"
 		}
 	]

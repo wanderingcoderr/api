@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Tripura\n",
-    "timestamp": 1586191475
-  },
-  {
     "update": "13 new cases in Rajasthan\n1 recovery in Manipur\n",
     "timestamp": 1586192731
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Uttar Pradesh\n1 recovery in Andhra Pradesh\n6 new cases and 3 recoveries in Karnataka\n12 new cases in Haryana\n8 new cases and 2 deaths in West Bengal\n",
     "timestamp": 1586337259
+  },
+  {
+    "update": "60 new cases in Maharashtra\n1 new case in Uttarakhand\n",
+    "timestamp": 1586337847
   }
 ]
