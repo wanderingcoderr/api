@@ -2,38 +2,38 @@
   "Kerala": {
     "districtData": {
       "Thrissur": {
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Alappuzha": {
-        "confirmed": 5,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
-      "Kasaragod": {
-        "confirmed": 157,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Pathanamthitta": {
-        "confirmed": 16,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Kannur": {
-        "confirmed": 58,
+      "Alappuzha": {
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
+        }
+      },
+      "Kasaragod": {
+        "confirmed": 158,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Pathanamthitta": {
+        "confirmed": 17,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
+        }
+      },
+      "Kannur": {
+        "confirmed": 62,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 8
         }
       },
       "Ernakulam": {
@@ -2468,7 +2468,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 265,
+        "confirmed": 256,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

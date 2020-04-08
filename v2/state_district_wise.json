@@ -4,42 +4,42 @@
     "districtData": [
       {
         "district": "Thrissur",
-        "confirmed": 13,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Alappuzha",
-        "confirmed": 5,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 2
         }
       },
       {
-        "district": "Kasaragod",
-        "confirmed": 157,
+        "district": "Alappuzha",
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 4
+        }
+      },
+      {
+        "district": "Kasaragod",
+        "confirmed": 158,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 2
         }
       },
       {
         "district": "Pathanamthitta",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       {
         "district": "Kannur",
-        "confirmed": 58,
+        "confirmed": 62,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 4
+          "confirmed": 8
         }
       },
       {
@@ -2836,7 +2836,7 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 265,
+        "confirmed": 256,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
