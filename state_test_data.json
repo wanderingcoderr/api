@@ -638,12 +638,12 @@
 			"positive": "354",
 			"source": "",
 			"source2": "",
-			"state": "",
-			"totalpeopleinquarantine": "",
+			"state": "Kerala",
+			"totalpeopleinquarantine": "749",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "11986",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "08/04/2020"
 		}
 	]
 }
