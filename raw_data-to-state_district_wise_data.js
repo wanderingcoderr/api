@@ -8,6 +8,7 @@ try {
     const isToday = moment().utcOffset(330).isSame(moment(row.dateannounced, "DD-MM-YYYY"), "day");
     let stateName = row.detectedstate;
       if(!stateName) {
+        return acc;
         stateName = 'Unknown';
       }
     if(!acc[stateName]) {
