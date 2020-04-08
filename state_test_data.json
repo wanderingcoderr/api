@@ -644,6 +644,21 @@
 			"totaltested": "11986",
 			"unconfirmed": "",
 			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "2399",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "42",
+			"source": "https://health.odisha.gov.in/",
+			"source2": "",
+			"state": "Odisha",
+			"totalpeopleinquarantine": "91",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2441",
+			"unconfirmed": "",
+			"updatedon": "08/04/2020"
 		}
 	]
 }
