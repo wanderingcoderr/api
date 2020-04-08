@@ -1,9 +1,5 @@
 [
   {
-    "update": "69 new cases and 1 death in Tamil Nadu\n9 new cases in Kerala\n16 new cases in Jammu and Kashmir\n9 new cases in Punjab\n",
-    "timestamp": 1586265844
-  },
-  {
     "update": "10 new cases in Haryana\n",
     "timestamp": 1586266438
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Bihar\n",
     "timestamp": 1586364253
+  },
+  {
+    "update": "93 new cases and 1 recovery in Delhi\n",
+    "timestamp": 1586364850
   }
 ]
