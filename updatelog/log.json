@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 new cases in Gujarat\n",
-    "timestamp": 1586238248
-  },
-  {
     "update": "23 new cases in Maharashtra\n1 new case in Andhra Pradesh\n",
     "timestamp": 1586240663
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Jammu and Kashmir\n",
     "timestamp": 1586347559
+  },
+  {
+    "update": "48 new cases in Tamil Nadu\n",
+    "timestamp": 1586349242
   }
 ]
