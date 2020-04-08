@@ -1739,10 +1739,10 @@
       },
       {
         "district": "Jalandhar",
-        "confirmed": 6,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2828,10 +2828,10 @@
     "districtData": [
       {
         "district": "Unknown",
-        "confirmed": 529,
+        "confirmed": 528,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 0
         }
       }
     ]
