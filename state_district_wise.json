@@ -1330,10 +1330,10 @@
         }
       },
       "Mumbai": {
-        "confirmed": 642,
+        "confirmed": 702,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 60
         }
       },
       "Nagpur": {
@@ -1484,10 +1484,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 60,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 60
+          "confirmed": 57
         }
       }
     }
@@ -1646,10 +1646,10 @@
         }
       },
       "Guntur": {
-        "confirmed": 41,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       "Kurnool": {
@@ -1678,6 +1678,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 11,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 11
         }
       }
     }
@@ -2468,7 +2475,7 @@
   "Unknown": {
     "districtData": {
       "Unknown": {
-        "confirmed": 341,
+        "confirmed": 265,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

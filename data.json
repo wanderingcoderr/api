@@ -624,11 +624,11 @@
 	],
 	"statewise": [
 		{
-			"active": "4993",
-			"confirmed": "5666",
-			"deaths": "171",
-			"deltaconfirmed": "315",
-			"deltadeaths": "11",
+			"active": "5066",
+			"confirmed": "5742",
+			"deaths": "174",
+			"deltaconfirmed": "391",
+			"deltadeaths": "14",
 			"deltarecovered": "33",
 			"lastupdatedtime": "08/04/2020 19:15:25",
 			"recovered": "502",
@@ -636,11 +636,11 @@
 			"statecode": "TT"
 		},
 		{
-			"active": "930",
-			"confirmed": "1078",
-			"deaths": "69",
-			"deltaconfirmed": "60",
-			"deltadeaths": "5",
+			"active": "984",
+			"confirmed": "1135",
+			"deaths": "72",
+			"deltaconfirmed": "117",
+			"deltadeaths": "8",
 			"deltarecovered": "0",
 			"lastupdatedtime": "08/04/2020 16:50:45",
 			"recovered": "79",
@@ -720,10 +720,10 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "320",
-			"confirmed": "329",
+			"active": "339",
+			"confirmed": "348",
 			"deaths": "3",
-			"deltaconfirmed": "15",
+			"deltaconfirmed": "34",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
 			"lastupdatedtime": "08/04/2020 14:40:25",
