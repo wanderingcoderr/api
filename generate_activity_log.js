@@ -66,9 +66,9 @@ data_prev.statewise.forEach(element => {
         
         total = statewise_new["Total"];
         tg_full_text = full_text + "\n"
-            + "``` Total cases: (+" + total.deltaconfirmed + ") " + total.confirmed
-            + "\n" + " Recovered  : (+" + total.deltarecovered + ") " + total.recovered
-            + "\n" + " Deaths     : (+" + total.deltadeaths + ") " + total.deaths + "```";
+            + "``` Total cases: (↑" + total.deltaconfirmed + ") " + total.confirmed
+            + "\n" + " Recovered  : (↑" + total.deltarecovered + ") " + total.recovered
+            + "\n" + " Deaths     : (↑" + total.deltadeaths + ") " + total.deaths + "```";
     }   
 });
 
@@ -89,10 +89,10 @@ if (full_text!=""){
     console.log(formated_time)
     
 
-    url = "https://api.telegram.org/bot"+BOT_TOKEN+"/sendmessage?parse_mode=Markdown&chat_id=-1001449683810&text=_"
+    url = encodeURI("https://api.telegram.org/bot"+BOT_TOKEN+"/sendmessage?parse_mode=Markdown&chat_id=-1001449683810&text=_"
         +formated_time+"_\n\n"
         +tg_full_text
-        +"\n\n*www.covid19india.org*";
+        +"\n\n*www.covid19india.org*");
     // console.log(url);
     let settings = { method: "Get" };
     fetch(url, settings).then(res => res.json())
