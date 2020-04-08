@@ -4998,7 +4998,7 @@
 			"agebracket": "",
 			"backupnotes": "UK Tourist",
 			"contractedfromwhichpatientsuspected": "P108",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Kochi",
 			"detecteddistrict": "Ernakulam",
@@ -5013,7 +5013,7 @@
 			"source3": "",
 			"statecode": "KL",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020",
+			"statuschangedate": "07/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -5372,7 +5372,7 @@
 			"agebracket": "",
 			"backupnotes": "Palakkad native, returned from UK",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "Hospitalized",
+			"currentstatus": "Recovered",
 			"dateannounced": "20/03/2020",
 			"detectedcity": "Kochi",
 			"detecteddistrict": "Ernakulam",
@@ -5387,7 +5387,7 @@
 			"source3": "http://dhs.kerala.gov.in/wp-content/uploads/2020/03/bule_20032020.pdf",
 			"statecode": "KL",
 			"statepatientnumber": "",
-			"statuschangedate": "20/03/2020",
+			"statuschangedate": "07/04/2020",
 			"typeoftransmission": "Imported"
 		},
 		{
@@ -98778,7 +98778,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -98800,7 +98800,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -98822,7 +98822,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -98844,7 +98844,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -98866,7 +98866,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -98888,7 +98888,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "Imported"
 		},
 		{
 			"agebracket": "",
@@ -98906,11 +98906,11 @@
 			"patientnumber": "4496",
 			"source1": "https://twitter.com/PIBTvpm/status/1247145881775689728",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-6-1.pdf",
-			"source3": "",
+			"source3": "https://www.facebook.com/permalink.php?story_fbid=160965202039983&id=100507158085788",
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98928,11 +98928,11 @@
 			"patientnumber": "4497",
 			"source1": "https://twitter.com/PIBTvpm/status/1247145881775689728",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-6-1.pdf",
-			"source3": "",
+			"source3": "https://www.facebook.com/permalink.php?story_fbid=160965202039983&id=100507158085788",
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98950,11 +98950,11 @@
 			"patientnumber": "4498",
 			"source1": "https://twitter.com/PIBTvpm/status/1247145881775689728",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-6-1.pdf",
-			"source3": "",
+			"source3": "https://www.facebook.com/permalink.php?story_fbid=160965202039983&id=100507158085788",
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": ""
+			"typeoftransmission": "Local"
 		},
 		{
 			"agebracket": "",
@@ -98972,7 +98972,7 @@
 			"patientnumber": "4499",
 			"source1": "https://twitter.com/PIBTvpm/status/1247145881775689728",
 			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-6-1.pdf",
-			"source3": "",
+			"source3": "https://www.facebook.com/permalink.php?story_fbid=160965202039983&id=100507158085788",
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
@@ -99034,7 +99034,7 @@
 			"estimatedonsetdate": "",
 			"gender": "F",
 			"nationality": "",
-			"notes": "Travelled from Delhi",
+			"notes": "Student, Travelled from Delhi in Mangala Lakshadweep Express",
 			"patientnumber": "4502",
 			"source1": "https://twitter.com/PIBTvpm/status/1247145881775689728",
 			"source2": "https://www.thenewsminute.com/article/student-no-symptoms-covid-19-tests-positive-after-19-days-pathanamthitta-121983",
@@ -99042,7 +99042,7 @@
 			"statecode": "KL",
 			"statepatientnumber": "",
 			"statuschangedate": "06/04/2020",
-			"typeoftransmission": "Local"
+			"typeoftransmission": "TBD"
 		},
 		{
 			"agebracket": "",
