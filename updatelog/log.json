@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Gujarat\n",
-    "timestamp": 1586241848
-  },
-  {
     "update": "3 deaths in Madhya Pradesh\n",
     "timestamp": 1586244850
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case and 1 recovery in Uttarakhand\n1 recovery in Himachal Pradesh\n",
     "timestamp": 1586352239
+  },
+  {
+    "update": "49 new cases in Telangana\n12 new cases in Haryana\n5 new cases in Punjab\n",
+    "timestamp": 1586352853
   }
 ]

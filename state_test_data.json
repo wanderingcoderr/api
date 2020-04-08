@@ -614,6 +614,21 @@
 			"totaltested": "4596",
 			"unconfirmed": "465",
 			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "2614",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "106",
+			"source": "https://twitter.com/kbssidhu1961/status/1247878360966901763/photo/1",
+			"source2": "",
+			"state": "Punjab",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2937",
+			"unconfirmed": "217",
+			"updatedon": "08/04/2020"
 		}
 	]
 }
