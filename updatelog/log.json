@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case and 1 recovery in Uttarakhand\n1 recovery in Himachal Pradesh\n",
-    "timestamp": 1586352239
-  },
-  {
     "update": "49 new cases in Telangana\n12 new cases in Haryana\n5 new cases in Punjab\n",
     "timestamp": 1586352853
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 recoveries in Maharashtra\n10 recoveries in Andaman and Nicobar Islands\n",
     "timestamp": 1586456037
+  },
+  {
+    "update": "1 death in Maharashtra\n",
+    "timestamp": 1586462033
   }
 ]

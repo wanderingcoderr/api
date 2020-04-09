@@ -642,25 +642,25 @@
 	],
 	"statewise": [
 		{
-			"active": "5879",
+			"active": "5878",
 			"confirmed": "6725",
-			"deaths": "226",
+			"deaths": "227",
 			"deltaconfirmed": "809",
 			"deltadeaths": "46",
 			"deltarecovered": "55",
-			"lastupdatedtime": "09/04/2020 23:40:24",
+			"lastupdatedtime": "10/04/2020 01:20:24",
 			"recovered": "620",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1142",
+			"active": "1141",
 			"confirmed": "1364",
-			"deaths": "97",
+			"deaths": "98",
 			"deltaconfirmed": "229",
 			"deltadeaths": "25",
 			"deltarecovered": "8",
-			"lastupdatedtime": "09/04/2020 23:40:25",
+			"lastupdatedtime": "10/04/2020 01:20:24",
 			"recovered": "125",
 			"state": "Maharashtra",
 			"statecode": "MH"
