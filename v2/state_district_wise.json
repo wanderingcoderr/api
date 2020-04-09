@@ -1008,7 +1008,7 @@
         "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 49
         }
       }
     ]
@@ -2896,10 +2896,10 @@
       },
       {
         "district": "Dhubri",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
