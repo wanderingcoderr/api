@@ -736,17 +736,17 @@
 			"updatedon": "08/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "17851",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "430",
+			"source": "http://www.rajswasthya.nic.in/",
 			"source2": "",
-			"state": "Uttar Pradesh",
+			"state": "Rajasthan",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "19107",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
 		}
