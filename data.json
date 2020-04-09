@@ -633,13 +633,13 @@
 	],
 	"statewise": [
 		{
-			"active": "5726",
-			"confirmed": "6516",
+			"active": "5777",
+			"confirmed": "6567",
 			"deaths": "196",
-			"deltaconfirmed": "600",
+			"deltaconfirmed": "651",
 			"deltadeaths": "16",
 			"deltarecovered": "29",
-			"lastupdatedtime": "09/04/2020 19:50:24",
+			"lastupdatedtime": "09/04/2020 20:10:24",
 			"recovered": "594",
 			"state": "Total",
 			"statecode": "TT"
@@ -669,13 +669,13 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "639",
-			"confirmed": "669",
+			"active": "690",
+			"confirmed": "720",
 			"deaths": "9",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "51",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 22:20:32",
+			"lastupdatedtime": "09/04/2020 20:10:29",
 			"recovered": "21",
 			"state": "Delhi",
 			"statecode": "DL"
