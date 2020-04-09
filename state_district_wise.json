@@ -1344,7 +1344,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 195,
+        "confirmed": 197,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1365,14 +1365,14 @@
         }
       },
       "Thane": {
-        "confirmed": 90,
+        "confirmed": 92,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 26,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1504,18 +1504,11 @@
           "confirmed": 0
         }
       },
-      "Pune Rural": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 162,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 162
         }
       }
     }
@@ -2253,10 +2246,10 @@
         }
       },
       "Siwan": {
-        "confirmed": 19,
+        "confirmed": 20,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 9
+          "confirmed": 10
         }
       },
       "Nalanda": {
