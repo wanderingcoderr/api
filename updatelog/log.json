@@ -1,9 +1,5 @@
 [
   {
-    "update": "73 new cases in Maharashtra\n2 recoveries in Haryana\n",
-    "timestamp": 1586272481
-  },
-  {
     "update": "40 new cases in Telangana\n",
     "timestamp": 1586274884
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Punjab\n4 new cases and 3 recoveries in West Bengal\n",
     "timestamp": 1586407606
+  },
+  {
+    "update": "30 new cases in Rajasthan\n4 new cases in Bihar\n1 new case in Himachal Pradesh\n1 new case in Chhattisgarh\n1 death in Jharkhand\n",
+    "timestamp": 1586409850
   }
 ]
