@@ -1039,18 +1039,18 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 159,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
         "district": "Erode",
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       {
@@ -1111,10 +1111,10 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 20,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -1263,10 +1263,10 @@
       },
       {
         "district": "Kallakurichi",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1295,10 +1295,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 96,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 96
+          "confirmed": 58
         }
       }
     ]
@@ -1747,10 +1747,10 @@
     "districtData": [
       {
         "district": "Amritsar",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1875,14 +1875,6 @@
       },
       {
         "district": "Sangrur",
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      {
-        "district": "Unknown",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {

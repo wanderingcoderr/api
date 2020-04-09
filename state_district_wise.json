@@ -905,17 +905,17 @@
         }
       },
       "Chennai": {
-        "confirmed": 159,
+        "confirmed": 166,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       "Erode": {
-        "confirmed": 27,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 26
         }
       },
       "Coimbatore": {
@@ -968,10 +968,10 @@
         }
       },
       "Chengalpattu": {
-        "confirmed": 20,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Thanjavur": {
@@ -1101,10 +1101,10 @@
         }
       },
       "Kallakurichi": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Perambalur": {
@@ -1129,10 +1129,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 96,
+        "confirmed": 58,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 96
+          "confirmed": 58
         }
       }
     }
@@ -1523,10 +1523,10 @@
   "Punjab": {
     "districtData": {
       "Amritsar": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -1635,13 +1635,6 @@
         }
       },
       "Sangrur": {
-        "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
-        }
-      },
-      "Unknown": {
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
