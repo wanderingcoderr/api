@@ -1,9 +1,5 @@
 [
   {
-    "update": "25 new cases in Delhi\n",
-    "timestamp": 1586275498
-  },
-  {
     "update": "12 recoveries in Kerala\n10 new cases in Andhra Pradesh\n",
     "timestamp": 1586276639
   },
@@ -198,5 +194,9 @@
   {
     "update": "6 new cases in Madhya Pradesh\n1 death in Karnataka\n2 new cases in Punjab\n",
     "timestamp": 1586410454
+  },
+  {
+    "update": "55 new cases, 1 recovery and 1 death in Gujarat\n7 new cases in Bihar\n",
+    "timestamp": 1586413573
   }
 ]
