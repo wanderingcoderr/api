@@ -1,9 +1,5 @@
 [
   {
-    "update": "10 recoveries in Punjab\n4 new cases in Bihar\n",
-    "timestamp": 1586283842
-  },
-  {
     "update": "1 new case in Assam\n9 new cases in Himachal Pradesh\n",
     "timestamp": 1586284453
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Madhya Pradesh\n",
     "timestamp": 1586430282
+  },
+  {
+    "update": "26 new cases in Jammu and Kashmir\n",
+    "timestamp": 1586431588
   }
 ]
