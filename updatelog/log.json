@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Delhi\n1 death in Jammu and Kashmir\n",
-    "timestamp": 1586282706
-  },
-  {
     "update": "10 recoveries in Punjab\n4 new cases in Bihar\n",
     "timestamp": 1586283842
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Madhya Pradesh\n",
     "timestamp": 1586429650
+  },
+  {
+    "update": "1 death in Madhya Pradesh\n",
+    "timestamp": 1586430282
   }
 ]
