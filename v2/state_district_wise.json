@@ -1542,18 +1542,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 197,
+        "confirmed": 200,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 714,
+        "confirmed": 857,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 143
         }
       },
       {
@@ -1566,10 +1566,10 @@
       },
       {
         "district": "Thane",
-        "confirmed": 92,
+        "confirmed": 93,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1582,18 +1582,18 @@
       },
       {
         "district": "Yavatmal",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Aurangabad",
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1622,10 +1622,10 @@
       },
       {
         "district": "Sindhudurg",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1726,10 +1726,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 162,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 162
+          "confirmed": 10
         }
       }
     ]
