@@ -2573,10 +2573,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 151,
+        "confirmed": 101,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 100
+          "confirmed": 50
         }
       },
       {
