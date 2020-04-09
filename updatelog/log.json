@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Maharashtra\n",
-    "timestamp": 1586326448
-  },
-  {
     "update": "1 death in Karnataka\n",
     "timestamp": 1586330050
   },
@@ -198,5 +194,9 @@
   {
     "update": "6 recoveries in Tamil Nadu\n",
     "timestamp": 1586437484
+  },
+  {
+    "update": "4 recoveries in Punjab\n",
+    "timestamp": 1586438668
   }
 ]
