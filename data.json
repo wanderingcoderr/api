@@ -633,35 +633,35 @@
 		{
 			"dailyconfirmed": "809",
 			"dailydeceased": "46",
-			"dailyrecovered": "37",
+			"dailyrecovered": "55",
 			"date": "09 April ",
 			"totalconfirmed": "6725",
 			"totaldeceased": "229",
-			"totalrecovered": "602"
+			"totalrecovered": "620"
 		}
 	],
 	"statewise": [
 		{
-			"active": "5897",
+			"active": "5879",
 			"confirmed": "6725",
 			"deaths": "226",
 			"deltaconfirmed": "809",
 			"deltadeaths": "46",
-			"deltarecovered": "37",
-			"lastupdatedtime": "09/04/2020 23:30:24",
-			"recovered": "602",
+			"deltarecovered": "55",
+			"lastupdatedtime": "09/04/2020 23:40:24",
+			"recovered": "620",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "1150",
+			"active": "1142",
 			"confirmed": "1364",
 			"deaths": "97",
 			"deltaconfirmed": "229",
 			"deltadeaths": "25",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 23:20:27",
-			"recovered": "117",
+			"deltarecovered": "8",
+			"lastupdatedtime": "09/04/2020 23:40:25",
+			"recovered": "125",
 			"state": "Maharashtra",
 			"statecode": "MH"
 		},
@@ -696,7 +696,7 @@
 			"deltaconfirmed": "18",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 23:30:25",
+			"lastupdatedtime": "09/04/2020 23:35:25",
 			"recovered": "45",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -756,7 +756,7 @@
 			"deltaconfirmed": "70",
 			"deltadeaths": "9",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 23:30:26",
+			"lastupdatedtime": "09/04/2020 23:35:26",
 			"recovered": "25",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
@@ -918,14 +918,14 @@
 			"statecode": "LA"
 		},
 		{
-			"active": "11",
+			"active": "1",
 			"confirmed": "11",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"lastupdatedtime": "30/03/2020 11:27:27",
-			"recovered": "0",
+			"recovered": "10",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN"
 		},
