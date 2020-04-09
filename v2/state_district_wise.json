@@ -2389,6 +2389,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Sirmaur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
       }
     ]
   },
