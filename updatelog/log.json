@@ -1,9 +1,5 @@
 [
   {
-    "update": "15 new cases in Rajasthan\n",
-    "timestamp": 1586339648
-  },
-  {
     "update": "1 new case in Andaman and Nicobar Islands\n",
     "timestamp": 1586341437
   },
@@ -198,5 +194,9 @@
   {
     "update": "51 new cases in Delhi\n",
     "timestamp": 1586443445
+  },
+  {
+    "update": "4 recoveries and 3 deaths in Delhi\n21 new cases in Gujarat\n",
+    "timestamp": 1586444054
   }
 ]
