@@ -632,11 +632,11 @@
 		},
 		{
 			"dailyconfirmed": "737",
-			"dailydeceased": "29",
+			"dailydeceased": "30",
 			"dailyrecovered": "37",
 			"date": "09 April ",
 			"totalconfirmed": "6653",
-			"totaldeceased": "212",
+			"totaldeceased": "213",
 			"totalrecovered": "602"
 		}
 	],
