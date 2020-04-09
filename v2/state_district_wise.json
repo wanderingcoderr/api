@@ -1742,10 +1742,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 10,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 10
+          "confirmed": 59
         }
       }
     ]
