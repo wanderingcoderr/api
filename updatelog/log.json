@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Karnataka\n",
-    "timestamp": 1586330050
-  },
-  {
     "update": "15 new cases in Andhra Pradesh\n",
     "timestamp": 1586336689
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 recoveries in Punjab\n",
     "timestamp": 1586438668
+  },
+  {
+    "update": "9 deaths in Maharashtra\n18 new cases in Telangana\n",
+    "timestamp": 1586439864
   }
 ]
