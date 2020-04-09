@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Assam\n9 new cases in Himachal Pradesh\n",
-    "timestamp": 1586284453
-  },
-  {
     "update": "9 recoveries and 4 deaths in Maharashtra\n",
     "timestamp": 1586285650
   },
@@ -198,5 +194,9 @@
   {
     "update": "26 new cases in Jammu and Kashmir\n",
     "timestamp": 1586431588
+  },
+  {
+    "update": "6 new cases in Karnataka\n7 new cases in Chhattisgarh\n",
+    "timestamp": 1586433249
   }
 ]
