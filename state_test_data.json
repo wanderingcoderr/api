@@ -704,6 +704,36 @@
 			"totaltested": "2650",
 			"unconfirmed": "612",
 			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "162",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "18",
+			"source": "http://chdcovid19.in/",
+			"source2": "",
+			"state": "Chandigarh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "184",
+			"unconfirmed": "",
+			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "6473",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "181",
+			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/08-04-2020(English).pdf",
+			"source2": "",
+			"state": "Karnataka",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "6967",
+			"unconfirmed": "",
+			"updatedon": "08/04/2020"
 		}
 	]
 }
