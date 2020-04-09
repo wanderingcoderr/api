@@ -1912,10 +1912,10 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 27,
+        "confirmed": 38,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 11
         }
       },
       {
@@ -1928,10 +1928,10 @@
       },
       {
         "district": "East Godavari",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1952,10 +1952,10 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 49,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1984,10 +1984,10 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 28,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
