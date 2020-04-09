@@ -633,13 +633,13 @@
 	],
 	"statewise": [
 		{
-			"active": "5221",
-			"confirmed": "5971",
-			"deaths": "182",
-			"deltaconfirmed": "55",
-			"deltadeaths": "2",
+			"active": "5228",
+			"confirmed": "5979",
+			"deaths": "183",
+			"deltaconfirmed": "63",
+			"deltadeaths": "3",
 			"deltarecovered": "3",
-			"lastupdatedtime": "09/04/2020 10:50:28",
+			"lastupdatedtime": "09/04/2020 11:00:29",
 			"recovered": "568",
 			"state": "Total",
 			"statecode": "TT"
@@ -741,25 +741,25 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "292",
-			"confirmed": "341",
+			"active": "298",
+			"confirmed": "347",
 			"deaths": "24",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 21:20:25",
+			"lastupdatedtime": "09/04/2020 11:00:34",
 			"recovered": "25",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
 		},
 		{
-			"active": "148",
+			"active": "147",
 			"confirmed": "181",
-			"deaths": "5",
+			"deaths": "6",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 14:40:25",
+			"lastupdatedtime": "09/04/2020 11:00:36",
 			"recovered": "28",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -801,13 +801,13 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "88",
-			"confirmed": "112",
+			"active": "90",
+			"confirmed": "114",
 			"deaths": "10",
-			"deltaconfirmed": "6",
+			"deltaconfirmed": "8",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 10:16:54",
+			"lastupdatedtime": "09/04/2020 11:00:38",
 			"recovered": "14",
 			"state": "Punjab",
 			"statecode": "PB"
