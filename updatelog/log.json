@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases in Rajasthan\n",
-    "timestamp": 1586319259
-  },
-  {
     "update": "4 new cases in Gujarat\n",
     "timestamp": 1586325240
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Kerala\n2 new cases in Haryana\n",
     "timestamp": 1586435667
+  },
+  {
+    "update": "96 new cases in Tamil Nadu\n9 new cases and 13 recoveries in Kerala\n",
+    "timestamp": 1586436264
   }
 ]

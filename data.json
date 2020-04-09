@@ -633,14 +633,14 @@
 	],
 	"statewise": [
 		{
-			"active": "5524",
-			"confirmed": "6281",
+			"active": "5616",
+			"confirmed": "6386",
 			"deaths": "186",
-			"deltaconfirmed": "365",
+			"deltaconfirmed": "470",
 			"deltadeaths": "6",
-			"deltarecovered": "6",
-			"lastupdatedtime": "09/04/2020 17:35:24",
-			"recovered": "571",
+			"deltarecovered": "19",
+			"lastupdatedtime": "09/04/2020 18:10:31",
+			"recovered": "584",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -657,13 +657,13 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "709",
-			"confirmed": "738",
+			"active": "805",
+			"confirmed": "834",
 			"deaths": "8",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "96",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 18:10:28",
+			"lastupdatedtime": "09/04/2020 18:10:34",
 			"recovered": "21",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -705,14 +705,14 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "262",
-			"confirmed": "348",
+			"active": "258",
+			"confirmed": "357",
 			"deaths": "2",
-			"deltaconfirmed": "3",
+			"deltaconfirmed": "12",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 20:15:28",
-			"recovered": "84",
+			"deltarecovered": "13",
+			"lastupdatedtime": "09/04/2020 18:10:35",
+			"recovered": "97",
 			"state": "Kerala",
 			"statecode": "KL"
 		},
