@@ -958,7 +958,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "09/04/2020"
 		},
 		{
 			"negative": "11469",
@@ -983,8 +983,8 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "1135",
-			"source": "https://twitter.com/Maha_MEDD/status/1248484537216065536, https://drive.google.com/file/d/1EnHn3WjLO2EkLjDRiv7C_B44IY_1HuiX/view",
-			"source2": "",
+			"source": "https://twitter.com/Maha_MEDD/status/1248484537216065536",
+			"source2": "https://drive.google.com/file/d/1EnHn3WjLO2EkLjDRiv7C_B44IY_1HuiX/view",
 			"state": "Maharashtra",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
@@ -1015,8 +1015,8 @@
 			"numisolationbeds": "22049",
 			"numventilators": "3371",
 			"positive": "834",
-			"source": "https://stopcorona.tn.gov.in/, https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin09.04.20-5-Pages-English-173-KB.pdf",
-			"source2": "",
+			"source": "https://stopcorona.tn.gov.in/",
+			"source2": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin09.04.20-5-Pages-English-173-KB.pdf",
 			"state": "Tamil Nadu",
 			"totalpeopleinquarantine": "2042",
 			"totalpeoplereleasedfromquarantine": "",
@@ -1038,7 +1038,23 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "223",
 			"unconfirmed": "4",
-			"updatedon": ""
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "20673",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "520",
+			"source": "https://t.me/c/1428198946/1821",
+			"source2": "",
+			"state": "Rajasthan",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "22324",
+			"unconfirmed": "1131",
+			"updatedon": "10/04/2020"
 		}
 	]
 }
