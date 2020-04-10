@@ -2183,10 +2183,10 @@
       },
       {
         "district": "Puducherry",
-        "confirmed": 4,
+        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     ]
