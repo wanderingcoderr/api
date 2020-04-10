@@ -831,6 +831,54 @@
 			"totaltested": "7613",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "2017",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "156",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%2009042020evening.pdf",
+			"source2": "",
+			"state": "Haryana",
+			"totalpeopleinquarantine": "799",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2964",
+			"unconfirmed": "719",
+			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
 		}
 	]
 }
