@@ -871,8 +871,8 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "868",
-			"source": "https://twitter.com/Maha_MEDD/status/1248156898894811136, https://drive.google.com/file/d/1InVpTI2sfv8N24YVOJVlVUMQ5Z-d8ZRq/view",
-			"source2": "",
+			"source": "https://twitter.com/Maha_MEDD/status/1248156898894811136",
+			"source2": "https://drive.google.com/file/d/1InVpTI2sfv8N24YVOJVlVUMQ5Z-d8ZRq/view",
 			"state": "Maharashtra",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
@@ -961,22 +961,6 @@
 			"updatedon": ""
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Chandigarh",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
-		},
-		{
 			"negative": "11469",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -1039,6 +1023,22 @@
 			"totaltested": "7267",
 			"unconfirmed": "485",
 			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "199",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "19",
+			"source": "http://chdcovid19.in/",
+			"source2": "",
+			"state": "Chandigarh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "223",
+			"unconfirmed": "4",
+			"updatedon": ""
 		}
 	]
 }

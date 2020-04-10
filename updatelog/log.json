@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Jharkhand\n",
-    "timestamp": 1586405070
-  },
-  {
     "update": "1 death in Punjab\n4 new cases and 3 recoveries in West Bengal\n",
     "timestamp": 1586407606
   },
@@ -198,5 +194,9 @@
   {
     "update": "17 recoveries in Tamil Nadu\n",
     "timestamp": 1586524458
+  },
+  {
+    "update": "1 death in Tamil Nadu\n21 new cases and 2 recoveries in Punjab\n",
+    "timestamp": 1586525039
   }
 ]
