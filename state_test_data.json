@@ -871,7 +871,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "868",
-			"source": "https://health.odisha.gov.in/",
+			"source": "https://twitter.com/Maha_MEDD/status/1248156898894811136, https://drive.google.com/file/d/1InVpTI2sfv8N24YVOJVlVUMQ5Z-d8ZRq/view",
 			"source2": "",
 			"state": "Maharashtra",
 			"totalpeopleinquarantine": "",
@@ -887,7 +887,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "48",
-			"source": "n",
+			"source": "https://health.odisha.gov.in/",
 			"source2": "",
 			"state": "Odisha",
 			"totalpeopleinquarantine": "",
@@ -926,6 +926,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "3192",
 			"unconfirmed": "285",
+			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "43",
+			"source": "https://twitter.com/BiharHealthDept/status/1248176830856626176/photo/1",
+			"source2": "",
+			"state": "Bihar",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "4991",
+			"unconfirmed": "394",
 			"updatedon": "09/04/2020"
 		}
 	]
