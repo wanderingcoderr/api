@@ -1215,6 +1215,54 @@
 			"totaltested": "3527",
 			"unconfirmed": "918",
 			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "2972",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "151",
+			"source": "http://pbhealth.gov.in/Media%20bulletin%20-%2010-04-2020.pdf",
+			"source2": "",
+			"state": "Punjab",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3461",
+			"unconfirmed": "338",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "8798",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "433",
+			"source": "",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "9332",
+			"unconfirmed": "101",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Uttarakhand",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": ": 1688",
+			"unconfirmed": "",
+			"updatedon": "10/04/2020"
 		}
 	]
 }
