@@ -817,6 +817,22 @@
 			"updatedon": "09/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
+		},
+		{
 			"negative": "7176",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
