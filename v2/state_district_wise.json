@@ -1630,7 +1630,7 @@
       },
       {
         "district": "Yavatmal",
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1710,7 +1710,7 @@
       },
       {
         "district": "Buldana",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1726,7 +1726,7 @@
       },
       {
         "district": "Osmanabad",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,7 +1774,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2533,18 +2533,18 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 98,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       {
         "district": "Indore",
-        "confirmed": 221,
+        "confirmed": 235,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       {
@@ -2589,18 +2589,18 @@
       },
       {
         "district": "Khargone",
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Barwani",
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2613,10 +2613,10 @@
       },
       {
         "district": "Vidisha",
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -2676,11 +2676,19 @@
         }
       },
       {
-        "district": "Unknown",
-        "confirmed": 40,
+        "district": "Sagar",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 40
+          "confirmed": 1
+        }
+      },
+      {
+        "district": "Shajapur",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     ]

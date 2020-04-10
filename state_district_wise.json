@@ -1421,7 +1421,7 @@
         }
       },
       "Yavatmal": {
-        "confirmed": 5,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1491,7 +1491,7 @@
         }
       },
       "Buldana": {
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1505,7 +1505,7 @@
         }
       },
       "Osmanabad": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1547,7 +1547,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2207,17 +2207,17 @@
         }
       },
       "Bhopal": {
-        "confirmed": 98,
+        "confirmed": 116,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       "Indore": {
-        "confirmed": 221,
+        "confirmed": 235,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       "Ujjain": {
@@ -2256,17 +2256,17 @@
         }
       },
       "Khargone": {
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Barwani": {
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Betul": {
@@ -2277,10 +2277,10 @@
         }
       },
       "Vidisha": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Other Region*": {
@@ -2332,11 +2332,18 @@
           "confirmed": 0
         }
       },
-      "Unknown": {
-        "confirmed": 40,
+      "Sagar": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 40
+          "confirmed": 1
+        }
+      },
+      "Shajapur": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
