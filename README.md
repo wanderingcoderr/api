@@ -1,6 +1,6 @@
 # COVID19-India API
 
-A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial)
+A volunteer-driven database for COVID-19 stats & patient tracing in India
 
 ## API
 
@@ -24,18 +24,18 @@ A volunteer-driven API for COVID-19 stats & patient tracing in India (Unofficial
 
 ## Quick Links
 
-- [Our Community Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24)
-- [Crowd Sourced Patient Database](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml) (Google Drive)
+- [Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24)
+- [Patient Database](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml) (Google Drive)
 
-## Contribution
+## How this works
 
-- **Development** - We welcome enhancement pull requests and help with solving issues.
-- **Crowdsource** - Help us collect real-time reliable information coming from different states by reporting via [community Telegram](https://telegra.ph/CoVID-19--India-Ops-03-24).
+- This repo is merely a bridge to the main source of Data (Google Sheets)
+- Volunteers collect data from trusted sources and update the sheet
+- This repo periodically fetches relevant data from the Sheet and create/update static json/csv
 
-## FAQ
 
-- **Where does this data come from?**
-  We collect the details from each State press release, official government links such as [Ministry of Health and Family Welfare](https://www.mohfw.gov.in/) and reputable news channels. Data is then validated by a group of volunteers & published.
+## Contributing
 
-- **What is the objective behind collecting and publishing this data?**
-  Documented data helps in research of and understanding COVID-19.
+- Contributions to new data formats are welcome
+- Please raise an issue before submitting a PR
+- DO NOT change json/csv directly. They get replaced automatically
