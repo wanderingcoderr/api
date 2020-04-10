@@ -1271,8 +1271,8 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "35",
-			"source": "",
-			"source2": "",
+			"source": "http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_10_April_2020__5_PM.pdf",
+			"source2": "http://health.uk.gov.in/pages/display/140-novel-corona-virus-guidelines-and-advisory-",
 			"state": "Uttarakhand",
 			"totalpeopleinquarantine": "3770",
 			"totalpeoplereleasedfromquarantine": "",
@@ -1294,6 +1294,22 @@
 			"totalpeoplereleasedfromquarantine": "1447",
 			"totaltested": "2095",
 			"unconfirmed": "",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "9662",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "903",
+			"source": "https://twitter.com/CMODelhi/status/1248629695614046209?s=09",
+			"source2": "",
+			"state": "Delhi",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "11061",
+			"unconfirmed": "496",
 			"updatedon": "10/04/2020"
 		}
 	]
