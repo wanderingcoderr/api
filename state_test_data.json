@@ -871,7 +871,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "868",
-			"source": "",
+			"source": "https://health.odisha.gov.in/",
 			"source2": "",
 			"state": "Maharashtra",
 			"totalpeopleinquarantine": "",
@@ -881,7 +881,23 @@
 			"updatedon": "09/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "3201",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "48",
+			"source": "n",
+			"source2": "",
+			"state": "Odisha",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3249",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "11469",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -889,10 +905,10 @@
 			"positive": "",
 			"source": "",
 			"source2": "",
-			"state": "Odisha",
+			"state": "Kerala",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "12710",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
 		}
