@@ -833,6 +833,22 @@
 			"updatedon": "09/04/2020"
 		},
 		{
+			"negative": "1235",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "35",
+			"source": "http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_9_April_2020_8.00PM.pdf",
+			"source2": "",
+			"state": "Uttarakhand",
+			"totalpeopleinquarantine": "1637",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1531",
+			"unconfirmed": "261",
+			"updatedon": "09/04/2020"
+		},
+		{
 			"negative": "7176",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
