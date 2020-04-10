@@ -831,22 +831,6 @@
 			"totaltested": "7613",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Chandigarh",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
 		}
 	]
 }
