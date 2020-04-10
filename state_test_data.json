@@ -815,6 +815,22 @@
 			"totaltested": "1889",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Karnataka",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
 		}
 	]
 }
