@@ -433,6 +433,22 @@
 			"updatedon": "06/04/2020"
 		},
 		{
+			"negative": "0",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1",
+			"source": "",
+			"source2": "",
+			"state": "Mizoram",
+			"totalpeopleinquarantine": "207",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "58",
+			"unconfirmed": "0",
+			"updatedon": "06/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -558,6 +574,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "20877",
 			"unconfirmed": "569",
+			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "0",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1",
+			"source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-742020",
+			"source2": "",
+			"state": "Mizoram",
+			"totalpeopleinquarantine": "207",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "58",
+			"unconfirmed": "0",
 			"updatedon": "07/04/2020"
 		},
 		{
@@ -718,6 +750,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "4056",
 			"unconfirmed": "272",
+			"updatedon": "08/04/2020"
+		},
+		{
+			"negative": "0",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1",
+			"source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-842020",
+			"source2": "",
+			"state": "Mizoram",
+			"totalpeopleinquarantine": "207",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "74",
+			"unconfirmed": "0",
 			"updatedon": "08/04/2020"
 		},
 		{
@@ -1199,22 +1247,6 @@
 			"totaltested": "773",
 			"unconfirmed": "",
 			"updatedon": "10/04/2020"
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Jharkhand",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
 		},
 		{
 			"negative": "7673",
