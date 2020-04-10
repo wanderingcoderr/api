@@ -817,6 +817,22 @@
 			"updatedon": "09/04/2020"
 		},
 		{
+			"negative": "7176",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "197",
+			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/09-04-2020(English).pdf",
+			"source2": "",
+			"state": "Karnataka",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "7613",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -825,12 +841,12 @@
 			"positive": "",
 			"source": "",
 			"source2": "",
-			"state": "Karnataka",
+			"state": "Chandigarh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "09/04/2020"
+			"updatedon": ""
 		}
 	]
 }
