@@ -642,14 +642,14 @@
 	],
 	"statewise": [
 		{
-			"active": "5910",
-			"confirmed": "6773",
-			"deaths": "228",
-			"deltaconfirmed": "44",
-			"deltadeaths": "2",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 10:50:24",
-			"recovered": "635",
+			"active": "5951",
+			"confirmed": "6819",
+			"deaths": "229",
+			"deltaconfirmed": "90",
+			"deltadeaths": "3",
+			"deltarecovered": "4",
+			"lastupdatedtime": "10/04/2020 11:00:24",
+			"recovered": "639",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -774,14 +774,14 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "218",
-			"confirmed": "262",
-			"deaths": "18",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 22:40:26",
-			"recovered": "26",
+			"active": "259",
+			"confirmed": "308",
+			"deaths": "19",
+			"deltaconfirmed": "46",
+			"deltadeaths": "1",
+			"deltarecovered": "4",
+			"lastupdatedtime": "10/04/2020 11:00:25",
+			"recovered": "30",
 			"state": "Gujarat",
 			"statecode": "GJ"
 		},
@@ -1417,6 +1417,16 @@
 			"totalpositivecases": "5114",
 			"totalsamplestested": "127919",
 			"updatetimestamp": "08/04/2020 09:00: pm"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "144910",
+			"updatetimestamp": "09/04/2020 09:00: pm"
 		}
 	]
 }
