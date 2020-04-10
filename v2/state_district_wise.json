@@ -2509,10 +2509,10 @@
       },
       {
         "district": "Bhopal",
-        "confirmed": 94,
+        "confirmed": 95,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
