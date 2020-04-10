@@ -2045,10 +2045,10 @@
         }
       },
       "Kachchh": {
-        "confirmed": 2,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Mahesana": {
@@ -2140,13 +2140,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 4
-        }
-      },
-      "Kutch": {
-        "confirmed": 2,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 2
         }
       }
     }

@@ -642,14 +642,14 @@
 	],
 	"statewise": [
 		{
-			"active": "5951",
+			"active": "5950",
 			"confirmed": "6819",
 			"deaths": "229",
 			"deltaconfirmed": "90",
 			"deltadeaths": "3",
-			"deltarecovered": "4",
-			"lastupdatedtime": "10/04/2020 11:00:24",
-			"recovered": "639",
+			"deltarecovered": "5",
+			"lastupdatedtime": "10/04/2020 11:05:24",
+			"recovered": "640",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -780,7 +780,7 @@
 			"deltaconfirmed": "46",
 			"deltadeaths": "1",
 			"deltarecovered": "4",
-			"lastupdatedtime": "10/04/2020 11:00:25",
+			"lastupdatedtime": "10/04/2020 11:05:25",
 			"recovered": "30",
 			"state": "Gujarat",
 			"statecode": "GJ"
@@ -942,14 +942,14 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "7",
+			"active": "6",
 			"confirmed": "7",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "04/04/2020 09:42:27",
-			"recovered": "0",
+			"recovered": "1",
 			"state": "Goa",
 			"statecode": "GA"
 		},
@@ -1419,12 +1419,12 @@
 			"updatetimestamp": "08/04/2020 09:00: pm"
 		},
 		{
-			"positivecasesfromsamplesreported": "",
-			"samplereportedtoday": "",
-			"source": "",
+			"positivecasesfromsamplesreported": "320",
+			"samplereportedtoday": "16002",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_09April_9PM_IST.pdf",
 			"testsconductedbyprivatelabs": "",
-			"totalindividualstested": "",
-			"totalpositivecases": "",
+			"totalindividualstested": "130792",
+			"totalpositivecases": "5705",
 			"totalsamplestested": "144910",
 			"updatetimestamp": "09/04/2020 09:00: pm"
 		}
