@@ -642,10 +642,10 @@
 	],
 	"statewise": [
 		{
-			"active": "5995",
-			"confirmed": "6866",
+			"active": "6039",
+			"confirmed": "6910",
 			"deaths": "230",
-			"deltaconfirmed": "137",
+			"deltaconfirmed": "181",
 			"deltadeaths": "4",
 			"deltarecovered": "6",
 			"lastupdatedtime": "10/04/2020 17:35:24",
@@ -726,10 +726,10 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "375",
-			"confirmed": "410",
+			"active": "396",
+			"confirmed": "431",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "21",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 20:35:25",
@@ -798,10 +798,10 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "174",
-			"confirmed": "184",
+			"active": "197",
+			"confirmed": "207",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "23",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "09/04/2020 19:35:27",
