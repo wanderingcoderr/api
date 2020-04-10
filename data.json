@@ -642,13 +642,13 @@
 	],
 	"statewise": [
 		{
-			"active": "5950",
+			"active": "5951",
 			"confirmed": "6821",
-			"deaths": "230",
+			"deaths": "229",
 			"deltaconfirmed": "92",
-			"deltadeaths": "4",
+			"deltadeaths": "3",
 			"deltarecovered": "6",
-			"lastupdatedtime": "10/04/2020 11:30:24",
+			"lastupdatedtime": "10/04/2020 11:40:24",
 			"recovered": "641",
 			"state": "Total",
 			"statecode": "TT"
@@ -774,13 +774,13 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "258",
+			"active": "259",
 			"confirmed": "308",
-			"deaths": "20",
+			"deaths": "19",
 			"deltaconfirmed": "46",
-			"deltadeaths": "2",
+			"deltadeaths": "1",
 			"deltarecovered": "4",
-			"lastupdatedtime": "10/04/2020 11:35:25",
+			"lastupdatedtime": "10/04/2020 11:40:27",
 			"recovered": "30",
 			"state": "Gujarat",
 			"statecode": "GJ"
