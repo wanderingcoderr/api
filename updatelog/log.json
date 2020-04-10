@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Rajasthan\n",
-    "timestamp": 1586372675
-  },
-  {
     "update": "6 new cases in Punjab\n",
     "timestamp": 1586397246
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Uttar Pradesh\n2 new cases in Puducherry\n",
     "timestamp": 1586521434
+  },
+  {
+    "update": "1 new case and 4 recoveries in Haryana\n1 new case in Chandigarh\n",
+    "timestamp": 1586522639
   }
 ]

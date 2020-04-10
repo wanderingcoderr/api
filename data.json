@@ -642,14 +642,14 @@
 	],
 	"statewise": [
 		{
-			"active": "6040",
-			"confirmed": "6912",
+			"active": "6038",
+			"confirmed": "6914",
 			"deaths": "230",
-			"deltaconfirmed": "183",
+			"deltaconfirmed": "185",
 			"deltadeaths": "4",
-			"deltarecovered": "7",
-			"lastupdatedtime": "10/04/2020 17:50:24",
-			"recovered": "642",
+			"deltarecovered": "11",
+			"lastupdatedtime": "10/04/2020 18:10:24",
+			"recovered": "646",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -786,14 +786,14 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "141",
-			"confirmed": "175",
+			"active": "138",
+			"confirmed": "176",
 			"deaths": "2",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "09/04/2020 12:51:40",
-			"recovered": "32",
+			"deltarecovered": "4",
+			"lastupdatedtime": "10/04/2020 18:10:25",
+			"recovered": "36",
 			"state": "Haryana",
 			"statecode": "HR"
 		},
@@ -882,13 +882,13 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "11",
-			"confirmed": "18",
+			"active": "12",
+			"confirmed": "19",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "07/04/2020 22:35:25",
+			"lastupdatedtime": "10/04/2020 18:10:27",
 			"recovered": "7",
 			"state": "Chandigarh",
 			"statecode": "CH"
