@@ -1,9 +1,5 @@
 [
   {
-    "update": "55 new cases, 1 recovery and 1 death in Gujarat\n7 new cases in Bihar\n",
-    "timestamp": 1586413573
-  },
-  {
     "update": "162 new cases in Maharashtra\n1 new case in Bihar\n",
     "timestamp": 1586414177
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Tripura\n",
     "timestamp": 1586529259
+  },
+  {
+    "update": "3 deaths in Madhya Pradesh\n",
+    "timestamp": 1586529853
   }
 ]
