@@ -1,9 +1,5 @@
 [
   {
-    "update": "26 new cases in Jammu and Kashmir\n",
-    "timestamp": 1586431588
-  },
-  {
     "update": "6 new cases in Karnataka\n7 new cases in Chhattisgarh\n",
     "timestamp": 1586433249
   },
@@ -198,5 +194,9 @@
   {
     "update": "20 new cases in Rajasthan\n",
     "timestamp": 1586535248
+  },
+  {
+    "update": "2 new cases in Rajasthan\n4 recoveries in Karnataka\n",
+    "timestamp": 1586535842
   }
 ]

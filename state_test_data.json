@@ -817,19 +817,19 @@
 			"updatedon": "09/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "7898",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "410",
+			"source": "https://t.me/c/1428198946/1789",
 			"source2": "",
 			"state": "Uttar Pradesh",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "8671",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "8402",
+			"unconfirmed": "94",
 			"updatedon": "09/04/2020"
 		},
 		{
@@ -1105,19 +1105,19 @@
 			"updatedon": "10/04/2020"
 		},
 		{
-			"negative": "20673",
+			"negative": "20698",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "520",
-			"source": "https://t.me/c/1428198946/1821",
+			"positive": "561",
+			"source": "https://t.me/c/1428198946/1843",
 			"source2": "",
 			"state": "Rajasthan",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "22324",
-			"unconfirmed": "1131",
+			"totaltested": "22349",
+			"unconfirmed": "1090",
 			"updatedon": "10/04/2020"
 		},
 		{
@@ -1276,8 +1276,24 @@
 			"state": "Uttarakhand",
 			"totalpeopleinquarantine": "3770",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": ": 1688",
+			"totaltested": "1688",
 			"unconfirmed": "333",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "West Bengal",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2095",
+			"unconfirmed": "",
 			"updatedon": "10/04/2020"
 		}
 	]
