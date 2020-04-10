@@ -2236,10 +2236,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 77,
+        "confirmed": 89,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 13
         }
       }
     ]
