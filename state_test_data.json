@@ -911,6 +911,22 @@
 			"totaltested": "12710",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "2777",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "130",
+			"source": "http://pbhealth.gov.in/Media%20bulletin%20-%2009-04-2020.pdf",
+			"source2": "",
+			"state": "Punjab",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3192",
+			"unconfirmed": "285",
+			"updatedon": "09/04/2020"
 		}
 	]
 }
