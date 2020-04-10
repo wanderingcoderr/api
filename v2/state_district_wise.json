@@ -555,7 +555,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 5,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

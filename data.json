@@ -651,8 +651,8 @@
 	],
 	"statewise": [
 		{
-			"active": "6571",
-			"confirmed": "7577",
+			"active": "6591",
+			"confirmed": "7597",
 			"deaths": "246",
 			"deltaconfirmed": "828",
 			"deltadeaths": "20",
@@ -711,8 +711,8 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "477",
-			"confirmed": "540",
+			"active": "497",
+			"confirmed": "560",
 			"deaths": "3",
 			"deltaconfirmed": "57",
 			"deltadeaths": "0",
