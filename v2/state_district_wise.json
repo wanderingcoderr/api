@@ -1582,7 +1582,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 214,
+        "confirmed": 212,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1662,7 +1662,7 @@
       },
       {
         "district": "Sindhudurg",
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1766,7 +1766,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 26,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,6 +1774,14 @@
       },
       {
         "district": "Akola",
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Other States",
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {

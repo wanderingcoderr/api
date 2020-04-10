@@ -1379,7 +1379,7 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 214,
+        "confirmed": 212,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1449,7 +1449,7 @@
         }
       },
       "Sindhudurg": {
-        "confirmed": 3,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1540,13 +1540,20 @@
         }
       },
       "Unknown": {
-        "confirmed": 26,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Akola": {
+        "confirmed": 8,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Other States": {
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
