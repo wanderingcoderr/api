@@ -1,9 +1,5 @@
 [
   {
-    "update": "10 recoveries and 1 death in Uttar Pradesh\n19 new cases in Jammu and Kashmir\n",
-    "timestamp": 1586354070
-  },
-  {
     "update": "57 new cases and 3 deaths in Maharashtra\n19 new cases in Andhra Pradesh\n",
     "timestamp": 1586355242
   },
@@ -198,5 +194,9 @@
   {
     "update": "14 new cases in West Bengal\n4 new cases in Odisha\n",
     "timestamp": 1586492657
+  },
+  {
+    "update": "1 death in Assam\n1 new case in Jharkhand\n",
+    "timestamp": 1586494456
   }
 ]
