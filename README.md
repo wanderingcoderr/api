@@ -29,7 +29,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 
 ## How this works
 
-- This repo is merely a bridge to the main source of Data (Google Sheets)
+- This repo is merely a bridge to the main source of Data ([Google Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vSc_2y5N0I67wDU38DjDh35IZSIS30rQf7_NYZhtYYGU1jJYT6_kDx4YpF-qw0LSlGsBYP8pqM_a1Pd/pubhtml))
 - Volunteers collect data from trusted sources and update the sheet
 - This repo periodically fetches relevant data from the Sheet and create/update static json/csv
 
@@ -38,4 +38,5 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 
 - Contributions to new data formats are welcome
 - Please raise an issue before submitting a PR
+- Report issues with Place names in the [Main Site repo](https://github.com/covid19india/covid19india-react/issues)
 - DO NOT change json/csv directly. They get replaced automatically
