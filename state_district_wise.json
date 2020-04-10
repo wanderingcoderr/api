@@ -1379,14 +1379,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 197,
+        "confirmed": 214,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 875,
+        "confirmed": 876,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1400,7 +1400,7 @@
         }
       },
       "Thane": {
-        "confirmed": 92,
+        "confirmed": 94,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1414,21 +1414,21 @@
         }
       },
       "Yavatmal": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Aurangabad": {
-        "confirmed": 13,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ratnagiri": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1449,7 +1449,7 @@
         }
       },
       "Sindhudurg": {
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1463,7 +1463,7 @@
         }
       },
       "Kolhapur": {
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1484,7 +1484,7 @@
         }
       },
       "Buldana": {
-        "confirmed": 7,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1540,7 +1540,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 67,
+        "confirmed": 26,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Akola": {
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
