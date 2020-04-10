@@ -1,9 +1,5 @@
 [
   {
-    "update": "96 new cases in Tamil Nadu\n9 new cases and 13 recoveries in Kerala\n",
-    "timestamp": 1586436264
-  },
-  {
     "update": "13 new cases in Punjab\n",
     "timestamp": 1586436871
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Andhra Pradesh\n",
     "timestamp": 1586544237
+  },
+  {
+    "update": "2 new cases in Odisha\n",
+    "timestamp": 1586544845
   }
 ]
