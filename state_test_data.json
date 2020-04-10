@@ -951,7 +951,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "",
-			"source": "",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief0904092020080952519.pdf",
 			"source2": "",
 			"state": "Gujarat",
 			"totalpeopleinquarantine": "",
@@ -1054,6 +1054,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "22324",
 			"unconfirmed": "1131",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1004102020104644078.pdf",
+			"source2": "",
+			"state": "Gujarat",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
 			"updatedon": "10/04/2020"
 		}
 	]
