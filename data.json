@@ -614,11 +614,11 @@
 		},
 		{
 			"dailyconfirmed": "573",
-			"dailydeceased": "26",
+			"dailydeceased": "27",
 			"dailyrecovered": "75",
 			"date": "07 April ",
 			"totalconfirmed": "5351",
-			"totaldeceased": "163",
+			"totaldeceased": "164",
 			"totalrecovered": "469"
 		},
 		{
@@ -627,7 +627,7 @@
 			"dailyrecovered": "96",
 			"date": "08 April ",
 			"totalconfirmed": "5916",
-			"totaldeceased": "183",
+			"totaldeceased": "184",
 			"totalrecovered": "565"
 		},
 		{
@@ -636,24 +636,24 @@
 			"dailyrecovered": "70",
 			"date": "09 April ",
 			"totalconfirmed": "6729",
-			"totaldeceased": "229",
+			"totaldeceased": "230",
 			"totalrecovered": "635"
 		},
 		{
-			"dailyconfirmed": "871",
+			"dailyconfirmed": "869",
 			"dailydeceased": "22",
 			"dailyrecovered": "139",
 			"date": "10 April ",
-			"totalconfirmed": "7600",
-			"totaldeceased": "251",
+			"totalconfirmed": "7598",
+			"totaldeceased": "252",
 			"totalrecovered": "774"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6576",
+			"active": "6575",
 			"confirmed": "7598",
-			"deaths": "248",
+			"deaths": "249",
 			"deltaconfirmed": "869",
 			"deltadeaths": "22",
 			"deltarecovered": "139",
@@ -747,9 +747,9 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "366",
+			"active": "365",
 			"confirmed": "381",
-			"deaths": "5",
+			"deaths": "6",
 			"deltaconfirmed": "18",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
