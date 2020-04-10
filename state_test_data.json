@@ -2,6 +2,7 @@
 	"states_tested_data": [
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -17,6 +18,7 @@
 		},
 		{
 			"negative": "568",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -32,6 +34,7 @@
 		},
 		{
 			"negative": "1175",
+			"numcallsstatehelpline": "",
 			"numicubeds": "2680",
 			"numisolationbeds": "23479",
 			"numventilators": "330",
@@ -47,6 +50,7 @@
 		},
 		{
 			"negative": "819",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -62,6 +66,7 @@
 		},
 		{
 			"negative": "98",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -77,6 +82,7 @@
 		},
 		{
 			"negative": "921",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -92,6 +98,7 @@
 		},
 		{
 			"negative": "197",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -107,6 +114,7 @@
 		},
 		{
 			"negative": "1236",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -122,6 +130,7 @@
 		},
 		{
 			"negative": "554",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -137,6 +146,7 @@
 		},
 		{
 			"negative": "938",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -152,6 +162,7 @@
 		},
 		{
 			"negative": "4281",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -167,6 +178,7 @@
 		},
 		{
 			"negative": "8126",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -182,6 +194,7 @@
 		},
 		{
 			"negative": "1108",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -197,6 +210,7 @@
 		},
 		{
 			"negative": "2789",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "13323",
 			"numventilators": "3044",
@@ -212,6 +226,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -227,6 +242,7 @@
 		},
 		{
 			"negative": "1954",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -242,6 +258,7 @@
 		},
 		{
 			"negative": "4796",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -257,6 +274,7 @@
 		},
 		{
 			"negative": "2299",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -272,6 +290,7 @@
 		},
 		{
 			"negative": "1429",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -287,6 +306,7 @@
 		},
 		{
 			"negative": "11439",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -302,6 +322,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -317,6 +338,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -332,6 +354,7 @@
 		},
 		{
 			"negative": "2299",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -347,6 +370,7 @@
 		},
 		{
 			"negative": "4796",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -362,6 +386,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -377,6 +402,7 @@
 		},
 		{
 			"negative": "14837",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -392,6 +418,7 @@
 		},
 		{
 			"negative": "15808",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -407,6 +434,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -422,6 +450,7 @@
 		},
 		{
 			"negative": "3125",
+			"numcallsstatehelpline": "",
 			"numicubeds": "1598",
 			"numisolationbeds": "9492",
 			"numventilators": "993",
@@ -437,6 +466,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -452,6 +482,7 @@
 		},
 		{
 			"negative": "1821",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -467,6 +498,7 @@
 		},
 		{
 			"negative": "1092",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -482,6 +514,7 @@
 		},
 		{
 			"negative": "16401",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -497,6 +530,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -512,6 +546,7 @@
 		},
 		{
 			"negative": "19290",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -527,6 +562,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -542,6 +578,7 @@
 		},
 		{
 			"negative": "7308",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -557,6 +594,7 @@
 		},
 		{
 			"negative": "5942",
+			"numcallsstatehelpline": "",
 			"numicubeds": "250",
 			"numisolationbeds": "1540",
 			"numventilators": "130",
@@ -572,6 +610,7 @@
 		},
 		{
 			"negative": "3905",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "1761",
@@ -587,6 +626,7 @@
 		},
 		{
 			"negative": "4414",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "22,049",
 			"numventilators": "3371",
@@ -602,6 +642,7 @@
 		},
 		{
 			"negative": "",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -617,6 +658,7 @@
 		},
 		{
 			"negative": "2614",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -632,6 +674,7 @@
 		},
 		{
 			"negative": "10906",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -647,6 +690,7 @@
 		},
 		{
 			"negative": "2399",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -662,6 +706,7 @@
 		},
 		{
 			"negative": "3443",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -677,6 +722,7 @@
 		},
 		{
 			"negative": "16401",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -692,6 +738,7 @@
 		},
 		{
 			"negative": "1885",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "8649",
 			"numventilators": "",
@@ -707,6 +754,7 @@
 		},
 		{
 			"negative": "162",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -722,6 +770,7 @@
 		},
 		{
 			"negative": "6473",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -737,6 +786,7 @@
 		},
 		{
 			"negative": "17851",
+			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -747,6 +797,22 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "19107",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "26025",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_09.04_.2020_.pdf",
+			"source2": "",
+			"state": "West Bengal",
+			"totalpeopleinquarantine": "1723",
+			"totalpeoplereleasedfromquarantine": "1345",
+			"totaltested": "1889",
 			"unconfirmed": "",
 			"updatedon": "09/04/2020"
 		}
