@@ -439,7 +439,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "1",
-			"source": "",
+			"source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-642020",
 			"source2": "",
 			"state": "Mizoram",
 			"totalpeopleinquarantine": "207",
@@ -849,6 +849,22 @@
 			"updatedon": "09/04/2020"
 		},
 		{
+			"negative": "185",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1",
+			"source": "https://twitter.com/PemaKhanduBJP/status/1248269356070363136?s=19",
+			"source2": "",
+			"state": "Arunachal Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "206",
+			"unconfirmed": "20",
+			"updatedon": "09/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "26025",
 			"numicubeds": "",
@@ -1105,22 +1121,6 @@
 			"updatedon": "09/04/2020"
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Arunachal Pradesh",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "10/04/2020"
-		},
-		{
 			"negative": "6009",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -1150,7 +1150,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "2863",
 			"unconfirmed": "",
-			"updatedon": ""
+			"updatedon": "10/04/2020"
 		},
 		{
 			"negative": "",
@@ -1182,7 +1182,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "3473",
 			"unconfirmed": "133",
-			"updatedon": ""
+			"updatedon": "10/04/2020"
 		},
 		{
 			"negative": "",
@@ -1321,55 +1321,7 @@
 			"positive": "",
 			"source": "",
 			"source2": "",
-			"state": "Manipur",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Meghalaya",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
 			"state": "Mizoram",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Nagaland",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
@@ -1407,22 +1359,6 @@
 			"totaltested": "22349",
 			"unconfirmed": "1090",
 			"updatedon": "10/04/2020"
-		},
-		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Sikkim",
-			"totalpeopleinquarantine": "",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": ""
 		},
 		{
 			"negative": "6838",
