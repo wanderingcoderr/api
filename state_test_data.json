@@ -1095,13 +1095,29 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "365",
-			"source": "",
+			"source": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
 			"source2": "",
 			"state": "Andhra Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "6374",
 			"unconfirmed": "",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "7",
+			"source": "https://twitter.com/DHS_Goa/status/1248609175241764872/photo/1",
+			"source2": "",
+			"state": "Goa",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "354",
+			"unconfirmed": "11",
 			"updatedon": "10/04/2020"
 		}
 	]

@@ -1400,21 +1400,21 @@
         }
       },
       "Nagpur": {
-        "confirmed": 20,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Thane": {
-        "confirmed": 94,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 28,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1476,8 +1476,8 @@
           "confirmed": 0
         }
       },
-      "Gujarat*": {
-        "confirmed": 2,
+      "Other States*": {
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1498,7 +1498,7 @@
         }
       },
       "Nashik": {
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1526,7 +1526,7 @@
         }
       },
       "Amravati": {
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1547,20 +1547,20 @@
         }
       },
       "Unknown": {
-        "confirmed": 27,
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Bid": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Akola": {
-        "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Other States": {
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {

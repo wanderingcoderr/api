@@ -1606,7 +1606,7 @@
       },
       {
         "district": "Nagpur",
-        "confirmed": 20,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1614,7 +1614,7 @@
       },
       {
         "district": "Thane",
-        "confirmed": 94,
+        "confirmed": 112,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1622,7 +1622,7 @@
       },
       {
         "district": "Ahmadnagar",
-        "confirmed": 28,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1693,8 +1693,8 @@
         }
       },
       {
-        "district": "Gujarat*",
-        "confirmed": 2,
+        "district": "Other States*",
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1718,7 +1718,7 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 2,
+        "confirmed": 7,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1750,7 +1750,7 @@
       },
       {
         "district": "Amravati",
-        "confirmed": 1,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,7 +1774,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 27,
+        "confirmed": 4,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Bid",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1782,14 +1790,6 @@
       },
       {
         "district": "Akola",
-        "confirmed": 8,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Other States",
         "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {

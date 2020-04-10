@@ -648,7 +648,7 @@
 			"deltaconfirmed": "332",
 			"deltadeaths": "15",
 			"deltarecovered": "57",
-			"lastupdatedtime": "10/04/2020 19:31:51",
+			"lastupdatedtime": "10/04/2020 19:35:24",
 			"recovered": "692",
 			"state": "Total",
 			"statecode": "TT"
@@ -732,7 +732,7 @@
 			"deltaconfirmed": "23",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "10/04/2020 19:31:52",
+			"lastupdatedtime": "10/04/2020 19:35:25",
 			"recovered": "32",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -756,7 +756,7 @@
 			"deltaconfirmed": "40",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 11:35:24",
+			"lastupdatedtime": "10/04/2020 19:35:26",
 			"recovered": "25",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
