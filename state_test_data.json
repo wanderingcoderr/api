@@ -865,6 +865,22 @@
 			"updatedon": "09/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "7",
+			"source": "",
+			"source2": "",
+			"state": "Goa",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "344",
+			"unconfirmed": "",
+			"updatedon": "09/04/2020"
+		},
+		{
 			"negative": "19290",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -1089,19 +1105,19 @@
 			"updatedon": "10/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "7237",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1004102020104644078.pdf",
+			"positive": "378",
+			"source": "https://t.me/indiacovid/1994?single",
 			"source2": "",
 			"state": "Gujarat",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "7718",
+			"unconfirmed": "103",
 			"updatedon": "10/04/2020"
 		},
 		{
