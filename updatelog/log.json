@@ -1,9 +1,5 @@
 [
   {
-    "update": "6 new cases in Punjab\n",
-    "timestamp": 1586397246
-  },
-  {
     "update": "5 new cases in Jharkhand\n",
     "timestamp": 1586398554
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case and 4 recoveries in Haryana\n1 new case in Chandigarh\n",
     "timestamp": 1586522639
+  },
+  {
+    "update": "77 new cases in Tamil Nadu\n7 new cases and 27 recoveries in Kerala\n",
+    "timestamp": 1586523932
   }
 ]
