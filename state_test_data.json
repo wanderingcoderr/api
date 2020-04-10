@@ -1071,6 +1071,38 @@
 			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "7673",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "207",
+			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/10-04-2020(English).pdf",
+			"source2": "",
+			"state": "Karnataka",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "7975",
+			"unconfirmed": "",
+			"updatedon": "10/04/2020"
+		},
+		{
+			"negative": "6009",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "365",
+			"source": "",
+			"source2": "",
+			"state": "Andhra Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "6374",
+			"unconfirmed": "",
+			"updatedon": "10/04/2020"
 		}
 	]
 }

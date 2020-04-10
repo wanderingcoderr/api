@@ -1029,10 +1029,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 21
+          "confirmed": 23
         }
       }
     ]
@@ -1590,7 +1590,7 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 212,
+        "confirmed": 206,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1774,7 +1774,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 21,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2673,6 +2673,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 40,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 40
         }
       }
     ]
