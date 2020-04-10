@@ -1329,6 +1329,22 @@
 			"updatedon": "10/04/2020"
 		},
 		{
+			"negative": "3497",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "50",
+			"source": "https://health.odisha.gov.in/",
+			"source2": "",
+			"state": "Odisha",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3547",
+			"unconfirmed": "",
+			"updatedon": "10/04/2020"
+		},
+		{
 			"negative": "2972",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
