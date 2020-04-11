@@ -1638,13 +1638,13 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "432",
+			"positive": "",
 			"source": "",
 			"source2": "",
 			"state": "Gujarat",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "7710",
+			"totaltested": "",
 			"unconfirmed": "",
 			"updatedon": "11/04/2020"
 		},
@@ -1822,6 +1822,22 @@
 			"totalpeoplereleasedfromquarantine": "1553",
 			"totaltested": "2286",
 			"unconfirmed": "",
+			"updatedon": "11/04/2020"
+		},
+		{
+			"negative": "8888",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "468",
+			"source": "https://gujcovid19.gujarat.gov.in/",
+			"source2": "",
+			"state": "Gujarat",
+			"totalpeopleinquarantine": "12042",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "9763",
+			"unconfirmed": "407",
 			"updatedon": "11/04/2020"
 		}
 	]
