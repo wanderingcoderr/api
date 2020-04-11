@@ -1713,6 +1713,22 @@
 			"updatedon": "11/04/2020"
 		},
 		{
+			"negative": "1529",
+			"numcallsstatehelpline": "",
+			"numicubeds": "239",
+			"numisolationbeds": "2891",
+			"numventilators": "",
+			"positive": "17",
+			"source": "",
+			"source2": "",
+			"state": "Jharkhand",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1912",
+			"unconfirmed": "366",
+			"updatedon": "11/04/2020"
+		},
+		{
 			"negative": "8231",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
