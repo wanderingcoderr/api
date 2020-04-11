@@ -1324,10 +1324,10 @@
     "districtData": [
       {
         "district": "Jammu",
-        "confirmed": 19,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1396,10 +1396,10 @@
       },
       {
         "district": "Kashmir",
-        "confirmed": 20,
+        "confirmed": 32,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       }
     ]
@@ -2786,10 +2786,10 @@
       },
       {
         "district": "Nawada",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
