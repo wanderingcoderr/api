@@ -651,14 +651,14 @@
 	],
 	"statewise": [
 		{
-			"active": "6871",
-			"confirmed": "7997",
+			"active": "6880",
+			"confirmed": "8008",
 			"deaths": "255",
-			"deltaconfirmed": "397",
+			"deltaconfirmed": "407",
 			"deltadeaths": "6",
-			"deltarecovered": "83",
-			"lastupdatedtime": "11/04/2020 19:05:24",
-			"recovered": "871",
+			"deltarecovered": "85",
+			"lastupdatedtime": "11/04/2020 19:20:24",
+			"recovered": "873",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -771,14 +771,14 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "171",
-			"confirmed": "214",
+			"active": "170",
+			"confirmed": "215",
 			"deaths": "6",
 			"deltaconfirmed": "7",
 			"deltadeaths": "0",
-			"deltarecovered": "3",
-			"lastupdatedtime": "11/04/2020 13:00:29",
-			"recovered": "37",
+			"deltarecovered": "5",
+			"lastupdatedtime": "11/04/2020 19:20:25",
+			"recovered": "39",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},
@@ -831,13 +831,13 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "95",
-			"confirmed": "116",
+			"active": "105",
+			"confirmed": "126",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "10",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 10:00:25",
+			"lastupdatedtime": "11/04/2020 19:20:26",
 			"recovered": "16",
 			"state": "West Bengal",
 			"statecode": "WB"
