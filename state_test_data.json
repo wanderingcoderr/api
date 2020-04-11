@@ -1553,18 +1553,18 @@
 			"updatedon": "10/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "6577",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "381",
+			"source": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
 			"source2": "",
 			"state": "Andhra Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "6958",
 			"unconfirmed": "",
 			"updatedon": "11/04/2020"
 		},
@@ -1697,19 +1697,19 @@
 			"updatedon": "11/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "870",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "30",
+			"source": "https://twitter.com/nhm_hp/status/1248648731374714880?s=09",
 			"source2": "",
 			"state": "Himachal Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "900",
+			"unconfirmed": "0",
 			"updatedon": "11/04/2020"
 		},
 		{
