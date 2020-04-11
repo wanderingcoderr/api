@@ -58,6 +58,11 @@ const c = require("./lib/constants");
     tabs: { resources: c.SHEET_RESOURCES_SHEET},
     file: c.FILE_RESOURCES_ESSENTIALS
   });
+  await task({
+    sheet: c.SHEET,
+    tabs: { deaths_recoveries: c.SHEET_DEATHS_AND_RECOVERIES},
+    file: c.FILE_DEATHS_RECOVERIES
+  });
   console.log("End of sheet-to-json_generic");
 })();
 
