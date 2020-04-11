@@ -641,19 +641,19 @@
 		},
 		{
 			"dailyconfirmed": "871",
-			"dailydeceased": "22",
+			"dailydeceased": "23",
 			"dailyrecovered": "153",
 			"date": "10 April ",
 			"totalconfirmed": "7600",
-			"totaldeceased": "252",
+			"totaldeceased": "253",
 			"totalrecovered": "788"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6646",
+			"active": "6645",
 			"confirmed": "7684",
-			"deaths": "249",
+			"deaths": "250",
 			"deltaconfirmed": "84",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
@@ -723,9 +723,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "238",
+			"active": "237",
 			"confirmed": "364",
-			"deaths": "2",
+			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
