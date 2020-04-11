@@ -1633,6 +1633,22 @@
 			"updatedon": "11/04/2020"
 		},
 		{
+			"negative": "3503",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Chhattisgarh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3858",
+			"unconfirmed": "",
+			"updatedon": "11/04/2020"
+		},
+		{
 			"negative": "10218",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
