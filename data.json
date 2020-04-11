@@ -451,16 +451,16 @@
 			"totalrecovered": "20"
 		},
 		{
-			"dailyconfirmed": "60",
+			"dailyconfirmed": "58",
 			"dailydeceased": "0",
 			"dailyrecovered": "3",
 			"date": "20 March ",
-			"totalconfirmed": "258",
+			"totalconfirmed": "256",
 			"totaldeceased": "4",
 			"totalrecovered": "23"
 		},
 		{
-			"dailyconfirmed": "76",
+			"dailyconfirmed": "78",
 			"dailydeceased": "0",
 			"dailyrecovered": "0",
 			"date": "21 March ",
