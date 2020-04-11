@@ -1633,19 +1633,19 @@
 			"updatedon": "11/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "10218",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "1069",
+			"source": "https://twitter.com/CMODelhi/status/1248998630888845313?s=19",
 			"source2": "",
 			"state": "Delhi",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "11709",
+			"unconfirmed": "464",
 			"updatedon": "11/04/2020"
 		},
 		{
