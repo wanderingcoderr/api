@@ -908,7 +908,7 @@
         }
       },
       {
-        "district": "Hatras",
+        "district": "Hathras",
         "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
@@ -1055,7 +1055,7 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 173,
+        "confirmed": 172,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1103,7 +1103,7 @@
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 38,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

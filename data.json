@@ -641,11 +641,11 @@
 		},
 		{
 			"dailyconfirmed": "871",
-			"dailydeceased": "23",
+			"dailydeceased": "22",
 			"dailyrecovered": "153",
 			"date": "10 April ",
 			"totalconfirmed": "7600",
-			"totaldeceased": "253",
+			"totaldeceased": "252",
 			"totalrecovered": "788"
 		}
 	],
@@ -655,7 +655,7 @@
 			"confirmed": "7684",
 			"deaths": "250",
 			"deltaconfirmed": "84",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "1",
 			"lastupdatedtime": "11/04/2020 13:00:24",
 			"recovered": "789",
@@ -727,7 +727,7 @@
 			"confirmed": "364",
 			"deaths": "3",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "10/04/2020 18:35:27",
 			"recovered": "124",
