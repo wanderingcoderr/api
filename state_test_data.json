@@ -1761,19 +1761,19 @@
 			"updatedon": "11/04/2020"
 		},
 		{
-			"negative": "20698",
+			"negative": "22583",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "579",
-			"source": "https://t.me/indiacovid/2012",
+			"positive": "678",
+			"source": "http://www.rajswasthya.nic.in/",
 			"source2": "",
 			"state": "Rajasthan",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "22349",
-			"unconfirmed": "1072",
+			"totaltested": "24857",
+			"unconfirmed": "1586",
 			"updatedon": "11/04/2020"
 		},
 		{
