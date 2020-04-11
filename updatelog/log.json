@@ -1,9 +1,5 @@
 [
   {
-    "update": "18 new cases and 16 deaths in Maharashtra\n33 new cases in Rajasthan\n7 new cases in Bihar\n",
-    "timestamp": 1586454863
-  },
-  {
     "update": "1 death in Telangana\n14 new cases in Madhya Pradesh\n",
     "timestamp": 1586455512
   },
@@ -198,5 +194,9 @@
   {
     "update": "10 new cases in Kerala\n",
     "timestamp": 1586609036
+  },
+  {
+    "update": "19 recoveries in Kerala\n2 new cases and 4 recoveries in Himachal Pradesh\n",
+    "timestamp": 1586609645
   }
 ]
