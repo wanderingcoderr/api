@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Assam\n1 new case in Jharkhand\n",
-    "timestamp": 1586494456
-  },
-  {
     "update": "26 new cases in Rajasthan\n2 new cases in Bihar\n",
     "timestamp": 1586495106
   },
@@ -198,5 +194,9 @@
   {
     "update": "36 new cases, 10 recoveries and 3 deaths in Gujarat\n",
     "timestamp": 1586616870
+  },
+  {
+    "update": "166 new cases in Delhi\n",
+    "timestamp": 1586619241
   }
 ]

@@ -647,14 +647,23 @@
 			"totalconfirmed": "7600",
 			"totaldeceased": "252",
 			"totalrecovered": "788"
+		},
+		{
+			"dailyconfirmed": "629",
+			"dailydeceased": "9",
+			"dailyrecovered": "108",
+			"date": "11 April ",
+			"totalconfirmed": "8229",
+			"totaldeceased": "261",
+			"totalrecovered": "896"
 		}
 	],
 	"statewise": [
 		{
-			"active": "6908",
-			"confirmed": "8062",
+			"active": "7074",
+			"confirmed": "8228",
 			"deaths": "258",
-			"deltaconfirmed": "463",
+			"deltaconfirmed": "629",
 			"deltadeaths": "9",
 			"deltarecovered": "108",
 			"lastupdatedtime": "11/04/2020 20:20:24",
@@ -687,10 +696,10 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "862",
-			"confirmed": "903",
+			"active": "1028",
+			"confirmed": "1069",
 			"deaths": "14",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "166",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "10/04/2020 21:00:25",

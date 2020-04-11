@@ -1719,13 +1719,13 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "373",
-			"source": "",
+			"source": "https://dashboard.kerala.gov.in/quarantine-view-public.php",
 			"source2": "",
 			"state": "Kerala",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "814",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "14163",
-			"unconfirmed": "",
+			"unconfirmed": "972",
 			"updatedon": "11/04/2020"
 		},
 		{
