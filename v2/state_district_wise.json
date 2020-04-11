@@ -1646,7 +1646,7 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 17,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1773,16 +1773,16 @@
         }
       },
       {
-        "district": "Bid",
-        "confirmed": 1,
+        "district": "Akola",
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       {
-        "district": "Akola",
-        "confirmed": 12,
+        "district": "Bid",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
