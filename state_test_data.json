@@ -1553,6 +1553,22 @@
 			"updatedon": "11/04/2020"
 		},
 		{
+			"negative": "2406",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "163",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin11042020Morning.pdf",
+			"source2": "",
+			"state": "Haryana",
+			"totalpeopleinquarantine": "963",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3635",
+			"unconfirmed": "1012",
+			"updatedon": "11/04/2020"
+		},
+		{
 			"negative": "870",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",

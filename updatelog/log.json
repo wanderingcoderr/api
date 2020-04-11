@@ -1,9 +1,5 @@
 [
   {
-    "update": "15 new cases and 4 recoveries in Andhra Pradesh\n",
-    "timestamp": 1586445831
-  },
-  {
     "update": "7 deaths in Madhya Pradesh\n",
     "timestamp": 1586451891
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Haryana\n",
     "timestamp": 1586601843
+  },
+  {
+    "update": "3 deaths in Madhya Pradesh\n",
+    "timestamp": 1586603113
   }
 ]
