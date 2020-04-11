@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Assam\n",
-    "timestamp": 1586445232
-  },
-  {
     "update": "15 new cases and 4 recoveries in Andhra Pradesh\n",
     "timestamp": 1586445831
   },
@@ -198,5 +194,9 @@
   {
     "update": "92 new cases in Maharashtra\n99 new cases in Rajasthan\n",
     "timestamp": 1586600641
+  },
+  {
+    "update": "1 new case in Haryana\n",
+    "timestamp": 1586601843
   }
 ]
