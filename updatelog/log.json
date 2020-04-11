@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Telangana\n14 new cases in Madhya Pradesh\n",
-    "timestamp": 1586455512
-  },
-  {
     "update": "8 recoveries in Maharashtra\n10 recoveries in Andaman and Nicobar Islands\n",
     "timestamp": 1586456037
   },
@@ -198,5 +194,9 @@
   {
     "update": "19 recoveries in Kerala\n2 new cases and 4 recoveries in Himachal Pradesh\n",
     "timestamp": 1586609645
+  },
+  {
+    "update": "58 new cases and 1 death in Tamil Nadu\n24 new cases in Andhra Pradesh\n7 new cases and 1 death in Punjab\n",
+    "timestamp": 1586611663
   }
 ]

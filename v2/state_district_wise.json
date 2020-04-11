@@ -1316,6 +1316,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 58,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 58
+        }
       }
     ]
   },
@@ -1827,10 +1835,10 @@
       },
       {
         "district": "S.A.S. Nagar",
-        "confirmed": 48,
+        "confirmed": 50,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1843,10 +1851,10 @@
       },
       {
         "district": "Jalandhar",
-        "confirmed": 12,
+        "confirmed": 15,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1859,10 +1867,10 @@
       },
       {
         "district": "Patiala",
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1883,10 +1891,10 @@
       },
       {
         "district": "Pathankot",
-        "confirmed": 15,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1960,10 +1968,10 @@
       },
       {
         "district": "Prakasam",
-        "confirmed": 40,
+        "confirmed": 41,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2000,18 +2008,18 @@
       },
       {
         "district": "Guntur",
-        "confirmed": 58,
+        "confirmed": 75,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 17
         }
       },
       {
         "district": "Kurnool",
-        "confirmed": 77,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -2032,10 +2040,10 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 29,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]
