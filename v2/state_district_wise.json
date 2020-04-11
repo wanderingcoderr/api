@@ -1063,7 +1063,7 @@
       },
       {
         "district": "Erode",
-        "confirmed": 55,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1071,7 +1071,7 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 90,
+        "confirmed": 86,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1417,10 +1417,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 66,
+        "confirmed": 67,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1449,10 +1449,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 42,
+        "confirmed": 47,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1521,10 +1521,10 @@
       },
       {
         "district": "Bidar",
-        "confirmed": 10,
+        "confirmed": 11,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {

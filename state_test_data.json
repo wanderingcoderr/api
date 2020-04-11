@@ -1601,18 +1601,18 @@
 			"updatedon": "11/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "30477",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
+			"positive": "1364",
+			"source": "https://twitter.com/Maha_MEDD",
+			"source2": "https://drive.google.com/file/d/1ID9cPh_Z3PqRiLF5vuyaWcYHA2_-RJQ0/view",
 			"state": "Maharashtra",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "31841",
 			"unconfirmed": "",
 			"updatedon": "11/04/2020"
 		},
