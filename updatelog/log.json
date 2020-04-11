@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Goa\n",
-    "timestamp": 1586497432
-  },
-  {
     "update": "1 new case and 1 recovery in Ladakh\n",
     "timestamp": 1586498042
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 recoveries in Himachal Pradesh\n",
     "timestamp": 1586622841
+  },
+  {
+    "update": "16 new cases, 51 recoveries and 2 deaths in Telangana\n",
+    "timestamp": 1586623439
   }
 ]
