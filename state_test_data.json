@@ -1825,19 +1825,19 @@
 			"updatedon": "11/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "20698",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "579",
+			"source": "https://t.me/indiacovid/2012",
 			"source2": "",
 			"state": "Rajasthan",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "22349",
+			"unconfirmed": "1072",
 			"updatedon": "11/04/2020"
 		},
 		{
