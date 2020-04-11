@@ -33,19 +33,35 @@
 			"updatedon": "01/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "7256",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "265",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
 			"source2": "",
 			"state": "Kerala",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "7965",
+			"unconfirmed": "444",
+			"updatedon": "01/04/2020"
+		},
+		{
+			"negative": "7622",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "286",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+			"source2": "",
+			"state": "Kerala",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "8456",
+			"unconfirmed": "548",
 			"updatedon": "02/04/2020"
 		},
 		{
@@ -257,6 +273,22 @@
 			"updatedon": "04/04/2020"
 		},
 		{
+			"negative": "8586",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "306",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+			"source2": "",
+			"state": "Kerala",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "9744",
+			"unconfirmed": "852",
+			"updatedon": "04/02/2020"
+		},
+		{
 			"negative": "1954",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -318,6 +350,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "1551",
 			"unconfirmed": "16",
+			"updatedon": "05/04/2020"
+		},
+		{
+			"negative": "9300",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "314",
+			"source": "",
+			"source2": "",
+			"state": "Kerala",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "10221",
+			"unconfirmed": "607",
 			"updatedon": "05/04/2020"
 		},
 		{
@@ -433,6 +481,22 @@
 			"updatedon": "06/04/2020"
 		},
 		{
+			"negative": "9607",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "327",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+			"source2": "",
+			"state": "Kerala",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "10716",
+			"unconfirmed": "782",
+			"updatedon": "06/04/2020"
+		},
+		{
 			"negative": "0",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -535,7 +599,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "363",
-			"source": "",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
 			"source2": "",
 			"state": "Rajasthan",
 			"totalpeopleinquarantine": "",
@@ -558,6 +622,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "1487",
 			"unconfirmed": "",
+			"updatedon": "07/04/2020"
+		},
+		{
+			"negative": "10250",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "336",
+			"source": "",
+			"source2": "",
+			"state": "Kerala",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "11232",
+			"unconfirmed": "646",
 			"updatedon": "07/04/2020"
 		},
 		{
