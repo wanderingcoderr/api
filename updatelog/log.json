@@ -1,9 +1,5 @@
 [
   {
-    "update": "9 deaths in Maharashtra\n18 new cases in Telangana\n",
-    "timestamp": 1586439864
-  },
-  {
     "update": "50 new cases in Madhya Pradesh\n1 death in Jammu and Kashmir\n",
     "timestamp": 1586441110
   },
@@ -198,5 +194,9 @@
   {
     "update": "53 new cases and 1 recovery in Gujarat\n",
     "timestamp": 1586585653
+  },
+  {
+    "update": "3 new cases in Jharkhand\n",
+    "timestamp": 1586586271
   }
 ]
