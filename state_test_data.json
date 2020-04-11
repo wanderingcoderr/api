@@ -1720,7 +1720,7 @@
 			"numventilators": "",
 			"positive": "373",
 			"source": "https://dashboard.kerala.gov.in/quarantine-view-public.php",
-			"source2": "",
+			"source2": "https://dashboard.kerala.gov.in/testing-view-public.php",
 			"state": "Kerala",
 			"totalpeopleinquarantine": "814",
 			"totalpeoplereleasedfromquarantine": "",

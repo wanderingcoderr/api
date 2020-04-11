@@ -1,9 +1,5 @@
 [
   {
-    "update": "46 new cases, 4 recoveries and 1 death in Gujarat\n",
-    "timestamp": 1586496896
-  },
-  {
     "update": "1 recovery in Goa\n",
     "timestamp": 1586497432
   },
@@ -198,5 +194,9 @@
   {
     "update": "17 deaths in Maharashtra\n",
     "timestamp": 1586620451
+  },
+  {
+    "update": "2 recoveries in Himachal Pradesh\n",
+    "timestamp": 1586622841
   }
 ]
