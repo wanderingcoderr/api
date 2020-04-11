@@ -2323,6 +2323,14 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 7,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
       }
     ]
   },

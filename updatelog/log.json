@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Uttar Pradesh\n2 new cases in Puducherry\n",
-    "timestamp": 1586521434
-  },
-  {
     "update": "1 new case and 4 recoveries in Haryana\n1 new case in Chandigarh\n",
     "timestamp": 1586522639
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 new cases in Odisha\n3 new cases in Bihar\n",
     "timestamp": 1586628342
+  },
+  {
+    "update": "7 new cases in Chhattisgarh\n",
+    "timestamp": 1586634234
   }
 ]
