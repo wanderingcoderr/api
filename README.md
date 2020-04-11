@@ -15,6 +15,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 | States Daily in csv                                   | http://api.covid19india.org/states_daily_csv/confirmed.csv |
 |                                                       | https://api.covid19india.org/states_daily_csv/deceased.csv |
 |                                                       | https://api.covid19india.org/states_daily_csv/recovered.csv   |
+| Deaths and Recoveries                                 | https://api.covid19india.org/deaths_recoveries.json   |
 
   
 ## Projects Using This API
