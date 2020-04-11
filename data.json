@@ -651,10 +651,10 @@
 	],
 	"statewise": [
 		{
-			"active": "6595",
-			"confirmed": "7618",
+			"active": "6596",
+			"confirmed": "7619",
 			"deaths": "249",
-			"deltaconfirmed": "18",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "11/04/2020 09:50:24",
@@ -783,10 +783,10 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "326",
-			"confirmed": "378",
+			"active": "327",
+			"confirmed": "379",
 			"deaths": "19",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "10/04/2020 20:35:37",
