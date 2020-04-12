@@ -2086,10 +2086,10 @@
   "Chandigarh": {
     "districtData": {
       "Chandigarh": {
-        "confirmed": 19,
+        "confirmed": 21,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     }

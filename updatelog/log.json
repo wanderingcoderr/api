@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Maharashtra\n",
-    "timestamp": 1586543640
-  },
-  {
     "update": "1 death in Andhra Pradesh\n",
     "timestamp": 1586544237
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Jammu and Kashmir\n",
     "timestamp": 1586693671
+  },
+  {
+    "update": "2 new cases in Chandigarh\n",
+    "timestamp": 1586694245
   }
 ]
