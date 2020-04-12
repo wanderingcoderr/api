@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Rajasthan\n4 recoveries in Karnataka\n",
-    "timestamp": 1586535842
-  },
-  {
     "update": "10 recoveries in Odisha\n",
     "timestamp": 1586540649
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 recoveries in Madhya Pradesh\n",
     "timestamp": 1586692436
+  },
+  {
+    "update": "2 new cases and 36 recoveries in Kerala\n20 new cases in Jammu and Kashmir\n",
+    "timestamp": 1586693185
   }
 ]
