@@ -2258,18 +2258,34 @@
 		},
 		{
 			"negative": "",
-			"numcallsstatehelpline": "",
+			"numcallsstatehelpline": "29168",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
+			"positive": "134",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_12.04_.2020_.pdf",
+			"source2": "https://www.mohfw.gov.in/",
 			"state": "West Bengal",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "2523",
 			"unconfirmed": "",
+			"updatedon": "12/04/2020"
+		},
+		{
+			"negative": "10867",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "516",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1204122020080245240.pdf",
+			"source2": "",
+			"state": "Gujarat",
+			"totalpeopleinquarantine": "14013",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "11715",
+			"unconfirmed": "332",
 			"updatedon": "12/04/2020"
 		}
 	]

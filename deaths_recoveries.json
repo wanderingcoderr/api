@@ -23138,21 +23138,21 @@
 			"statecode": "JH"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "60",
 			"city": "",
 			"date": "12/04/2020",
-			"district": "",
-			"gender": "",
+			"district": "Ahmadabad",
+			"gender": "F",
 			"nationality": "",
-			"notes": "",
+			"notes": "lung issues",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "1362",
-			"source1": "",
-			"source2": "",
+			"source1": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1204122020080245240.pdf",
+			"source2": "https://twitter.com/PIBAhmedabad/status/1249341668526100481",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Gujarat",
+			"statecode": "GJ"
 		},
 		{
 			"agebracket": "",

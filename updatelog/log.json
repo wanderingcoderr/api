@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Kerala\n",
-    "timestamp": 1586591637
-  },
-  {
     "update": "3 recoveries in Karnataka\n",
     "timestamp": 1586596459
   },
@@ -198,5 +194,9 @@
   {
     "update": "28 new cases in Uttar Pradesh\n1 death in Haryana\n1 death in Jharkhand\n",
     "timestamp": 1586700343
+  },
+  {
+    "update": "23 new cases and 1 death in Gujarat\n",
+    "timestamp": 1586703248
   }
 ]
