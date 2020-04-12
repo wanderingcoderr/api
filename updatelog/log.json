@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Tripura\n",
-    "timestamp": 1586529259
-  },
-  {
     "update": "3 deaths in Madhya Pradesh\n",
     "timestamp": 1586529853
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 new cases in West Bengal\n",
     "timestamp": 1586681062
+  },
+  {
+    "update": "134 new cases in Maharashtra\n3 recoveries in West Bengal\n",
+    "timestamp": 1586681664
   }
 ]
