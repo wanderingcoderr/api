@@ -658,21 +658,21 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "11",
+			"dailyconfirmed": "19",
 			"dailydeceased": "1",
 			"dailyrecovered": "8",
 			"date": "12 April ",
-			"totalconfirmed": "8465",
+			"totalconfirmed": "8473",
 			"totaldeceased": "293",
 			"totalrecovered": "980"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7194",
-			"confirmed": "8464",
+			"active": "7202",
+			"confirmed": "8472",
 			"deaths": "290",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "19",
 			"deltadeaths": "1",
 			"deltarecovered": "8",
 			"lastupdatedtime": "12/04/2020 13:50:24",
@@ -849,10 +849,10 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "105",
-			"confirmed": "126",
+			"active": "113",
+			"confirmed": "134",
 			"deaths": "5",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "11/04/2020 19:20:26",
