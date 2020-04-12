@@ -1969,6 +1969,22 @@
 			"updatedon": "12/04/2020"
 		},
 		{
+			"negative": "2973",
+			"numcallsstatehelpline": "9845",
+			"numicubeds": "440",
+			"numisolationbeds": "3212",
+			"numventilators": "240",
+			"positive": "29",
+			"source": "https://t.me/indiacovid/2146?single",
+			"source2": "",
+			"state": "Assam",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3138",
+			"unconfirmed": "194",
+			"updatedon": "12/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
