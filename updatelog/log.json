@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 deaths in Madhya Pradesh\n",
-    "timestamp": 1586529853
-  },
-  {
     "update": "1 death in Delhi\n16 new cases in Telangana\n16 new cases in Andhra Pradesh\n70 new cases in Gujarat\n",
     "timestamp": 1586531137
   },
@@ -198,5 +194,9 @@
   {
     "update": "134 new cases in Maharashtra\n3 recoveries in West Bengal\n",
     "timestamp": 1586681664
+  },
+  {
+    "update": "1 new case in Gujarat\n",
+    "timestamp": 1586684644
   }
 ]
