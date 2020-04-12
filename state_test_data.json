@@ -2017,6 +2017,22 @@
 			"updatedon": "12/04/2020"
 		},
 		{
+			"negative": "3856",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "31",
+			"source": "http://cghealth.nic.in/cghealth17/",
+			"source2": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHINDI_12042020.pdf",
+			"state": "Chhattisgarh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3945",
+			"unconfirmed": "58",
+			"updatedon": "12/04/2020"
+		},
+		{
 			"negative": "11748",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
