@@ -206,7 +206,7 @@
       },
       {
         "district": "Karimnagar",
-        "confirmed": 4,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,15 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 317,
+        "confirmed": 286,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Mahabubabad",
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -310,7 +318,7 @@
       },
       {
         "district": "Jogulamba Gadwal",
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -327,6 +335,30 @@
       {
         "district": "Suryapet",
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Kamareddy",
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jayashankar",
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      {
+        "district": "Jangoan",
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0

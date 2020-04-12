@@ -178,7 +178,7 @@
         }
       },
       "Karimnagar": {
-        "confirmed": 4,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -206,7 +206,14 @@
         }
       },
       "Unknown": {
-        "confirmed": 317,
+        "confirmed": 286,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Mahabubabad": {
+        "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -269,7 +276,7 @@
         }
       },
       "Jogulamba Gadwal": {
-        "confirmed": 17,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -284,6 +291,27 @@
       },
       "Suryapet": {
         "confirmed": 3,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Kamareddy": {
+        "confirmed": 10,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jayashankar": {
+        "confirmed": 2,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 0
+        }
+      },
+      "Jangoan": {
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
