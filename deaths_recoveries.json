@@ -23087,18 +23087,18 @@
 			"statecode": "AP"
 		},
 		{
-			"agebracket": "",
-			"city": "",
+			"agebracket": "52",
+			"city": "Dachepalli",
 			"date": "12/04/2020",
-			"district": "",
-			"gender": "",
+			"district": "Guntur",
+			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Died after midnight on April 10. He was primarily a tuberculosis patient.",
 			"patientnumbercouldbemappedlater": "",
 			"patientstatus": "Deceased",
 			"slno": "1359",
 			"source1": "https://twitter.com/ArogyaAndhra/status/1249333135969382400",
-			"source2": "",
+			"source2": "https://www.newindianexpress.com/nation/2020/apr/12/one-more-covid-19-death-reported-in-andhra-pradesh-total-positive-cases-rise-to-420-2129190.html",
 			"source3": "",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
@@ -23259,19 +23259,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
-			"district": "",
+			"date": "12/04/2020",
+			"district": "Mumbai",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "1369",
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Maharashtra",
+			"statecode": "MH"
 		},
 		{
 			"agebracket": "",
@@ -23287,8 +23287,8 @@
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Maharashtra",
+			"statecode": "MH"
 		},
 		{
 			"agebracket": "",
