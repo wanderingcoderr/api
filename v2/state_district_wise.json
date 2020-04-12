@@ -198,7 +198,7 @@
     "districtData": [
       {
         "district": "Hyderabad",
-        "confirmed": 104,
+        "confirmed": 183,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -238,7 +238,7 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 125,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
