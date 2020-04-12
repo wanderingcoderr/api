@@ -21769,13 +21769,13 @@
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Recovered",
 			"slno": "1281",
-			"source1": "",
+			"source1": "http://www.nrhmhp.gov.in/",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Himachal Pradesh",
+			"statecode": "HP"
 		},
 		{
 			"agebracket": "",
