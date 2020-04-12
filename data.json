@@ -658,24 +658,24 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "752",
+			"dailyconfirmed": "753",
 			"dailydeceased": "42",
 			"dailyrecovered": "108",
 			"date": "12 April ",
-			"totalconfirmed": "9205",
+			"totalconfirmed": "9206",
 			"totaldeceased": "334",
 			"totalrecovered": "1080"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7793",
-			"confirmed": "9204",
+			"active": "7794",
+			"confirmed": "9205",
 			"deaths": "331",
-			"deltaconfirmed": "752",
+			"deltaconfirmed": "753",
 			"deltadeaths": "42",
 			"deltarecovered": "108",
-			"lastupdatedtime": "12/04/2020 22:55:24",
+			"lastupdatedtime": "12/04/2020 23:35:24",
 			"recovered": "1080",
 			"state": "Total",
 			"statecode": "TT"
@@ -1101,13 +1101,13 @@
 			"statecode": "ML"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/03/2020 07:19:29",
+			"lastupdatedtime": "12/04/2020 23:35:29",
 			"recovered": "0",
 			"state": "Nagaland",
 			"statecode": "NL"

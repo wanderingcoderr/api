@@ -3262,5 +3262,18 @@
         }
       }
     ]
+  },
+  {
+    "state": "Nagaland",
+    "districtData": [
+      {
+        "district": "Unknown",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    ]
   }
 ]
