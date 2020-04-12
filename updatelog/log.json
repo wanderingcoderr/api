@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Delhi\n16 new cases in Telangana\n16 new cases in Andhra Pradesh\n70 new cases in Gujarat\n",
-    "timestamp": 1586531137
-  },
-  {
     "update": "183 new cases in Delhi\n3 recoveries in Gujarat\n",
     "timestamp": 1586531663
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Gujarat\n",
     "timestamp": 1586684644
+  },
+  {
+    "update": "1 new case in Rajasthan\n24 new cases in Gujarat\n",
+    "timestamp": 1586685241
   }
 ]
