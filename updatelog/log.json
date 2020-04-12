@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 new cases, 13 recoveries and 1 death in Uttar Pradesh\n",
-    "timestamp": 1586614960
-  },
-  {
     "update": "36 new cases, 10 recoveries and 3 deaths in Gujarat\n",
     "timestamp": 1586616870
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 recoveries in Rajasthan\n",
     "timestamp": 1586720645
+  },
+  {
+    "update": "6 new cases in Chhattisgarh\n",
+    "timestamp": 1586727842
   }
 ]
