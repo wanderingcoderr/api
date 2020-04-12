@@ -658,24 +658,24 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "329",
+			"dailyconfirmed": "330",
 			"dailydeceased": "4",
 			"dailyrecovered": "51",
 			"date": "12 April ",
-			"totalconfirmed": "8783",
+			"totalconfirmed": "8784",
 			"totaldeceased": "296",
 			"totalrecovered": "1023"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7466",
-			"confirmed": "8782",
+			"active": "7467",
+			"confirmed": "8783",
 			"deaths": "293",
-			"deltaconfirmed": "329",
+			"deltaconfirmed": "330",
 			"deltadeaths": "4",
 			"deltarecovered": "51",
-			"lastupdatedtime": "12/04/2020 17:35:24",
+			"lastupdatedtime": "12/04/2020 17:40:24",
 			"recovered": "1023",
 			"state": "Total",
 			"statecode": "TT"
@@ -825,13 +825,13 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "234",
-			"confirmed": "244",
+			"active": "235",
+			"confirmed": "245",
 			"deaths": "4",
-			"deltaconfirmed": "20",
+			"deltaconfirmed": "21",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 17:35:29",
+			"lastupdatedtime": "12/04/2020 17:40:25",
 			"recovered": "6",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK"
