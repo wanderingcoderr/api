@@ -24139,6 +24139,23 @@
 			"source3": "",
 			"state": "Rajasthan",
 			"statecode": "RJ"
+		},
+		{
+			"agebracket": "",
+			"city": "",
+			"date": "12/04/2020",
+			"district": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"patientnumbercouldbemappedlater": "",
+			"patientstatus": "Recovered",
+			"slno": "",
+			"source1": "http://www.cghealth.nic.in/cghealth17/",
+			"source2": "",
+			"source3": "",
+			"state": "Chhattisgarh",
+			"statecode": "CT"
 		}
 	]
 }
