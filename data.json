@@ -658,21 +658,21 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "277",
+			"dailyconfirmed": "307",
 			"dailydeceased": "4",
 			"dailyrecovered": "12",
 			"date": "12 April ",
-			"totalconfirmed": "8731",
+			"totalconfirmed": "8761",
 			"totaldeceased": "296",
 			"totalrecovered": "984"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7453",
-			"confirmed": "8730",
+			"active": "7483",
+			"confirmed": "8760",
 			"deaths": "293",
-			"deltaconfirmed": "277",
+			"deltaconfirmed": "307",
 			"deltadeaths": "4",
 			"deltarecovered": "12",
 			"lastupdatedtime": "12/04/2020 16:20:24",
@@ -777,10 +777,10 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "451",
-			"confirmed": "532",
+			"active": "481",
+			"confirmed": "562",
 			"deaths": "43",
-			"deltaconfirmed": "3",
+			"deltaconfirmed": "33",
 			"deltadeaths": "3",
 			"deltarecovered": "0",
 			"lastupdatedtime": "12/04/2020 16:20:25",
