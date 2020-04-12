@@ -1400,10 +1400,10 @@
         }
       },
       "Thane": {
-        "confirmed": 143,
+        "confirmed": 145,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Raigarh": {
@@ -1568,10 +1568,10 @@
         }
       },
       "Unknown": {
-        "confirmed": 16,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 16
+          "confirmed": 14
         }
       }
     }
