@@ -1417,10 +1417,10 @@
     "districtData": [
       {
         "district": "Bengaluru",
-        "confirmed": 73,
+        "confirmed": 76,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1441,10 +1441,10 @@
       },
       {
         "district": "Mysuru",
-        "confirmed": 47,
+        "confirmed": 48,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2029,7 +2029,7 @@
     "districtData": [
       {
         "district": "Dehradun",
-        "confirmed": 14,
+        "confirmed": 18,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2053,7 +2053,7 @@
       },
       {
         "district": "Nainital",
-        "confirmed": 6,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2070,14 +2070,6 @@
       {
         "district": "Almora",
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 6,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
