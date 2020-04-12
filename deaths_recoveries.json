@@ -21508,19 +21508,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
-			"district": "",
+			"date": "12/04/2020",
+			"district": "Ahmadabad",
 			"gender": "",
 			"nationality": "",
-			"notes": "",
+			"notes": "Details awaited",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "1266",
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Gujarat",
+			"statecode": "GJ"
 		},
 		{
 			"agebracket": "",

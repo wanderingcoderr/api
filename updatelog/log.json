@@ -1,9 +1,5 @@
 [
   {
-    "update": "77 new cases in Tamil Nadu\n7 new cases and 27 recoveries in Kerala\n",
-    "timestamp": 1586523932
-  },
-  {
     "update": "17 recoveries in Tamil Nadu\n",
     "timestamp": 1586524458
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Rajasthan\n",
     "timestamp": 1586639129
+  },
+  {
+    "update": "1 death in Gujarat\n",
+    "timestamp": 1586670860
   }
 ]
