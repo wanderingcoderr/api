@@ -659,24 +659,24 @@
 		},
 		{
 			"dailyconfirmed": "444",
-			"dailydeceased": "4",
-			"dailyrecovered": "51",
+			"dailydeceased": "5",
+			"dailyrecovered": "64",
 			"date": "12 April ",
 			"totalconfirmed": "8898",
-			"totaldeceased": "296",
-			"totalrecovered": "1023"
+			"totaldeceased": "297",
+			"totalrecovered": "1036"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7581",
+			"active": "7567",
 			"confirmed": "8897",
-			"deaths": "293",
+			"deaths": "294",
 			"deltaconfirmed": "444",
-			"deltadeaths": "4",
-			"deltarecovered": "51",
-			"lastupdatedtime": "12/04/2020 18:00:24",
-			"recovered": "1023",
+			"deltadeaths": "5",
+			"deltarecovered": "64",
+			"lastupdatedtime": "12/04/2020 18:10:24",
+			"recovered": "1036",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -693,14 +693,14 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "1021",
+			"active": "1014",
 			"confirmed": "1075",
-			"deaths": "10",
+			"deaths": "11",
 			"deltaconfirmed": "106",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 18:00:24",
-			"recovered": "44",
+			"deltadeaths": "1",
+			"deltarecovered": "6",
+			"lastupdatedtime": "12/04/2020 18:10:24",
+			"recovered": "50",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
@@ -789,14 +789,14 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "179",
+			"active": "172",
 			"confirmed": "232",
 			"deaths": "6",
 			"deltaconfirmed": "17",
 			"deltadeaths": "0",
-			"deltarecovered": "8",
+			"deltarecovered": "15",
 			"lastupdatedtime": "12/04/2020 13:50:25",
-			"recovered": "47",
+			"recovered": "54",
 			"state": "Karnataka",
 			"statecode": "KA"
 		},
