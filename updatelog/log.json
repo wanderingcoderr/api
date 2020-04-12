@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Gujarat\n",
-    "timestamp": 1586585143
-  },
-  {
     "update": "53 new cases and 1 recovery in Gujarat\n",
     "timestamp": 1586585653
   },
@@ -198,5 +194,9 @@
   {
     "update": "16 new cases and 8 recoveries in Haryana\n4 recoveries in Bihar\n",
     "timestamp": 1586696770
+  },
+  {
+    "update": "12 new cases in Punjab\n",
+    "timestamp": 1586697266
   }
 ]
