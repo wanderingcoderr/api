@@ -1465,7 +1465,7 @@
       },
       {
         "district": "Dakshina Kannada",
-        "confirmed": 11,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1481,7 +1481,7 @@
       },
       {
         "district": "Udupi",
-        "confirmed": 4,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
