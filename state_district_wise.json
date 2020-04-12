@@ -1242,10 +1242,10 @@
         }
       },
       "Kalaburagi": {
-        "confirmed": 10,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       "Kodagu": {
@@ -1333,10 +1333,10 @@
         }
       },
       "Belagavi": {
-        "confirmed": 10,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       "Bengaluru Rural": {
@@ -1358,6 +1358,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Vijayapura": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
