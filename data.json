@@ -658,24 +658,24 @@
 			"totalrecovered": "972"
 		},
 		{
-			"dailyconfirmed": "623",
+			"dailyconfirmed": "627",
 			"dailydeceased": "14",
 			"dailyrecovered": "89",
 			"date": "12 April ",
-			"totalconfirmed": "9076",
+			"totalconfirmed": "9080",
 			"totaldeceased": "306",
 			"totalrecovered": "1061"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7711",
-			"confirmed": "9075",
+			"active": "7715",
+			"confirmed": "9079",
 			"deaths": "303",
-			"deltaconfirmed": "623",
+			"deltaconfirmed": "627",
 			"deltadeaths": "14",
 			"deltarecovered": "89",
-			"lastupdatedtime": "12/04/2020 20:35:24",
+			"lastupdatedtime": "12/04/2020 20:40:24",
 			"recovered": "1061",
 			"state": "Total",
 			"statecode": "TT"
@@ -711,7 +711,7 @@
 			"deltaconfirmed": "85",
 			"deltadeaths": "5",
 			"deltarecovered": "1",
-			"lastupdatedtime": "12/04/2020 20:30:25",
+			"lastupdatedtime": "12/04/2020 20:35:25",
 			"recovered": "28",
 			"state": "Delhi",
 			"statecode": "DL"
@@ -753,13 +753,13 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "430",
-			"confirmed": "480",
+			"active": "433",
+			"confirmed": "483",
 			"deaths": "5",
-			"deltaconfirmed": "28",
+			"deltaconfirmed": "31",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 19:35:31",
+			"lastupdatedtime": "12/04/2020 20:40:25",
 			"recovered": "45",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -825,10 +825,10 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "234",
-			"confirmed": "244",
+			"active": "235",
+			"confirmed": "245",
 			"deaths": "4",
-			"deltaconfirmed": "21",
+			"deltaconfirmed": "22",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "12/04/2020 19:20:26",
