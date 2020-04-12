@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 recoveries in Kerala\n2 new cases and 4 recoveries in Himachal Pradesh\n",
-    "timestamp": 1586609645
-  },
-  {
     "update": "58 new cases and 1 death in Tamil Nadu\n24 new cases in Andhra Pradesh\n7 new cases and 1 death in Punjab\n",
     "timestamp": 1586611663
   },
@@ -198,5 +194,9 @@
   {
     "update": "28 new cases, 7 recoveries and 2 deaths in Telangana\n2 new cases in Jharkhand\n",
     "timestamp": 1586708644
+  },
+  {
+    "update": "2 deaths in Rajasthan\n",
+    "timestamp": 1586711119
   }
 ]
