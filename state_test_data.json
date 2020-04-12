@@ -2001,19 +2001,19 @@
 			"updatedon": "12/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "11748",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "1154",
+			"source": "https://twitter.com/CMODelhi/status/1249350539973812224",
 			"source2": "",
 			"state": "Delhi",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "14036",
+			"unconfirmed": "984",
 			"updatedon": "12/04/2020"
 		},
 		{
@@ -2033,19 +2033,19 @@
 			"updatedon": "12/04/2020"
 		},
 		{
-			"negative": "10397",
+			"negative": "10867",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "493",
-			"source": "https://gujcovid19.gujarat.gov.in/",
-			"source2": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1204122020105602198.pdf",
+			"positive": "516",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1204122020080245240.pdf",
+			"source2": "https://gujcovid19.gujarat.gov.in/",
 			"state": "Gujarat",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "14013",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "10994",
-			"unconfirmed": "116",
+			"totaltested": "11715",
+			"unconfirmed": "332",
 			"updatedon": "12/04/2020"
 		},
 		{
@@ -2270,22 +2270,6 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "2523",
 			"unconfirmed": "",
-			"updatedon": "12/04/2020"
-		},
-		{
-			"negative": "10867",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "516",
-			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief1204122020080245240.pdf",
-			"source2": "",
-			"state": "Gujarat",
-			"totalpeopleinquarantine": "14013",
-			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "11715",
-			"unconfirmed": "332",
 			"updatedon": "12/04/2020"
 		}
 	]
