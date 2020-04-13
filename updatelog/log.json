@@ -1,9 +1,5 @@
 [
   {
-    "update": "106 new cases in Tamil Nadu\n6 new cases in Karnataka\n",
-    "timestamp": 1586694847
-  },
-  {
     "update": "6 recoveries and 1 death in Tamil Nadu\n7 recoveries in Karnataka\n",
     "timestamp": 1586695455
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Karnataka\n1 new case in Meghalaya\n",
     "timestamp": 1586798669
+  },
+  {
+    "update": "12 recoveries in Maharashtra\n",
+    "timestamp": 1586799863
   }
 ]
