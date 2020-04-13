@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Odisha\n3 new cases in Bihar\n",
-    "timestamp": 1586628342
-  },
-  {
     "update": "7 new cases in Chhattisgarh\n",
     "timestamp": 1586634234
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases and 19 recoveries in Kerala\n",
     "timestamp": 1586782057
+  },
+  {
+    "update": "98 new cases in Tamil Nadu\n2 recoveries in Jammu and Kashmir\n6 new cases and 2 recoveries in Punjab\n",
+    "timestamp": 1586782465
   }
 ]
