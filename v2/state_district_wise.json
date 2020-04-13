@@ -555,10 +555,10 @@
       },
       {
         "district": "Bharatpur",
-        "confirmed": 9,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 10
         }
       },
       {
@@ -579,7 +579,7 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 52,
+        "confirmed": 53,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -647,14 +647,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 4,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 1
         }
       }
     ]
