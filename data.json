@@ -668,24 +668,24 @@
 		},
 		{
 			"dailyconfirmed": "387",
-			"dailydeceased": "4",
-			"dailyrecovered": "68",
+			"dailydeceased": "10",
+			"dailyrecovered": "78",
 			"date": "13 April ",
 			"totalconfirmed": "9599",
-			"totaldeceased": "338",
-			"totalrecovered": "1154"
+			"totaldeceased": "344",
+			"totalrecovered": "1164"
 		}
 	],
 	"statewise": [
 		{
-			"active": "8109",
+			"active": "8093",
 			"confirmed": "9598",
-			"deaths": "335",
+			"deaths": "341",
 			"deltaconfirmed": "387",
-			"deltadeaths": "4",
-			"deltarecovered": "68",
-			"lastupdatedtime": "13/04/2020 20:10:24",
-			"recovered": "1154",
+			"deltadeaths": "10",
+			"deltarecovered": "78",
+			"lastupdatedtime": "13/04/2020 20:20:24",
+			"recovered": "1164",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -743,14 +743,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "529",
+			"active": "513",
 			"confirmed": "614",
-			"deaths": "44",
+			"deaths": "50",
 			"deltaconfirmed": "52",
-			"deltadeaths": "1",
-			"deltarecovered": "0",
-			"lastupdatedtime": "13/04/2020 20:10:25",
-			"recovered": "41",
+			"deltadeaths": "7",
+			"deltarecovered": "10",
+			"lastupdatedtime": "13/04/2020 20:20:25",
+			"recovered": "51",
 			"state": "Madhya Pradesh",
 			"statecode": "MP",
 			"statenotes": ""
