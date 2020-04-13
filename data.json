@@ -667,25 +667,25 @@
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "387",
+			"dailyconfirmed": "421",
 			"dailydeceased": "10",
-			"dailyrecovered": "78",
+			"dailyrecovered": "85",
 			"date": "13 April ",
-			"totalconfirmed": "9599",
+			"totalconfirmed": "9633",
 			"totaldeceased": "344",
-			"totalrecovered": "1164"
+			"totalrecovered": "1171"
 		}
 	],
 	"statewise": [
 		{
-			"active": "8093",
-			"confirmed": "9598",
+			"active": "8120",
+			"confirmed": "9632",
 			"deaths": "341",
-			"deltaconfirmed": "387",
+			"deltaconfirmed": "421",
 			"deltadeaths": "10",
-			"deltarecovered": "78",
-			"lastupdatedtime": "13/04/2020 20:20:24",
-			"recovered": "1164",
+			"deltarecovered": "85",
+			"lastupdatedtime": "13/04/2020 20:30:26",
+			"recovered": "1171",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -756,14 +756,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "465",
-			"confirmed": "538",
+			"active": "492",
+			"confirmed": "572",
 			"deaths": "26",
-			"deltaconfirmed": "22",
+			"deltaconfirmed": "56",
 			"deltadeaths": "2",
-			"deltarecovered": "3",
-			"lastupdatedtime": "13/04/2020 13:07:42",
-			"recovered": "47",
+			"deltarecovered": "10",
+			"lastupdatedtime": "13/04/2020 20:30:27",
+			"recovered": "54",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
