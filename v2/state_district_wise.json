@@ -1154,18 +1154,18 @@
     "districtData": [
       {
         "district": "Leh",
-        "confirmed": 12,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Kargil",
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       }
     ]

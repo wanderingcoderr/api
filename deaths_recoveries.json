@@ -25809,19 +25809,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Recovered",
 			"slno": "1519",
-			"source1": "",
+			"source1": "https://twitter.com/ladags/status/1249711729786814464",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Ladakh",
+			"statecode": "LA"
 		},
 		{
 			"agebracket": "",

@@ -667,25 +667,25 @@
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "426",
+			"dailyconfirmed": "428",
 			"dailydeceased": "10",
-			"dailyrecovered": "87",
+			"dailyrecovered": "88",
 			"date": "13 April ",
-			"totalconfirmed": "9638",
+			"totalconfirmed": "9640",
 			"totaldeceased": "344",
-			"totalrecovered": "1173"
+			"totalrecovered": "1174"
 		}
 	],
 	"statewise": [
 		{
-			"active": "8123",
-			"confirmed": "9637",
+			"active": "8124",
+			"confirmed": "9639",
 			"deaths": "341",
-			"deltaconfirmed": "426",
+			"deltaconfirmed": "428",
 			"deltadeaths": "10",
-			"deltarecovered": "87",
-			"lastupdatedtime": "13/04/2020 20:50:24",
-			"recovered": "1173",
+			"deltarecovered": "88",
+			"lastupdatedtime": "13/04/2020 21:10:24",
+			"recovered": "1174",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -990,14 +990,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "4",
-			"confirmed": "15",
+			"active": "5",
+			"confirmed": "17",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 11:20:26",
-			"recovered": "11",
+			"deltarecovered": "1",
+			"lastupdatedtime": "13/04/2020 21:10:27",
+			"recovered": "12",
 			"state": "Ladakh",
 			"statecode": "LA",
 			"statenotes": ""

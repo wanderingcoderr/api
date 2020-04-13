@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 deaths in Madhya Pradesh\n",
-    "timestamp": 1586688848
-  },
-  {
     "update": "1 recovery in Himachal Pradesh\n",
     "timestamp": 1586690044
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 new cases in Jharkhand\n",
     "timestamp": 1586791451
+  },
+  {
+    "update": "2 new cases and 1 recovery in Ladakh\n",
+    "timestamp": 1586792684
   }
 ]
