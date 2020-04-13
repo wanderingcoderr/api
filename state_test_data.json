@@ -2625,19 +2625,19 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "1665",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "35",
+			"source": "https://www.facebook.com/UKMedicalHealth/photos/a.1933022463614120/2565229507060076/?type=3&theater",
 			"source2": "",
 			"state": "Uttarakhand",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "1814",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "1998",
+			"unconfirmed": "298",
 			"updatedon": "13/04/2020"
 		},
 		{

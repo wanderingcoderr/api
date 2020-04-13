@@ -3291,5 +3291,18 @@
         }
       }
     ]
+  },
+  {
+    "state": "Meghalaya",
+    "districtData": [
+      {
+        "district": "East Khasi Hills",
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
+        }
+      }
+    ]
   }
 ]
