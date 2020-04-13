@@ -2401,19 +2401,35 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "263",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "21",
+			"source": "http://chdcovid19.in",
+			"source2": "",
+			"state": "Chandigarh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "296",
+			"unconfirmed": "11",
+			"updatedon": "13/04/2020"
+		},
+		{
+			"negative": "3969",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "31",
+			"source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHINDI_13042020.pdf",
 			"source2": "",
 			"state": "Chhattisgarh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "4377",
+			"unconfirmed": "377",
 			"updatedon": "13/04/2020"
 		},
 		{
@@ -2430,6 +2446,22 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "15032",
 			"unconfirmed": "1008",
+			"updatedon": "13/04/2020"
+		},
+		{
+			"negative": "30",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "7",
+			"source": "https://t.me/indiacovid/2180",
+			"source2": "",
+			"state": "Goa",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "440",
+			"unconfirmed": "12",
 			"updatedon": "13/04/2020"
 		},
 		{
