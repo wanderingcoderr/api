@@ -1460,7 +1460,7 @@
       },
       {
         "district": "Srinagar",
-        "confirmed": 28,
+        "confirmed": 57,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1468,7 +1468,7 @@
       },
       {
         "district": "Bandipore",
-        "confirmed": 44,
+        "confirmed": 42,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1492,7 +1492,7 @@
       },
       {
         "district": "Baramula",
-        "confirmed": 36,
+        "confirmed": 37,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1500,15 +1500,7 @@
       },
       {
         "district": "Shupiyan",
-        "confirmed": 15,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 8,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1516,15 +1508,7 @@
       },
       {
         "district": "Udhampur",
-        "confirmed": 18,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      {
-        "district": "Kashmir",
-        "confirmed": 20,
+        "confirmed": 19,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1750,18 +1734,18 @@
     "districtData": [
       {
         "district": "Pune",
-        "confirmed": 263,
+        "confirmed": 266,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Mumbai",
-        "confirmed": 1298,
+        "confirmed": 1357,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 59
         }
       },
       {
@@ -1782,10 +1766,10 @@
       },
       {
         "district": "Thane",
-        "confirmed": 185,
+        "confirmed": 190,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1822,10 +1806,10 @@
       },
       {
         "district": "Palghar",
-        "confirmed": 25,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1894,10 +1878,10 @@
       },
       {
         "district": "Nashik",
-        "confirmed": 18,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
@@ -2160,26 +2144,26 @@
       },
       {
         "district": "Krishna",
-        "confirmed": 35,
+        "confirmed": 36,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Chittoor",
-        "confirmed": 21,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Guntur",
-        "confirmed": 82,
+        "confirmed": 90,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 8
         }
       },
       {
@@ -2200,10 +2184,10 @@
       },
       {
         "district": "West Godavari",
-        "confirmed": 22,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -2212,14 +2196,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 12,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 12
         }
       }
     ]
@@ -2970,10 +2946,10 @@
       },
       {
         "district": "Begusarai",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -3208,10 +3184,10 @@
       },
       {
         "district": "Dhubri",
-        "confirmed": 2,
+        "confirmed": 3,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
