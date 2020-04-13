@@ -25197,19 +25197,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Recovered",
 			"slno": "1483",
-			"source1": "",
-			"source2": "",
+			"source1": "https://twitter.com/CMofKarnataka/status/1249680328458768384",
+			"source2": "Evening Bulletin",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Karnataka",
+			"statecode": "KA"
 		},
 		{
 			"agebracket": "",
