@@ -435,10 +435,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 361,
+        "confirmed": 370,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 20
+          "confirmed": 29
         }
       },
       {
@@ -459,10 +459,10 @@
       },
       {
         "district": "Jodhpur",
-        "confirmed": 58,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 7
+          "confirmed": 31
         }
       },
       {
@@ -579,10 +579,10 @@
       },
       {
         "district": "Banswara",
-        "confirmed": 53,
+        "confirmed": 59,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 7
         }
       },
       {
@@ -603,18 +603,18 @@
       },
       {
         "district": "Jaisalmer",
-        "confirmed": 29,
+        "confirmed": 31,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
         "district": "Kota",
-        "confirmed": 40,
+        "confirmed": 49,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -821,10 +821,10 @@
     "districtData": [
       {
         "district": "Agra",
-        "confirmed": 104,
+        "confirmed": 139,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 35
         }
       },
       {
@@ -837,18 +837,18 @@
       },
       {
         "district": "Lucknow",
-        "confirmed": 29,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Gautam Buddha Nagar",
-        "confirmed": 62,
+        "confirmed": 66,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {

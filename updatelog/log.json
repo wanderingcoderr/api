@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Himachal Pradesh\n",
-    "timestamp": 1586690044
-  },
-  {
     "update": "30 new cases in Madhya Pradesh\n",
     "timestamp": 1586691874
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases and 1 recovery in Ladakh\n",
     "timestamp": 1586792684
+  },
+  {
+    "update": "50 new cases in Rajasthan\n43 new cases in Uttar Pradesh\n",
+    "timestamp": 1586793241
   }
 ]
