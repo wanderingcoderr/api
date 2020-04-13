@@ -667,25 +667,25 @@
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "220",
+			"dailyconfirmed": "223",
 			"dailydeceased": "4",
-			"dailyrecovered": "23",
+			"dailyrecovered": "42",
 			"date": "13 April ",
-			"totalconfirmed": "9432",
+			"totalconfirmed": "9435",
 			"totaldeceased": "338",
-			"totalrecovered": "1109"
+			"totalrecovered": "1128"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7987",
-			"confirmed": "9431",
+			"active": "7971",
+			"confirmed": "9434",
 			"deaths": "335",
-			"deltaconfirmed": "220",
+			"deltaconfirmed": "223",
 			"deltadeaths": "4",
-			"deltarecovered": "23",
-			"lastupdatedtime": "13/04/2020 17:36:12",
-			"recovered": "1109",
+			"deltarecovered": "42",
+			"lastupdatedtime": "13/04/2020 18:16:45",
+			"recovered": "1128",
 			"state": "Total",
 			"statecode": "TT"
 		},
@@ -798,14 +798,14 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "194",
-			"confirmed": "375",
+			"active": "178",
+			"confirmed": "378",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "19",
 			"lastupdatedtime": "12/04/2020 17:35:25",
-			"recovered": "179",
+			"recovered": "198",
 			"state": "Kerala",
 			"statecode": "KL"
 		},

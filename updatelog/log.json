@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 recoveries in Goa\n",
-    "timestamp": 1586627644
-  },
-  {
     "update": "4 new cases in Odisha\n3 new cases in Bihar\n",
     "timestamp": 1586628342
   },
@@ -198,5 +194,9 @@
   {
     "update": "25 new cases in Jammu and Kashmir\n",
     "timestamp": 1586779577
+  },
+  {
+    "update": "3 new cases and 19 recoveries in Kerala\n",
+    "timestamp": 1586782057
   }
 ]

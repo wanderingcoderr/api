@@ -36,10 +36,10 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 71,
+        "confirmed": 73,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -92,10 +92,10 @@
       },
       {
         "district": "Palakkad",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
