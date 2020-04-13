@@ -1183,10 +1183,10 @@
       },
       {
         "district": "Chennai",
-        "confirmed": 200,
+        "confirmed": 209,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -1199,10 +1199,10 @@
       },
       {
         "district": "Coimbatore",
-        "confirmed": 119,
+        "confirmed": 126,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 7
         }
       },
       {
@@ -1215,26 +1215,26 @@
       },
       {
         "district": "Tiruppur",
-        "confirmed": 61,
+        "confirmed": 79,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 18
         }
       },
       {
         "district": "Madurai",
-        "confirmed": 25,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 14
         }
       },
       {
         "district": "Chengalpattu",
-        "confirmed": 42,
+        "confirmed": 44,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1263,34 +1263,34 @@
       },
       {
         "district": "Vellore",
-        "confirmed": 12,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Virudhunagar",
-        "confirmed": 11,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 6
         }
       },
       {
         "district": "Karur",
-        "confirmed": 25,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 15
         }
       },
       {
         "district": "Tiruvannamalai",
-        "confirmed": 7,
+        "confirmed": 8,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1319,10 +1319,10 @@
       },
       {
         "district": "Thoothukkudi",
-        "confirmed": 24,
+        "confirmed": 26,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1343,50 +1343,50 @@
       },
       {
         "district": "Sivaganga",
-        "confirmed": 6,
+        "confirmed": 10,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Tirupathur",
-        "confirmed": 16,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
         "district": "Thiruvarur",
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Ramanathapuram",
-        "confirmed": 2,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
         "district": "Thiruvallur",
-        "confirmed": 30,
+        "confirmed": 34,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
         "district": "Nagapattinam",
-        "confirmed": 24,
+        "confirmed": 29,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 5
         }
       },
       {
@@ -1444,14 +1444,6 @@
         "delta": {
           "confirmed": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 98,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 98
-        }
       }
     ]
   },
@@ -1468,18 +1460,18 @@
       },
       {
         "district": "Srinagar",
-        "confirmed": 57,
+        "confirmed": 69,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 12
         }
       },
       {
         "district": "Bandipore",
-        "confirmed": 42,
+        "confirmed": 51,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 9
         }
       },
       {
@@ -1500,10 +1492,10 @@
       },
       {
         "district": "Baramula",
-        "confirmed": 37,
+        "confirmed": 40,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -1548,10 +1540,10 @@
       },
       {
         "district": "Kulgam",
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -1576,14 +1568,6 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "confirmed": 25,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 25
         }
       }
     ]
