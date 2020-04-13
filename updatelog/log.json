@@ -1,9 +1,5 @@
 [
   {
-    "update": "8 new cases in West Bengal\n",
-    "timestamp": 1586681062
-  },
-  {
     "update": "134 new cases in Maharashtra\n3 recoveries in West Bengal\n",
     "timestamp": 1586681664
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 recoveries in Jammu and Kashmir\n",
     "timestamp": 1586786721
+  },
+  {
+    "update": "52 new cases in Madhya Pradesh\n",
+    "timestamp": 1586789061
   }
 ]

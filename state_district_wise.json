@@ -2513,6 +2513,13 @@
         "delta": {
           "confirmed": 0
         }
+      },
+      "Unknown": {
+        "confirmed": 52,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 52
+        }
       }
     }
   },
