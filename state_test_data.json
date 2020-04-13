@@ -2449,19 +2449,19 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "2796",
+			"negative": "2961",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "182",
-			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Bulletin%2013th%20April%20morning.pdf",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/bulletin%201342020%20Evening.pdf",
 			"source2": "http://www.nhmharyana.gov.in/page.aspx?id=208",
 			"state": "Haryana",
-			"totalpeopleinquarantine": "1038",
+			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "4322",
-			"unconfirmed": "1344",
+			"totaltested": "4489",
+			"unconfirmed": "1346",
 			"updatedon": "13/04/2020"
 		},
 		{
@@ -2599,7 +2599,7 @@
 			"numisolationbeds": "29074",
 			"numventilators": "3371",
 			"positive": "1173",
-			"source": "",
+			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-13.04.2020-5pages-English-181-KB.pdf",
 			"source2": "",
 			"state": "Tamil Nadu",
 			"totalpeopleinquarantine": "",
