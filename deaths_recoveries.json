@@ -24328,26 +24328,26 @@
 			"statecode": "WB"
 		},
 		{
-			"agebracket": "",
-			"city": "",
-			"date": "",
-			"district": "",
-			"gender": "",
+			"agebracket": "60",
+			"city": "Dharavi",
+			"date": "13/04/2020",
+			"district": "Mumbai",
+			"gender": "M",
 			"nationality": "",
-			"notes": "",
+			"notes": "Man from Nehru chawl, who died at Sion Hospital, came out positive for the viral disease",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "1432",
-			"source1": "",
+			"source1": "https://www.indiatoday.in/india/story/4-new-covid-19-cases-including-one-death-in-dharavi-1666347-2020-04-13",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Maharashtra",
+			"statecode": "MH"
 		},
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24364,7 +24364,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24381,7 +24381,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24398,7 +24398,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24415,7 +24415,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24432,7 +24432,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24449,7 +24449,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24466,7 +24466,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
@@ -24483,7 +24483,7 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",

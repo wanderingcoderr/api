@@ -1,9 +1,5 @@
 [
   {
-    "update": "17 deaths in Maharashtra\n",
-    "timestamp": 1586620451
-  },
-  {
     "update": "2 recoveries in Himachal Pradesh\n",
     "timestamp": 1586622841
   },
@@ -198,5 +194,9 @@
   {
     "update": "18 new cases and 10 recoveries in West Bengal\n",
     "timestamp": 1586751849
+  },
+  {
+    "update": "1 death in Maharashtra\n",
+    "timestamp": 1586754292
   }
 ]
