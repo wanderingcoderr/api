@@ -2225,6 +2225,22 @@
 			"updatedon": "12/04/2020"
 		},
 		{
+			"negative": "70",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "0",
+			"source": "http://morungexpress.com/nagaland-covid-19-update-6",
+			"source2": "",
+			"state": "Nagaland",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "74",
+			"unconfirmed": "4",
+			"updatedon": "12/04/2020"
+		},
+		{
 			"negative": "54",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
