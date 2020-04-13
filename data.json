@@ -667,21 +667,21 @@
 			"totalrecovered": "1086"
 		},
 		{
-			"dailyconfirmed": "29",
+			"dailyconfirmed": "41",
 			"dailydeceased": "1",
 			"dailyrecovered": "10",
 			"date": "13 April ",
-			"totalconfirmed": "9241",
+			"totalconfirmed": "9253",
 			"totaldeceased": "335",
 			"totalrecovered": "1096"
 		}
 	],
 	"statewise": [
 		{
-			"active": "7812",
-			"confirmed": "9240",
+			"active": "7824",
+			"confirmed": "9252",
 			"deaths": "332",
-			"deltaconfirmed": "29",
+			"deltaconfirmed": "41",
 			"deltadeaths": "1",
 			"deltarecovered": "10",
 			"lastupdatedtime": "13/04/2020 10:32:24",
@@ -786,10 +786,10 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "401",
-			"confirmed": "420",
+			"active": "413",
+			"confirmed": "432",
 			"deaths": "7",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "12",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "12/04/2020 19:20:25",

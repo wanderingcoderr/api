@@ -1533,14 +1533,14 @@
         }
       },
       "Mumbai": {
-        "confirmed": 1297,
+        "confirmed": 1298,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Nagpur": {
-        "confirmed": 25,
+        "confirmed": 28,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1554,14 +1554,14 @@
         }
       },
       "Thane": {
-        "confirmed": 182,
+        "confirmed": 185,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Raigarh": {
-        "confirmed": 8,
+        "confirmed": 12,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1722,7 +1722,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 24,
+        "confirmed": 13,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1930,6 +1930,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 12
         }
       }
     }
