@@ -25894,19 +25894,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "13/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "1524",
-			"source1": "",
+			"source1": "https://twitter.com/TOIHyderabad/status/1249735676251127808",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Telangana",
+			"statecode": "TG"
 		},
 		{
 			"agebracket": "",

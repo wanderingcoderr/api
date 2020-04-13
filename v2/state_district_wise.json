@@ -238,10 +238,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 60,
+        "confirmed": 121,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 61
         }
       },
       {
@@ -1978,6 +1978,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 100,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 100
         }
       }
     ]
