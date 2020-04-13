@@ -2529,6 +2529,22 @@
 			"updatedon": "13/04/2020"
 		},
 		{
+			"negative": "1963",
+			"numcallsstatehelpline": "",
+			"numicubeds": "239",
+			"numisolationbeds": "2891",
+			"numventilators": "",
+			"positive": "19",
+			"source": "https://twitter.com/RanchiPIB/status/1249748332857053186?s=20",
+			"source2": "",
+			"state": "Jharkhand",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2523",
+			"unconfirmed": "541",
+			"updatedon": "13/04/2020"
+		},
+		{
 			"negative": "9572",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
