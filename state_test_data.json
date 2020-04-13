@@ -2417,19 +2417,19 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "12283",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "1510",
+			"source": "https://twitter.com/CMODelhi/status/1249744159491031047/photo/2",
 			"source2": "",
-			"state": "Goa",
+			"state": "Delhi",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "15032",
+			"unconfirmed": "1008",
 			"updatedon": "13/04/2020"
 		},
 		{
@@ -2513,19 +2513,19 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "14829",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
-			"state": "Madhya Pradesh",
+			"positive": "378",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+			"source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-13.pdf",
+			"state": "Kerala",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "15683",
+			"unconfirmed": "476",
 			"updatedon": "13/04/2020"
 		},
 		{
@@ -2577,6 +2577,22 @@
 			"updatedon": "13/04/2020"
 		},
 		{
+			"negative": "3858",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "176",
+			"source": "http://pbhealth.gov.in/Media%20bulletin%20-%2013-04-2020.pdf",
+			"source2": "http://pbhealth.gov.in/",
+			"state": "Punjab",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "4480",
+			"unconfirmed": "446",
+			"updatedon": "13/04/2020"
+		},
+		{
 			"negative": "28657",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -2625,19 +2641,19 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "12542",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "558",
+			"source": "https://t.me/indiacovid/2199",
 			"source2": "",
-			"state": "West Bengal",
+			"state": "Uttar Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "13287",
+			"unconfirmed": "177",
 			"updatedon": "13/04/2020"
 		}
 	]

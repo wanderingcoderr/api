@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Jammu and Kashmir\n",
-    "timestamp": 1586693671
-  },
-  {
     "update": "2 new cases in Chandigarh\n",
     "timestamp": 1586694245
   },
@@ -198,5 +194,9 @@
   {
     "update": "250 new cases in Maharashtra\n61 new cases and 1 death in Telangana\n",
     "timestamp": 1586795660
+  },
+  {
+    "update": "20 new cases and 10 deaths in Maharashtra\n356 new cases, 3 recoveries and 4 deaths in Delhi\n1 death in Karnataka\n1 new case in Bihar\n",
+    "timestamp": 1586798174
   }
 ]
