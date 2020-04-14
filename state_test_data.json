@@ -2721,19 +2721,19 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "473",
+			"negative": "10032",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "9827",
-			"source": "",
-			"source2": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
+			"positive": "473",
+			"source": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
+			"source2": "",
 			"state": "Andhra Pradesh",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "14/04/2020",
-			"unconfirmed": "9354",
+			"totaltested": "10505",
+			"unconfirmed": "",
 			"updatedon": "14/04/2020"
 		},
 		{
