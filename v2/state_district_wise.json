@@ -185,10 +185,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 1466,
+        "confirmed": 1517,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 51
         }
       }
     ]
@@ -2781,10 +2781,10 @@
       },
       {
         "district": "Indore",
-        "confirmed": 328,
+        "confirmed": 416,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 88
         }
       },
       {
@@ -2945,6 +2945,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 39,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 39
         }
       }
     ]
