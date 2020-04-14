@@ -2161,12 +2161,12 @@
 			"updatedon": "12/04/2020"
 		},
 		{
-			"negative": "232",
+			"negative": "8831",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "8831",
+			"positive": "232",
 			"source": "https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/12-04-2020(English).pdf",
 			"source2": "https://karunadu.karnataka.gov.in/hfw/kannada/Pages/cv-media-bulletin.aspx",
 			"state": "Karnataka",
@@ -2257,12 +2257,12 @@
 			"updatedon": "12/04/2020"
 		},
 		{
-			"negative": "54",
+			"negative": "3808",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "3808",
+			"positive": "54",
 			"source": "https://health.odisha.gov.in/",
 			"source2": "",
 			"state": "Odisha",
@@ -2609,12 +2609,12 @@
 			"updatedon": "13/04/2020"
 		},
 		{
-			"negative": "54",
+			"negative": "4116",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "4116",
+			"positive": "54",
 			"source": "https://health.odisha.gov.in/",
 			"source2": "",
 			"state": "Odisha",
@@ -2950,7 +2950,7 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "969",
+			"positive": "1005",
 			"source": "https://twitter.com/TabeenahAnjum/status/1249988656040800256?s=19",
 			"source2": "",
 			"state": "Rajasthan",

@@ -1,9 +1,5 @@
 [
   {
-    "update": "98 new cases in Tamil Nadu\n2 recoveries in Jammu and Kashmir\n6 new cases and 2 recoveries in Punjab\n",
-    "timestamp": 1586782465
-  },
-  {
     "update": "8 recoveries in Tamil Nadu\n1 new case in Odisha\n",
     "timestamp": 1586783111
   },
@@ -198,5 +194,9 @@
   {
     "update": "51 new cases and 2 deaths in Delhi\n127 new cases in Madhya Pradesh\n",
     "timestamp": 1586882652
+  },
+  {
+    "update": "52 new cases and 8 recoveries in Telangana\n",
+    "timestamp": 1586883933
   }
 ]
