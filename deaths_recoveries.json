@@ -28325,19 +28325,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "14/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Recovered",
 			"slno": "1667",
-			"source1": "",
+			"source1": "https://t.me/indiacovid/2294",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Uttar Pradesh",
+			"statecode": "UP"
 		},
 		{
 			"agebracket": "",
