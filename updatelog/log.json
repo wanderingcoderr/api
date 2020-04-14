@@ -1,9 +1,5 @@
 [
   {
-    "update": "11 new cases in Rajasthan\n",
-    "timestamp": 1586749725
-  },
-  {
     "update": "18 new cases and 10 recoveries in West Bengal\n",
     "timestamp": 1586751849
   },
@@ -198,5 +194,9 @@
   {
     "update": "23 deaths in Tamil Nadu\n12 deaths in Rajasthan\n13 deaths in Kerala\n7 deaths in Karnataka\n4 deaths in Haryana\n",
     "timestamp": 1586873194
+  },
+  {
+    "update": "23 recoveries in Tamil Nadu\n12 recoveries in Rajasthan\n12 recoveries in Kerala\n6 recoveries in Karnataka\n4 recoveries in Haryana\n",
+    "timestamp": 1586873654
   }
 ]
