@@ -20,10 +20,10 @@
       },
       {
         "district": "Kasaragod",
-        "confirmed": 166,
+        "confirmed": 167,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 1
         }
       },
       {
@@ -36,10 +36,10 @@
       },
       {
         "district": "Kannur",
-        "confirmed": 73,
+        "confirmed": 77,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -84,10 +84,10 @@
       },
       {
         "district": "Kozhikode",
-        "confirmed": 13,
+        "confirmed": 16,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 3
         }
       },
       {
@@ -672,10 +672,10 @@
       },
       {
         "district": "Faridabad",
-        "confirmed": 31,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       },
       {
@@ -1161,6 +1161,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 99,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 99
         }
       }
     ]
@@ -2282,10 +2290,10 @@
     "districtData": [
       {
         "district": "Khordha",
-        "confirmed": 42,
+        "confirmed": 46,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 4
         }
       },
       {
@@ -2353,7 +2361,7 @@
         }
       },
       {
-        "district": "Unknown",
+        "district": "Jaipur",
         "confirmed": 1,
         "lastupdatedtime": "",
         "delta": {
@@ -2510,10 +2518,10 @@
       },
       {
         "district": "Korba",
-        "confirmed": 23,
+        "confirmed": 25,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 2
         }
       }
     ]

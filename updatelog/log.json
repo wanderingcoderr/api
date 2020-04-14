@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in West Bengal\n",
-    "timestamp": 1586712288
-  },
-  {
     "update": "1 new case in Nagaland\n",
     "timestamp": 1586714738
   },
@@ -198,5 +194,9 @@
   {
     "update": "24 new cases in Rajasthan\n",
     "timestamp": 1586862857
+  },
+  {
+    "update": "99 new cases and 3 deaths in Uttar Pradesh\n8 new cases and 13 recoveries in Kerala\n2 new cases and 4 recoveries in Haryana\n1 recovery in Bihar\n4 new cases in Odisha\n2 new cases in Chhattisgarh\n",
+    "timestamp": 1586868152
   }
 ]
