@@ -2929,6 +2929,22 @@
 			"updatedon": "14/04/2020"
 		},
 		{
+			"negative": "4047",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "184",
+			"source": "http://pbhealth.gov.in/Media%20Bulletin-%2014.4.2020.pdf",
+			"source2": "http://pbhealth.gov.in/media-bulletin.htm",
+			"state": "Punjab",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "4844",
+			"unconfirmed": "613",
+			"updatedon": "14/04/2020"
+		},
+		{
 			"negative": "29376",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -2945,6 +2961,22 @@
 			"updatedon": "14/04/2020"
 		},
 		{
+			"negative": "13,234",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "29074",
+			"numventilators": "3371",
+			"positive": "1,204",
+			"source": "https://stopcorona.tn.gov.in/",
+			"source2": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14.04.2020-4-Pages-English-175-KB.pdf",
+			"state": "Tamil Nadu",
+			"totalpeopleinquarantine": "1,870",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "19,255",
+			"unconfirmed": "13,234",
+			"updatedon": "14/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -2953,7 +2985,7 @@
 			"positive": "",
 			"source": "",
 			"source2": "",
-			"state": "Telangana",
+			"state": "Uttarakhand",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
@@ -2969,7 +3001,7 @@
 			"positive": "",
 			"source": "",
 			"source2": "",
-			"state": "Uttar Pradesh",
+			"state": "West Bengal",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
