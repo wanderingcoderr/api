@@ -2742,14 +2742,14 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "62",
+			"source": "https://twitter.com/sanjayjavin/status/1249928292519432192?s=09",
 			"source2": "",
 			"state": "Bihar",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "7727",
+			"unconfirmed": "472",
 			"updatedon": "14/04/2020"
 		},
 		{
