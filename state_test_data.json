@@ -2801,6 +2801,22 @@
 			"updatedon": "14/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "7",
+			"source": "",
+			"source2": "",
+			"state": "Goa",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "479",
+			"unconfirmed": "",
+			"updatedon": "14/04/2020"
+		},
+		{
 			"negative": "14363",
 			"numcallsstatehelpline": "41112",
 			"numicubeds": "",
