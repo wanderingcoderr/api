@@ -1,9 +1,5 @@
 [
   {
-    "update": "23 new cases and 1 death in Gujarat\n",
-    "timestamp": 1586703248
-  },
-  {
     "update": "85 new cases, 1 recovery and 5 deaths in Delhi\n",
     "timestamp": 1586703928
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Gujarat\n",
     "timestamp": 1586845467
+  },
+  {
+    "update": "34 new cases in Andhra Pradesh\n",
+    "timestamp": 1586846051
   }
 ]
