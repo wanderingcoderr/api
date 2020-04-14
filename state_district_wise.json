@@ -1540,42 +1540,42 @@
         }
       },
       "Nagpur": {
-        "confirmed": 28,
+        "confirmed": 39,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Ahmadnagar": {
-        "confirmed": 26,
+        "confirmed": 27,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Thane": {
-        "confirmed": 190,
+        "confirmed": 203,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Raigarh": {
-        "confirmed": 12,
+        "confirmed": 14,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Yavatmal": {
-        "confirmed": 4,
+        "confirmed": 5,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Aurangabad": {
-        "confirmed": 19,
+        "confirmed": 23,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1589,7 +1589,7 @@
         }
       },
       "Palghar": {
-        "confirmed": 28,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1645,14 +1645,14 @@
         }
       },
       "Buldana": {
-        "confirmed": 13,
+        "confirmed": 17,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Nashik": {
-        "confirmed": 30,
+        "confirmed": 33,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1715,7 +1715,7 @@
         }
       },
       "Dhule": {
-        "confirmed": 1,
+        "confirmed": 2,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1729,7 +1729,7 @@
         }
       },
       "Unknown": {
-        "confirmed": 270,
+        "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2753,7 +2753,7 @@
         }
       },
       "Goalpara": {
-        "confirmed": 3,
+        "confirmed": 4,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
