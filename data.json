@@ -678,14 +678,14 @@
 	],
 	"statewise": [
 		{
-			"active": "9314",
-			"confirmed": "10973",
+			"active": "9315",
+			"confirmed": "10975",
 			"deaths": "368",
-			"deltaconfirmed": "519",
+			"deltaconfirmed": "521",
 			"deltadeaths": "10",
-			"deltarecovered": "93",
-			"lastupdatedtime": "14/04/2020 20:15:24",
-			"recovered": "1291",
+			"deltarecovered": "94",
+			"lastupdatedtime": "14/04/2020 20:35:24",
+			"recovered": "1292",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -912,14 +912,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "28",
-			"confirmed": "35",
+			"active": "29",
+			"confirmed": "37",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "08/04/2020 21:20:26",
-			"recovered": "7",
+			"deltarecovered": "1",
+			"lastupdatedtime": "14/04/2020 20:35:25",
+			"recovered": "8",
 			"state": "Uttarakhand",
 			"statecode": "UT",
 			"statenotes": ""

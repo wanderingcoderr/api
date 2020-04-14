@@ -1,9 +1,5 @@
 [
   {
-    "update": "22 new cases in Gujarat\n15 new cases in Karnataka\n",
-    "timestamp": 1586763476
-  },
-  {
     "update": "82 new cases in Maharashtra\n3 recoveries and 2 deaths in Gujarat\n5 recoveries in Karnataka\n1 new case in Bihar\n1 new case in Assam\n",
     "timestamp": 1586769041
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 recoveries and 2 deaths in Gujarat\n2 recoveries in Andhra Pradesh\n",
     "timestamp": 1586875504
+  },
+  {
+    "update": "2 new cases and 1 recovery in Uttarakhand\n",
+    "timestamp": 1586876748
   }
 ]
