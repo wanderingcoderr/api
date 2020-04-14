@@ -2993,6 +2993,22 @@
 			"updatedon": "14/04/2020"
 		},
 		{
+			"negative": "15134",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "660",
+			"source": "https://t.me/indiacovid/2294?single",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "15914",
+			"unconfirmed": "120",
+			"updatedon": "14/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "31,330",
 			"numicubeds": "",
