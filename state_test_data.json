@@ -1053,7 +1053,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "344",
-			"unconfirmed": "15",
+			"unconfirmed": "",
 			"updatedon": "09/04/2020"
 		},
 		{
@@ -1309,7 +1309,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "354",
-			"unconfirmed": "11",
+			"unconfirmed": "",
 			"updatedon": "10/04/2020"
 		},
 		{
@@ -2065,7 +2065,7 @@
 			"updatedon": "12/04/2020"
 		},
 		{
-			"negative": "27",
+			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -2077,7 +2077,7 @@
 			"totalpeopleinquarantine": "141",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "406",
-			"unconfirmed": "8",
+			"unconfirmed": "",
 			"updatedon": "12/04/2020"
 		},
 		{
