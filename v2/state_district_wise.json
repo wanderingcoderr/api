@@ -2200,7 +2200,7 @@
       },
       {
         "district": "Chittoor",
-        "confirmed": 23,
+        "confirmed": 24,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2240,7 +2240,7 @@
       },
       {
         "district": "Y.S.R.",
-        "confirmed": 31,
+        "confirmed": 30,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2555,10 +2555,10 @@
       },
       {
         "district": "Ahmadabad",
-        "confirmed": 351,
+        "confirmed": 372,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 31
+          "confirmed": 52
         }
       },
       {
@@ -2695,6 +2695,14 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "confirmed": 12,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 12
         }
       }
     ]
