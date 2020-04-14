@@ -9,7 +9,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 | National time series, statewise stats and test counts | https://api.covid19india.org/data.json                |
 | State-district-wise                                   | https://api.covid19india.org/state_district_wise.json |
 | State-district-wise V2                                | https://api.covid19india.org/v2/state_district_wise.json |
-| Travel history                                        | https://api.covid19india.org/travel_history.json      |
+| Travel history (No more updated)                      | https://api.covid19india.org/travel_history.json      |
 | Raw data                                              | https://api.covid19india.org/raw_data.json            |
 | States Daily changes                                  | https://api.covid19india.org/states_daily.json        |
 | States Daily in csv                                   | http://api.covid19india.org/states_daily_csv/confirmed.csv |
@@ -21,8 +21,11 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 
 ## Projects Using This API
 
-- [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization)
+- [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Dashboard)
 - [INDIA COVID-19 Google Map TRACKER](https://goo.gl/maps/U32Ex1gWQxmc6Aot8)
+- [Telegram Instant Updates](https://t.me/covid19indiaorg_updates) (Updates from covid19india.org Team)
+- [Alt. Telegram Channel] (https://github.com/xsreality/covid19)
+- [Telegram Bot] (https://github.com/Tele-Bots/CovidBot)
 
 ## Quick Links
 
