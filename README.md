@@ -18,7 +18,7 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 | Deaths and Recoveries                                 | https://api.covid19india.org/deaths_recoveries.json   |
 | Essentials and resources                              | https://api.covid19india.org/resources/resources.json  |
 
-  
+
 ## Projects Using This API
 
 - [INDIA COVID-19 TRACKER](https://www.covid19india.org/) (Visualization)
@@ -42,3 +42,6 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 - Please raise an issue before submitting a PR
 - Report issues with Place names in the [Main Site repo](https://github.com/covid19india/covid19india-react/issues)
 - DO NOT change json/csv directly. They get replaced automatically
+
+## Notes
+- Do not use the "Current Status" in raw_data.json as we are rarely able to map the status to exact patient anymore. This will soon be deprecated in a future version of the API.
