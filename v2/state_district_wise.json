@@ -2444,10 +2444,10 @@
       },
       {
         "district": "Unknown",
-        "confirmed": 125,
+        "confirmed": 163,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 38
         }
       }
     ]
