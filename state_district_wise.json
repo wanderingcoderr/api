@@ -1526,14 +1526,14 @@
   "Maharashtra": {
     "districtData": {
       "Pune": {
-        "confirmed": 266,
+        "confirmed": 308,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
         }
       },
       "Mumbai": {
-        "confirmed": 1357,
+        "confirmed": 1540,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1554,7 +1554,7 @@
         }
       },
       "Thane": {
-        "confirmed": 203,
+        "confirmed": 206,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -1723,13 +1723,6 @@
       },
       "Solapur": {
         "confirmed": 1,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 228,
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
@@ -2050,6 +2043,13 @@
         "lastupdatedtime": "",
         "delta": {
           "confirmed": 0
+        }
+      },
+      "Unknown": {
+        "confirmed": 1,
+        "lastupdatedtime": "",
+        "delta": {
+          "confirmed": 1
         }
       }
     }
