@@ -6,7 +6,7 @@
 			"contact": "http://rmrc.res.in/",
 			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
 			"nameoftheorganisation": "Regional Medical Research Centre (ICMR)",
-			"phonenumber": "3192251158,\n 3192251159",
+			"phonenumber": "3192251158,\n3192251159",
 			"state": "Andaman & Nicobar"
 		},
 		{
@@ -55,6 +55,33 @@
 			"state": "Andhra Pradesh"
 		},
 		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Tirupati",
+			"contact": "https://tirupati.cdma.ap.gov.in",
+			"descriptionandorserviceprovided": "It consist of list of vendors,providing home delivery",
+			"nameoftheorganisation": "Tirupati municipal Corporation",
+			"phonenumber": "9849983062",
+			"state": "Andhra Pradesh"
+		},
+		{
+			"category": "Hospitals and Centers",
+			"city": "Kadapa",
+			"contact": "http://rimskadapa.in/contact-us.html",
+			"descriptionandorserviceprovided": "covid 19 testing approved by govt.and isolation wards",
+			"nameoftheorganisation": "Rajiv Gandhi institute of medical science",
+			"phonenumber": "8562220200",
+			"state": "Andhra Pradesh"
+		},
+		{
+			"category": "Hospitals and Centers",
+			"city": "Visakhapatnam",
+			"contact": "https://mediniz.com/list/hivhelp/center/government-tb-and-chest-hospital-visakhapatnam",
+			"descriptionandorserviceprovided": "covid 19 isolation wards and treatment",
+			"nameoftheorganisation": "government TB & chest hospitals",
+			"phonenumber": "8912552525",
+			"state": "Andhra Pradesh"
+		},
+		{
 			"category": "CoVID-19 Testing Lab",
 			"city": "Dibrugarh",
 			"contact": "http://rmrcne.org.in/",
@@ -100,6 +127,15 @@
 			"state": "Assam"
 		},
 		{
+			"category": "Free Food",
+			"city": "Guwahati",
+			"contact": "http://www.uciofficial.org/?fbclid=IwAR0DQGpRkuPmbxKI3TgEnSzvS8_1-BnA1S6J5deDBuT4XWFERr2Rh5HFcgI",
+			"descriptionandorserviceprovided": "\"The Funds will be used to provide groceries to the daily wagers, providing two time meal to the homeless people. We have been trying to deliver the basic needs to the people(Including Sanitizers and Masks) and feeding the Homeless and Stray Animals in Tezpur, Assam.* If you cannot step out of home and need any essential commodity, contact them. \"",
+			"nameoftheorganisation": "The UnCivilised Indian in collaboration with Love and Acceptance NGO",
+			"phonenumber": "9126446620",
+			"state": "Assam"
+		},
+		{
 			"category": "CoVID-19 Testing Lab",
 			"city": "Darbhanga",
 			"contact": "https://dmch.in/",
@@ -121,7 +157,7 @@
 			"category": "Government Helpline",
 			"city": "Jehanabad",
 			"contact": "http://jehanabad.nic.in",
-			"descriptionandorserviceprovided": "District Control Room Helpline Number\n District Control Room:\n 1. 06114-223013 2. 85444231333 Block Wise Control Room Number Makhdumpur : 8544421450 Ratni Faridpur : 8544421446 Kako. : 8544421445 Okari : 9470003334 Jehanabad. : 8544421451 Ghoshi :8544421444 Hulasganj :8544421447",
+			"descriptionandorserviceprovided": "District Control Room Helpline Number\nDistrict Control Room:\n1. 06114-223013 2. 85444231333 Block Wise Control Room Number Makhdumpur : 8544421450 Ratni Faridpur : 8544421446 Kako. : 8544421445 Okari : 9470003334 Jehanabad. : 8544421451 Ghoshi :8544421444 Hulasganj :8544421447",
 			"nameoftheorganisation": "District Control Room",
 			"phonenumber": "6114223013",
 			"state": "Bihar"
@@ -133,6 +169,15 @@
 			"descriptionandorserviceprovided": "Government approved and supported testing lab by ICMR",
 			"nameoftheorganisation": "Rajendra Memorial Research Institute of Medical Sciences",
 			"phonenumber": "6122636651",
+			"state": "Bihar"
+		},
+		{
+			"category": "Other",
+			"city": "Bihar Sharif",
+			"contact": "https://www.careindia.org/contact-us/",
+			"descriptionandorserviceprovided": "CARE a global humanitarian organization is working with partners across over ninety countries helping the most marginalised women and girls in the fight on COVID 19. CARE India has a 1400+ team working with Government of Bihar in supporting the government in contact tracing, monitoring, infection control, laboratory and hospital strengthening for fight COVID",
+			"nameoftheorganisation": "Care India",
+			"phonenumber": "6122274957, 612274389",
 			"state": "Bihar"
 		},
 		{
@@ -157,7 +202,7 @@
 			"category": "Fundraisers",
 			"city": "Chandigarh",
 			"contact": "https://www.ourdemocracy.in/Campaign/Covid19reliefCHD",
-			"descriptionandorserviceprovided": "This campaign aims at providing relief to daily-wage workers in Chandigarh, Mohali and Panchkula who are affected by the lockdown.\n Cities suported: Chandigarh, Mohali, Panchkula\n Other Links:\n https://www.instagram.com/chhotisiasha/\n https://www.facebook.com/pg/ChhotiSiAsha/about/",
+			"descriptionandorserviceprovided": "This campaign aims at providing relief to daily-wage workers in Chandigarh, Mohali and Panchkula who are affected by the lockdown.\nCities suported: Chandigarh, Mohali, Panchkula\nOther Links:\nhttps://www.instagram.com/chhotisiasha/\nhttps://www.facebook.com/pg/ChhotiSiAsha/about/",
 			"nameoftheorganisation": "Chhoti Si Asha",
 			"phonenumber": "9811604457",
 			"state": "Chandigarh"
@@ -196,6 +241,15 @@
 			"descriptionandorserviceprovided": "Counseling and Psychiatric Care, Substance Abuse and withdrawl related issues, Child guidance, Marital and interpersonal issues",
 			"nameoftheorganisation": "Pragya Hospital",
 			"phonenumber": "9826121821",
+			"state": "Chhattisgarh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Jagdalpur",
+			"contact": "https://covid.icmr.org.in/index.php/testing-labs-deatails",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Late Baliram Kashyap M Govt. Medical College",
+			"phonenumber": "7782292878",
 			"state": "Chhattisgarh"
 		},
 		{
@@ -319,7 +373,7 @@
 			"category": "Fundraisers",
 			"city": "Delhi",
 			"contact": "https://www.upay.org.in/",
-			"descriptionandorserviceprovided": "Ration Kits and food for homeless person\n centers in Delhi, Nagpur, Pune, Gurgaon, Mauda, Banglore",
+			"descriptionandorserviceprovided": "Ration Kits and food for homeless person\ncenters in Delhi, Nagpur, Pune, Gurgaon, Mauda, Banglore",
 			"nameoftheorganisation": "UPAY",
 			"phonenumber": "9403964891",
 			"state": "Delhi"
@@ -338,7 +392,7 @@
 			"city": "Delhi",
 			"contact": "https://www.impactguru.com/fundraiser/help-sppd-rapid-response-helpage-india-elder-care-trust",
 			"descriptionandorserviceprovided": "This money will enable them to distribute food and sanitation kits to daily wagers across India. We will shortly share videos of the amazing work that our partners are doing on the ground, and the difference that your contribution is making to people’s lives in these hard times. Stay tuned.",
-			"nameoftheorganisation": "Indian Students at Imperial College London and IIT/NIT Alumni\n Well Wisher of SPPD and Rapid Response and Helpage India and Elder Care Trust and Sawed",
+			"nameoftheorganisation": "Indian Students at Imperial College London and IIT/NIT Alumni\nWell Wisher of SPPD and Rapid Response and Helpage India and Elder Care Trust and Sawed",
 			"phonenumber": "",
 			"state": "Delhi"
 		},
@@ -493,6 +547,33 @@
 			"descriptionandorserviceprovided": "A team of volunteers, who have a curfew passes are willing to assist any Delhi Government schemes or personal efforts in delivering essential items to those in need during the lockdown. Here in old Delhi we have whole sale suppliers who have stock of essential commodities and food items including milk and poultry. We can help to get this food across to the needy through Delhi government programs.If you want to connect with the team of volunteers, please reach out to Irshad Alam Khubi, Talent Group Delhi 6. (NGO) at: 9810221954",
 			"nameoftheorganisation": "Talent Group Delhi 6",
 			"phonenumber": "9810221954",
+			"state": "Delhi"
+		},
+		{
+			"category": "Free Food",
+			"city": "Delhi",
+			"contact": "https://www.facebook.com/singhmishika/posts/10157291295208129",
+			"descriptionandorserviceprovided": "Cement Collective is group of volunteers providing ration kits, medical essentials, cooked food packets, water, rent money and basic expenses to families in various areas of Delhi including Loni, Mustafabad, Chand Bagh, Zakir Nagar, Najafgarh and Rohini. Since the lockdown, they were able to successfully manage helping more than 600 families, mostly focussing on migrant labourers, and around 400 displaced victims of the Delhi Violence.",
+			"nameoftheorganisation": "Cement Collective",
+			"phonenumber": "8860756618",
+			"state": "Delhi"
+		},
+		{
+			"category": "Hospitals and Centers",
+			"city": "Delhi",
+			"contact": "https://www.nhp.gov.in/hospital/sardar-vallabh-bhai-patel-hospital-central-delhi",
+			"descriptionandorserviceprovided": "Covid 19 wards and treatment available",
+			"nameoftheorganisation": "Sardar vallab bhai patel hospital",
+			"phonenumber": "1125885944",
+			"state": "Delhi"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Delhi",
+			"contact": "https://www.udayfoundation.org",
+			"descriptionandorserviceprovided": "The Uday Foundation works on health, support and dignity to homeless and disaster relief. The current Coronavirus (Covid-19) outbreak continues to spread, making lakhs of homeless living on the streets with lack of ability to self- quarantine, access to medical care acutely vulnerable. Uday Foundation is providing all necessary help and services to this vulnerable section of the society in the time of crisis by accepting donation material such as soap for hand wash, sanitizers and one month's food supply to distrubute.",
+			"nameoftheorganisation": "Uday Foundation",
+			"phonenumber": "9910445043",
 			"state": "Delhi"
 		},
 		{
@@ -676,6 +757,24 @@
 			"state": "Gujarat"
 		},
 		{
+			"category": "Free Food",
+			"city": "Ahmedabad",
+			"contact": "https://www.mahilahousingtrust.org/",
+			"descriptionandorserviceprovided": "Ration and Sanitation kits",
+			"nameoftheorganisation": "Mahila Housing SEWA Trust",
+			"phonenumber": "9825029281, 7926587725 , 7926587726",
+			"state": "Gujarat"
+		},
+		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Ahmedabad",
+			"contact": "https://ahmedabadcity.gov.in",
+			"descriptionandorserviceprovided": "List of vendors providing home delivery",
+			"nameoftheorganisation": "Amdavad municipal Corporation",
+			"phonenumber": "9726416131, 7925391811",
+			"state": "Gujarat"
+		},
+		{
 			"category": "Free Food & Essentials",
 			"city": "Gurgaon",
 			"contact": "https://twitter.com/AajeevikaBureau/status/1243414135393505282",
@@ -736,6 +835,15 @@
 			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
 			"nameoftheorganisation": "BPS Govt. Medical College",
 			"phonenumber": "1263283025",
+			"state": "Haryana"
+		},
+		{
+			"category": "Free Food",
+			"city": "Gurgaon",
+			"contact": "http://www.clothesboxfoundation.org/covid19",
+			"descriptionandorserviceprovided": "The organisation has launched an initiative to distribute food grains and sanitar kits to those who are worst hit by Covid-19 loackdown. Eash relief kit to consisit of soap, masks, rice and dal",
+			"nameoftheorganisation": "Clothes Box Foundation",
+			"phonenumber": "7838371356",
 			"state": "Haryana"
 		},
 		{
@@ -835,6 +943,78 @@
 			"descriptionandorserviceprovided": "He and other activists are going on their bike village after village every day and giving grain, potatoes to really impoverished families to prevent starvation",
 			"nameoftheorganisation": "Multi Art Association",
 			"phonenumber": "9431193202",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Bokaro",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "District level control room for assistance on all Covid19 related queries",
+			"nameoftheorganisation": "Govt of Jharkhand Control Room - Bokaro 1",
+			"phonenumber": "6542247891",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Bokaro",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "For all Covid19 related assistance",
+			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
+			"phonenumber": "6542223475",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Bokaro",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "For all Covid19 related assistance",
+			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
+			"phonenumber": "6542242402",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Hazaribagh",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "For all Covid19 related assistance",
+			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
+			"phonenumber": "8002529349, 06546264149 , 6204369146",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Jamshedpur",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "For all Covid19 related assistance",
+			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
+			"phonenumber": "6572440111,\n9431301355,\n8987510050,",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Dhanbad",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "For all Covid19 related assistance",
+			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
+			"phonenumber": "9835352971,\n9006933674",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Deoghar",
+			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
+			"descriptionandorserviceprovided": "For all Covid19 related assistance",
+			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
+			"phonenumber": "9771935367,\n6432275733",
+			"state": "Jharkhand"
+		},
+		{
+			"category": "Free Food",
+			"city": "Jamshedpur",
+			"contact": "https://www.instagram.com/mouriha_ngo/",
+			"descriptionandorserviceprovided": "Supply Food Packets to Slums near Domuhani, Near Jamshepdur Airport and Harijan Basti",
+			"nameoftheorganisation": "Mouriha NGO",
+			"phonenumber": "7209266294",
 			"state": "Jharkhand"
 		},
 		{
@@ -2057,7 +2237,7 @@
 			"city": "Chakkittappara",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "Kudumbashree Canteen\n Chakkittapara",
+			"nameoftheorganisation": "Kudumbashree Canteen\nChakkittapara",
 			"phonenumber": "9645103949",
 			"state": "Kerala"
 		},
@@ -2804,7 +2984,7 @@
 			"city": "Edapatta",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "Swathisree Malabar\n Makkani",
+			"nameoftheorganisation": "Swathisree Malabar\nMakkani",
 			"phonenumber": "8848714646",
 			"state": "Kerala"
 		},
@@ -4082,7 +4262,7 @@
 			"city": "Karulai",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "Aiswarya Canteen &\n Catering",
+			"nameoftheorganisation": "Aiswarya Canteen &\nCatering",
 			"phonenumber": "9495124339",
 			"state": "Kerala"
 		},
@@ -6854,7 +7034,7 @@
 			"city": "Nannambra",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "Kootturuchi Natural\n Food Products/CDS",
+			"nameoftheorganisation": "Kootturuchi Natural\nFood Products/CDS",
 			"phonenumber": "8138883876",
 			"state": "Kerala"
 		},
@@ -7322,7 +7502,7 @@
 			"city": "Ozhur",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "Archana Vanitha\n Canteen",
+			"nameoftheorganisation": "Archana Vanitha\nCanteen",
 			"phonenumber": "9645906084",
 			"state": "Kerala"
 		},
@@ -8177,7 +8357,7 @@
 			"city": "Peruvallur",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "Rasakoottu Vanitha\n Catering",
+			"nameoftheorganisation": "Rasakoottu Vanitha\nCatering",
 			"phonenumber": "9562913449",
 			"state": "Kerala"
 		},
@@ -8866,15 +9046,6 @@
 			"state": "Kerala"
 		},
 		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Secunderabad",
-			"contact": "https://www.gandhihospital.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Gandhi Medical College",
-			"phonenumber": "4027502742",
-			"state": "Telangana"
-		},
-		{
 			"category": "Community Kitchen",
 			"city": "Seethathode",
 			"contact": "http://kudumbashree.org/pages/826",
@@ -9518,7 +9689,7 @@
 			"city": "Thiruvallur",
 			"contact": "http://kudumbashree.org/pages/826",
 			"descriptionandorserviceprovided": "Free or subsidised food by district administration",
-			"nameoftheorganisation": "SVRP Kudumbashree Hotel,\n chemaruthoor",
+			"nameoftheorganisation": "SVRP Kudumbashree Hotel,\nchemaruthoor",
 			"phonenumber": "7994825418",
 			"state": "Kerala"
 		},
@@ -10867,7 +11038,7 @@
 			"category": "Hospitals and Centers",
 			"city": "Wayanad",
 			"contact": "http://www.dmowayanad.in/",
-			"descriptionandorserviceprovided": "ISOLATION\n DR SREEKUMAR 9495150128",
+			"descriptionandorserviceprovided": "ISOLATION\nDR SREEKUMAR 9495150128",
 			"nameoftheorganisation": "GH KALPETTA",
 			"phonenumber": "9495150128",
 			"state": "Kerala"
@@ -10941,7 +11112,7 @@
 			"contact": "https://www.facebook.com/Jivansarthak/",
 			"descriptionandorserviceprovided": "We are providing free food for needy person and help to arrange blood for thalassemia patient",
 			"nameoftheorganisation": "Jeevan sarthak social and Welfare Society",
-			"phonenumber": "8878629324,\n 8871334161,\n 9826050919,\n 9131463365",
+			"phonenumber": "8878629324,\n8871334161,\n9826050919,\n9131463365",
 			"state": "Madhya Pradesh"
 		},
 		{
@@ -10959,7 +11130,7 @@
 			"contact": "https://chat.whatsapp.com/BVrrz1wXPQm0XW2rPRk4pI",
 			"descriptionandorserviceprovided": "Free food and Raw Groceries",
 			"nameoftheorganisation": "Gwalior Youth Helpers",
-			"phonenumber": "8817994430,\n 7697751251,\n 6267301159,\n 8817994430,\n 7566074147,\n 7987818372,\n 9179106165",
+			"phonenumber": "8817994430,\n7697751251,\n6267301159,\n8817994430,\n7566074147,\n7987818372,\n9179106165",
 			"state": "Madhya Pradesh"
 		},
 		{
@@ -10990,13 +11161,13 @@
 			"state": "Madhya Pradesh"
 		},
 		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Jagdalpur",
-			"contact": "https://covid.icmr.org.in/index.php/testing-labs-deatails",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Late Baliram Kashyap M Govt. Medical College",
-			"phonenumber": "7782292878",
-			"state": "Chhattisgarh"
+			"category": "Government Helpline",
+			"city": "Bhopal",
+			"contact": "http://csr.mp.gov.in/uploads/media/State_Corona_Communication_Plan_2020.pdf",
+			"descriptionandorserviceprovided": "Communication GRID for MP STATE",
+			"nameoftheorganisation": "Madhya Pradesh",
+			"phonenumber": "988693685",
+			"state": "Madhya Pradesh"
 		},
 		{
 			"category": "Free Food",
@@ -11047,9 +11218,9 @@
 			"category": "Free Food",
 			"city": "Mumbai",
 			"contact": "Instagram: @rotigharindia https://www.instagram.com/rotigharindia/",
-			"descriptionandorserviceprovided": "Provides free meals to security guards/labourers/daily wage workers\n Meals will be delivered by the Rotighar team",
-			"nameoftheorganisation": "Khushiyaan Foundation\n Rotighar Kitchen",
-			"phonenumber": "9699396544,\n 7506384025,\n 9619089050,\n 9594609229,\n 9987730605,\n 7208773650",
+			"descriptionandorserviceprovided": "Provides free meals to security guards/labourers/daily wage workers\nMeals will be delivered by the Rotighar team",
+			"nameoftheorganisation": "Khushiyaan Foundation\nRotighar Kitchen",
+			"phonenumber": "9699396544,\n7506384025,\n9619089050,\n9594609229,\n9987730605,\n7208773650",
 			"state": "Maharashtra"
 		},
 		{
@@ -11057,14 +11228,14 @@
 			"city": "Mumbai",
 			"contact": "",
 			"descriptionandorserviceprovided": "Free Food Packets everyday for the poor and daily wage workers in Jogeshwari, Andheri and Goregaon",
-			"nameoftheorganisation": "Ideal Relief Wing (IRW)\n Jamaat-E-Islami Hind",
+			"nameoftheorganisation": "Ideal Relief Wing (IRW)\nJamaat-E-Islami Hind",
 			"phonenumber": "9892020228, 9969131122, 9820707704",
 			"state": "Maharashtra"
 		},
 		{
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mumbai",
-			"contact": "Instagram: @agrify_organic_solutions_\n www.agrifyorganicsolutions.com",
+			"contact": "Instagram: @agrify_organic_solutions_\nwww.agrifyorganicsolutions.com",
 			"descriptionandorserviceprovided": "",
 			"nameoftheorganisation": "Agrify Organic Solutions",
 			"phonenumber": "7506339233,9769493507, 9967399704,",
@@ -11082,10 +11253,10 @@
 		{
 			"category": "Mental well being and Emotional support",
 			"city": "Mumbai",
-			"contact": "Instagram: @samaritans.mumbai\n www.samaritansmumbai.com",
+			"contact": "Instagram: @samaritans.mumbai\nwww.samaritansmumbai.com",
 			"descriptionandorserviceprovided": "Helpline providing emotional support for those who are disturbed, depressed or suicidal - 5 PM- 8 PM- All days of the week",
 			"nameoftheorganisation": "Samaritans Mumbai",
-			"phonenumber": "8422984528,\n 8422984529,\n 8422984530,",
+			"phonenumber": "8422984528,\n8422984529,\n8422984530,",
 			"state": "Maharashtra"
 		},
 		{
@@ -11101,9 +11272,9 @@
 			"category": "Fundraisers",
 			"city": "Mumbai",
 			"contact": "https://www.globalshapers.org/hubs/navi-mumbai-hub",
-			"descriptionandorserviceprovided": "Prevention kit distribution to labour work force (cab drivers, slum dwellers, and people from low-income communities) in the Navi Mumbai. It will will contain the following: - Pack of 3 - 5 face masks\n - Hand sanitizer with 62% alcohol content\n - Ayurvedic Vitamin C Immunity booster tablets\n - Guidance note on COVID-19 facts and essential precautionary measures",
+			"descriptionandorserviceprovided": "Prevention kit distribution to labour work force (cab drivers, slum dwellers, and people from low-income communities) in the Navi Mumbai. It will will contain the following: - Pack of 3 - 5 face masks\n- Hand sanitizer with 62% alcohol content\n- Ayurvedic Vitamin C Immunity booster tablets\n- Guidance note on COVID-19 facts and essential precautionary measures",
 			"nameoftheorganisation": "Global Shapers Community",
-			"phonenumber": "9811174540,\n 9870772559‬,\n 9167944948‬,",
+			"phonenumber": "9811174540,\n9870772559‬,\n9167944948‬,",
 			"state": "Maharashtra"
 		},
 		{
@@ -11119,7 +11290,7 @@
 			"category": "Free Food",
 			"city": "Mumbai",
 			"contact": "http://jihmaharashtra.org/eng/category/relief-work/",
-			"descriptionandorserviceprovided": "Ration and food packets\n Contact Person - Humayun Shaikh",
+			"descriptionandorserviceprovided": "Ration and food packets\nContact Person - Humayun Shaikh",
 			"nameoftheorganisation": "Jamaat e islami hind Mumbai Metro",
 			"phonenumber": "9820890506",
 			"state": "Maharashtra"
@@ -11247,7 +11418,7 @@
 			"contact": "https://www.instagram.com/DialMeHelp/",
 			"descriptionandorserviceprovided": "We Are Spreading Awareness and Trying to Provoke People to Contribute for Current Situation in Various Ways. Also, We Are Assisting People If They Need Any Help by Providing Them Local Contacts of People Working in That Particular Region If It Is Available.",
 			"nameoftheorganisation": "Dial Me Help",
-			"phonenumber": "9011515266,\n 9082949967,\n 8369276099",
+			"phonenumber": "9011515266,\n9082949967,\n8369276099",
 			"state": "Maharashtra"
 		},
 		{
@@ -11497,7 +11668,7 @@
 			"category": "Mental well being and Emotional support",
 			"city": "Nagpur",
 			"contact": "https://vruksh.org/ctfindia/",
-			"descriptionandorserviceprovided": "Call for volunteers to help on ground. If you would like to join the bandwagon, please sign up here on the given website.\n 1. Communications team is working on positive messaging and outreach.\n 2. Telemedicine team is building an app with a pool of doctors.\n 3. Set up a Resources Pool for Medical supplies.\n 4. Onboarding volunteers for different roles.\n 5. Working on a food app for supporting local restaurants.\n 6. Covid Accelerator project for scaling prototypes.\n 7. Mental Health Initiative for supporting people.\n 8. Centralized Kitchen in Mumbai (in progress)",
+			"descriptionandorserviceprovided": "Call for volunteers to help on ground. If you would like to join the bandwagon, please sign up here on the given website.\n1. Communications team is working on positive messaging and outreach.\n2. Telemedicine team is building an app with a pool of doctors.\n3. Set up a Resources Pool for Medical supplies.\n4. Onboarding volunteers for different roles.\n5. Working on a food app for supporting local restaurants.\n6. Covid Accelerator project for scaling prototypes.\n7. Mental Health Initiative for supporting people.\n8. Centralized Kitchen in Mumbai (in progress)",
 			"nameoftheorganisation": "Vruksh",
 			"phonenumber": "9049200723",
 			"state": "Maharashtra"
@@ -11506,7 +11677,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Solapur",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Solapur Homeless Association, Front of Railway Station District: Solapur Capacity: 75\n Food is Provided.",
+			"descriptionandorserviceprovided": "Address: Solapur Homeless Association, Front of Railway Station District: Solapur Capacity: 75\nFood is Provided.",
 			"nameoftheorganisation": "Solapur Homeless Association",
 			"phonenumber": "7760776108",
 			"state": "Maharashtra"
@@ -11515,7 +11686,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Udgir",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Udgir Beghar Nivara Kendra\n District: Latur\n Capacity: 70\n Food provided from Roti Kapda Bank and Municip. corp",
+			"descriptionandorserviceprovided": "Address: Udgir Beghar Nivara Kendra\nDistrict: Latur\nCapacity: 70\nFood provided from Roti Kapda Bank and Municip. corp",
 			"nameoftheorganisation": "Udgir Beghar Nivara Kendra",
 			"phonenumber": "9545323707",
 			"state": "Maharashtra"
@@ -11524,7 +11695,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wardha",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Aashrit Shari Beghar Niwara\n Opposite Juninagar parishad Sarkari Dawakhana\n District: Wardha\n Capacity: 45\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Aashrit Shari Beghar Niwara\nOpposite Juninagar parishad Sarkari Dawakhana\nDistrict: Wardha\nCapacity: 45\nFood is provided",
 			"nameoftheorganisation": "Aashrit Shari Beghar Niwara",
 			"phonenumber": "9156926811",
 			"state": "Maharashtra"
@@ -11533,7 +11704,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Parbhani",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Shehari Nivara Kendra, Parbhani Sakhla Plot\n District: Parbhani\n Capacity: 35\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Shehari Nivara Kendra, Parbhani Sakhla Plot\nDistrict: Parbhani\nCapacity: 35\nFood is provided",
 			"nameoftheorganisation": "Shehari Nivara Kendra",
 			"phonenumber": "9765781409",
 			"state": "Maharashtra"
@@ -11542,7 +11713,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Amravati",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Badnera Beghar Kendra\n District: Amravati\n Capacity: 142\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Badnera Beghar Kendra\nDistrict: Amravati\nCapacity: 142\nFood is provided",
 			"nameoftheorganisation": "Badnera Beghar Kendra",
 			"phonenumber": "8766457817",
 			"state": "Maharashtra"
@@ -11551,7 +11722,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Akola",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Akola Beghar Nivara Kendra, Opp. Aakotfel Police Station\n District: Akola\n Capacity: NA",
+			"descriptionandorserviceprovided": "Address: Akola Beghar Nivara Kendra, Opp. Aakotfel Police Station\nDistrict: Akola\nCapacity: NA",
 			"nameoftheorganisation": "Akola Beghar Nivara Kendra",
 			"phonenumber": "7709820966",
 			"state": "Maharashtra"
@@ -11560,7 +11731,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Sawali",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Sawali Beghar Nivara Kendra, Near Aapta Police Station\n District: Sangli\n Capacity: 53\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Sawali Beghar Nivara Kendra, Near Aapta Police Station\nDistrict: Sangli\nCapacity: 53\nFood is provided",
 			"nameoftheorganisation": "Sawali Beghar Nivara Kendra",
 			"phonenumber": "9021516176",
 			"state": "Maharashtra"
@@ -11569,7 +11740,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nalegaon",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Ahmednagar Beghar Nivara Kendra, Kaathvan Khandoba, Nalegaon ( 5 locations)\n District: Ahmednagar\n Capacity: Total 322\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Ahmednagar Beghar Nivara Kendra, Kaathvan Khandoba, Nalegaon ( 5 locations)\nDistrict: Ahmednagar\nCapacity: Total 322\nFood is provided",
 			"nameoftheorganisation": "Ahmednagar Beghar Nivara Kendra",
 			"phonenumber": "8788412780",
 			"state": "Maharashtra"
@@ -11578,7 +11749,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Amravati",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Achalpur Nagar Parishad, Sant Gadge Baba\n District: Amravati\n Capacity: 14\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Achalpur Nagar Parishad, Sant Gadge Baba\nDistrict: Amravati\nCapacity: 14\nFood is provided",
 			"nameoftheorganisation": "Achalpur SHelter Home",
 			"phonenumber": "9420123986, 8766457817",
 			"state": "Maharashtra"
@@ -11587,7 +11758,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nandurbar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Nandurbar Nagar Parishad\n District: Nandurbar\n Capacity: NA",
+			"descriptionandorserviceprovided": "Address: Nandurbar Nagar Parishad\nDistrict: Nandurbar\nCapacity: NA",
 			"nameoftheorganisation": "Shelter Home",
 			"phonenumber": "9561232916, 8421560313",
 			"state": "Maharashtra"
@@ -11596,7 +11767,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Dhule",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Near Ekvira Devi Temple, Mohhammadi Nagar, Deopur, Dhule\n District: Dhule\n Capacity: 29\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Near Ekvira Devi Temple, Mohhammadi Nagar, Deopur, Dhule\nDistrict: Dhule\nCapacity: 29\nFood is provided",
 			"nameoftheorganisation": "Deopur Shelter",
 			"phonenumber": "9860507344, 8329704023",
 			"state": "Maharashtra"
@@ -11605,7 +11776,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Jalna",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Homeless Shelter, Station Road\n District: Jalna\n Capacity: 120\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Homeless Shelter, Station Road\nDistrict: Jalna\nCapacity: 120\nFood is provided",
 			"nameoftheorganisation": "Jalna Shelter Home",
 			"phonenumber": "7020947509, 8788252253",
 			"state": "Maharashtra"
@@ -11614,7 +11785,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wardha",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Shashtri Chowk, Wardha\n District: Wardha\n Capacity: 60\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Shashtri Chowk, Wardha\nDistrict: Wardha\nCapacity: 60\nFood is provided",
 			"nameoftheorganisation": "Bacchraj Dharmashala",
 			"phonenumber": "9032546446, 9545302093",
 			"state": "Maharashtra"
@@ -11623,7 +11794,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wardha",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Kacchi Line, Wardha\n District: Wardha\n Capacity: 60\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Kacchi Line, Wardha\nDistrict: Wardha\nCapacity: 60\nFood is provided",
 			"nameoftheorganisation": "Madan Mohan Dharmashala",
 			"phonenumber": "9850326165, 9970159431",
 			"state": "Maharashtra"
@@ -11632,7 +11803,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wardha",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Near S T Depot, Wardha\n District: Wardha\n Capacity: 65\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Near S T Depot, Wardha\nDistrict: Wardha\nCapacity: 65\nFood is provided",
 			"nameoftheorganisation": "Sant Kavar Ram Dharmashala",
 			"phonenumber": "9881165053, 9637654144",
 			"state": "Maharashtra"
@@ -11641,7 +11812,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wardha",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Mahadeopura, Wardha\n District: Wardha\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Mahadeopura, Wardha\nDistrict: Wardha\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "New English High School",
 			"phonenumber": "9730687525, 9767909284",
 			"state": "Maharashtra"
@@ -11650,7 +11821,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Bhatkuli",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 200\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 200\nFood is provided",
 			"nameoftheorganisation": "Government Polytechnic Bhatkuli",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11659,7 +11830,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Chandur Railway",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 24\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 24\nFood is provided",
 			"nameoftheorganisation": "Jijamata Primary School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11668,7 +11839,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Dhamangaon Railway",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 12\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 12\nFood is provided",
 			"nameoftheorganisation": "Bhikraj Goyanka Municipal School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11677,7 +11848,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nandgaon Khurd",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 9\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 9\nFood is provided",
 			"nameoftheorganisation": "ZP Girls' School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11686,7 +11857,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Tiwsa",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 24\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 24\nFood is provided",
 			"nameoftheorganisation": "School for OBC Girls",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11695,7 +11866,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Moshi",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 128\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 128\nFood is provided",
 			"nameoftheorganisation": "Municipal School Number 1, 2 and 7",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11704,7 +11875,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Warud",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 75\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 75\nFood is provided",
 			"nameoftheorganisation": "Municipal Marathi School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11713,7 +11884,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Shendurjana Ghat",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 25\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 25\nFood is provided",
 			"nameoftheorganisation": "Municipal School Number 2",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11722,7 +11893,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Chandur Bazar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 40\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 40\nFood is provided",
 			"nameoftheorganisation": "Municipal Marathi School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11731,7 +11902,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Achalpur",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 56\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 56\nFood is provided",
 			"nameoftheorganisation": "Vidarbha Mils Marathi School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11740,7 +11911,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Daryapur",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 105\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 105\nFood is provided",
 			"nameoftheorganisation": "Municipal School Number 10 and 11",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11749,7 +11920,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Anjangaon",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 128\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 128\nFood is provided",
 			"nameoftheorganisation": "Municipal School Number 1,2 and 7",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11758,7 +11929,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Chikhaldara",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 30\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 30\nFood is provided",
 			"nameoftheorganisation": "Municipal Guest House and School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11767,7 +11938,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Dharani",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: 25\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: 25\nFood is provided",
 			"nameoftheorganisation": "Rang Bhavan",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11776,7 +11947,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Amravati",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: NA\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: NA\nFood is provided",
 			"nameoftheorganisation": "Railway Station",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11785,7 +11956,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Amravati",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: NA\n District: Amravati\n Capacity: NA\n Food is provided",
+			"descriptionandorserviceprovided": "Address: NA\nDistrict: Amravati\nCapacity: NA\nFood is provided",
 			"nameoftheorganisation": "Hanuman Vyayam Prasar Mandal",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -11794,7 +11965,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Yerawad",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Pratik Nagar, Alandi Road, Yerawada, Pune\n District: Pune\n Capacity: 55\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Pratik Nagar, Alandi Road, Yerawada, Pune\nDistrict: Pune\nCapacity: 55\nFood is provided",
 			"nameoftheorganisation": "Dr Nanasaheb Parule Vidyalaya",
 			"phonenumber": "8862086857, 9767592394",
 			"state": "Maharashtra"
@@ -11803,7 +11974,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Dhole Patil Road",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Dhole Patil Road, Pune\n District: Pune\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Dhole Patil Road, Pune\nDistrict: Pune\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Mahatma Phule Primary School",
 			"phonenumber": "8805155787, 9552561673",
 			"state": "Maharashtra"
@@ -11812,7 +11983,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wadgaon Sheri",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Wadgaon Sheri, Pune 14\n District: Pune\n Capacity: 30\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Wadgaon Sheri, Pune 14\nDistrict: Pune\nCapacity: 30\nFood is provided",
 			"nameoftheorganisation": "Acharya Anandrishiji Maharaj Primary School",
 			"phonenumber": "9552313131, 9763237099",
 			"state": "Maharashtra"
@@ -11821,7 +11992,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Gokhale Nagar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Veer Bajiprabhu Primary School, Gokhale Nagar, Pune 16\n District: Pune\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Veer Bajiprabhu Primary School, Gokhale Nagar, Pune 16\nDistrict: Pune\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Corporation School Number 90",
 			"phonenumber": "7722076571, 9689934606",
 			"state": "Maharashtra"
@@ -11830,7 +12001,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Aundh",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Survey Number 153, Near Police Line, Aundh, Pune 7\n District: Pune\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Survey Number 153, Near Police Line, Aundh, Pune 7\nDistrict: Pune\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Indira Model School",
 			"phonenumber": "9011570700, 9422355734",
 			"state": "Maharashtra"
@@ -11839,7 +12010,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kothrud",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Shashtrinagar, Kothrud, Pune 38\n District: Pune\n Capacity: 34\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Shashtrinagar, Kothrud, Pune 38\nDistrict: Pune\nCapacity: 34\nFood is provided",
 			"nameoftheorganisation": "Corporation School Number 139 Annasaheb Patil Primary School",
 			"phonenumber": "8975911146, 9881607784",
 			"state": "Maharashtra"
@@ -11848,7 +12019,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Karvenagar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: 177B Karvenagar\n District: Pune\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: 177B Karvenagar\nDistrict: Pune\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Samrat Ashok Vidya Mandir",
 			"phonenumber": "9960969511, 9689932000",
 			"state": "Maharashtra"
@@ -11857,7 +12028,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vadgaon",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Vadgaon Khurd, Dhayari Phata, Narhe Road, Pune 41\n District: Pune\n Capacity: 22\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Vadgaon Khurd, Dhayari Phata, Narhe Road, Pune 41\nDistrict: Pune\nCapacity: 22\nFood is provided",
 			"nameoftheorganisation": "Narayan Navale Primary School",
 			"phonenumber": "9403080215, 9011115509",
 			"state": "Maharashtra"
@@ -11866,7 +12037,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Katraj",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Katraj Gaothan, Katraj, Pune 46\n District: Pune\n Capacity: NA\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Katraj Gaothan, Katraj, Pune 46\nDistrict: Pune\nCapacity: NA\nFood is provided",
 			"nameoftheorganisation": "Krishnaji Balwant More Vidyalay",
 			"phonenumber": "9822623450, 9822295671",
 			"state": "Maharashtra"
@@ -11875,7 +12046,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kondhawa",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Kondhawa Khurd\n District: Pune\n Capacity: 140\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Kondhawa Khurd\nDistrict: Pune\nCapacity: 140\nFood is provided",
 			"nameoftheorganisation": "Sant Gadge Maharaj Primary School",
 			"phonenumber": "9112381106, 9960405221",
 			"state": "Maharashtra"
@@ -11884,7 +12055,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Hadapar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Hadapsar\n District: Pune\n Capacity: 41\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Hadapsar\nDistrict: Pune\nCapacity: 41\nFood is provided",
 			"nameoftheorganisation": "58G Model Bunter School",
 			"phonenumber": "9423528406, 8605759595",
 			"state": "Maharashtra"
@@ -11893,7 +12064,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kondhawa",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Khondawa Khurd\n District: Pune\n Capacity: 53\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Khondawa Khurd\nDistrict: Pune\nCapacity: 53\nFood is provided",
 			"nameoftheorganisation": "Sadashiv Bapu Darekar Primary School",
 			"phonenumber": "9271248748, 9822295671",
 			"state": "Maharashtra"
@@ -11902,7 +12073,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Bhavani Peth",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Bhavani Peth, Pune 42\n District: Pune\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Bhavani Peth, Pune 42\nDistrict: Pune\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Kantrivir Lahuji Vastad Salve Primary School",
 			"phonenumber": "7020171109",
 			"state": "Maharashtra"
@@ -11911,7 +12082,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Bibwewadi",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Dhole Mala, Bibwewadi, Pune 37\n District: Pune\n Capacity: 44\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Dhole Mala, Bibwewadi, Pune 37\nDistrict: Pune\nCapacity: 44\nFood is provided",
 			"nameoftheorganisation": "Pappa Sheth Khanna Primary School",
 			"phonenumber": "9890386050",
 			"state": "Maharashtra"
@@ -11920,7 +12091,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Narayan Peth",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Narayan Peth Pune\n District: Pune\n Capacity: 80\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Narayan Peth Pune\nDistrict: Pune\nCapacity: 80\nFood is provided",
 			"nameoftheorganisation": "V B Gogte Vidyalay",
 			"phonenumber": "9860442290, 9011607899",
 			"state": "Maharashtra"
@@ -11929,7 +12100,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nasik City",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Gangaghat\n District: Nashik\n Capacity: 140\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Gangaghat\nDistrict: Nashik\nCapacity: 140\nFood is provided",
 			"nameoftheorganisation": "Shri Sant Gadge Maharaj School",
 			"phonenumber": "9403495773",
 			"state": "Maharashtra"
@@ -11938,7 +12109,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nasik City",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Near Indrakund, Panchwati\n District: Nashik\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Near Indrakund, Panchwati\nDistrict: Nashik\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Siddhivinayak Tower",
 			"phonenumber": "9403495773",
 			"state": "Maharashtra"
@@ -11947,7 +12118,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nasik City",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Mahadeowadi\n District: Nashik\n Capacity: 90\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Mahadeowadi\nDistrict: Nashik\nCapacity: 90\nFood is provided",
 			"nameoftheorganisation": "Corporation School",
 			"phonenumber": "9403495773",
 			"state": "Maharashtra"
@@ -11956,7 +12127,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Nasik City",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Ward Number 21, Behind Patil Garage\n District: Nashik\n Capacity: 20\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Ward Number 21, Behind Patil Garage\nDistrict: Nashik\nCapacity: 20\nFood is provided",
 			"nameoftheorganisation": "Corporation Samaj Mandir",
 			"phonenumber": "9403495773",
 			"state": "Maharashtra"
@@ -11965,7 +12136,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Malad",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: SBT Malad shelter ( CENTER FOR HOMELESS)\n District: Mumbai\n Capacity: NA\n Food is provided",
+			"descriptionandorserviceprovided": "Address: SBT Malad shelter ( CENTER FOR HOMELESS)\nDistrict: Mumbai\nCapacity: NA\nFood is provided",
 			"nameoftheorganisation": "SBT Malad Shelter (Girls)",
 			"phonenumber": "7972119016",
 			"state": "Maharashtra"
@@ -11974,7 +12145,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Mumbai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: SBT JB Nagar Andheri (CENTER FOR HOMELESS)\n District: Mumbai\n Capacity: NA\n Food is provided",
+			"descriptionandorserviceprovided": "Address: SBT JB Nagar Andheri (CENTER FOR HOMELESS)\nDistrict: Mumbai\nCapacity: NA\nFood is provided",
 			"nameoftheorganisation": "SBT JB Nagar Andheri",
 			"phonenumber": "8108453033",
 			"state": "Maharashtra"
@@ -11983,7 +12154,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kalyan",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Manpada Road, Opposite Gaondevi, Dehind Renuka Mata Temple, Dombivali North\n District: Navi Mumbai\n Capacity: NA\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Manpada Road, Opposite Gaondevi, Dehind Renuka Mata Temple, Dombivali North\nDistrict: Navi Mumbai\nCapacity: NA\nFood is provided",
 			"nameoftheorganisation": "Kalyan Dombivali Beghar Nivara",
 			"phonenumber": "9821826385",
 			"state": "Maharashtra"
@@ -11992,7 +12163,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Virat Nivara Kendra, Vasai West\n District: Palghar\n Capacity: 60\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Virat Nivara Kendra, Vasai West\nDistrict: Palghar\nCapacity: 60\nFood is provided",
 			"nameoftheorganisation": "Virat Nivara Kendra (Gents)",
 			"phonenumber": "9307674221, 7798045868",
 			"state": "Maharashtra"
@@ -12001,7 +12172,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Waliv Shelter, Nabghar Manikpur\n District: Palghar\n Capacity: 30\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Waliv Shelter, Nabghar Manikpur\nDistrict: Palghar\nCapacity: 30\nFood is provided",
 			"nameoftheorganisation": "Walive Shelter",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12010,7 +12181,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kashimira Thane",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Silver Sarita Homeless Shelter, Kashigaon, Kashimira, Mira Road\n District: Thane\n Capacity: 122\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Silver Sarita Homeless Shelter, Kashigaon, Kashimira, Mira Road\nDistrict: Thane\nCapacity: 122\nFood is provided",
 			"nameoftheorganisation": "Silver Sarita Homeless Shelter",
 			"phonenumber": "9869345036",
 			"state": "Maharashtra"
@@ -12019,7 +12190,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Ulhasnagar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Samaj Mandir, Kalyan Ambernath Road, Farwar Line, Ulhasnagar 03\n District: Mumbai\n Capacity: 20\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Samaj Mandir, Kalyan Ambernath Road, Farwar Line, Ulhasnagar 03\nDistrict: Mumbai\nCapacity: 20\nFood is provided",
 			"nameoftheorganisation": "Samaj Mandir",
 			"phonenumber": "9545103417",
 			"state": "Maharashtra"
@@ -12028,7 +12199,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Ulhasnagar",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: School no. 1, In front of Bholenath Tower, Ulhasnagar 01\n District: Mumbao\n Capacity: 40\n Food is provided",
+			"descriptionandorserviceprovided": "Address: School no. 1, In front of Bholenath Tower, Ulhasnagar 01\nDistrict: Mumbao\nCapacity: 40\nFood is provided",
 			"nameoftheorganisation": "School Number 1",
 			"phonenumber": "9545103417",
 			"state": "Maharashtra"
@@ -12037,7 +12208,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Vasai-Virar Virat Nagar, Virar West\n District: Palghar\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Vasai-Virar Virat Nagar, Virar West\nDistrict: Palghar\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Virat Nivara Kendra,",
 			"phonenumber": "9307674221, 7798045868",
 			"state": "Maharashtra"
@@ -12046,7 +12217,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Vasai Papdi Homeless Shelter, Near Water Tank\n District: Palghar\n Capacity: 20\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Vasai Papdi Homeless Shelter, Near Water Tank\nDistrict: Palghar\nCapacity: 20\nFood is provided",
 			"nameoftheorganisation": "Vasai Papdi Homeless Shelter",
 			"phonenumber": "9307674221, 7720844466",
 			"state": "Maharashtra"
@@ -12055,7 +12226,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Bhiwandi",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Bhiwandi-Nizampur Municipal Corporation, Homeless Shelter - Siddhant Samaj Vikas Sansthan, Next to Bhwandi Bus Depot, Near Water Tank\n District: Palgahr\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Bhiwandi-Nizampur Municipal Corporation, Homeless Shelter - Siddhant Samaj Vikas Sansthan, Next to Bhwandi Bus Depot, Near Water Tank\nDistrict: Palgahr\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Homeless Shelter - Siddhant Samaj Vikas Sansthan",
 			"phonenumber": "9545103417",
 			"state": "Maharashtra"
@@ -12064,7 +12235,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Nalasopara East\n District: Palghar\n Capacity: 150\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Nalasopara East\nDistrict: Palghar\nCapacity: 150\nFood is provided",
 			"nameoftheorganisation": "Nalasopara Shelter Home",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12073,7 +12244,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Pellar ZP School, Highway road, Nalasopara\n District: Palghar\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Pellar ZP School, Highway road, Nalasopara\nDistrict: Palghar\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Nalasopara (Temporary)",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12082,7 +12253,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Kaman Highway, Vasai\n District: Palghar\n Capacity: 200\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Kaman Highway, Vasai\nDistrict: Palghar\nCapacity: 200\nFood is provided",
 			"nameoftheorganisation": "Kaman Highway (temp)",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12091,7 +12262,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: KMPD School, Nalasopara\n District: Palghar\n Capacity: 150\n Food is provided",
+			"descriptionandorserviceprovided": "Address: KMPD School, Nalasopara\nDistrict: Palghar\nCapacity: 150\nFood is provided",
 			"nameoftheorganisation": "Nalasopara East (Temp)",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12100,7 +12271,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Naigaon Mahanagar Palika Hall\n District: Palghar\n Capacity: 200\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Naigaon Mahanagar Palika Hall\nDistrict: Palghar\nCapacity: 200\nFood is provided",
 			"nameoftheorganisation": "Naigaon MNP Hall (temp)",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12109,7 +12280,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Vasai",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Chandansar ZP School, Virar\n District: Palghar\n Capacity: 50\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Chandansar ZP School, Virar\nDistrict: Palghar\nCapacity: 50\nFood is provided",
 			"nameoftheorganisation": "Chandansar ZP school",
 			"phonenumber": "9307674221",
 			"state": "Maharashtra"
@@ -12118,7 +12289,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Andheri",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Near D-mart, Opp Vijaynagar, Sahar Road, Andheri East\n District: Mumbai\n Capacity: 684\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Near D-mart, Opp Vijaynagar, Sahar Road, Andheri East\nDistrict: Mumbai\nCapacity: 684\nFood is provided",
 			"nameoftheorganisation": "Om Sai SRA Hsg Soc",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12127,7 +12298,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Andheri",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Near D. N. Nagar Police Station, Andheri West\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Near D. N. Nagar Police Station, Andheri West\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "D N Nagar Municipal School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12136,7 +12307,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Borivali",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Malad, C.S.No. 19A, 20A, 21A\n District: Mumbai\n Capacity: 972\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Malad, C.S.No. 19A, 20A, 21A\nDistrict: Mumbai\nCapacity: 972\nFood is provided",
 			"nameoftheorganisation": "162 Transit Tenaments",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12145,7 +12316,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Borivali",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Goregaon West\n District: Mumbai\n Capacity: 150\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Goregaon West\nDistrict: Mumbai\nCapacity: 150\nFood is provided",
 			"nameoftheorganisation": "Unmat Nagar Municipal Schools",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12154,7 +12325,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Borivali",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Tere Marg Dahisar West\n District: Mumbai\n Capacity: 200\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Tere Marg Dahisar West\nDistrict: Mumbai\nCapacity: 200\nFood is provided",
 			"nameoftheorganisation": "BMC School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12163,7 +12334,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Borivali",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: 1st and 2nd Floor, Mahavir Nagar, Kandivali West\n District: Mumbai\n Capacity: 200\n Food is provided",
+			"descriptionandorserviceprovided": "Address: 1st and 2nd Floor, Mahavir Nagar, Kandivali West\nDistrict: Mumbai\nCapacity: 200\nFood is provided",
 			"nameoftheorganisation": "Aadharika Bhavan",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12172,7 +12343,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kurla",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Building No. 1 A/B/C, MHADA, PMGP colony, Mankhurd\n District: Mumbai\n Capacity: 1590\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Building No. 1 A/B/C, MHADA, PMGP colony, Mankhurd\nDistrict: Mumbai\nCapacity: 1590\nFood is provided",
 			"nameoftheorganisation": "MHADA, PMGP Colony",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12181,7 +12352,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kurla",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Nehrunagar, Kurla\n District: Mumbai\n Capacity: 30\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Nehrunagar, Kurla\nDistrict: Mumbai\nCapacity: 30\nFood is provided",
 			"nameoftheorganisation": "Kamgar Nagar Mahanagarpalika School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12190,7 +12361,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kurla",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Kannamvar Nagar, Vikhroli\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Kannamvar Nagar, Vikhroli\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "MHADA Community Hall",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12199,7 +12370,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Kurla",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Lamboni Bag, Govandi\n District: Mumbai\n Capacity: 150\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Lamboni Bag, Govandi\nDistrict: Mumbai\nCapacity: 150\nFood is provided",
 			"nameoftheorganisation": "Mahanagarpalika School",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12208,7 +12379,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Mumbai City",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Opp Metro CInema, Mahapalika Marg, Mumbai\n District: Mumbai\n Capacity: 125\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Opp Metro CInema, Mahapalika Marg, Mumbai\nDistrict: Mumbai\nCapacity: 125\nFood is provided",
 			"nameoftheorganisation": "Elphinstone Technical Institute",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12217,7 +12388,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Byculla",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: J.J. Marg Byculla, Mumbai\n District: Mumbai\n Capacity: 300\n Food is provided",
+			"descriptionandorserviceprovided": "Address: J.J. Marg Byculla, Mumbai\nDistrict: Mumbai\nCapacity: 300\nFood is provided",
 			"nameoftheorganisation": "Richardson & Cruddas Ltd",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12226,7 +12397,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Malabar Hill",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Malabar Hill, Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Malabar Hill, Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Wilson Highschool Hall",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12235,7 +12406,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Girgaon",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Nikadwari Lane, J.S. Road, Girgaon\n District: Mumbai\n Capacity: 40\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Nikadwari Lane, J.S. Road, Girgaon\nDistrict: Mumbai\nCapacity: 40\nFood is provided",
 			"nameoftheorganisation": "Chitpawan Hall",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12244,7 +12415,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Malabar Hill",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Subhash Chowk, Dr. B.I.Road, Walkeshwar, Malbar Hill, Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Subhash Chowk, Dr. B.I.Road, Walkeshwar, Malbar Hill, Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Banganga Hindi Highschool Hall",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12253,7 +12424,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Worli",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Adarsh Nagar, Near Century Bazar, Worli, Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Adarsh Nagar, Near Century Bazar, Worli, Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Dr. Dharamji Hari, Kharude Mandai Hall",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12262,7 +12433,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Worli",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Near Four Seasons Hotel, Dr. E. Moses Road, Worli, Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Near Four Seasons Hotel, Dr. E. Moses Road, Worli, Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Mulchand Niwas Lodging Establishment",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12271,7 +12442,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Elphinstone",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Senapati Bapat Marg, Elphinstone, Mumbai\n District: Mumbai\n Capacity: 120\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Senapati Bapat Marg, Elphinstone, Mumbai\nDistrict: Mumbai\nCapacity: 120\nFood is provided",
 			"nameoftheorganisation": "Maharashtra Labour Welfare Board",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12280,7 +12451,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Matunga",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: T.H. Kataria Marg, Matunga Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: T.H. Kataria Marg, Matunga Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Western Railway Community Hall",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12289,7 +12460,7 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Wadala",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Plot No. 1, Sewri Wadala Estate, C.S. No. 1/583 of Matunga Division, Wadala, Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Plot No. 1, Sewri Wadala Estate, C.S. No. 1/583 of Matunga Division, Wadala, Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Residential Building",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
@@ -12298,838 +12469,10 @@
 			"category": "Accommodation and Shelter Homes",
 			"city": "Naigaon",
 			"contact": "",
-			"descriptionandorserviceprovided": "Address: Kala Bhavan, Apna Bazar, Govindji Keni Marg, Naigaon, Mumbai\n District: Mumbai\n Capacity: 100\n Food is provided",
+			"descriptionandorserviceprovided": "Address: Kala Bhavan, Apna Bazar, Govindji Keni Marg, Naigaon, Mumbai\nDistrict: Mumbai\nCapacity: 100\nFood is provided",
 			"nameoftheorganisation": "Maharashtra Kamgar Kalyan Kendra",
 			"phonenumber": "NA",
 			"state": "Maharashtra"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Imphal",
-			"contact": "http://www.rims.edu.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Regional Institute of Medical Sciences",
-			"phonenumber": "3852414629",
-			"state": "Manipur"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Imphal",
-			"contact": "https://covid.icmr.org.in/index.php/testing-labs-deatails#",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Jawaharlal Nehru Institute of Med. Sciences, Imphal-East",
-			"phonenumber": "3852443144",
-			"state": "Manipur"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Shillong",
-			"contact": "http://www.neigrihms.gov.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences",
-			"phonenumber": "3642538013",
-			"state": "Meghalaya"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Shillong",
-			"contact": "https://sbsa.org.in https://www.facebook.com/pg/SBSAShillong",
-			"descriptionandorserviceprovided": "We can provide cooked food, ration, essential supplies, all sort of data from North Eastern part of India",
-			"nameoftheorganisation": "Shillong Bengalee Students Association",
-			"phonenumber": "9089723490",
-			"state": "Meghalaya"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Bhubaneswar",
-			"contact": "http://www.rmrcbbsr.gov.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Regional Medical Research Centre",
-			"phonenumber": "6742301322",
-			"state": "Odisha"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Bhubaneswar",
-			"contact": "https://aiimsbhubaneswar.nic.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "All India Institute of Medical Sciences",
-			"phonenumber": "6742476789",
-			"state": "Odisha"
-		},
-		{
-			"category": "Other",
-			"city": "Boudh",
-			"contact": "http://www.shedboudh.com",
-			"descriptionandorserviceprovided": "Voluntary organisation in Boudh District",
-			"nameoftheorganisation": "Society for Human Resources and Ecological Development",
-			"phonenumber": "9445996557",
-			"state": "Odisha"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Cuttack",
-			"contact": "https://www.odishapolice.gov.in/",
-			"descriptionandorserviceprovided": "Police helpine for Cuttack city",
-			"nameoftheorganisation": "Odisha Police",
-			"phonenumber": "6712368301",
-			"state": "Odisha"
-		},
-		{
-			"category": "Other",
-			"city": "Cuttack",
-			"contact": "https://www.odishapolice.gov.in/",
-			"descriptionandorserviceprovided": "Smooth movement of goods",
-			"nameoftheorganisation": "Odisha Police helpline for goods",
-			"phonenumber": "6742620200",
-			"state": "Odisha"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Puducherry",
-			"contact": "https://www.jipmer.edu.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry",
-			"phonenumber": "4132296000",
-			"state": "Puducherry"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Amritsar",
-			"contact": "http://gmc.edu.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "1832426918",
-			"state": "Punjab"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Patiala",
-			"contact": "https://gmcpatiala.com/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "1752212018",
-			"state": "Punjab"
-		},
-		{
-			"category": "Community Kitchen",
-			"city": "Amritsar",
-			"contact": "http://bhaikanhaiyacharity.com/langar.aspx",
-			"descriptionandorserviceprovided": "Provides free food",
-			"nameoftheorganisation": "Guru langar",
-			"phonenumber": "1642262012",
-			"state": "Punjab"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Ajmer",
-			"contact": "https://education.rajasthan.gov.in/jlnmcajmer",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "JLN Medical College",
-			"phonenumber": "1452425050",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Bikaner",
-			"contact": "https://education.rajasthan.gov.in/spmcbikaner",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "SP Medical College",
-			"phonenumber": "1512220115",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "Free Food",
-			"city": "Bikaner",
-			"contact": "https://www.akshayapatra.org/",
-			"descriptionandorserviceprovided": "Free cooked meals",
-			"nameoftheorganisation": "Akshaya patra",
-			"phonenumber": "18004258622",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Jaipur",
-			"contact": "https://education.rajasthan.gov.in/smsmcjaipur",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Sawai Man Singh Medical College",
-			"phonenumber": "1412708836, 1412518405",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Jaipur",
-			"contact": "http://cmrelief.rajasthan.gov.in/ContributionCovid-19.aspx",
-			"descriptionandorserviceprovided": "Chief minister relief fund.",
-			"nameoftheorganisation": "CM RELIEF FUND RAJASATHAN",
-			"phonenumber": "1412227679",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
-			"city": "Jaipur",
-			"contact": "https://www.allindiawelfaresociety.com/contact.html",
-			"descriptionandorserviceprovided": "Protective Gear/ Medicines",
-			"nameoftheorganisation": "All India Welfare Society",
-			"phonenumber": "9799609846, 9772121730",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Jaipur",
-			"contact": "https://www.ourdemocracy.in/Campaign/PPERajasthan",
-			"descriptionandorserviceprovided": "Healthcare workers are at the forefront of the fight against the coronavirus pandemic. Unfortunately, they are facing a shortage of PPEs as cases arise, and need our support. Fund collection for Personal Protective Equipment(PPE)",
-			"nameoftheorganisation": "Assoc. of Surgeons - procuring protective equipment",
-			"phonenumber": "9672019934",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "Free Food",
-			"city": "Jaipur",
-			"contact": "http://www.annakshetra.org/",
-			"descriptionandorserviceprovided": "Free meal distribution",
-			"nameoftheorganisation": "Annakshetra",
-			"phonenumber": "9001295293",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Jhalawar",
-			"contact": "https://education.rajasthan.gov.in/content/raj/education/jhalawar-hospital---medical-college--jhalawar/en/home.html",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Jhalawar Medical College",
-			"phonenumber": "7432233388",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Jodhpur",
-			"contact": "http://www.aiimsjodhpur.edu.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "All India Institute of Medical Sciences",
-			"phonenumber": "2912740741",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Jodhpur",
-			"contact": "https://education.rajasthan.gov.in/medicaleducation",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Dr. Sampurnanand Medical College",
-			"phonenumber": "2912434374",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Kota",
-			"contact": "https://education.rajasthan.gov.in/content/raj/education/government-medical-college--kota/en/home.html",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "7442470674",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Udaipur",
-			"contact": "https://education.rajasthan.gov.in/rntmcudaipur",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "RNT Medical College",
-			"phonenumber": "2942418258",
-			"state": "Rajasthan"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Gangtok",
-			"contact": "https://covid.icmr.org.in/index.php/testing-labs-deatails#",
-			"descriptionandorserviceprovided": "Collection Site Only",
-			"nameoftheorganisation": "Sir Thutob Namgyal Memorial (STNM)",
-			"phonenumber": "9845562399",
-			"state": "Sikkim"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Chennai",
-			"contact": "https://nofoodwaste.org/covid19",
-			"descriptionandorserviceprovided": "Free food for the needy",
-			"nameoftheorganisation": "No Food Waste",
-			"phonenumber": "9087790877",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Chennai",
-			"contact": "https://milaap.org/fundraisers/support-chennai-corona-warriors-1",
-			"descriptionandorserviceprovided": "Groceries delivery to physically disabled person",
-			"nameoftheorganisation": "Chennai corona warriors",
-			"phonenumber": "9003862123",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "Senior Citizen Support",
-			"city": "Chennai",
-			"contact": "http://www.bhoomikatrust.org",
-			"descriptionandorserviceprovided": "Bhoomika trust has launched a helpline for senior citizens and immuno-compromised individuals in Chennai. Volunteers who man the helpline will provide necessary guidance and doorstep assistance where necessary.",
-			"nameoftheorganisation": "Bhoomika Trust",
-			"phonenumber": "4446314726",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Chennai",
-			"contact": "http://www.mmc.ac.in/mmc/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Madras Medical College",
-			"phonenumber": "4425305000",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Chennai",
-			"contact": "http://www.kipmr.org.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "King Institute of Preventive Medicine & Research",
-			"phonenumber": "4422501520",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Chennai",
-			"contact": "http://www.stanleymedicalcollege.ac.in/stanleymedicalcollege/",
-			"descriptionandorserviceprovided": "Government Laboratories Found Suitable for COVID19 Testing but not supported by ICMR",
-			"nameoftheorganisation": "Stanley Medical College",
-			"phonenumber": "4425282350",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Coimbatore",
-			"contact": "http://www.microlabindia.com/",
-			"descriptionandorserviceprovided": "COVID-19 Testing Laboratory",
-			"nameoftheorganisation": "Microbiological Laboratory",
-			"phonenumber": "18004251316,\n 04222540525,\n 04222556628,",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Coimbatore",
-			"contact": "http://www.cmccbe.ac.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Coimbatore Medical College",
-			"phonenumber": "4222301393",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Madurai",
-			"contact": "http://manitham.org.in/?page_id=45",
-			"descriptionandorserviceprovided": "\"Manitham will be raising funds for 150 families who are street circus performers, and do not have a daily income. They have been hit especially hard during the ongoing Covid-19 crisis, and any support you’d be willing to provide goes a long way. It costs INR 2000 per family for grocery and sanitary supplies for the next 2 weeks for instant relief, as government subsidies are just not adequate.\"",
-			"nameoftheorganisation": "Manitham Charitable Trust",
-			"phonenumber": "9443095245",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Madurai",
-			"contact": "http://www.mdmc.ac.in/mdmc/content_page.jsp?sqf=12&sq1=contactus",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Madurai Medical College",
-			"phonenumber": "4522532535",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "Hospitals and Centers",
-			"city": "Nagercoil",
-			"contact": "http://www.kkmc.ac.in/kkmc/",
-			"descriptionandorserviceprovided": "Covid isolation ward and treatment facilities",
-			"nameoftheorganisation": "Kanyakumari government medical college",
-			"phonenumber": "4652223201",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Salem",
-			"contact": "http://www.gmkmc.ac.in/gmkmc/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Kumar Mangalam Govt. Medical College",
-			"phonenumber": "4272383313",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Theni",
-			"contact": "http://www.tmctheni.ac.in/tmctheni/content_page.jsp?sqf=12&sq1=contactus",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Theni Medical College",
-			"phonenumber": "4546263668",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Thiruvarur",
-			"contact": "http://www.tmctvr.ac.in/tmctvr/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "4366220040",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Tiruchirappalli",
-			"contact": "http://www.kapvgmc.ac.in/kapvgmc/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "4312401011",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Tirunelveli",
-			"contact": "http://tvmc.ac.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Tirunelveli Medical College, Tirunelveli",
-			"phonenumber": "4622572733",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Villupuram",
-			"contact": "http://www.vmcvpm.ac.in/vmcvpm/index.jsp",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "4146232300",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Hyderabad",
-			"contact": "https://pages.razorpay.com/Covid19Relief",
-			"descriptionandorserviceprovided": "To provide basic ration and hygiene supply kits to those in dire need. Daily wagers, migrant workers, street children, single parents and beggars are worst hit due to the lock down",
-			"nameoftheorganisation": "Safa Society",
-			"phonenumber": "9182383023, 9014816640",
-			"state": "Telangana"
-		},
-		{
-			"category": "Accommodation and Shelter Homes",
-			"city": "Hyderabad",
-			"contact": "https://mobile.twitter.com/RachakondaCop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-			"descriptionandorserviceprovided": "To help the Rachakonda Police Commissionerate provide food and shelter, call their 24×7 helpline with details of location and number of daily wage labourers in need",
-			"nameoftheorganisation": "Rachakonda Police Commissionerate",
-			"phonenumber": "9490617234",
-			"state": "Telangana"
-		},
-		{
-			"category": "Accommodation and Shelter Homes",
-			"city": "Hyderabad",
-			"contact": "https://hyderabad.telangana.gov.in/click-here-to-download-covid-19-iec-material/",
-			"descriptionandorserviceprovided": "GHMC Helpline for Food and Accommodation",
-			"nameoftheorganisation": "GHMC Helpline for Accommodation",
-			"phonenumber": "9702385140, 9701385138, 9177997750",
-			"state": "Telangana"
-		},
-		{
-			"category": "Police",
-			"city": "Hyderabad",
-			"contact": "http://hyderabad.telengana.gov.in",
-			"descriptionandorserviceprovided": "Hyderabad Corona Police Help Line",
-			"nameoftheorganisation": "Hyderabad Corona Police Help Line",
-			"phonenumber": "9010203626",
-			"state": "Telangana"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Hyderabad",
-			"contact": "https://www.ketto.org/fundraiser/providing-hygiene-menstrual-and-oral-health-kits-for-marginalized-people?payment=form",
-			"descriptionandorserviceprovided": "Catering to food and medicine requests, Good Universe wanted to focus on providing a simple, yet useful hygiene kit to those who need it the most. We partnered with T-SIG (The official CSR Cell of Telangana) and are working towards providing a basic hygiene kit during this time of distress.",
-			"nameoftheorganisation": "Good UniverseNGO",
-			"phonenumber": "8977077743, 8341180851",
-			"state": "Telangana"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Hyderabad",
-			"contact": "https://todayskalam.org",
-			"descriptionandorserviceprovided": "Caters to the needs of kids in slums by distributing rice, dal and oil",
-			"nameoftheorganisation": "Kalaam Foundation",
-			"phonenumber": "9618243916",
-			"state": "Telangana"
-		},
-		{
-			"category": "Free Food",
-			"city": "Hyderabad",
-			"contact": "https://www.ketto.org/fundraiser/SAFAforCorona?utm_source=campaigner&utm_medium=fbpageshare&utm_campaign=SAFAforCorona&utm_content=1116840&fbclid=IwAR0bChGZ3lUInvRlJY3L2n-bFr9md1Epx58gIt5WhfQjKUfqQcpKQ6oQqZI&payment=form",
-			"descriptionandorserviceprovided": "SAFA volunteers distributing ration packages in the community following the government safety protocol for Covid_19.",
-			"nameoftheorganisation": "SAFA Foundation",
-			"phonenumber": "4064533964",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Hyderabad",
-			"contact": "https://osmaniamedicalcollege.org/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Osmania Medical College",
-			"phonenumber": "4024653992",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Hyderabad",
-			"contact": "http://www.welltechfoundation.org/ronald-ross.php",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Sir Ronald Ross Institute of Tropical & Communicable Diseases",
-			"phonenumber": "4027682218",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Hyderabad",
-			"contact": "https://nims.edu.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Nizam’s Institute of Medical Sciences",
-			"phonenumber": "4023489000",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Hyderabad",
-			"contact": "http://ipm.telangana.gov.in/contactus.html",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Institute of Preventive Medicine",
-			"phonenumber": "9849905227",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Hyderabad",
-			"contact": "https://www.ccmb.res.in/",
-			"descriptionandorserviceprovided": "Government Laboratories Found Suitable for COVID19 Testing but not supported by ICMR",
-			"nameoftheorganisation": "Centre for Cellular & Molecular Biology",
-			"phonenumber": "4027160222",
-			"state": "Telangana"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Hyderabad",
-			"contact": "https://www.akshayapatra.org/covid-relief-services",
-			"descriptionandorserviceprovided": "They are providing free food and ration",
-			"nameoftheorganisation": "Akshaya Patra foundation, narsingi",
-			"phonenumber": "4040031456",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Secunderabad",
-			"contact": "https://www.gandhihospital.in",
-			"descriptionandorserviceprovided": "Covid -19 testing.",
-			"nameoftheorganisation": "Gandhi medical college",
-			"phonenumber": "4027502742",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Agartala",
-			"contact": "http://www.agmc.nic.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Government Medical College",
-			"phonenumber": "3812356701",
-			"state": "Tripura"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Aligarh",
-			"contact": "https://amu.ac.in/principal.jsp?did=10146",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Jawaharlal Nehru Medical College",
-			"phonenumber": "",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "Free Food",
-			"city": "Aligarh",
-			"contact": "https://www.instagram.com/meraj_foundation/",
-			"descriptionandorserviceprovided": "Providing food to needy.",
-			"nameoftheorganisation": "Meraj Foundation",
-			"phonenumber": "8700359640, 8826367018",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Aligarh",
-			"contact": "https://www.amu.ac.in/hospital.jsp",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Jawaharlal Nehru Medical College",
-			"phonenumber": "5712720382,\n 9897752620",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Gorakhpur",
-			"contact": "http://rmrcgkp.icmr.org.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Regional Medical Research Centre",
-			"phonenumber": "5512250442",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "Free Food",
-			"city": "Lucknow",
-			"contact": "https://www.facebook.com/insaniyatwelfaresociety/",
-			"descriptionandorserviceprovided": "Feeding 700 needy per day in Lucknow",
-			"nameoftheorganisation": "Insaniyat Welfare Society",
-			"phonenumber": "9621670470",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Lucknow",
-			"contact": "https://www.nhp.gov.in/hospital/command-hospital-(cc)-lucknow-lucknow-uttar_pradesh",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Command Hospital",
-			"phonenumber": "5222480532",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Lucknow",
-			"contact": "http://www.kgmu.org/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "King George Medical University",
-			"phonenumber": "5222258880",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Lucknow",
-			"contact": "http://www.sgpgi.ac.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Sanjay Gandhi Post Graduate Institute",
-			"phonenumber": "5222668700",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Meerut",
-			"contact": "http://llrmmedicalcollege.nic.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Lala Lajpat Rai Memorial Medical College",
-			"phonenumber": "1212760888",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Noida",
-			"contact": "https://donatekart.com/VOS/Help-children#about-campaign",
-			"descriptionandorserviceprovided": "Voice of Slums has been striving to change the lives of these slum children. They have been working hard to reach out to children from vulnerable communities. Voice of Slums has provided many children with education and vocational. They are now relentlessly working towards saving these children from Corona. They are working to provide these children with a corona prevention kit. The kit will help these children to maintain their hygiene and avoid getting infected with Corona virus. Their surroundings increase their chances of getting infected as they live in deplorable conditions. By maintaining their hygiene, they can survive.",
-			"nameoftheorganisation": "Voice of Slum",
-			"phonenumber": "8886610641",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Saifai",
-			"contact": "http://www.upums.ac.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Uttar Pradesh RIMS",
-			"phonenumber": "5688276599",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Varanasi",
-			"contact": "http://www.bhu.ac.in/ims/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Institute of Medical Sciences, Banaras Hindu University",
-			"phonenumber": "2367568",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Varanasi",
-			"contact": "http://www.bhu.ac.in/ims/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Institute of Medical Sciences, Banaras Hindu University",
-			"phonenumber": "5422367568",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Haldwani",
-			"contact": "https://gmchld.org/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Govt. Medical College",
-			"phonenumber": "5946282824",
-			"state": "Uttarakhand"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Rishikesh",
-			"contact": "http://utsr.org/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "All India Institute of Medical Sciences",
-			"phonenumber": "1352462927",
-			"state": "Uttarakhand"
-		},
-		{
-			"category": "Mental well being and Emotional support",
-			"city": "Kolkata",
-			"contact": "https://www.prayasam.org",
-			"descriptionandorserviceprovided": "We will provide soft copy of various awareness material",
-			"nameoftheorganisation": "SALT LAKE CITY PRAYASAM",
-			"phonenumber": "8240047706, 3323343919, 3340045956",
-			"state": "West Bengal"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Siliguri",
-			"contact": "https://www.nbmch.org/contact.html",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "North Bengal Medical College",
-			"phonenumber": "3532585478",
-			"state": "West Bengal"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Kolkata",
-			"contact": "http://www.ipgmer.gov.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Institute of Post Graduate Medical Education & Research",
-			"phonenumber": "3322041101",
-			"state": "West Bengal"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Kolkata",
-			"contact": "http://www.niced.org.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "National Institute of Cholera & Enteric Diseases",
-			"phonenumber": "3323633373",
-			"state": "West Bengal"
-		},
-		{
-			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
-			"city": "Kolkata",
-			"contact": "https://facebook.com/events/s/touch-ek-sparsh-13th-annual-so/162161561177241/?ti=cl",
-			"descriptionandorserviceprovided": "Social Services to the Needy of our Society",
-			"nameoftheorganisation": "TOUCH Ek Sparsh",
-			"phonenumber": "9830233315, 9830233315",
-			"state": "West Bengal"
-		},
-		{
-			"category": "Free Food",
-			"city": "Kolkata",
-			"contact": "http://sreema.org",
-			"descriptionandorserviceprovided": "Essentials, Food, Medicines, Protective Gear for Migrants, Disabled, Daily Wages/Homeless, Women- single mothers, domestic abuse, Children, Elderly",
-			"nameoftheorganisation": "Sreema Mahila Samity",
-			"phonenumber": "3473265207",
-			"state": "West Bengal"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Kolkata",
-			"contact": "http://www.ipgmer.gov.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Institute of Post Graduate Medical Education & Research",
-			"phonenumber": "3322041101",
-			"state": "West Bengal"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Kolkata",
-			"contact": "https://cnci.org.in/",
-			"descriptionandorserviceprovided": "Government Laboratories Found Suitable for COVID19 Testing but not supported by ICMR",
-			"nameoftheorganisation": "Chittaranjan National Cancer Institute",
-			"phonenumber": "3324765101",
-			"state": "West Bengal"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Midnapore",
-			"contact": "http://midnaporemmc.ac.in/",
-			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
-			"nameoftheorganisation": "Midnapore Medical College",
-			"phonenumber": "3222222400, 9434736469",
-			"state": "West Bengal"
-		},
-		{
-			"category": "Free Food",
-			"city": "Noida",
-			"contact": "https://instagram.com/noida_food_relief?igshid=1c9xpa59yglq7",
-			"descriptionandorserviceprovided": "Cooked meals & dry ration packages",
-			"nameoftheorganisation": "Sai Organization",
-			"phonenumber": "9968234567",
-			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "Accommodation and Shelter Homes",
-			"city": "Hyderabad",
-			"contact": "https://www.secondchanceindia.org/",
-			"descriptionandorserviceprovided": "Provides shelter to homeless",
-			"nameoftheorganisation": "Second chance",
-			"phonenumber": "8010810850, 9502245821",
-			"state": "Telangana"
-		},
-		{
-			"category": "Fire Brigade",
-			"city": "Hyderabad",
-			"contact": "https://fire.telangana.gov.in",
-			"descriptionandorserviceprovided": "Disaster response and fire service",
-			"nameoftheorganisation": "Telangana disaster response",
-			"phonenumber": "8333923733, 4023442955",
-			"state": "Telangana"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Hyderabad",
-			"contact": "https://www.ccmb.res.in",
-			"descriptionandorserviceprovided": "CoVID -19 testing lab.",
-			"nameoftheorganisation": "Centre for cellular and molecular biology",
-			"phonenumber": "4027160222",
-			"state": "Telangana"
-		},
-		{
-			"category": "Ambulance",
-			"city": "Hyderabad",
-			"contact": "https://www.stanplus.com",
-			"descriptionandorserviceprovided": "Ambulance service",
-			"nameoftheorganisation": "StanPlus",
-			"phonenumber": "040 41891299",
-			"state": "Telangana"
-		},
-		{
-			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
-			"city": "Tirupati",
-			"contact": "https://tirupati.cdma.ap.gov.in",
-			"descriptionandorserviceprovided": "It consist of list of vendors,providing home delivery",
-			"nameoftheorganisation": "Tirupati municipal Corporation",
-			"phonenumber": "9849983062",
-			"state": "Andhra Pradesh"
-		},
-		{
-			"category": "Free Food",
-			"city": "Ahmedabad",
-			"contact": "https://www.mahilahousingtrust.org/",
-			"descriptionandorserviceprovided": "Ration and Sanitation kits",
-			"nameoftheorganisation": "Mahila Housing SEWA Trust",
-			"phonenumber": "9825029281, 7926587725 , 7926587726",
-			"state": "Gujarat"
-		},
-		{
-			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
-			"city": "Ahmedabad",
-			"contact": "https://ahmedabadcity.gov.in",
-			"descriptionandorserviceprovided": "List of vendors providing home delivery",
-			"nameoftheorganisation": "Amdavad municipal Corporation",
-			"phonenumber": "9726416131, 7925391811",
-			"state": "Gujarat"
-		},
-		{
-			"category": "Senior Citizen Support",
-			"city": "Kolkata",
-			"contact": "https://www.facebook.com/ushor4you/",
-			"descriptionandorserviceprovided": "Ushor is providing service of delivering essential along with medicine and groceries to the people elderly persons staying alone. specially abled persons. sick person who cannot move out. new born in home. free distribution of ration. free distribution of fresh cooked meal.",
-			"nameoftheorganisation": "Ushor",
-			"phonenumber": "9831511851,\n 9831511851,\n 9062076210,",
-			"state": "West Bengal"
 		},
 		{
 			"category": "Fundraisers",
@@ -13141,159 +12484,6 @@
 			"state": "Maharashtra"
 		},
 		{
-			"category": "Senior Citizen Support",
-			"city": "Kolkata",
-			"contact": "http://www.kolkatapolice.gov.in/HelpLine.aspx",
-			"descriptionandorserviceprovided": "Kolkata Police is happy to introduce a dial-in-service for senior citizens.",
-			"nameoftheorganisation": "Kolkata Police",
-			"phonenumber": "9830088884",
-			"state": "West Bengal"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Kolkata",
-			"contact": "http://www.kolkatapolice.gov.in/HelpLine.aspx",
-			"descriptionandorserviceprovided": "Medical Helpline - Kolkata Police is happy to introduce a dial-in-service for providing assistance related to medical help.",
-			"nameoftheorganisation": "Kolkata Police",
-			"phonenumber": "9830079999",
-			"state": "West Bengal"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Kolkata",
-			"contact": "https://www.impactguru.com/fundraiser/help-aiesec-in-kolkata",
-			"descriptionandorserviceprovided": "Help Support The Weakest Who Will Be The Hardest Hit After COVID-19 in Kolkata",
-			"nameoftheorganisation": "AIESEC in Kolkata",
-			"phonenumber": "9163079430",
-			"state": "West Bengal"
-		},
-		{
-			"category": "Free Food",
-			"city": "Delhi",
-			"contact": "https://www.facebook.com/singhmishika/posts/10157291295208129",
-			"descriptionandorserviceprovided": "Cement Collective is group of volunteers providing ration kits, medical essentials, cooked food packets, water, rent money and basic expenses to families in various areas of Delhi including Loni, Mustafabad, Chand Bagh, Zakir Nagar, Najafgarh and Rohini. Since the lockdown, they were able to successfully manage helping more than 600 families, mostly focussing on migrant labourers, and around 400 displaced victims of the Delhi Violence.",
-			"nameoftheorganisation": "Cement Collective",
-			"phonenumber": "8860756618",
-			"state": "Delhi"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Bhopal",
-			"contact": "http://csr.mp.gov.in/uploads/media/State_Corona_Communication_Plan_2020.pdf",
-			"descriptionandorserviceprovided": "Communication GRID for MP STATE",
-			"nameoftheorganisation": "Madhya Pradesh",
-			"phonenumber": "988693685",
-			"state": "Madhya Pradesh"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Hyderabad",
-			"contact": "http://safaindia.org/",
-			"descriptionandorserviceprovided": "SAFA society has recently launched a campaign that will collect funds for the daily wage earners. The NGO would be making relief kits out of the funds that will be collected.",
-			"nameoftheorganisation": "SAFA society",
-			"phonenumber": "4064533964",
-			"state": "Telangana"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Bokaro",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "District level control room for assistance on all Covid19 related queries",
-			"nameoftheorganisation": "Govt of Jharkhand Control Room - Bokaro 1",
-			"phonenumber": "6542247891",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Bokaro",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "For all Covid19 related assistance",
-			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
-			"phonenumber": "6542223475",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Bokaro",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "For all Covid19 related assistance",
-			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
-			"phonenumber": "6542242402",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Hazaribagh",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "For all Covid19 related assistance",
-			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
-			"phonenumber": "8002529349, 06546264149 , 6204369146",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Jamshedpur",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "For all Covid19 related assistance",
-			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
-			"phonenumber": "6572440111,\n 9431301355,\n 8987510050,",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Dhanbad",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "For all Covid19 related assistance",
-			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
-			"phonenumber": "9835352971,\n 9006933674",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Government Helpline",
-			"city": "Deoghar",
-			"contact": "https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2020/03/20200325100.pdf",
-			"descriptionandorserviceprovided": "For all Covid19 related assistance",
-			"nameoftheorganisation": "Govt of Jharkhand District level Corona helpline",
-			"phonenumber": "9771935367,\n 6432275733",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Free Food",
-			"city": "Jamshedpur",
-			"contact": "https://www.instagram.com/mouriha_ngo/",
-			"descriptionandorserviceprovided": "Supply Food Packets to Slums near Domuhani, Near Jamshepdur Airport and Harijan Basti",
-			"nameoftheorganisation": "Mouriha NGO",
-			"phonenumber": "7209266294",
-			"state": "Jharkhand"
-		},
-		{
-			"category": "Hospitals and Centers",
-			"city": "Delhi",
-			"contact": "https://www.nhp.gov.in/hospital/sardar-vallabh-bhai-patel-hospital-central-delhi",
-			"descriptionandorserviceprovided": "Covid 19 wards and treatment available",
-			"nameoftheorganisation": "Sardar vallab bhai patel hospital",
-			"phonenumber": "1125885944",
-			"state": "Delhi"
-		},
-		{
-			"category": "Hospitals and Centers",
-			"city": "Kadapa",
-			"contact": "http://rimskadapa.in/contact-us.html",
-			"descriptionandorserviceprovided": "covid 19 testing approved by govt.and isolation wards",
-			"nameoftheorganisation": "Rajiv Gandhi institute of medical science",
-			"phonenumber": "8562220200",
-			"state": "Andhra Pradesh"
-		},
-		{
-			"category": "Hospitals and Centers",
-			"city": "Visakhapatnam",
-			"contact": "https://mediniz.com/list/hivhelp/center/government-tb-and-chest-hospital-visakhapatnam",
-			"descriptionandorserviceprovided": "covid 19 isolation wards and treatment",
-			"nameoftheorganisation": "government TB & chest hospitals",
-			"phonenumber": "8912552525",
-			"state": "Andhra Pradesh"
-		},
-		{
 			"category": "Fundraisers",
 			"city": "Mumbai",
 			"contact": "https://www.ketto.org/fundraiser/covid-19-relief-and-post-pandemic-rebuilding-of-migrant-lives?payment=form",
@@ -13301,78 +12491,6 @@
 			"nameoftheorganisation": "aajeevika bureau",
 			"phonenumber": "2942450682",
 			"state": "Maharashtra"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Hyderabad",
-			"contact": "https://covid19.ketto.org/fundraiser/ChitrikaforCorona",
-			"descriptionandorserviceprovided": "Chitrika is helping farmers, weavers, artisans and tribal in Telangana, Odisha, Andhra Pradesh and Maharashtra.",
-			"nameoftheorganisation": "chitrika",
-			"phonenumber": "8688903598",
-			"state": "Telangana"
-		},
-		{
-			"category": "Free Food",
-			"city": "Guwahati",
-			"contact": "http://www.uciofficial.org/?fbclid=IwAR0DQGpRkuPmbxKI3TgEnSzvS8_1-BnA1S6J5deDBuT4XWFERr2Rh5HFcgI",
-			"descriptionandorserviceprovided": "\"The Funds will be used to provide groceries to the daily wagers, providing two time meal to the homeless people. We have been trying to deliver the basic needs to the people(Including Sanitizers and Masks) and feeding the Homeless and Stray Animals in Tezpur, Assam.* If you cannot step out of home and need any essential commodity, contact them. \"",
-			"nameoftheorganisation": "The UnCivilised Indian in collaboration with Love and Acceptance NGO",
-			"phonenumber": "9126446620",
-			"state": "Assam"
-		},
-		{
-			"category": "Free Food",
-			"city": "Gurgaon",
-			"contact": "http://www.clothesboxfoundation.org/covid19",
-			"descriptionandorserviceprovided": "The organisation has launched an initiative to distribute food grains and sanitar kits to those who are worst hit by Covid-19 loackdown. Eash relief kit to consisit of soap, masks, rice and dal",
-			"nameoftheorganisation": "Clothes Box Foundation",
-			"phonenumber": "7838371356",
-			"state": "Haryana"
-		},
-		{
-			"category": "Other",
-			"city": "Bihar Sharif",
-			"contact": "https://www.careindia.org/contact-us/",
-			"descriptionandorserviceprovided": "CARE a global humanitarian organization is working with partners across over ninety countries helping the most marginalised women and girls in the fight on COVID 19. CARE India has a 1400+ team working with Government of Bihar in supporting the government in contact tracing, monitoring, infection control, laboratory and hospital strengthening for fight COVID",
-			"nameoftheorganisation": "Care India",
-			"phonenumber": "6122274957, 612274389",
-			"state": "Bihar"
-		},
-		{
-			"category": "Free Food",
-			"city": "Chennai",
-			"contact": "http://aswwf.org",
-			"descriptionandorserviceprovided": "Project ‘Feeding Chennai’ The ​'Feeding Chennai​' project aims to provide essential supplies and relief material such as Hygiene Kits and Food Packages to daily wage workers and low-income group. Through this project, we aim to reach out and positively affect the lives of over ​10,000 families ​living in the slums opposite Chennai Central and in other prominent areas.",
-			"nameoftheorganisation": "Acid Survivors & Women Welfare Foundation",
-			"phonenumber": "9841266527 , 4442171320",
-			"state": "Tamil Nadu"
-		},
-		{
-			"category": "Free Food",
-			"city": "Bhubaneswar",
-			"contact": "https://www.nydhee.org/donate_now.html#menu1",
-			"descriptionandorserviceprovided": "In the current Pandemic situation, NYDHEE is serving the lowest strata of the society (such as daily wage workers, construction workers, contract laborers, street vendors etc) through supply of dry meals. Along with the supply of essential items, their volunteers are also educating households/community groups on the behavioural change aspect like hand washing, social distancing and other measures they must adapt to avoid contamination.",
-			"nameoftheorganisation": "Network for Youth Development & Healthy Environment (NYDHEE)",
-			"phonenumber": "6742593807",
-			"state": "Odisha"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Delhi",
-			"contact": "https://www.udayfoundation.org",
-			"descriptionandorserviceprovided": "The Uday Foundation works on health, support and dignity to homeless and disaster relief. The current Coronavirus (Covid-19) outbreak continues to spread, making lakhs of homeless living on the streets with lack of ability to self- quarantine, access to medical care acutely vulnerable. Uday Foundation is providing all necessary help and services to this vulnerable section of the society in the time of crisis by accepting donation material such as soap for hand wash, sanitizers and one month's food supply to distrubute.",
-			"nameoftheorganisation": "Uday Foundation",
-			"phonenumber": "9910445043",
-			"state": "Delhi"
-		},
-		{
-			"category": "Fundraisers",
-			"city": "Dehradun",
-			"contact": "http://www.seedsindia.org/covid19/",
-			"descriptionandorserviceprovided": "SEEDS Response to COVID-19 focuses on immediate needs in the following areas: Financial and essential services support to the daily wage earners Support to district administration for complementing and supplementing public health systems Supply of hygiene kits and food rations to marginalised families, old age homes and orphanages Support to Government for establishment of temporary quarantine facilities, where needed",
-			"nameoftheorganisation": "SEEDS",
-			"phonenumber": "9267943261, 01126174272, 01126174572",
-			"state": "Uttarakhand"
 		},
 		{
 			"category": "Mental well being and Emotional support",
@@ -13681,6 +12799,132 @@
 			"state": "Maharashtra"
 		},
 		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Imphal",
+			"contact": "http://www.rims.edu.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Regional Institute of Medical Sciences",
+			"phonenumber": "3852414629",
+			"state": "Manipur"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Imphal",
+			"contact": "https://covid.icmr.org.in/index.php/testing-labs-deatails#",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Jawaharlal Nehru Institute of Med. Sciences, Imphal-East",
+			"phonenumber": "3852443144",
+			"state": "Manipur"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Shillong",
+			"contact": "http://www.neigrihms.gov.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences",
+			"phonenumber": "3642538013",
+			"state": "Meghalaya"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Shillong",
+			"contact": "https://sbsa.org.in https://www.facebook.com/pg/SBSAShillong",
+			"descriptionandorserviceprovided": "We can provide cooked food, ration, essential supplies, all sort of data from North Eastern part of India",
+			"nameoftheorganisation": "Shillong Bengalee Students Association",
+			"phonenumber": "9089723490",
+			"state": "Meghalaya"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Bhubaneswar",
+			"contact": "http://www.rmrcbbsr.gov.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Regional Medical Research Centre",
+			"phonenumber": "6742301322",
+			"state": "Odisha"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Bhubaneswar",
+			"contact": "https://aiimsbhubaneswar.nic.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "All India Institute of Medical Sciences",
+			"phonenumber": "6742476789",
+			"state": "Odisha"
+		},
+		{
+			"category": "Other",
+			"city": "Boudh",
+			"contact": "http://www.shedboudh.com",
+			"descriptionandorserviceprovided": "Voluntary organisation in Boudh District",
+			"nameoftheorganisation": "Society for Human Resources and Ecological Development",
+			"phonenumber": "9445996557",
+			"state": "Odisha"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Cuttack",
+			"contact": "https://www.odishapolice.gov.in/",
+			"descriptionandorserviceprovided": "Police helpine for Cuttack city",
+			"nameoftheorganisation": "Odisha Police",
+			"phonenumber": "6712368301",
+			"state": "Odisha"
+		},
+		{
+			"category": "Other",
+			"city": "Cuttack",
+			"contact": "https://www.odishapolice.gov.in/",
+			"descriptionandorserviceprovided": "Smooth movement of goods",
+			"nameoftheorganisation": "Odisha Police helpline for goods",
+			"phonenumber": "6742620200",
+			"state": "Odisha"
+		},
+		{
+			"category": "Free Food",
+			"city": "Bhubaneswar",
+			"contact": "https://www.nydhee.org/donate_now.html#menu1",
+			"descriptionandorserviceprovided": "In the current Pandemic situation, NYDHEE is serving the lowest strata of the society (such as daily wage workers, construction workers, contract laborers, street vendors etc) through supply of dry meals. Along with the supply of essential items, their volunteers are also educating households/community groups on the behavioural change aspect like hand washing, social distancing and other measures they must adapt to avoid contamination.",
+			"nameoftheorganisation": "Network for Youth Development & Healthy Environment (NYDHEE)",
+			"phonenumber": "6742593807",
+			"state": "Odisha"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Puducherry",
+			"contact": "https://www.jipmer.edu.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry",
+			"phonenumber": "4132296000",
+			"state": "Puducherry"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Amritsar",
+			"contact": "http://gmc.edu.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "1832426918",
+			"state": "Punjab"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Patiala",
+			"contact": "https://gmcpatiala.com/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "1752212018",
+			"state": "Punjab"
+		},
+		{
+			"category": "Community Kitchen",
+			"city": "Amritsar",
+			"contact": "http://bhaikanhaiyacharity.com/langar.aspx",
+			"descriptionandorserviceprovided": "Provides free food",
+			"nameoftheorganisation": "Guru langar",
+			"phonenumber": "1642262012",
+			"state": "Punjab"
+		},
+		{
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "SAS Nagar",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
@@ -13864,7 +13108,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "SAS Nagar",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN\n COLONY, GOBIND COLONY AND RANJIT",
+			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN\nCOLONY, GOBIND COLONY AND RANJIT",
 			"nameoftheorganisation": "GAUR KARYANA STORE",
 			"phonenumber": "7889219259",
 			"state": "Punjab"
@@ -13900,7 +13144,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "SAS Nagar",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN\n COLONY, GOBIND COLONY AND RANJIT",
+			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN\nCOLONY, GOBIND COLONY AND RANJIT",
 			"nameoftheorganisation": "MANGAL KARYANA STORE",
 			"phonenumber": "9872481220",
 			"state": "Punjab"
@@ -13936,7 +13180,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "SAS Nagar",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN\n COLONY, GOBIND COLONY AND RANJIT",
+			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN\nCOLONY, GOBIND COLONY AND RANJIT",
 			"nameoftheorganisation": "RAM SAROOP & SONS",
 			"phonenumber": "9814203404",
 			"state": "Punjab"
@@ -13972,7 +13216,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "SAS Nagar",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN,KHARAR\n COLONY, GOBIND COLONY AND RANJIT",
+			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, BUS STAND GARDEN,KHARAR\nCOLONY, GOBIND COLONY AND RANJIT",
 			"nameoftheorganisation": "SUBHASH CHAND & SONS",
 			"phonenumber": "9914050007",
 			"state": "Punjab"
@@ -14559,7 +13803,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SUPPLY OF GROCERY, SBP HOMES, SECTOR 126, KHARA",
 			"nameoftheorganisation": "NEHA DEPARTMENTAL STORE",
-			"phonenumber": "8558856685,\n 9877039934",
+			"phonenumber": "8558856685,\n9877039934",
 			"state": "Punjab"
 		},
 		{
@@ -15052,7 +14296,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mohali",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Open area adjoining House no. 669, near Star Public\n School , Milk Vendor",
+			"descriptionandorserviceprovided": "Open area adjoining House no. 669, near Star Public\nSchool , Milk Vendor",
 			"nameoftheorganisation": "AMANDEEP SINGH",
 			"phonenumber": "9915802014",
 			"state": "Punjab"
@@ -15070,7 +14314,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mohali",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Opposite St. Mary School in\n Green Space (NEAR INFANT JESUS SCHOOL) , Milk Vendor",
+			"descriptionandorserviceprovided": "Opposite St. Mary School in\nGreen Space (NEAR INFANT JESUS SCHOOL) , Milk Vendor",
 			"nameoftheorganisation": "AMANPREET SINGH",
 			"phonenumber": "9887287933",
 			"state": "Punjab"
@@ -15250,7 +14494,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mohali",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Open space opp. House no.HL 518-519 adjoining\n Petrol Pump , Milk Vendor",
+			"descriptionandorserviceprovided": "Open space opp. House no.HL 518-519 adjoining\nPetrol Pump , Milk Vendor",
 			"nameoftheorganisation": "HARPREET KAUR",
 			"phonenumber": "9501035624",
 			"state": "Punjab"
@@ -16366,7 +15610,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mohali",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Near Balongi Sales Tax Barrier,\n Kharar-Chandigarh Road, Badmajra",
+			"descriptionandorserviceprovided": "Near Balongi Sales Tax Barrier,\nKharar-Chandigarh Road, Badmajra",
 			"nameoftheorganisation": "Bhushan Enterprises",
 			"phonenumber": "9872740334",
 			"state": "Punjab"
@@ -16377,7 +15621,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SCO 14-15, Near Police Station, Balongi",
 			"nameoftheorganisation": "Kapil Trading Co.",
-			"phonenumber": "9814504794,\n 9814804794",
+			"phonenumber": "9814504794,\n9814804794",
 			"state": "Punjab"
 		},
 		{
@@ -16458,7 +15702,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SCF 92, Phase 11, Mohali",
 			"nameoftheorganisation": "Bharat Trading Co.",
-			"phonenumber": "9888658883,\n 7696616149",
+			"phonenumber": "9888658883,\n7696616149",
 			"state": "Punjab"
 		},
 		{
@@ -16584,7 +15828,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Booth No. 33, Phase 3B2, Mohali",
 			"nameoftheorganisation": "B.R. Traders",
-			"phonenumber": "9417213864,\n 9872328682",
+			"phonenumber": "9417213864,\n9872328682",
 			"state": "Punjab"
 		},
 		{
@@ -16611,7 +15855,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Phase 5, Mohali",
 			"nameoftheorganisation": "Healthy Mart",
-			"phonenumber": "9814633610,\n 1724643176",
+			"phonenumber": "9814633610,\n1724643176",
 			"state": "Punjab"
 		},
 		{
@@ -16647,7 +15891,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SCF 21, Phase 5, Mohali",
 			"nameoftheorganisation": "Shri Gurudev Mart",
-			"phonenumber": "9888000032,\n 8699000032",
+			"phonenumber": "9888000032,\n8699000032",
 			"state": "Punjab"
 		},
 		{
@@ -16656,7 +15900,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SCF 15, Phase 5, Mohali",
 			"nameoftheorganisation": "Singh & Sons",
-			"phonenumber": "9316114110,\n 9888101010",
+			"phonenumber": "9316114110,\n9888101010",
 			"state": "Punjab"
 		},
 		{
@@ -16888,7 +16132,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mohali",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Shop No. 6, Circular Road, Village Kumbra, Sector 68,\n Mohali",
+			"descriptionandorserviceprovided": "Shop No. 6, Circular Road, Village Kumbra, Sector 68,\nMohali",
 			"nameoftheorganisation": "Bansal Departmental Store",
 			"phonenumber": "9888060424",
 			"state": "Punjab"
@@ -16960,9 +16204,9 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Mohali",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "1092, Village Mattaur, Sector\n 70, Mohali",
+			"descriptionandorserviceprovided": "1092, Village Mattaur, Sector\n70, Mohali",
 			"nameoftheorganisation": "A.K. Departmental Store",
-			"phonenumber": "9417380144,\n 9646057930",
+			"phonenumber": "9417380144,\n9646057930",
 			"state": "Punjab"
 		},
 		{
@@ -17133,7 +16377,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Phase 1",
 			"nameoftheorganisation": "Sahil Supermarket",
-			"phonenumber": "9876800777,\n 9888835777",
+			"phonenumber": "9876800777,\n9888835777",
 			"state": "Punjab"
 		},
 		{
@@ -17214,7 +16458,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SCF 23, Phase 2, Mohali",
 			"nameoftheorganisation": "Singla Stores",
-			"phonenumber": "1722272784,\n 8146829882",
+			"phonenumber": "1722272784,\n8146829882",
 			"state": "Punjab"
 		},
 		{
@@ -17259,7 +16503,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Circular Road, Village Kumbra, Sector 68, Mohali",
 			"nameoftheorganisation": "Rattan Suresh & Sons Departmental Store",
-			"phonenumber": "9888511319,\n 7837420011",
+			"phonenumber": "9888511319,\n7837420011",
 			"state": "Punjab"
 		},
 		{
@@ -17286,7 +16530,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Sector 78",
 			"nameoftheorganisation": "Eight To Ten Departmental Store",
-			"phonenumber": "9915476400,\n 9855050048",
+			"phonenumber": "9915476400,\n9855050048",
 			"state": "Punjab"
 		},
 		{
@@ -17313,7 +16557,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Sector 91",
 			"nameoftheorganisation": "Shyam Departmental Store",
-			"phonenumber": "9988830050,\n 9914697420",
+			"phonenumber": "9988830050,\n9914697420",
 			"state": "Punjab"
 		},
 		{
@@ -17340,7 +16584,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Sohana",
 			"nameoftheorganisation": "Tilak Raj Karyana Store",
-			"phonenumber": "9646523456,\n 8054111400",
+			"phonenumber": "9646523456,\n8054111400",
 			"state": "Punjab"
 		},
 		{
@@ -17349,7 +16593,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Sector 66, Mohali",
 			"nameoftheorganisation": "Reliance Fresh",
-			"phonenumber": "6283364053,\n 9717352497",
+			"phonenumber": "6283364053,\n9717352497",
 			"state": "Punjab"
 		},
 		{
@@ -17376,7 +16620,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Phase 2, Mohali",
 			"nameoftheorganisation": "Manish Karyana Store",
-			"phonenumber": "9888290448,\n 9780494711",
+			"phonenumber": "9888290448,\n9780494711",
 			"state": "Punjab"
 		},
 		{
@@ -17880,7 +17124,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Grocery Supply, Peer muchalla",
 			"nameoftheorganisation": "Rakesh Jain, Arihant Milk shop Imperial residency",
-			"phonenumber": "9914044412,\n 9501728057",
+			"phonenumber": "9914044412,\n9501728057",
 			"state": "Punjab"
 		},
 		{
@@ -17988,7 +17232,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Grocery Supply, VIP road, Zirakpur",
 			"nameoftheorganisation": "Vishal Mega Mart",
-			"phonenumber": "9805253443,\n 7009139339,\n 8699325640,\n 9478744302",
+			"phonenumber": "9805253443,\n7009139339,\n8699325640,\n9478744302",
 			"state": "Punjab"
 		},
 		{
@@ -18112,7 +17356,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Grocery Supply, Arneja Karyana Store Miramali Market Ram Leela Ground\n Derabassi",
+			"descriptionandorserviceprovided": "Grocery Supply, Arneja Karyana Store Miramali Market Ram Leela Ground\nDerabassi",
 			"nameoftheorganisation": "Arneja Karyana Store",
 			"phonenumber": "9316044384",
 			"state": "Punjab"
@@ -18121,7 +17365,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Grocery Supply, Deepak Karyana Store Near\n Morniwala Khoo Derabassi",
+			"descriptionandorserviceprovided": "Grocery Supply, Deepak Karyana Store Near\nMorniwala Khoo Derabassi",
 			"nameoftheorganisation": "Deepak Karyana Store",
 			"phonenumber": "9501760987",
 			"state": "Punjab"
@@ -18139,7 +17383,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Grocery Supply, Mulani Karyana Store Near Akali\n Market Derabassi",
+			"descriptionandorserviceprovided": "Grocery Supply, Mulani Karyana Store Near Akali\nMarket Derabassi",
 			"nameoftheorganisation": "Mulani Karyana Store",
 			"phonenumber": "8591907170",
 			"state": "Punjab"
@@ -18148,7 +17392,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Grocery Supply, Rohit Jain Karyana Store\n Bhagwanpur",
+			"descriptionandorserviceprovided": "Grocery Supply, Rohit Jain Karyana Store\nBhagwanpur",
 			"nameoftheorganisation": "Rohit Jain Karyana Store",
 			"phonenumber": "7009165060",
 			"state": "Punjab"
@@ -18157,7 +17401,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Grocery Supply, Jagtar Karyana Store Saidpura\n Derabassi",
+			"descriptionandorserviceprovided": "Grocery Supply, Jagtar Karyana Store Saidpura\nDerabassi",
 			"nameoftheorganisation": "Jagtar Karyana Store",
 			"phonenumber": "9781866024",
 			"state": "Punjab"
@@ -18166,7 +17410,7 @@
 			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
-			"descriptionandorserviceprovided": "Grocery Supply, Chahat Karyana Store Akali\n Market Derabassi",
+			"descriptionandorserviceprovided": "Grocery Supply, Chahat Karyana Store Akali\nMarket Derabassi",
 			"nameoftheorganisation": "Chahat Karyana Store",
 			"phonenumber": "9501987950",
 			"state": "Punjab"
@@ -18446,7 +17690,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "HARKESH Phase 9,10 & 63",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "6284083533",
 			"state": "Punjab"
 		},
@@ -18455,7 +17699,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "KESAR (PB10GK0226) Amul Milk Delivery Vehicle",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "7340938995",
 			"state": "Punjab"
 		},
@@ -18464,7 +17708,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "RAJENDER (PB65AT5698) Amul Milk Delivery Vehicle",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "8872284576",
 			"state": "Punjab"
 		},
@@ -18473,7 +17717,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "AASHISH (PB65T5001) Amul Milk Delivery Vehicle",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "8360143961",
 			"state": "Punjab"
 		},
@@ -18482,7 +17726,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "RAM SEC: 70",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "9815903282",
 			"state": "Punjab"
 		},
@@ -18491,7 +17735,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "RAM SINGH SEC: 70",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "9646035953",
 			"state": "Punjab"
 		},
@@ -18500,7 +17744,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "ROHIT PHASE-7",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "8881148108",
 			"state": "Punjab"
 		},
@@ -18509,7 +17753,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SHYAM LAL Phase 9,10 & 63",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "7652803022",
 			"state": "Punjab"
 		},
@@ -18518,7 +17762,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "SUSHIL PHASE-7",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "8360392166",
 			"state": "Punjab"
 		},
@@ -18527,7 +17771,7 @@
 			"city": "Dera Bassi",
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Uday shyam Phase 9,10 & 63",
-			"nameoftheorganisation": "AMUL MILK SUPPLY\n VENDOR",
+			"nameoftheorganisation": "Amul Milk Supply Vendor",
 			"phonenumber": "6239864673",
 			"state": "Punjab"
 		},
@@ -18546,7 +17790,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "kurali",
 			"nameoftheorganisation": "Easy Day",
-			"phonenumber": "8376901908,\n 9004066060",
+			"phonenumber": "8376901908,\n9004066060",
 			"state": "Punjab"
 		},
 		{
@@ -18555,7 +17799,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "kharar",
 			"nameoftheorganisation": "Easy Day",
-			"phonenumber": "7696581854,\n 8451802929",
+			"phonenumber": "7696581854,\n8451802929",
 			"state": "Punjab"
 		},
 		{
@@ -18654,7 +17898,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "RS Bestech Sqaure Mall",
 			"nameoftheorganisation": "Reliance",
-			"phonenumber": "9717352497,\n 1725033404",
+			"phonenumber": "9717352497,\n1725033404",
 			"state": "Punjab"
 		},
 		{
@@ -18663,7 +17907,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "Phase-X",
 			"nameoftheorganisation": "Reliance",
-			"phonenumber": "7087401049,\n 7888690581,\n 6239501192",
+			"phonenumber": "7087401049,\n7888690581,\n6239501192",
 			"state": "Punjab"
 		},
 		{
@@ -18672,7 +17916,7 @@
 			"contact": "https://cdn.s3waas.gov.in/s394f6d7e04a4d452035300f18b984988c/uploads/2020/03/2020033037.pdf",
 			"descriptionandorserviceprovided": "RF SEC-70, Mohali",
 			"nameoftheorganisation": "Reliance",
-			"phonenumber": "7888690581,\n 7888492637",
+			"phonenumber": "7888690581,\n7888492637",
 			"state": "Punjab"
 		},
 		{
@@ -18710,6 +17954,762 @@
 			"nameoftheorganisation": "Bhejo",
 			"phonenumber": "9888438884",
 			"state": "Punjab"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Ajmer",
+			"contact": "https://education.rajasthan.gov.in/jlnmcajmer",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "JLN Medical College",
+			"phonenumber": "1452425050",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Bikaner",
+			"contact": "https://education.rajasthan.gov.in/spmcbikaner",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "SP Medical College",
+			"phonenumber": "1512220115",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "Free Food",
+			"city": "Bikaner",
+			"contact": "https://www.akshayapatra.org/",
+			"descriptionandorserviceprovided": "Free cooked meals",
+			"nameoftheorganisation": "Akshaya patra",
+			"phonenumber": "18004258622",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Jaipur",
+			"contact": "https://education.rajasthan.gov.in/smsmcjaipur",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Sawai Man Singh Medical College",
+			"phonenumber": "1412708836, 1412518405",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Jaipur",
+			"contact": "http://cmrelief.rajasthan.gov.in/ContributionCovid-19.aspx",
+			"descriptionandorserviceprovided": "Chief minister relief fund.",
+			"nameoftheorganisation": "CM RELIEF FUND RAJASATHAN",
+			"phonenumber": "1412227679",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Jaipur",
+			"contact": "https://www.allindiawelfaresociety.com/contact.html",
+			"descriptionandorserviceprovided": "Protective Gear/ Medicines",
+			"nameoftheorganisation": "All India Welfare Society",
+			"phonenumber": "9799609846, 9772121730",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Jaipur",
+			"contact": "https://www.ourdemocracy.in/Campaign/PPERajasthan",
+			"descriptionandorserviceprovided": "Healthcare workers are at the forefront of the fight against the coronavirus pandemic. Unfortunately, they are facing a shortage of PPEs as cases arise, and need our support. Fund collection for Personal Protective Equipment(PPE)",
+			"nameoftheorganisation": "Assoc. of Surgeons - procuring protective equipment",
+			"phonenumber": "9672019934",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "Free Food",
+			"city": "Jaipur",
+			"contact": "http://www.annakshetra.org/",
+			"descriptionandorserviceprovided": "Free meal distribution",
+			"nameoftheorganisation": "Annakshetra",
+			"phonenumber": "9001295293",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Jhalawar",
+			"contact": "https://education.rajasthan.gov.in/content/raj/education/jhalawar-hospital---medical-college--jhalawar/en/home.html",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Jhalawar Medical College",
+			"phonenumber": "7432233388",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Jodhpur",
+			"contact": "http://www.aiimsjodhpur.edu.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "All India Institute of Medical Sciences",
+			"phonenumber": "2912740741",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Jodhpur",
+			"contact": "https://education.rajasthan.gov.in/medicaleducation",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Dr. Sampurnanand Medical College",
+			"phonenumber": "2912434374",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Kota",
+			"contact": "https://education.rajasthan.gov.in/content/raj/education/government-medical-college--kota/en/home.html",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "7442470674",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Udaipur",
+			"contact": "https://education.rajasthan.gov.in/rntmcudaipur",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "RNT Medical College",
+			"phonenumber": "2942418258",
+			"state": "Rajasthan"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Gangtok",
+			"contact": "https://covid.icmr.org.in/index.php/testing-labs-deatails#",
+			"descriptionandorserviceprovided": "Collection Site Only",
+			"nameoftheorganisation": "Sir Thutob Namgyal Memorial (STNM)",
+			"phonenumber": "9845562399",
+			"state": "Sikkim"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Chennai",
+			"contact": "https://nofoodwaste.org/covid19",
+			"descriptionandorserviceprovided": "Free food for the needy",
+			"nameoftheorganisation": "No Food Waste",
+			"phonenumber": "9087790877",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Chennai",
+			"contact": "https://milaap.org/fundraisers/support-chennai-corona-warriors-1",
+			"descriptionandorserviceprovided": "Groceries delivery to physically disabled person",
+			"nameoftheorganisation": "Chennai corona warriors",
+			"phonenumber": "9003862123",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "Senior Citizen Support",
+			"city": "Chennai",
+			"contact": "http://www.bhoomikatrust.org",
+			"descriptionandorserviceprovided": "Bhoomika trust has launched a helpline for senior citizens and immuno-compromised individuals in Chennai. Volunteers who man the helpline will provide necessary guidance and doorstep assistance where necessary.",
+			"nameoftheorganisation": "Bhoomika Trust",
+			"phonenumber": "4446314726",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Chennai",
+			"contact": "http://www.mmc.ac.in/mmc/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Madras Medical College",
+			"phonenumber": "4425305000",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Chennai",
+			"contact": "http://www.kipmr.org.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "King Institute of Preventive Medicine & Research",
+			"phonenumber": "4422501520",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Chennai",
+			"contact": "http://www.stanleymedicalcollege.ac.in/stanleymedicalcollege/",
+			"descriptionandorserviceprovided": "Government Laboratories Found Suitable for COVID19 Testing but not supported by ICMR",
+			"nameoftheorganisation": "Stanley Medical College",
+			"phonenumber": "4425282350",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Coimbatore",
+			"contact": "http://www.microlabindia.com/",
+			"descriptionandorserviceprovided": "COVID-19 Testing Laboratory",
+			"nameoftheorganisation": "Microbiological Laboratory",
+			"phonenumber": "18004251316,\n04222540525,\n04222556628,",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Coimbatore",
+			"contact": "http://www.cmccbe.ac.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Coimbatore Medical College",
+			"phonenumber": "4222301393",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Madurai",
+			"contact": "http://manitham.org.in/?page_id=45",
+			"descriptionandorserviceprovided": "\"Manitham will be raising funds for 150 families who are street circus performers, and do not have a daily income. They have been hit especially hard during the ongoing Covid-19 crisis, and any support you’d be willing to provide goes a long way. It costs INR 2000 per family for grocery and sanitary supplies for the next 2 weeks for instant relief, as government subsidies are just not adequate.\"",
+			"nameoftheorganisation": "Manitham Charitable Trust",
+			"phonenumber": "9443095245",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Madurai",
+			"contact": "http://www.mdmc.ac.in/mdmc/content_page.jsp?sqf=12&sq1=contactus",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Madurai Medical College",
+			"phonenumber": "4522532535",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "Hospitals and Centers",
+			"city": "Nagercoil",
+			"contact": "http://www.kkmc.ac.in/kkmc/",
+			"descriptionandorserviceprovided": "Covid isolation ward and treatment facilities",
+			"nameoftheorganisation": "Kanyakumari government medical college",
+			"phonenumber": "4652223201",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Salem",
+			"contact": "http://www.gmkmc.ac.in/gmkmc/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Kumar Mangalam Govt. Medical College",
+			"phonenumber": "4272383313",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Theni",
+			"contact": "http://www.tmctheni.ac.in/tmctheni/content_page.jsp?sqf=12&sq1=contactus",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Theni Medical College",
+			"phonenumber": "4546263668",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Thiruvarur",
+			"contact": "http://www.tmctvr.ac.in/tmctvr/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "4366220040",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Tiruchirappalli",
+			"contact": "http://www.kapvgmc.ac.in/kapvgmc/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "4312401011",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Tirunelveli",
+			"contact": "http://tvmc.ac.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Tirunelveli Medical College, Tirunelveli",
+			"phonenumber": "4622572733",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Villupuram",
+			"contact": "http://www.vmcvpm.ac.in/vmcvpm/index.jsp",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "4146232300",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "Free Food",
+			"city": "Chennai",
+			"contact": "http://aswwf.org",
+			"descriptionandorserviceprovided": "Project ‘Feeding Chennai’ The ​'Feeding Chennai​' project aims to provide essential supplies and relief material such as Hygiene Kits and Food Packages to daily wage workers and low-income group. Through this project, we aim to reach out and positively affect the lives of over ​10,000 families ​living in the slums opposite Chennai Central and in other prominent areas.",
+			"nameoftheorganisation": "Acid Survivors & Women Welfare Foundation",
+			"phonenumber": "9841266527 , 4442171320",
+			"state": "Tamil Nadu"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Secunderabad",
+			"contact": "https://www.gandhihospital.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Gandhi Medical College",
+			"phonenumber": "4027502742",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Hyderabad",
+			"contact": "https://pages.razorpay.com/Covid19Relief",
+			"descriptionandorserviceprovided": "To provide basic ration and hygiene supply kits to those in dire need. Daily wagers, migrant workers, street children, single parents and beggars are worst hit due to the lock down",
+			"nameoftheorganisation": "Safa Society",
+			"phonenumber": "9182383023, 9014816640",
+			"state": "Telangana"
+		},
+		{
+			"category": "Accommodation and Shelter Homes",
+			"city": "Hyderabad",
+			"contact": "https://mobile.twitter.com/RachakondaCop?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+			"descriptionandorserviceprovided": "To help the Rachakonda Police Commissionerate provide food and shelter, call their 24×7 helpline with details of location and number of daily wage labourers in need",
+			"nameoftheorganisation": "Rachakonda Police Commissionerate",
+			"phonenumber": "9490617234",
+			"state": "Telangana"
+		},
+		{
+			"category": "Accommodation and Shelter Homes",
+			"city": "Hyderabad",
+			"contact": "https://hyderabad.telangana.gov.in/click-here-to-download-covid-19-iec-material/",
+			"descriptionandorserviceprovided": "GHMC Helpline for Food and Accommodation",
+			"nameoftheorganisation": "GHMC Helpline for Accommodation",
+			"phonenumber": "9702385140, 9701385138, 9177997750",
+			"state": "Telangana"
+		},
+		{
+			"category": "Police",
+			"city": "Hyderabad",
+			"contact": "http://hyderabad.telengana.gov.in",
+			"descriptionandorserviceprovided": "Hyderabad Corona Police Help Line",
+			"nameoftheorganisation": "Hyderabad Corona Police Help Line",
+			"phonenumber": "9010203626",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Hyderabad",
+			"contact": "https://www.ketto.org/fundraiser/providing-hygiene-menstrual-and-oral-health-kits-for-marginalized-people?payment=form",
+			"descriptionandorserviceprovided": "Catering to food and medicine requests, Good Universe wanted to focus on providing a simple, yet useful hygiene kit to those who need it the most. We partnered with T-SIG (The official CSR Cell of Telangana) and are working towards providing a basic hygiene kit during this time of distress.",
+			"nameoftheorganisation": "Good UniverseNGO",
+			"phonenumber": "8977077743, 8341180851",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Hyderabad",
+			"contact": "https://todayskalam.org",
+			"descriptionandorserviceprovided": "Caters to the needs of kids in slums by distributing rice, dal and oil",
+			"nameoftheorganisation": "Kalaam Foundation",
+			"phonenumber": "9618243916",
+			"state": "Telangana"
+		},
+		{
+			"category": "Free Food",
+			"city": "Hyderabad",
+			"contact": "https://www.ketto.org/fundraiser/SAFAforCorona?utm_source=campaigner&utm_medium=fbpageshare&utm_campaign=SAFAforCorona&utm_content=1116840&fbclid=IwAR0bChGZ3lUInvRlJY3L2n-bFr9md1Epx58gIt5WhfQjKUfqQcpKQ6oQqZI&payment=form",
+			"descriptionandorserviceprovided": "SAFA volunteers distributing ration packages in the community following the government safety protocol for Covid_19.",
+			"nameoftheorganisation": "SAFA Foundation",
+			"phonenumber": "4064533964",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "https://osmaniamedicalcollege.org/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Osmania Medical College",
+			"phonenumber": "4024653992",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "http://www.welltechfoundation.org/ronald-ross.php",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Sir Ronald Ross Institute of Tropical & Communicable Diseases",
+			"phonenumber": "4027682218",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "https://nims.edu.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Nizam’s Institute of Medical Sciences",
+			"phonenumber": "4023489000",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "http://ipm.telangana.gov.in/contactus.html",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Institute of Preventive Medicine",
+			"phonenumber": "9849905227",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "https://www.ccmb.res.in/",
+			"descriptionandorserviceprovided": "Government Laboratories Found Suitable for COVID19 Testing but not supported by ICMR",
+			"nameoftheorganisation": "Centre for Cellular & Molecular Biology",
+			"phonenumber": "4027160222",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Hyderabad",
+			"contact": "https://www.akshayapatra.org/covid-relief-services",
+			"descriptionandorserviceprovided": "They are providing free food and ration",
+			"nameoftheorganisation": "Akshaya Patra foundation, narsingi",
+			"phonenumber": "4040031456",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Secunderabad",
+			"contact": "https://www.gandhihospital.in",
+			"descriptionandorserviceprovided": "Covid -19 testing.",
+			"nameoftheorganisation": "Gandhi medical college",
+			"phonenumber": "4027502742",
+			"state": "Telangana"
+		},
+		{
+			"category": "Accommodation and Shelter Homes",
+			"city": "Hyderabad",
+			"contact": "https://www.secondchanceindia.org/",
+			"descriptionandorserviceprovided": "Provides shelter to homeless",
+			"nameoftheorganisation": "Second chance",
+			"phonenumber": "8010810850, 9502245821",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fire Brigade",
+			"city": "Hyderabad",
+			"contact": "https://fire.telangana.gov.in",
+			"descriptionandorserviceprovided": "Disaster response and fire service",
+			"nameoftheorganisation": "Telangana disaster response",
+			"phonenumber": "8333923733, 4023442955",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Hyderabad",
+			"contact": "https://www.ccmb.res.in",
+			"descriptionandorserviceprovided": "CoVID -19 testing lab.",
+			"nameoftheorganisation": "Centre for cellular and molecular biology",
+			"phonenumber": "4027160222",
+			"state": "Telangana"
+		},
+		{
+			"category": "Ambulance",
+			"city": "Hyderabad",
+			"contact": "https://www.stanplus.com",
+			"descriptionandorserviceprovided": "Ambulance service",
+			"nameoftheorganisation": "StanPlus",
+			"phonenumber": "040 41891299",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Hyderabad",
+			"contact": "http://safaindia.org/",
+			"descriptionandorserviceprovided": "SAFA society has recently launched a campaign that will collect funds for the daily wage earners. The NGO would be making relief kits out of the funds that will be collected.",
+			"nameoftheorganisation": "SAFA society",
+			"phonenumber": "4064533964",
+			"state": "Telangana"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Hyderabad",
+			"contact": "https://covid19.ketto.org/fundraiser/ChitrikaforCorona",
+			"descriptionandorserviceprovided": "Chitrika is helping farmers, weavers, artisans and tribal in Telangana, Odisha, Andhra Pradesh and Maharashtra.",
+			"nameoftheorganisation": "chitrika",
+			"phonenumber": "8688903598",
+			"state": "Telangana"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Agartala",
+			"contact": "http://www.agmc.nic.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Government Medical College",
+			"phonenumber": "3812356701",
+			"state": "Tripura"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Aligarh",
+			"contact": "https://amu.ac.in/principal.jsp?did=10146",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Jawaharlal Nehru Medical College",
+			"phonenumber": "",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "Free Food",
+			"city": "Aligarh",
+			"contact": "https://www.instagram.com/meraj_foundation/",
+			"descriptionandorserviceprovided": "Providing food to needy.",
+			"nameoftheorganisation": "Meraj Foundation",
+			"phonenumber": "8700359640, 8826367018",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Aligarh",
+			"contact": "https://www.amu.ac.in/hospital.jsp",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Jawaharlal Nehru Medical College",
+			"phonenumber": "5712720382,\n9897752620",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Gorakhpur",
+			"contact": "http://rmrcgkp.icmr.org.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Regional Medical Research Centre",
+			"phonenumber": "5512250442",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "Free Food",
+			"city": "Lucknow",
+			"contact": "https://www.facebook.com/insaniyatwelfaresociety/",
+			"descriptionandorserviceprovided": "Feeding 700 needy per day in Lucknow",
+			"nameoftheorganisation": "Insaniyat Welfare Society",
+			"phonenumber": "9621670470",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Lucknow",
+			"contact": "https://www.nhp.gov.in/hospital/command-hospital-(cc)-lucknow-lucknow-uttar_pradesh",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Command Hospital",
+			"phonenumber": "5222480532",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Lucknow",
+			"contact": "http://www.kgmu.org/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "King George Medical University",
+			"phonenumber": "5222258880",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Lucknow",
+			"contact": "http://www.sgpgi.ac.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Sanjay Gandhi Post Graduate Institute",
+			"phonenumber": "5222668700",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Meerut",
+			"contact": "http://llrmmedicalcollege.nic.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Lala Lajpat Rai Memorial Medical College",
+			"phonenumber": "1212760888",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Noida",
+			"contact": "https://donatekart.com/VOS/Help-children#about-campaign",
+			"descriptionandorserviceprovided": "Voice of Slums has been striving to change the lives of these slum children. They have been working hard to reach out to children from vulnerable communities. Voice of Slums has provided many children with education and vocational. They are now relentlessly working towards saving these children from Corona. They are working to provide these children with a corona prevention kit. The kit will help these children to maintain their hygiene and avoid getting infected with Corona virus. Their surroundings increase their chances of getting infected as they live in deplorable conditions. By maintaining their hygiene, they can survive.",
+			"nameoftheorganisation": "Voice of Slum",
+			"phonenumber": "8886610641",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Saifai",
+			"contact": "http://www.upums.ac.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Uttar Pradesh RIMS",
+			"phonenumber": "5688276599",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Varanasi",
+			"contact": "http://www.bhu.ac.in/ims/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Institute of Medical Sciences, Banaras Hindu University",
+			"phonenumber": "2367568",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Varanasi",
+			"contact": "http://www.bhu.ac.in/ims/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Institute of Medical Sciences, Banaras Hindu University",
+			"phonenumber": "5422367568",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "Free Food",
+			"city": "Noida",
+			"contact": "https://instagram.com/noida_food_relief?igshid=1c9xpa59yglq7",
+			"descriptionandorserviceprovided": "Cooked meals & dry ration packages",
+			"nameoftheorganisation": "Sai Organization",
+			"phonenumber": "9968234567",
+			"state": "Uttar Pradesh"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Haldwani",
+			"contact": "https://gmchld.org/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Govt. Medical College",
+			"phonenumber": "5946282824",
+			"state": "Uttarakhand"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Rishikesh",
+			"contact": "http://utsr.org/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "All India Institute of Medical Sciences",
+			"phonenumber": "1352462927",
+			"state": "Uttarakhand"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Dehradun",
+			"contact": "http://www.seedsindia.org/covid19/",
+			"descriptionandorserviceprovided": "SEEDS Response to COVID-19 focuses on immediate needs in the following areas: Financial and essential services support to the daily wage earners Support to district administration for complementing and supplementing public health systems Supply of hygiene kits and food rations to marginalised families, old age homes and orphanages Support to Government for establishment of temporary quarantine facilities, where needed",
+			"nameoftheorganisation": "SEEDS",
+			"phonenumber": "9267943261, 01126174272, 01126174572",
+			"state": "Uttarakhand"
+		},
+		{
+			"category": "Mental well being and Emotional support",
+			"city": "Kolkata",
+			"contact": "https://www.prayasam.org",
+			"descriptionandorserviceprovided": "We will provide soft copy of various awareness material",
+			"nameoftheorganisation": "SALT LAKE CITY PRAYASAM",
+			"phonenumber": "8240047706, 3323343919, 3340045956",
+			"state": "West Bengal"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Siliguri",
+			"contact": "https://www.nbmch.org/contact.html",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "North Bengal Medical College",
+			"phonenumber": "3532585478",
+			"state": "West Bengal"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Kolkata",
+			"contact": "http://www.ipgmer.gov.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Institute of Post Graduate Medical Education & Research",
+			"phonenumber": "3322041101",
+			"state": "West Bengal"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Kolkata",
+			"contact": "http://www.niced.org.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "National Institute of Cholera & Enteric Diseases",
+			"phonenumber": "3323633373",
+			"state": "West Bengal"
+		},
+		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Kolkata",
+			"contact": "https://facebook.com/events/s/touch-ek-sparsh-13th-annual-so/162161561177241/?ti=cl",
+			"descriptionandorserviceprovided": "Social Services to the Needy of our Society",
+			"nameoftheorganisation": "TOUCH Ek Sparsh",
+			"phonenumber": "9830233315, 9830233315",
+			"state": "West Bengal"
+		},
+		{
+			"category": "Free Food",
+			"city": "Kolkata",
+			"contact": "http://sreema.org",
+			"descriptionandorserviceprovided": "Essentials, Food, Medicines, Protective Gear for Migrants, Disabled, Daily Wages/Homeless, Women- single mothers, domestic abuse, Children, Elderly",
+			"nameoftheorganisation": "Sreema Mahila Samity",
+			"phonenumber": "3473265207",
+			"state": "West Bengal"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Kolkata",
+			"contact": "http://www.ipgmer.gov.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Institute of Post Graduate Medical Education & Research",
+			"phonenumber": "3322041101",
+			"state": "West Bengal"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Kolkata",
+			"contact": "https://cnci.org.in/",
+			"descriptionandorserviceprovided": "Government Laboratories Found Suitable for COVID19 Testing but not supported by ICMR",
+			"nameoftheorganisation": "Chittaranjan National Cancer Institute",
+			"phonenumber": "3324765101",
+			"state": "West Bengal"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Midnapore",
+			"contact": "http://midnaporemmc.ac.in/",
+			"descriptionandorserviceprovided": "Government approved and supported Testing labs by ICMR",
+			"nameoftheorganisation": "Midnapore Medical College",
+			"phonenumber": "3222222400, 9434736469",
+			"state": "West Bengal"
+		},
+		{
+			"category": "Senior Citizen Support",
+			"city": "Kolkata",
+			"contact": "https://www.facebook.com/ushor4you/",
+			"descriptionandorserviceprovided": "Ushor is providing service of delivering essential along with medicine and groceries to the people elderly persons staying alone. specially abled persons. sick person who cannot move out. new born in home. free distribution of ration. free distribution of fresh cooked meal.",
+			"nameoftheorganisation": "Ushor",
+			"phonenumber": "9831511851,\n9831511851,\n9062076210,",
+			"state": "West Bengal"
+		},
+		{
+			"category": "Senior Citizen Support",
+			"city": "Kolkata",
+			"contact": "http://www.kolkatapolice.gov.in/HelpLine.aspx",
+			"descriptionandorserviceprovided": "Kolkata Police is happy to introduce a dial-in-service for senior citizens.",
+			"nameoftheorganisation": "Kolkata Police",
+			"phonenumber": "9830088884",
+			"state": "West Bengal"
+		},
+		{
+			"category": "Government Helpline",
+			"city": "Kolkata",
+			"contact": "http://www.kolkatapolice.gov.in/HelpLine.aspx",
+			"descriptionandorserviceprovided": "Medical Helpline - Kolkata Police is happy to introduce a dial-in-service for providing assistance related to medical help.",
+			"nameoftheorganisation": "Kolkata Police",
+			"phonenumber": "9830079999",
+			"state": "West Bengal"
+		},
+		{
+			"category": "Fundraisers",
+			"city": "Kolkata",
+			"contact": "https://www.impactguru.com/fundraiser/help-aiesec-in-kolkata",
+			"descriptionandorserviceprovided": "Help Support The Weakest Who Will Be The Hardest Hit After COVID-19 in Kolkata",
+			"nameoftheorganisation": "AIESEC in Kolkata",
+			"phonenumber": "9163079430",
+			"state": "West Bengal"
 		}
 	]
 }

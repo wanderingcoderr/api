@@ -435,10 +435,10 @@
       },
       {
         "district": "Jaipur",
-        "confirmed": 370,
+        "confirmed": 418,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
+          "confirmed": 48
         }
       },
       {
