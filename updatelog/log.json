@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 recoveries in Haryana\n",
-    "timestamp": 1586783645
-  },
-  {
     "update": "1 recovery in Karnataka\n",
     "timestamp": 1586784238
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case and 14 recoveries in Rajasthan\n1 death in Telangana\n",
     "timestamp": 1586884439
+  },
+  {
+    "update": "229 new cases and 5 deaths in Maharashtra\n35 new cases in Rajasthan\n1 death in Punjab\n",
+    "timestamp": 1586885048
   }
 ]
