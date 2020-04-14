@@ -1,9 +1,5 @@
 [
   {
-    "update": "28 new cases, 7 recoveries and 2 deaths in Telangana\n2 new cases in Jharkhand\n",
-    "timestamp": 1586708644
-  },
-  {
     "update": "2 deaths in Rajasthan\n",
     "timestamp": 1586711119
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 recoveries in Karnataka\n",
     "timestamp": 1586855663
+  },
+  {
+    "update": "1 death in Karnataka\n",
+    "timestamp": 1586859240
   }
 ]
