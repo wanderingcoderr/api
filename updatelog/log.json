@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 recoveries in Rajasthan\n",
-    "timestamp": 1586720645
-  },
-  {
     "update": "6 new cases in Chhattisgarh\n",
     "timestamp": 1586727842
   },
@@ -198,5 +194,9 @@
   {
     "update": "31 new cases in Tamil Nadu\n",
     "timestamp": 1586868858
+  },
+  {
+    "update": "23 recoveries and 1 death in Tamil Nadu\n12 recoveries in Rajasthan\n8 new cases in Jammu and Kashmir\n8 new cases in Punjab\n",
+    "timestamp": 1586869596
   }
 ]
