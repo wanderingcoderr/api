@@ -2897,18 +2897,18 @@
 			"updatedon": "14/04/2020"
 		},
 		{
-			"negative": "39809",
+			"negative": "42808",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "2340",
-			"source": "https://twitter.com/Maha_MEDD/status/1249943643357511680?s=19",
+			"positive": "2684",
+			"source": "https://arogya.maharashtra.gov.in/pdf/ncovidepressnote14.pdf",
 			"source2": "https://phdmah.maps.arcgis.com/apps/opsdashboard/index.html#/2cc0055832264c5296890745e9ea415c",
 			"state": "Maharashtra",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "41071",
+			"totaltested": "46588",
 			"unconfirmed": "",
 			"updatedon": "14/04/2020"
 		},
