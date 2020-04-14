@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 new cases in Punjab\n",
-    "timestamp": 1586697266
-  },
-  {
     "update": "3 recoveries in Punjab\n",
     "timestamp": 1586697860
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Odisha\n",
     "timestamp": 1586839452
+  },
+  {
+    "update": "5 recoveries in Odisha\n",
+    "timestamp": 1586840078
   }
 ]
