@@ -24,6 +24,7 @@ jobs:
             BOT_TOKEN: ${{ secrets.bot_token }}
             SHEET_ID: ${{ secrets.SHEET_ID }}
             RESOURCES_SHEET_ID: ${{ secrets.RESOURCES_SHEET_ID }}
+            STUCK_BOT: ${{ secrets.STUCK_BOT }} 
 
 
 #trigger the action
