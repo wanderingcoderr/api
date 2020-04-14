@@ -2897,19 +2897,19 @@
 			"updatedon": "14/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "97",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "0",
+			"source": "https://nagahealth.nagaland.gov.in/",
 			"source2": "",
 			"state": "Nagaland",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "174",
+			"unconfirmed": "77",
 			"updatedon": "14/04/2020"
 		},
 		{
@@ -2951,7 +2951,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "1005",
-			"source": "https://twitter.com/TabeenahAnjum/status/1249988656040800256?s=19",
+			"source": "https://t.me/indiacovid/2309",
 			"source2": "",
 			"state": "Rajasthan",
 			"totalpeopleinquarantine": "",
