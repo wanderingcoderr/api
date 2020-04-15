@@ -1,9 +1,5 @@
 [
   {
-    "update": "250 new cases in Maharashtra\n61 new cases and 1 death in Telangana\n",
-    "timestamp": 1586795660
-  },
-  {
     "update": "20 new cases and 10 deaths in Maharashtra\n356 new cases, 3 recoveries and 4 deaths in Delhi\n1 death in Karnataka\n1 new case in Bihar\n",
     "timestamp": 1586798174
   },
@@ -198,5 +194,9 @@
   {
     "update": "17 new cases in Karnataka\n4 new cases in Bihar\n",
     "timestamp": 1586938191
+  },
+  {
+    "update": "29 new cases in Rajasthan\n",
+    "timestamp": 1586939045
   }
 ]
