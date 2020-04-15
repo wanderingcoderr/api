@@ -47,4 +47,4 @@ A volunteer-driven database for COVID-19 stats & patient tracing in India
 - DO NOT change json/csv directly. They get replaced automatically
 
 ## Notes
-- Do not use the "Current Status" in raw_data.json as we are rarely able to map the status to exact patient anymore. This will soon be deprecated in a future version of the API.
+- Don't use the "Current Status" in raw_data.json as we are rarely able to map the status to exact patient anymore. This will soon be deprecated in a future version of the API.
