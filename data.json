@@ -687,14 +687,14 @@
 	],
 	"statewise": [
 		{
-			"active": "9732",
-			"confirmed": "11487",
+			"active": "9754",
+			"confirmed": "11510",
 			"deaths": "394",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "23",
 			"deltadeaths": "1",
-			"deltarecovered": "0",
-			"lastupdatedtime": "15/04/2020 01:10:24",
-			"recovered": "1361",
+			"deltarecovered": "1",
+			"lastupdatedtime": "15/04/2020 10:52:49",
+			"recovered": "1362",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -765,16 +765,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "516",
-			"confirmed": "644",
-			"deaths": "18",
+			"active": "602",
+			"confirmed": "660",
+			"deaths": "8",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 22:35:25",
-			"recovered": "110",
-			"state": "Telangana",
-			"statecode": "TG",
+			"lastupdatedtime": "14/04/2020 21:00:25",
+			"recovered": "50",
+			"state": "Uttar Pradesh",
+			"statecode": "UP",
 			"statenotes": ""
 		},
 		{
@@ -791,16 +791,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "602",
-			"confirmed": "660",
-			"deaths": "8",
+			"active": "516",
+			"confirmed": "644",
+			"deaths": "18",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 21:00:25",
-			"recovered": "50",
-			"state": "Uttar Pradesh",
-			"statecode": "UP",
+			"lastupdatedtime": "14/04/2020 22:35:25",
+			"recovered": "110",
+			"state": "Telangana",
+			"statecode": "TG",
 			"statenotes": ""
 		},
 		{
@@ -869,14 +869,14 @@
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
 		},
 		{
-			"active": "147",
-			"confirmed": "190",
+			"active": "169",
+			"confirmed": "213",
 			"deaths": "7",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "23",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 10:40:25",
-			"recovered": "36",
+			"deltarecovered": "1",
+			"lastupdatedtime": "15/04/2020 10:53:43",
+			"recovered": "37",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": ""
@@ -934,19 +934,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "18",
-			"confirmed": "32",
-			"deaths": "2",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "12/04/2020 21:35:27",
-			"recovered": "12",
-			"state": "Himachal Pradesh",
-			"statecode": "HP",
-			"statenotes": "Death of Tibetan refugee included"
-		},
-		{
 			"active": "23",
 			"confirmed": "33",
 			"deaths": "0",
@@ -957,6 +944,19 @@
 			"recovered": "10",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
+			"statenotes": "Death of Tibetan refugee included"
+		},
+		{
+			"active": "18",
+			"confirmed": "32",
+			"deaths": "2",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "12/04/2020 21:35:27",
+			"recovered": "12",
+			"state": "Himachal Pradesh",
+			"statecode": "HP",
 			"statenotes": ""
 		},
 		{
@@ -1135,7 +1135,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "13/04/2020 22:52:41",
+			"lastupdatedtime": "15/04/2020 10:45:25",
 			"recovered": "0",
 			"state": "Meghalaya",
 			"statecode": "ML",

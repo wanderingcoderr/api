@@ -1,9 +1,5 @@
 [
   {
-    "update": "10 recoveries and 6 deaths in Madhya Pradesh\n",
-    "timestamp": 1586789666
-  },
-  {
     "update": "34 new cases and 7 recoveries in Gujarat\n",
     "timestamp": 1586790310
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Meghalaya\n",
     "timestamp": 1586927673
+  },
+  {
+    "update": "23 new cases and 1 recovery in West Bengal\n",
+    "timestamp": 1586928302
   }
 ]
