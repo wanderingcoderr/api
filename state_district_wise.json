@@ -1396,10 +1396,10 @@
   "Karnataka": {
     "districtData": {
       "Bengaluru": {
-        "confirmed": 81,
+        "confirmed": 82,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         }
       },
       "Kalaburagi": {
@@ -1522,17 +1522,10 @@
         }
       },
       "Vijayapura": {
-        "confirmed": 7,
+        "confirmed": 9,
         "lastupdatedtime": "",
         "delta": {
-          "confirmed": 0
-        }
-      },
-      "Unknown": {
-        "confirmed": 3,
-        "lastupdatedtime": "",
-        "delta": {
-          "confirmed": 3
+          "confirmed": 2
         }
       }
     }
