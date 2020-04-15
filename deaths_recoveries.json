@@ -29887,21 +29887,21 @@
 			"statecode": "PB"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "69",
 			"city": "",
-			"date": "",
+			"date": "15/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "1760",
-			"source1": "",
-			"source2": "",
+			"source1": "https://twitter.com/PTI_News/status/1250273005386661889?s=20",
+			"source2": "https://thenewsmill.com/covid-19-positive-shillong-doctor-dies-meghalaya-registers-first-covid-19-death/",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Meghalaya",
+			"statecode": "ML"
 		},
 		{
 			"agebracket": "",
