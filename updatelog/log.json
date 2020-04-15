@@ -1,9 +1,5 @@
 [
   {
-    "update": "34 new cases and 7 recoveries in Gujarat\n",
-    "timestamp": 1586790310
-  },
-  {
     "update": "2 recoveries in Uttarakhand\n",
     "timestamp": 1586790914
   },
@@ -198,5 +194,9 @@
   {
     "update": "23 new cases and 1 recovery in West Bengal\n",
     "timestamp": 1586928302
+  },
+  {
+    "update": "3 recoveries in Chhattisgarh\n",
+    "timestamp": 1586928844
   }
 ]

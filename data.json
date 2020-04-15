@@ -678,23 +678,23 @@
 		{
 			"dailyconfirmed": "1033",
 			"dailydeceased": "35",
-			"dailyrecovered": "163",
+			"dailyrecovered": "166",
 			"date": "14 April ",
 			"totalconfirmed": "11488",
 			"totaldeceased": "396",
-			"totalrecovered": "1361"
+			"totalrecovered": "1364"
 		}
 	],
 	"statewise": [
 		{
-			"active": "9754",
+			"active": "9751",
 			"confirmed": "11510",
 			"deaths": "394",
 			"deltaconfirmed": "23",
 			"deltadeaths": "1",
 			"deltarecovered": "1",
-			"lastupdatedtime": "15/04/2020 10:52:49",
-			"recovered": "1362",
+			"lastupdatedtime": "15/04/2020 11:00:24",
+			"recovered": "1365",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -875,7 +875,7 @@
 			"deltaconfirmed": "23",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "15/04/2020 10:53:43",
+			"lastupdatedtime": "15/04/2020 10:55:25",
 			"recovered": "37",
 			"state": "West Bengal",
 			"statecode": "WB",
@@ -934,14 +934,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "23",
+			"active": "20",
 			"confirmed": "33",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "14/04/2020 18:10:35",
-			"recovered": "10",
+			"lastupdatedtime": "15/04/2020 11:00:25",
+			"recovered": "13",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": "Death of Tibetan refugee included"
