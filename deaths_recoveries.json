@@ -29974,19 +29974,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "14/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Recovered",
 			"slno": "1765",
-			"source1": "",
+			"source1": "https://twitter.com/nhm_hp/status/1250095208496132096",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Himachal Pradesh",
+			"statecode": "HP"
 		},
 		{
 			"agebracket": "",
