@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Karnataka\n1 new case in Meghalaya\n",
-    "timestamp": 1586798669
-  },
-  {
     "update": "12 recoveries in Maharashtra\n",
     "timestamp": 1586799863
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases in Rajasthan\n",
     "timestamp": 1586945129
+  },
+  {
+    "update": "1 death in Karnataka\n",
+    "timestamp": 1586946240
   }
 ]
