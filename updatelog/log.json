@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 recoveries in Maharashtra\n",
-    "timestamp": 1586799863
-  },
-  {
     "update": "1 new case in Assam\n",
     "timestamp": 1586838853
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Karnataka\n",
     "timestamp": 1586946240
+  },
+  {
+    "update": "6 new cases and 1 recovery in Haryana\n2 recoveries in Chandigarh\n",
+    "timestamp": 1586951664
   }
 ]

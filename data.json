@@ -687,14 +687,14 @@
 	],
 	"statewise": [
 		{
-			"active": "9872",
-			"confirmed": "11637",
+			"active": "9875",
+			"confirmed": "11643",
 			"deaths": "399",
 			"deltaconfirmed": "148",
 			"deltadeaths": "4",
-			"deltarecovered": "1",
-			"lastupdatedtime": "15/04/2020 15:53:31",
-			"recovered": "1366",
+			"deltarecovered": "4",
+			"lastupdatedtime": "15/04/2020 17:20:24",
+			"recovered": "1369",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -856,14 +856,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "140",
-			"confirmed": "198",
+			"active": "145",
+			"confirmed": "204",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "14/04/2020 18:10:31",
-			"recovered": "55",
+			"recovered": "56",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": "14 recovered Italian tourists included in tally, 1 death in Ambala unaccounted."
@@ -986,14 +986,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "14",
+			"active": "12",
 			"confirmed": "21",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "10/04/2020 18:10:27",
-			"recovered": "7",
+			"deltarecovered": "2",
+			"lastupdatedtime": "15/04/2020 17:20:25",
+			"recovered": "9",
 			"state": "Chandigarh",
 			"statecode": "CH",
 			"statenotes": ""
