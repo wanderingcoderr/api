@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases in Jharkhand\n",
-    "timestamp": 1586791451
-  },
-  {
     "update": "2 new cases and 1 recovery in Ladakh\n",
     "timestamp": 1586792684
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case and 1 recovery in Himachal Pradesh\n",
     "timestamp": 1586930729
+  },
+  {
+    "update": "19 new cases in Andhra Pradesh\n",
+    "timestamp": 1586934853
   }
 ]
