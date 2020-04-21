@@ -34,11 +34,11 @@
       {
         "district": "Anantapur",
         "active": 0,
-        "confirmed": 33,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -166,11 +166,11 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 35,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 35,
+          "confirmed": 32,
           "deceased": 0,
           "recovered": 0
         }
