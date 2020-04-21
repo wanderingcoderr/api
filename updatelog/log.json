@@ -1,9 +1,5 @@
 [
   {
-    "update": "160 new cases in Delhi\n",
-    "timestamp": 1587230455
-  },
-  {
     "update": "26 new cases and 135 recoveries in Delhi\n",
     "timestamp": 1587230665
   },
@@ -198,5 +194,9 @@
   {
     "update": "7 new cases in Karnataka\n",
     "timestamp": 1587453059
+  },
+  {
+    "update": "35 new cases, 4 recoveries and 2 deaths in Andhra Pradesh\n",
+    "timestamp": 1587453664
   }
 ]
