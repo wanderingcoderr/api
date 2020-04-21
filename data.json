@@ -739,25 +739,25 @@
 			"totalrecovered": "3273"
 		},
 		{
-			"dailyconfirmed": "285",
+			"dailyconfirmed": "286",
 			"dailydeceased": "9",
-			"dailyrecovered": "12",
+			"dailyrecovered": "13",
 			"date": "21 April ",
-			"totalconfirmed": "18828",
+			"totalconfirmed": "18829",
 			"totaldeceased": "601",
-			"totalrecovered": "3285"
+			"totalrecovered": "3286"
 		}
 	],
 	"statewise": [
 		{
 			"active": "14942",
-			"confirmed": "18828",
+			"confirmed": "18829",
 			"deaths": "601",
-			"deltaconfirmed": "285",
+			"deltaconfirmed": "286",
 			"deltadeaths": "9",
-			"deltarecovered": "12",
+			"deltarecovered": "13",
 			"lastupdatedtime": "21/04/2020 13:17:37",
-			"recovered": "3285",
+			"recovered": "3286",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -933,13 +933,13 @@
 		},
 		{
 			"active": "107",
-			"confirmed": "251",
+			"confirmed": "252",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "20/04/2020 20:42:30",
-			"recovered": "141",
+			"recovered": "142",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": "1 death in Ambala unaccounted."
