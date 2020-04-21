@@ -2129,8 +2129,8 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "26",
-			"active_2": "26",
+			"active": "12",
+			"active_2": "12",
 			"confirmed": "26",
 			"confirmedyesterday": "26",
 			"deceased": "",
@@ -2141,8 +2141,8 @@
 			"deltarecovered": "0",
 			"district": "Chandigarh",
 			"notes": "",
-			"recovered": "",
-			"recovered_2": "",
+			"recovered": "14",
+			"recovered_2": "14",
 			"slno": "113",
 			"state": "Chandigarh",
 			"statecode": "CH"
@@ -8723,7 +8723,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8742,7 +8742,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8780,7 +8780,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -8799,7 +8799,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8818,7 +8818,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -8837,7 +8837,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8856,7 +8856,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8875,7 +8875,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8913,7 +8913,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8951,7 +8951,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -8989,7 +8989,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9027,7 +9027,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9046,7 +9046,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9065,7 +9065,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9084,7 +9084,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9103,7 +9103,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9122,7 +9122,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9141,7 +9141,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -9160,7 +9160,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9179,7 +9179,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -9198,7 +9198,7 @@
 		},
 		{
 			"active": "0",
-			"active_2": "0",
+			"active_2": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",

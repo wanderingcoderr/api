@@ -509,10 +509,10 @@
     "districtData": [
       {
         "district": "Chandigarh",
-        "active": 26,
+        "active": 12,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
