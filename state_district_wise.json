@@ -2013,7 +2013,7 @@
       },
       "Bhopal": {
         "active": 0,
-        "confirmed": 197,
+        "confirmed": 254,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2046,7 +2046,7 @@
       },
       "Dhar": {
         "active": 0,
-        "confirmed": 10,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2079,7 +2079,7 @@
       },
       "Indore": {
         "active": 0,
-        "confirmed": 841,
+        "confirmed": 897,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2101,7 +2101,7 @@
       },
       "Khandwa": {
         "active": 0,
-        "confirmed": 33,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2112,7 +2112,7 @@
       },
       "Khargone": {
         "active": 0,
-        "confirmed": 39,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2266,11 +2266,11 @@
       },
       "Unknown": {
         "active": 0,
-        "confirmed": 175,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -140,
           "deceased": 0,
           "recovered": 0
         }
