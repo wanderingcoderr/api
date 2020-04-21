@@ -70,11 +70,11 @@
       {
         "district": "Guntur",
         "active": 0,
-        "confirmed": 148,
+        "confirmed": 158,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -82,11 +82,11 @@
       {
         "district": "Krishna",
         "active": 0,
-        "confirmed": 80,
+        "confirmed": 83,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -94,11 +94,11 @@
       {
         "district": "Kurnool",
         "active": 0,
-        "confirmed": 174,
+        "confirmed": 184,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -142,11 +142,11 @@
       {
         "district": "West Godavari",
         "active": 0,
-        "confirmed": 35,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -154,11 +154,11 @@
       {
         "district": "Y.S.R.",
         "active": 0,
-        "confirmed": 40,
+        "confirmed": 46,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -166,11 +166,11 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 32,
+        "confirmed": -1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 32,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
