@@ -741,14 +741,14 @@
 	],
 	"statewise": [
 		{
-			"active": "14934",
+			"active": "14913",
 			"confirmed": "18786",
-			"deaths": "598",
+			"deaths": "593",
 			"deltaconfirmed": "243",
-			"deltadeaths": "6",
+			"deltadeaths": "1",
 			"deltarecovered": "7",
-			"lastupdatedtime": "21/04/2020 11:07:37",
-			"recovered": "3254",
+			"lastupdatedtime": "21/04/2020 11:37:37",
+			"recovered": "3280",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -780,14 +780,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1884",
+			"active": "1864",
 			"confirmed": "2066",
-			"deaths": "77",
+			"deaths": "71",
 			"deltaconfirmed": "127",
-			"deltadeaths": "6",
+			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "20/04/2020 20:42:27",
-			"recovered": "105",
+			"recovered": "131",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
@@ -871,13 +871,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "280",
+			"active": "279",
 			"confirmed": "408",
-			"deaths": "16",
+			"deaths": "17",
 			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 18:12:41",
+			"lastupdatedtime": "21/04/2020 11:37:38",
 			"recovered": "112",
 			"state": "Karnataka",
 			"statecode": "KA",
