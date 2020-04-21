@@ -348,26 +348,26 @@
     "districtData": [
       {
         "district": "Begusarai",
-        "active": 9,
+        "active": 8,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Bhagalpur",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -396,58 +396,58 @@
       },
       {
         "district": "Gaya",
-        "active": 5,
+        "active": 1,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Gopalganj",
-        "active": 3,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Lakhisarai",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Munger",
-        "active": 27,
+        "active": 20,
         "confirmed": 27,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 1,
+        "recovered": 6,
         "delta": {
           "confirmed": 7,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 6
         }
       },
       {
         "district": "Nalanda",
-        "active": 28,
+        "active": 26,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -456,26 +456,26 @@
       },
       {
         "district": "Nawada",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Patna",
-        "active": 8,
+        "active": 3,
         "confirmed": 8,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 5,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -492,22 +492,22 @@
       },
       {
         "district": "Saran",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Siwan",
-        "active": 29,
+        "active": 12,
         "confirmed": 29,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -516,13 +516,13 @@
       },
       {
         "district": "Vaishali",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       }
