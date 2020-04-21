@@ -501,6 +501,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "active": 13,
+        "confirmed": 13,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 13,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -2080,6 +2092,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "active": 19,
+        "confirmed": 19,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 19,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -2165,14 +2189,14 @@
       },
       {
         "district": "Bhopal",
-        "active": 216,
-        "confirmed": 254,
+        "active": 243,
+        "confirmed": 285,
         "deceased": 7,
-        "recovered": 31,
+        "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 31,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -2201,13 +2225,13 @@
       },
       {
         "district": "Dhar",
-        "active": 36,
-        "confirmed": 36,
-        "deceased": 0,
+        "active": 40,
+        "confirmed": 41,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 5,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2237,24 +2261,24 @@
       },
       {
         "district": "Indore",
-        "active": 774,
-        "confirmed": 897,
+        "active": 792,
+        "confirmed": 915,
         "deceased": 52,
         "recovered": 71,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Jabalpur",
-        "active": 15,
-        "confirmed": 21,
+        "active": 20,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -2417,13 +2441,13 @@
       },
       {
         "district": "Ujjain",
-        "active": 16,
-        "confirmed": 27,
-        "deceased": 6,
+        "active": 21,
+        "confirmed": 33,
+        "deceased": 7,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 6,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2453,12 +2477,12 @@
       },
       {
         "district": "Unknown",
-        "active": 67,
-        "confirmed": 67,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 67,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }

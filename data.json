@@ -739,25 +739,25 @@
 			"totalrecovered": "3273"
 		},
 		{
-			"dailyconfirmed": "497",
+			"dailyconfirmed": "529",
 			"dailydeceased": "13",
-			"dailyrecovered": "69",
+			"dailyrecovered": "85",
 			"date": "21 April ",
-			"totalconfirmed": "19040",
+			"totalconfirmed": "19072",
 			"totaldeceased": "605",
-			"totalrecovered": "3342"
+			"totalrecovered": "3358"
 		}
 	],
 	"statewise": [
 		{
-			"active": "15093",
-			"confirmed": "19040",
+			"active": "15109",
+			"confirmed": "19072",
 			"deaths": "605",
-			"deltaconfirmed": "497",
+			"deltaconfirmed": "529",
 			"deltadeaths": "13",
-			"deltarecovered": "69",
-			"lastupdatedtime": "21/04/2020 17:57:37",
-			"recovered": "3342",
+			"deltarecovered": "85",
+			"lastupdatedtime": "21/04/2020 18:07:37",
+			"recovered": "3358",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -893,14 +893,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "114",
-			"confirmed": "407",
+			"active": "117",
+			"confirmed": "426",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 18:07:32",
-			"recovered": "291",
+			"deltarecovered": "16",
+			"lastupdatedtime": "21/04/2020 18:07:38",
+			"recovered": "307",
 			"state": "Kerala",
 			"statecode": "KL",
 			"statenotes": ""
@@ -958,13 +958,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "69",
-			"confirmed": "113",
+			"active": "82",
+			"confirmed": "126",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "13",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 19:33:33",
+			"lastupdatedtime": "21/04/2020 18:07:38",
 			"recovered": "42",
 			"state": "Bihar",
 			"statecode": "BR",
