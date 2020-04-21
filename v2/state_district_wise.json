@@ -2450,6 +2450,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "active": 67,
+        "confirmed": 67,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 67,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },

@@ -14441,14 +14441,14 @@
 			"statecode": "LD"
 		},
 		{
-			"active": "0",
+			"active": "67",
 			"active_2": "0",
-			"confirmed": "0",
+			"confirmed": "67",
 			"confirmedyesterday": "0",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "67",
+			"deltaconfirmed": "67",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
