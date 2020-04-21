@@ -5581,6 +5581,24 @@
 			"updatedon": "20/04/2020"
 		},
 		{
+			"negative": "54100",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1659",
+			"positiveratebytests": "",
+			"source": "https://t.me/indiacovid/2828",
+			"source2": "",
+			"state": "Rajasthan",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "61492",
+			"unconfirmed": "5733",
+			"updatedon": "21/04/2020"
+		},
+		{
 			"negative": "2789",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
