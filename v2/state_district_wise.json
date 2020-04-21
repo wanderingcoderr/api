@@ -1122,12 +1122,12 @@
       },
       {
         "district": "Gurugram",
-        "active": 36,
-        "confirmed": 36,
+        "active": 37,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1296,18 +1296,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2958,12 +2946,12 @@
     "districtData": [
       {
         "district": "Baleshwar",
-        "active": 3,
-        "confirmed": 3,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3068,18 +3056,6 @@
         "district": "Sundargarh",
         "active": 3,
         "confirmed": 3,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 5,
-        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
