@@ -737,6 +737,15 @@
 			"totalconfirmed": "18543",
 			"totaldeceased": "592",
 			"totalrecovered": "3273"
+		},
+		{
+			"dailyconfirmed": "243",
+			"dailydeceased": "7",
+			"dailyrecovered": "7",
+			"date": "21 April ",
+			"totalconfirmed": "18786",
+			"totaldeceased": "599",
+			"totalrecovered": "3280"
 		}
 	],
 	"statewise": [
