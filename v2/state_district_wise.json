@@ -3710,10 +3710,10 @@
       },
       {
         "district": "Chennai",
-        "active": 308,
+        "active": 209,
         "confirmed": 308,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 99,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3729,7 +3729,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 75
+          "recovered": 0
         }
       },
       {
@@ -3818,10 +3818,10 @@
       },
       {
         "district": "Madurai",
-        "active": 46,
+        "active": 18,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 28,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3902,10 +3902,10 @@
       },
       {
         "district": "Salem",
-        "active": 24,
+        "active": 14,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3921,7 +3921,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 0
         }
       },
       {
@@ -3938,10 +3938,10 @@
       },
       {
         "district": "Thanjavur",
-        "active": 45,
+        "active": 44,
         "confirmed": 45,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3969,7 +3969,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 18
+          "recovered": 0
         }
       },
       {
@@ -3986,10 +3986,10 @@
       },
       {
         "district": "Thiruvarur",
-        "active": 28,
+        "active": 12,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4005,31 +4005,31 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 0
         }
       },
       {
         "district": "Tiruchirappalli",
-        "active": 20,
+        "active": 17,
         "confirmed": 50,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 33,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 30
+          "recovered": 0
         }
       },
       {
         "district": "Tirunelveli",
-        "active": null,
+        "active": 34,
         "confirmed": 64,
         "deceased": 0,
         "recovered": 30,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": null
+          "recovered": 0
         }
       },
       {
@@ -4082,10 +4082,10 @@
       },
       {
         "district": "Viluppuram",
-        "active": 40,
+        "active": 22,
         "confirmed": 40,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
