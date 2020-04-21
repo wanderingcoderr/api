@@ -1996,8 +1996,8 @@
         "recovered": 31,
         "delta": {
           "confirmed": 0,
-          "deceased": 7,
-          "recovered": 31
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Chhindwara": {
@@ -2007,7 +2007,7 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -2018,7 +2018,7 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 5,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -2041,7 +2041,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 0
         }
       },
       "Hoshangabad": {
@@ -2062,8 +2062,8 @@
         "recovered": 71,
         "delta": {
           "confirmed": 0,
-          "deceased": 52,
-          "recovered": 71
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Jabalpur": {
@@ -2074,7 +2074,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 0
         }
       },
       "Khandwa": {
@@ -2095,8 +2095,8 @@
         "recovered": 3,
         "delta": {
           "confirmed": 0,
-          "deceased": 4,
-          "recovered": 3
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Mandsaur": {
@@ -2106,7 +2106,7 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -2118,7 +2118,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 14
+          "recovered": 0
         }
       },
       "Raisen": {
@@ -2199,10 +2199,10 @@
         }
       },
       "Shivpuri": {
-        "active": 2,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2227,8 +2227,8 @@
         "recovered": 5,
         "delta": {
           "confirmed": 0,
-          "deceased": 6,
-          "recovered": 5
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Vidisha": {
