@@ -741,23 +741,23 @@
 		{
 			"dailyconfirmed": "285",
 			"dailydeceased": "9",
-			"dailyrecovered": "11",
+			"dailyrecovered": "12",
 			"date": "21 April ",
 			"totalconfirmed": "18828",
 			"totaldeceased": "601",
-			"totalrecovered": "3284"
+			"totalrecovered": "3285"
 		}
 	],
 	"statewise": [
 		{
-			"active": "14943",
+			"active": "14942",
 			"confirmed": "18828",
 			"deaths": "601",
 			"deltaconfirmed": "285",
 			"deltadeaths": "9",
-			"deltarecovered": "11",
-			"lastupdatedtime": "21/04/2020 12:47:37",
-			"recovered": "3284",
+			"deltarecovered": "12",
+			"lastupdatedtime": "21/04/2020 13:17:37",
+			"recovered": "3285",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -971,14 +971,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "54",
+			"active": "53",
 			"confirmed": "79",
 			"deaths": "1",
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 18:07:33",
-			"recovered": "24",
+			"deltarecovered": "1",
+			"lastupdatedtime": "21/04/2020 13:17:38",
+			"recovered": "25",
 			"state": "Odisha",
 			"statecode": "OR",
 			"statenotes": ""
