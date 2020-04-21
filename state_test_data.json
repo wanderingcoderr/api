@@ -325,21 +325,21 @@
 			"updatedon": "18/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "405",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/ANI/status/1252454869983608832?s=09",
 			"source2": "",
 			"state": "Arunachal Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "439",
+			"unconfirmed": "34",
 			"updatedon": "20/04/2020"
 		},
 		{
@@ -1927,22 +1927,22 @@
 			"updatedon": "19/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "31377",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1939",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2004202020085436665.pdf",
 			"source2": "",
 			"state": "Gujarat",
 			"testsperthousand": "",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "23749",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "21/04/2020"
+			"totaltested": "33316",
+			"unconfirmed": "0",
+			"updatedon": "20/04/2020"
 		},
 		{
 			"negative": "938",
