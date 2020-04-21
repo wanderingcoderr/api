@@ -32,8 +32,8 @@
 			"deltarecovered": "0",
 			"district": "North and Middle Andaman",
 			"notes": "",
-			"recovered": "",
-			"recoveredyesterday": "",
+			"recovered": "1",
+			"recoveredyesterday": "1",
 			"slno": "2",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN"
@@ -51,8 +51,8 @@
 			"deltarecovered": "0",
 			"district": "South Andaman",
 			"notes": "",
-			"recovered": "",
-			"recoveredyesterday": "",
+			"recovered": "10",
+			"recoveredyesterday": "10",
 			"slno": "3",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN"
