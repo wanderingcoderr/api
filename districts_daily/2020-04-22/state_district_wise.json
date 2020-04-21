@@ -2315,34 +2315,34 @@
       },
       "Akola": {
         "active": 15,
-        "confirmed": 15,
-        "deceased": 0,
+        "confirmed": 16,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Amravati": {
-        "active": 6,
+        "active": 5,
         "confirmed": 6,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Aurangabad": {
-        "active": 28,
-        "confirmed": 28,
-        "deceased": 0,
+        "active": 32,
+        "confirmed": 35,
+        "deceased": 3,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       },
@@ -2358,13 +2358,13 @@
         }
       },
       "Buldana": {
-        "active": 21,
+        "active": 20,
         "confirmed": 21,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2424,8 +2424,8 @@
         }
       },
       "Jalna": {
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2435,8 +2435,8 @@
         }
       },
       "Kolhapur": {
-        "active": 5,
-        "confirmed": 5,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2468,13 +2468,13 @@
         }
       },
       "Nagpur": {
-        "active": 60,
-        "confirmed": 60,
-        "deceased": 0,
+        "active": 78,
+        "confirmed": 79,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2556,35 +2556,35 @@
         }
       },
       "Ratnagiri": {
-        "active": 6,
-        "confirmed": 6,
-        "deceased": 0,
+        "active": 7,
+        "confirmed": 8,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Sangli": {
         "active": 26,
-        "confirmed": 26,
-        "deceased": 0,
+        "confirmed": 27,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Satara": {
         "active": 11,
-        "confirmed": 11,
-        "deceased": 0,
+        "confirmed": 13,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -2600,13 +2600,13 @@
         }
       },
       "Solapur": {
-        "active": 14,
-        "confirmed": 14,
-        "deceased": 0,
+        "active": 23,
+        "confirmed": 25,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -2633,8 +2633,8 @@
         }
       },
       "Yavatmal": {
-        "active": 13,
-        "confirmed": 13,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2655,12 +2655,12 @@
         }
       },
       "Unknown": {
-        "active": 1362,
-        "confirmed": 1362,
+        "active": 1313,
+        "confirmed": 1313,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 552,
+          "confirmed": 503,
           "deceased": 0,
           "recovered": 0
         }
