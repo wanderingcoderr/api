@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Goa\n",
-    "timestamp": 1587296074
-  },
-  {
     "update": "1 new case in Bihar\n3 new cases in Chandigarh\n",
     "timestamp": 1587297975
   },
@@ -198,5 +194,9 @@
   {
     "update": "19 deaths in Maharashtra\n180 recoveries in Delhi\n13 deaths in Gujarat\n8 recoveries in Telangana\n",
     "timestamp": 1587480674
+  },
+  {
+    "update": "1 new case in Andaman and Nicobar Islands\n",
+    "timestamp": 1587481290
   }
 ]

@@ -4105,22 +4105,22 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
+			"negative": "19353",
+			"numcallsstatehelpline": "781338",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1552",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/JansamparkMP/status/1252572205768114178/photo/1",
 			"source2": "",
 			"state": "Madhya Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"totaltested": "29120",
+			"unconfirmed": "8215",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "14837",
