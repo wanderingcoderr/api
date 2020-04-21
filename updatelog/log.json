@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Bihar\n",
-    "timestamp": 1587293060
-  },
-  {
     "update": "1 recovery in Goa\n",
     "timestamp": 1587296074
   },
@@ -198,5 +194,9 @@
   {
     "update": "150 recoveries in Maharashtra\n75 new cases in Delhi\n56 new cases in Telangana\n",
     "timestamp": 1587480083
+  },
+  {
+    "update": "19 deaths in Maharashtra\n180 recoveries in Delhi\n13 deaths in Gujarat\n8 recoveries in Telangana\n",
+    "timestamp": 1587480674
   }
 ]
