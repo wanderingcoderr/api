@@ -2593,22 +2593,22 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "2933",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "39",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/nhm_hp/status/1252581823864946690",
 			"source2": "",
 			"state": "Himachal Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"totaltested": "3341",
+			"unconfirmed": "369",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "1429",
