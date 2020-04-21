@@ -2827,7 +2827,7 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "8840",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -2840,9 +2840,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "9220",
 			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "1326",
