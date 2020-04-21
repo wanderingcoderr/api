@@ -829,6 +829,24 @@
 			"updatedon": "20/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "113",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/sanjayjavin/status/1252479242870362114",
+			"source2": "",
+			"state": "Bihar",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "12077",
+			"unconfirmed": "998",
+			"updatedon": "21/04/2020"
+		},
+		{
 			"negative": "98",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -1261,22 +1279,22 @@
 			"updatedon": "19/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "7029",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "36",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_20042020.pdf",
 			"source2": "",
 			"state": "Chhattisgarh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "21/04/2020"
+			"totaltested": "7601",
+			"unconfirmed": "536",
+			"updatedon": "20/04/2020"
 		},
 		{
 			"negative": "",
@@ -2249,6 +2267,24 @@
 			"totaltested": "13894",
 			"unconfirmed": "2134",
 			"updatedon": "20/04/2020"
+		},
+		{
+			"negative": "12253",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "252",
+			"positiveratebytests": "",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Morning%20Bulletin%2021-04-2020.pdf",
+			"source2": "",
+			"state": "Haryana",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "14560",
+			"unconfirmed": "2069",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "870",
