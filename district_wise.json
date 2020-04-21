@@ -59,159 +59,159 @@
 		},
 		{
 			"active": "31",
-			"activeyesterday": "",
+			"activeyesterday": "28",
 			"confirmed": "36",
 			"confirmedyesterday": "33",
 			"deceased": "3",
-			"deceasedyesterday": "",
-			"deltaactive": "-2",
+			"deceasedyesterday": "3",
+			"deltaactive": "3",
 			"deltaconfirmed": "3",
-			"deltadeceased": "3",
-			"deltarecovered": "2",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
 			"district": "Anantapur",
 			"notes": "",
 			"recovered": "2",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "2",
 			"slno": "4",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "49",
-			"activeyesterday": "",
+			"activeyesterday": "49",
 			"confirmed": "53",
 			"confirmedyesterday": "53",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "-4",
+			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "4",
+			"deltarecovered": "0",
 			"district": "Chittoor",
 			"notes": "",
 			"recovered": "4",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "4",
 			"slno": "5",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "18",
-			"activeyesterday": "",
+			"activeyesterday": "18",
 			"confirmed": "26",
 			"confirmedyesterday": "26",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "-8",
+			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "8",
+			"deltarecovered": "0",
 			"district": "East Godavari",
 			"notes": "",
 			"recovered": "8",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "8",
 			"slno": "6",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "137",
-			"activeyesterday": "",
+			"activeyesterday": "129",
 			"confirmed": "157",
 			"confirmedyesterday": "148",
 			"deceased": "6",
-			"deceasedyesterday": "",
-			"deltaactive": "-12",
+			"deceasedyesterday": "4",
+			"deltaactive": "7",
 			"deltaconfirmed": "9",
-			"deltadeceased": "6",
-			"deltarecovered": "15",
+			"deltadeceased": "2",
+			"deltarecovered": "0",
 			"district": "Guntur",
 			"notes": "",
 			"recovered": "15",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "15",
 			"slno": "7",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "63",
-			"activeyesterday": "",
+			"activeyesterday": "60",
 			"confirmed": "83",
 			"confirmedyesterday": "80",
 			"deceased": "6",
-			"deceasedyesterday": "",
-			"deltaactive": "-17",
+			"deceasedyesterday": "6",
+			"deltaactive": "3",
 			"deltaconfirmed": "3",
-			"deltadeceased": "6",
-			"deltarecovered": "14",
+			"deltadeceased": "0",
+			"deltarecovered": "0",
 			"district": "Krishna",
 			"notes": "",
 			"recovered": "14",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "14",
 			"slno": "8",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "175",
-			"activeyesterday": "",
+			"activeyesterday": "168",
 			"confirmed": "184",
 			"confirmedyesterday": "174",
 			"deceased": "5",
-			"deceasedyesterday": "",
-			"deltaactive": "1",
+			"deceasedyesterday": "5",
+			"deltaactive": "7",
 			"deltaconfirmed": "10",
-			"deltadeceased": "5",
-			"deltarecovered": "4",
+			"deltadeceased": "0",
+			"deltarecovered": "3",
 			"district": "Kurnool",
 			"notes": "",
 			"recovered": "4",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "1",
 			"slno": "9",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "42",
-			"activeyesterday": "",
+			"activeyesterday": "43",
 			"confirmed": "44",
 			"confirmedyesterday": "44",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "-1",
+			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "1",
+			"deltarecovered": "0",
 			"district": "Prakasam",
 			"notes": "",
 			"recovered": "1",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "1",
 			"slno": "10",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "64",
-			"activeyesterday": "",
+			"activeyesterday": "65",
 			"confirmed": "68",
 			"confirmedyesterday": "68",
 			"deceased": "2",
-			"deceasedyesterday": "",
-			"deltaactive": "-4",
+			"deceasedyesterday": "2",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "2",
-			"deltarecovered": "2",
+			"deltadeceased": "0",
+			"deltarecovered": "1",
 			"district": "S.P.S. Nellore",
 			"notes": "",
 			"recovered": "2",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "1",
 			"slno": "11",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -230,26 +230,26 @@
 		},
 		{
 			"active": "3",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "21",
 			"confirmedyesterday": "21",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "-18",
+			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "18",
+			"deltarecovered": "0",
 			"district": "Visakhapatnam",
 			"notes": "",
 			"recovered": "18",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "18",
 			"slno": "13",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -268,45 +268,45 @@
 		},
 		{
 			"active": "30",
-			"activeyesterday": "",
+			"activeyesterday": "26",
 			"confirmed": "39",
 			"confirmedyesterday": "35",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "-5",
+			"deltaactive": "4",
 			"deltaconfirmed": "4",
 			"deltadeceased": "0",
-			"deltarecovered": "9",
+			"deltarecovered": "0",
 			"district": "West Godavari",
 			"notes": "",
 			"recovered": "9",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "9",
 			"slno": "15",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "27",
-			"activeyesterday": "",
+			"activeyesterday": "21",
 			"confirmed": "46",
 			"confirmedyesterday": "40",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "-13",
+			"deltaactive": "6",
 			"deltaconfirmed": "6",
 			"deltadeceased": "0",
-			"deltarecovered": "19",
+			"deltarecovered": "0",
 			"district": "Y.S.R.",
 			"notes": "",
 			"recovered": "19",
-			"recoveredyesterday": "",
+			"recoveredyesterday": "19",
 			"slno": "16",
 			"state": "Andhra Pradesh",
 			"statecode": "AP"
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -325,7 +325,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -344,7 +344,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -363,7 +363,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -382,7 +382,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -401,7 +401,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -420,7 +420,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -439,7 +439,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -458,7 +458,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -477,7 +477,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -496,7 +496,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -515,7 +515,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -534,7 +534,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -553,7 +553,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -572,7 +572,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -591,7 +591,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -610,7 +610,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -629,7 +629,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -648,7 +648,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -667,7 +667,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -686,7 +686,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -705,7 +705,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -724,7 +724,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -743,7 +743,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -762,7 +762,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -781,7 +781,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -800,7 +800,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -819,7 +819,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -838,7 +838,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -857,7 +857,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "2",
 			"confirmed": "2",
 			"confirmedyesterday": "2",
 			"deceased": "",
@@ -876,7 +876,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -895,7 +895,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -914,7 +914,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -933,7 +933,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -952,7 +952,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "4",
 			"confirmed": "4",
 			"confirmedyesterday": "4",
 			"deceased": "",
@@ -971,7 +971,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -990,7 +990,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1009,7 +1009,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "4",
 			"confirmed": "4",
 			"confirmedyesterday": "4",
 			"deceased": "",
@@ -1028,7 +1028,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1047,7 +1047,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1066,7 +1066,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1085,7 +1085,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "8",
 			"confirmed": "8",
 			"confirmedyesterday": "8",
 			"deceased": "",
@@ -1104,7 +1104,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1123,7 +1123,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "6",
 			"confirmed": "6",
 			"confirmedyesterday": "6",
 			"deceased": "",
@@ -1142,7 +1142,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1161,7 +1161,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1180,7 +1180,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1199,7 +1199,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1218,7 +1218,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1237,7 +1237,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -1256,7 +1256,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1275,7 +1275,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -1294,7 +1294,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1313,7 +1313,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1332,7 +1332,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1351,7 +1351,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1370,7 +1370,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1389,7 +1389,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1408,7 +1408,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1427,7 +1427,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1446,7 +1446,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1465,7 +1465,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1484,7 +1484,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "9",
 			"confirmed": "9",
 			"confirmedyesterday": "9",
 			"deceased": "",
@@ -1503,7 +1503,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1522,7 +1522,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1541,7 +1541,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "4",
 			"confirmed": "4",
 			"confirmedyesterday": "4",
 			"deceased": "",
@@ -1560,7 +1560,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1579,7 +1579,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1598,7 +1598,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "5",
 			"confirmed": "5",
 			"confirmedyesterday": "5",
 			"deceased": "",
@@ -1617,7 +1617,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -1636,7 +1636,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1655,7 +1655,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1674,7 +1674,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1693,7 +1693,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1712,7 +1712,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1731,7 +1731,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1750,7 +1750,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1769,7 +1769,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1788,7 +1788,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1807,7 +1807,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "20",
 			"confirmed": "20",
 			"confirmedyesterday": "20",
 			"deceased": "",
@@ -1826,7 +1826,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1845,7 +1845,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "28",
 			"confirmed": "28",
 			"confirmedyesterday": "28",
 			"deceased": "",
@@ -1864,7 +1864,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -1883,7 +1883,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "7",
 			"confirmed": "7",
 			"confirmedyesterday": "7",
 			"deceased": "",
@@ -1902,7 +1902,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1921,7 +1921,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1940,7 +1940,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1959,7 +1959,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -1978,7 +1978,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -1997,7 +1997,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2016,7 +2016,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2035,7 +2035,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2054,7 +2054,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "29",
 			"confirmed": "29",
 			"confirmedyesterday": "29",
 			"deceased": "",
@@ -2073,7 +2073,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2092,7 +2092,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -2111,7 +2111,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2130,7 +2130,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "26",
 			"confirmed": "26",
 			"confirmedyesterday": "26",
 			"deceased": "",
@@ -2149,7 +2149,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2168,7 +2168,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2187,7 +2187,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2206,7 +2206,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2225,7 +2225,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2244,7 +2244,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2263,7 +2263,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -2282,7 +2282,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2301,7 +2301,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2320,7 +2320,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -2339,7 +2339,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2358,7 +2358,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2377,7 +2377,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2396,7 +2396,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2415,7 +2415,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2434,7 +2434,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "28",
 			"confirmed": "28",
 			"confirmedyesterday": "28",
 			"deceased": "",
@@ -2453,7 +2453,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2491,7 +2491,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2510,7 +2510,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2529,7 +2529,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "0",
 			"confirmedyesterday": "0",
 			"deceased": "",
@@ -2548,7 +2548,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "5",
 			"confirmed": "5",
 			"confirmedyesterday": "5",
 			"deceased": "",
@@ -2567,7 +2567,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -2586,7 +2586,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2605,7 +2605,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2624,7 +2624,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2643,7 +2643,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2681,7 +2681,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2700,7 +2700,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2719,7 +2719,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2738,7 +2738,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -2757,7 +2757,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "5",
 			"confirmed": "5",
 			"confirmedyesterday": "5",
 			"deceased": "",
@@ -2776,7 +2776,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -2795,7 +2795,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -2814,7 +2814,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -2833,7 +2833,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2852,7 +2852,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "26",
 			"confirmed": "26",
 			"confirmedyesterday": "26",
 			"deceased": "",
@@ -2871,7 +2871,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2890,7 +2890,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -2909,7 +2909,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "2",
 			"confirmed": "2",
 			"confirmedyesterday": "2",
 			"deceased": "",
@@ -2928,7 +2928,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "4",
 			"confirmed": "4",
 			"confirmedyesterday": "4",
 			"deceased": "",
@@ -2947,7 +2947,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -2966,7 +2966,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1248",
 			"confirmed": "1298",
 			"confirmedyesterday": "1248",
 			"deceased": "",
@@ -2985,7 +2985,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3004,7 +3004,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "28",
 			"confirmed": "28",
 			"confirmedyesterday": "28",
 			"deceased": "",
@@ -3023,7 +3023,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "7",
 			"confirmed": "8",
 			"confirmedyesterday": "7",
 			"deceased": "",
@@ -3042,7 +3042,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "10",
 			"confirmed": "10",
 			"confirmedyesterday": "10",
 			"deceased": "",
@@ -3061,7 +3061,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "23",
 			"confirmed": "23",
 			"confirmedyesterday": "23",
 			"deceased": "",
@@ -3080,7 +3080,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "32",
 			"confirmed": "32",
 			"confirmedyesterday": "32",
 			"deceased": "",
@@ -3099,7 +3099,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "5",
 			"confirmed": "5",
 			"confirmedyesterday": "5",
 			"deceased": "",
@@ -3118,7 +3118,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "7",
 			"confirmed": "7",
 			"confirmedyesterday": "7",
 			"deceased": "",
@@ -3137,7 +3137,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3156,7 +3156,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -3175,7 +3175,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "17",
 			"confirmed": "17",
 			"confirmedyesterday": "17",
 			"deceased": "",
@@ -3194,7 +3194,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "2",
 			"confirmed": "3",
 			"confirmedyesterday": "2",
 			"deceased": "",
@@ -3213,7 +3213,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -3232,7 +3232,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3251,7 +3251,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "6",
 			"confirmed": "6",
 			"confirmedyesterday": "6",
 			"deceased": "",
@@ -3270,7 +3270,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "2",
 			"confirmed": "3",
 			"confirmedyesterday": "2",
 			"deceased": "",
@@ -3289,7 +3289,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "6",
 			"confirmed": "6",
 			"confirmedyesterday": "6",
 			"deceased": "",
@@ -3308,7 +3308,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -3327,7 +3327,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "1",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "",
@@ -3346,7 +3346,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "12",
 			"confirmed": "12",
 			"confirmedyesterday": "12",
 			"deceased": "",
@@ -3365,7 +3365,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3384,7 +3384,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "11",
 			"confirmed": "11",
 			"confirmedyesterday": "11",
 			"deceased": "",
@@ -3403,7 +3403,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "15",
 			"confirmed": "15",
 			"confirmedyesterday": "15",
 			"deceased": "",
@@ -3422,7 +3422,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "3",
 			"confirmed": "3",
 			"confirmedyesterday": "3",
 			"deceased": "",
@@ -3441,7 +3441,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "38",
 			"confirmed": "40",
 			"confirmedyesterday": "38",
 			"deceased": "",
@@ -3460,7 +3460,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "2",
 			"confirmed": "2",
 			"confirmedyesterday": "2",
 			"deceased": "",
@@ -3479,7 +3479,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "269",
 			"confirmed": "338",
 			"confirmedyesterday": "269",
 			"deceased": "",
@@ -3498,7 +3498,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3517,7 +3517,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "1",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3536,7 +3536,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "0",
 			"confirmed": "",
 			"confirmedyesterday": "",
 			"deceased": "",
@@ -3555,7 +3555,7 @@
 		},
 		{
 			"active": "",
-			"activeyesterday": "",
+			"activeyesterday": "188",
 			"confirmed": "188",
 			"confirmedyesterday": "188",
 			"deceased": "",
@@ -8937,13 +8937,13 @@
 			"confirmedyesterday": "2",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Kalahandi",
 			"notes": "",
-			"recovered": "",
+			"recovered": "1",
 			"recoveredyesterday": "",
 			"slno": "465",
 			"state": "Odisha",
@@ -9013,13 +9013,13 @@
 			"confirmedyesterday": "46",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Khordha",
 			"notes": "",
-			"recovered": "",
+			"recovered": "1",
 			"recoveredyesterday": "",
 			"slno": "469",
 			"state": "Odisha",

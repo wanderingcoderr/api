@@ -35,8 +35,8 @@
         "recovered": 2,
         "delta": {
           "confirmed": 3,
-          "deceased": 3,
-          "recovered": 2
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Chittoor": {
@@ -47,7 +47,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       "East Godavari": {
@@ -58,7 +58,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 0
         }
       },
       "Guntur": {
@@ -68,8 +68,8 @@
         "recovered": 15,
         "delta": {
           "confirmed": 9,
-          "deceased": 6,
-          "recovered": 15
+          "deceased": 2,
+          "recovered": 0
         }
       },
       "Krishna": {
@@ -79,8 +79,8 @@
         "recovered": 14,
         "delta": {
           "confirmed": 3,
-          "deceased": 6,
-          "recovered": 14
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Kurnool": {
@@ -90,8 +90,8 @@
         "recovered": 4,
         "delta": {
           "confirmed": 10,
-          "deceased": 5,
-          "recovered": 4
+          "deceased": 0,
+          "recovered": 3
         }
       },
       "Prakasam": {
@@ -102,7 +102,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       "S.P.S. Nellore": {
@@ -112,8 +112,8 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
-          "deceased": 2,
-          "recovered": 2
+          "deceased": 0,
+          "recovered": 1
         }
       },
       "Visakhapatnam": {
@@ -124,7 +124,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 18
+          "recovered": 0
         }
       },
       "West Godavari": {
@@ -135,7 +135,7 @@
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 9
+          "recovered": 0
         }
       },
       "Y.S.R.": {
@@ -146,7 +146,7 @@
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 19
+          "recovered": 0
         }
       }
     },
@@ -2777,11 +2777,11 @@
         "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Kendrapara": {
@@ -2799,11 +2799,11 @@
         "active": 0,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Puri": {
