@@ -385,12 +385,12 @@
         }
       },
       "Munger": {
-        "active": 20,
-        "confirmed": 20,
+        "active": 27,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -468,17 +468,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 7,
-        "confirmed": 7,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1454,6 +1443,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 12,
+        "confirmed": 12,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
