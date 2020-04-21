@@ -742,13 +742,13 @@
 	"statewise": [
 		{
 			"active": "15005",
-			"confirmed": "19161",
+			"confirmed": "19162",
 			"deaths": "609",
-			"deltaconfirmed": "618",
+			"deltaconfirmed": "619",
 			"deltadeaths": "17",
-			"deltarecovered": "274",
+			"deltarecovered": "275",
 			"lastupdatedtime": "21/04/2020 18:47:37",
-			"recovered": "3547",
+			"recovered": "3548",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -975,14 +975,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "28",
+			"active": "27",
 			"confirmed": "46",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "18/04/2020 15:26:17",
-			"recovered": "18",
+			"recovered": "19",
 			"state": "Uttarakhand",
 			"statecode": "UT",
 			"statenotes": ""
@@ -1040,10 +1040,10 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
-			"active": "12",
-			"confirmed": "26",
+			"active": "13",
+			"confirmed": "27",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "19/04/2020 17:45:25",
