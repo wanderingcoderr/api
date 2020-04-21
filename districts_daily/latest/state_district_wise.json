@@ -3015,12 +3015,12 @@
         }
       },
       "Patiala": {
-        "active": 26,
-        "confirmed": 26,
+        "active": 31,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3037,12 +3037,12 @@
         }
       },
       "S.A.S. Nagar": {
-        "active": 61,
-        "confirmed": 61,
+        "active": 62,
+        "confirmed": 62,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3076,17 +3076,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 6,
-        "confirmed": 6,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
