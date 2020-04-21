@@ -2303,13 +2303,13 @@
   "Maharashtra": {
     "districtData": {
       "Ahmadnagar": {
-        "active": 29,
+        "active": 27,
         "confirmed": 29,
-        "deceased": 0,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -2380,13 +2380,13 @@
         }
       },
       "Dhule": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
+        "active": 3,
+        "confirmed": 4,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2414,12 +2414,12 @@
       },
       "Jalgaon": {
         "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
+        "confirmed": 3,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2479,8 +2479,8 @@
         }
       },
       "Nandurbar": {
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2490,13 +2490,13 @@
         }
       },
       "Nashik": {
-        "active": 53,
-        "confirmed": 53,
-        "deceased": 0,
+        "active": 87,
+        "confirmed": 95,
+        "deceased": 8,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 8,
           "recovered": 0
         }
       },
@@ -2534,13 +2534,13 @@
         }
       },
       "Pune": {
-        "active": 591,
-        "confirmed": 591,
-        "deceased": 0,
+        "active": 661,
+        "confirmed": 716,
+        "deceased": 55,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 55,
           "recovered": 0
         }
       },
@@ -2655,12 +2655,12 @@
         }
       },
       "Unknown": {
-        "active": 1313,
-        "confirmed": 1313,
+        "active": 1139,
+        "confirmed": 1139,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 503,
+          "confirmed": 329,
           "deceased": 0,
           "recovered": 0
         }
