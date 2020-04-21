@@ -4162,13 +4162,13 @@
         }
       },
       "Aligarh": {
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
