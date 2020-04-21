@@ -1546,7 +1546,19 @@
       {
         "district": "Bokaro",
         "active": 0,
-        "confirmed": 10,
+        "confirmed": 11,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Deoghar",
+        "active": 0,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1582,7 +1594,7 @@
       {
         "district": "Hazaribagh",
         "active": 0,
-        "confirmed": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1606,7 +1618,7 @@
       {
         "district": "Ranchi",
         "active": 0,
-        "confirmed": 24,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -1630,11 +1642,11 @@
       {
         "district": "Unknown",
         "active": 0,
-        "confirmed": 4,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
