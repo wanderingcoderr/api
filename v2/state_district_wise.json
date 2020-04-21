@@ -734,11 +734,11 @@
       {
         "district": "Ahmadabad",
         "active": 0,
-        "confirmed": 1248,
+        "confirmed": 1298,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 50,
           "deceased": 0,
           "recovered": 0
         }
@@ -758,11 +758,11 @@
       {
         "district": "Aravalli",
         "active": 0,
-        "confirmed": 7,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -854,11 +854,11 @@
       {
         "district": "Gir Somnath",
         "active": 0,
-        "confirmed": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -890,11 +890,11 @@
       {
         "district": "Kheda",
         "active": 0,
-        "confirmed": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -986,11 +986,11 @@
       {
         "district": "Rajkot",
         "active": 0,
-        "confirmed": 38,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1010,11 +1010,23 @@
       {
         "district": "Surat",
         "active": 0,
-        "confirmed": 269,
+        "confirmed": 338,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 69,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Tapi",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1032,13 +1044,13 @@
         }
       },
       {
-        "district": "Unknown",
+        "district": "Valsad",
         "active": 0,
-        "confirmed": 127,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 127,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
