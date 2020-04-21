@@ -1117,22 +1117,22 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "445",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "27",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/ANI/status/1252589665518936064/photo/1",
 			"source2": "",
 			"state": "Chandigarh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"totaltested": "497",
+			"unconfirmed": "24",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "921",
@@ -3007,6 +3007,24 @@
 			"updatedon": "19/04/2020"
 		},
 		{
+			"negative": "4190",
+			"numcallsstatehelpline": "",
+			"numicubeds": "239",
+			"numisolationbeds": "2891",
+			"numventilators": "",
+			"positive": "45",
+			"positiveratebytests": "",
+			"source": "https://mobile.twitter.com/RanchiPIB/status/1252286622701219840",
+			"source2": "",
+			"state": "Jharkhand",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "5508",
+			"unconfirmed": "",
+			"updatedon": "20/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -3022,7 +3040,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "21/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "4281",
