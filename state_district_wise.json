@@ -63,11 +63,11 @@
       },
       "Guntur": {
         "active": 137,
-        "confirmed": 158,
+        "confirmed": 157,
         "deceased": 6,
         "recovered": 15,
         "delta": {
-          "confirmed": 10,
+          "confirmed": 9,
           "deceased": 6,
           "recovered": 15
         }
