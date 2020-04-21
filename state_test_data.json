@@ -361,22 +361,22 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "433",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "http://covid19.itanagarsmartcity.in/covidstatus.php",
 			"source2": "",
 			"state": "Arunachal Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"totaltested": "454",
+			"unconfirmed": "19",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "819",
@@ -2089,20 +2089,20 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "33477",
+			"negative": "34651",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "2066",
+			"positive": "2178",
 			"positiveratebytests": "",
-			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2104212020114859870.pdf",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2104212020084254089.pdf",
 			"source2": "",
 			"state": "Gujarat",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "30354",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "35543",
+			"totaltested": "36829",
 			"unconfirmed": "0",
 			"updatedon": "21/04/2020"
 		},
