@@ -2178,7 +2178,7 @@
       {
         "district": "Betul",
         "active": 0,
-        "confirmed": 2,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2344,6 +2344,18 @@
         }
       },
       {
+        "district": "Rajgarh",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Ratlam",
         "active": 0,
         "confirmed": 9,
@@ -2358,7 +2370,7 @@
       {
         "district": "Sagar",
         "active": 0,
-        "confirmed": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2394,7 +2406,7 @@
       {
         "district": "Sheopur",
         "active": 0,
-        "confirmed": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2455,18 +2467,6 @@
         "district": "Other Region*",
         "active": 0,
         "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 0,
-        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
