@@ -1,7 +1,7 @@
 {
 	"districts": [
 		{
-			"active": "",
+			"active": "0",
 			"activeyesterday": "",
 			"confirmed": "",
 			"confirmedyesterday": "",
@@ -20,7 +20,7 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "",
+			"active": "0",
 			"activeyesterday": "",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
@@ -39,7 +39,7 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "",
+			"active": "5",
 			"activeyesterday": "",
 			"confirmed": "15",
 			"confirmedyesterday": "15",
@@ -14709,12 +14709,12 @@
 		{
 			"active": "",
 			"activeyesterday": "",
-			"confirmed": "1",
+			"confirmed": "111",
 			"confirmedyesterday": "1",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "110",
+			"deltaconfirmed": "110",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",

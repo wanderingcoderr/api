@@ -739,24 +739,24 @@
 			"totalrecovered": "3273"
 		},
 		{
-			"dailyconfirmed": "317",
+			"dailyconfirmed": "427",
 			"dailydeceased": "9",
 			"dailyrecovered": "17",
 			"date": "21 April ",
-			"totalconfirmed": "18860",
+			"totalconfirmed": "18970",
 			"totaldeceased": "601",
 			"totalrecovered": "3290"
 		}
 	],
 	"statewise": [
 		{
-			"active": "14969",
-			"confirmed": "18860",
+			"active": "15079",
+			"confirmed": "18970",
 			"deaths": "601",
-			"deltaconfirmed": "317",
+			"deltaconfirmed": "427",
 			"deltadeaths": "9",
 			"deltarecovered": "17",
-			"lastupdatedtime": "21/04/2020 15:37:37",
+			"lastupdatedtime": "21/04/2020 16:17:37",
 			"recovered": "3290",
 			"state": "Total",
 			"statecode": "TT",
@@ -841,13 +841,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1026",
-			"confirmed": "1184",
+			"active": "1136",
+			"confirmed": "1294",
 			"deaths": "18",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "110",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 20:42:28",
+			"lastupdatedtime": "21/04/2020 16:17:37",
 			"recovered": "140",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
