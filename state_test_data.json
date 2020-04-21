@@ -4177,6 +4177,24 @@
 			"updatedon": "20/04/2020"
 		},
 		{
+			"negative": "71638",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "4676",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/Maha_MEDD/status/1252467996393537536",
+			"source2": "",
+			"state": "Maharashtra",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "75838",
+			"unconfirmed": "",
+			"updatedon": "21/04/2020"
+		},
+		{
 			"negative": "299",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4483,6 +4501,24 @@
 			"updatedon": "19/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1",
+			"positiveratebytests": "",
+			"source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2042020",
+			"source2": "",
+			"state": "Mizoram",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "132",
+			"unconfirmed": "",
+			"updatedon": "20/04/2020"
+		},
+		{
 			"negative": "47",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4643,6 +4679,24 @@
 			"totaltested": "404",
 			"unconfirmed": "59",
 			"updatedon": "19/04/2020"
+		},
+		{
+			"negative": "404",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "0",
+			"positiveratebytests": "",
+			"source": "https://nagahealth.nagaland.gov.in/",
+			"source2": "",
+			"state": "Nagaland",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "434",
+			"unconfirmed": "30",
+			"updatedon": "20/04/2020"
 		},
 		{
 			"negative": "1108",
@@ -4931,6 +4985,24 @@
 			"totaltested": "12372",
 			"unconfirmed": "",
 			"updatedon": "20/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "79",
+			"positiveratebytests": "",
+			"source": "https://health.odisha.gov.in/",
+			"source2": "",
+			"state": "Odisha",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "16609",
+			"unconfirmed": "",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "1159",
