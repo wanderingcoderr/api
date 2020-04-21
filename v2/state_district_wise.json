@@ -1066,6 +1066,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "active": 112,
+        "confirmed": 112,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 112,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -1326,7 +1338,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -1350,7 +1362,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 1,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -1374,7 +1386,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 7
+          "recovered": 0
         }
       },
       {
@@ -1386,7 +1398,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       }
     ]
@@ -2878,12 +2890,12 @@
       },
       {
         "district": "Unknown",
-        "active": 810,
-        "confirmed": 810,
+        "active": 1362,
+        "confirmed": 1362,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 552,
           "deceased": 0,
           "recovered": 0
         }
@@ -3417,12 +3429,12 @@
       },
       {
         "district": "Bhilwara",
-        "active": 29,
-        "confirmed": 29,
+        "active": 32,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3693,12 +3705,12 @@
       },
       {
         "district": "Unknown",
-        "active": 83,
-        "confirmed": 83,
+        "active": 80,
+        "confirmed": 80,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 31,
+          "confirmed": 28,
           "deceased": 0,
           "recovered": 0
         }
