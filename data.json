@@ -737,27 +737,18 @@
 			"totalconfirmed": "18543",
 			"totaldeceased": "592",
 			"totalrecovered": "3273"
-		},
-		{
-			"dailyconfirmed": "541",
-			"dailydeceased": "16",
-			"dailyrecovered": "85",
-			"date": "21 April ",
-			"totalconfirmed": "19084",
-			"totaldeceased": "608",
-			"totalrecovered": "3358"
 		}
 	],
 	"statewise": [
 		{
-			"active": "15118",
-			"confirmed": "19084",
-			"deaths": "608",
-			"deltaconfirmed": "541",
-			"deltadeaths": "16",
-			"deltarecovered": "85",
-			"lastupdatedtime": "21/04/2020 18:17:37",
-			"recovered": "3358",
+			"active": "15005",
+			"confirmed": "19161",
+			"deaths": "609",
+			"deltaconfirmed": "618",
+			"deltadeaths": "17",
+			"deltarecovered": "274",
+			"lastupdatedtime": "21/04/2020 18:47:37",
+			"recovered": "3547",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -815,14 +806,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1046",
-			"confirmed": "1520",
-			"deaths": "17",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 18:12:27",
-			"recovered": "457",
+			"active": "943",
+			"confirmed": "1596",
+			"deaths": "18",
+			"deltaconfirmed": "76",
+			"deltadeaths": "1",
+			"deltarecovered": "178",
+			"lastupdatedtime": "21/04/2020 18:47:38",
+			"recovered": "635",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
 			"statenotes": ""
@@ -945,14 +936,14 @@
 			"statenotes": "1 death in Ambala unaccounted."
 		},
 		{
-			"active": "196",
-			"confirmed": "250",
+			"active": "186",
+			"confirmed": "251",
 			"deaths": "16",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 20:39:06",
-			"recovered": "38",
+			"deltarecovered": "11",
+			"lastupdatedtime": "21/04/2020 18:47:38",
+			"recovered": "49",
 			"state": "Punjab",
 			"statecode": "PB",
 			"statenotes": ""

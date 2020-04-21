@@ -1,9 +1,5 @@
 [
   {
-    "update": "36 new cases in Rajasthan\n",
-    "timestamp": 1587288269
-  },
-  {
     "update": "5 new cases in Jharkhand\n",
     "timestamp": 1587290373
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases in Jammu and Kashmir\n",
     "timestamp": 1587474661
+  },
+  {
+    "update": "76 new cases, 178 recoveries and 1 death in Tamil Nadu\n1 new case and 11 recoveries in Punjab\n",
+    "timestamp": 1587475260
   }
 ]

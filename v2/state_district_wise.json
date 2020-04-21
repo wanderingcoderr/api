@@ -3352,12 +3352,12 @@
       },
       {
         "district": "Unknown",
-        "active": 5,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4136,6 +4136,18 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "active": 76,
+        "confirmed": 76,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 76,
           "deceased": 0,
           "recovered": 0
         }

@@ -3691,22 +3691,22 @@
 			"updatedon": "20/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "19442",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "426",
 			"positiveratebytests": "",
 			"source": "",
 			"source2": "",
 			"state": "Kerala",
 			"testsperthousand": "",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "442",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"totaltested": "20252",
+			"unconfirmed": "384",
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "",
