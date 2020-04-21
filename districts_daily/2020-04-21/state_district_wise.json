@@ -1020,12 +1020,12 @@
         }
       },
       "Faridabad": {
-        "active": 42,
-        "confirmed": 42,
+        "active": 43,
+        "confirmed": 43,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1174,12 +1174,12 @@
         }
       },
       "Sonipat": {
-        "active": 7,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1316,12 +1316,12 @@
         }
       },
       "Baramula": {
-        "active": 44,
-        "confirmed": 44,
+        "active": 45,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1344,6 +1344,17 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Kathua": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1415,12 +1426,12 @@
         }
       },
       "Shupiyan": {
-        "active": 22,
-        "confirmed": 22,
+        "active": 32,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -1443,17 +1454,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 12,
-        "confirmed": 12,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }

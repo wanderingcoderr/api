@@ -741,14 +741,14 @@
 	],
 	"statewise": [
 		{
-			"active": "15005",
-			"confirmed": "19162",
+			"active": "14993",
+			"confirmed": "19165",
 			"deaths": "609",
-			"deltaconfirmed": "619",
+			"deltaconfirmed": "622",
 			"deltadeaths": "17",
-			"deltarecovered": "275",
-			"lastupdatedtime": "21/04/2020 18:47:37",
-			"recovered": "3548",
+			"deltarecovered": "290",
+			"lastupdatedtime": "21/04/2020 19:27:37",
+			"recovered": "3563",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -897,14 +897,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "304",
+			"active": "294",
 			"confirmed": "380",
 			"deaths": "5",
 			"deltaconfirmed": "12",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"lastupdatedtime": "20/04/2020 18:07:33",
-			"recovered": "71",
+			"recovered": "81",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK",
 			"statenotes": ""
@@ -923,14 +923,14 @@
 			"statenotes": "WB numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "107",
-			"confirmed": "252",
+			"active": "105",
+			"confirmed": "255",
 			"deaths": "3",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "4",
 			"deltadeaths": "0",
-			"deltarecovered": "1",
-			"lastupdatedtime": "20/04/2020 20:42:30",
-			"recovered": "142",
+			"deltarecovered": "6",
+			"lastupdatedtime": "21/04/2020 19:27:39",
+			"recovered": "147",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": "1 death in Ambala unaccounted."
