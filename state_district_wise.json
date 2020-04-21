@@ -1744,12 +1744,12 @@
         }
       },
       "Unknown": {
-        "active": 7,
-        "confirmed": 7,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -3421,14 +3421,14 @@
         }
       },
       "Coimbatore": {
-        "active": 133,
+        "active": 58,
         "confirmed": 133,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 75,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 75
         }
       },
       "Cuddalore": {
@@ -3597,14 +3597,14 @@
         }
       },
       "Sivaganga": {
-        "active": 12,
+        "active": 6,
         "confirmed": 12,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Tenkasi": {
@@ -3641,14 +3641,14 @@
         }
       },
       "Theni": {
-        "active": 44,
+        "active": 26,
         "confirmed": 44,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 18
         }
       },
       "Thiruvallur": {
@@ -3674,36 +3674,36 @@
         }
       },
       "Thoothukkudi": {
-        "active": 27,
+        "active": 20,
         "confirmed": 27,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Tiruchirappalli": {
-        "active": 50,
+        "active": 20,
         "confirmed": 50,
         "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 30
         }
       },
       "Tirunelveli": {
-        "active": 64,
+        "active": null,
         "confirmed": 64,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 30,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": null
         }
       },
       "Tirupathur": {
