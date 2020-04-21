@@ -3328,14 +3328,14 @@
         }
       },
       "Pali": {
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Pratapgarh": {
@@ -3361,25 +3361,25 @@
         }
       },
       "Sikar": {
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Tonk": {
-        "active": 98,
+        "active": 83,
         "confirmed": 98,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 15,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       "Udaipur": {
@@ -4235,7 +4235,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       "Bareilly": {
@@ -4411,7 +4411,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -4
         }
       },
       "Jaunpur": {
@@ -4499,7 +4499,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -6
         }
       },
       "Mainpuri": {
@@ -4609,7 +4609,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       "Rae Bareli": {
@@ -4675,7 +4675,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -1
         }
       },
       "Shamli": {
