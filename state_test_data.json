@@ -5640,7 +5640,7 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "82",
+			"positive": "79",
 			"positiveratebytests": "",
 			"source": "https://health.odisha.gov.in/",
 			"source2": "",
@@ -5648,7 +5648,7 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "18750",
+			"totaltested": "16609",
 			"unconfirmed": "",
 			"updatedon": "21/04/2020"
 		},
@@ -6342,16 +6342,16 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "1868",
+			"positive": "1888",
 			"positiveratebytests": "",
-			"source": "https://t.me/indiacovid/2926",
+			"source": "https://t.me/indiacovid/2974",
 			"source2": "",
 			"state": "Rajasthan",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "66257",
-			"unconfirmed": "5837",
+			"unconfirmed": "5817",
 			"updatedon": "22/04/2020"
 		},
 		{
@@ -6676,7 +6676,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "19/04/2020"
+			"updatedon": "21/04/2020"
 		},
 		{
 			"negative": "335",
