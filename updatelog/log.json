@@ -1,9 +1,5 @@
 [
   {
-    "update": "125 new cases, 19 recoveries and 3 deaths in Uttar Pradesh\n49 new cases and 3 deaths in Telangana\n3 new cases in Jharkhand\n",
-    "timestamp": 1587311571
-  },
-  {
     "update": "5 recoveries in Jammu and Kashmir\n",
     "timestamp": 1587312362
   },
@@ -198,5 +194,9 @@
   {
     "update": "24 recoveries and 2 deaths in Andhra Pradesh\n1 recovery in Chhattisgarh\n",
     "timestamp": 1587538302
+  },
+  {
+    "update": "5 new cases in Bihar\n",
+    "timestamp": 1587541880
   }
 ]
