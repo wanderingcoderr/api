@@ -5967,7 +5967,7 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "4",
+			"active": "1",
 			"activeyesterday": "4",
 			"confirmed": "4",
 			"confirmedyesterday": "4",
@@ -5979,14 +5979,14 @@
 			"deltarecovered": "0",
 			"district": "Kargil",
 			"notes": "",
-			"recovered": "",
-			"recoveredyesterday": "",
+			"recovered": "3",
+			"recoveredyesterday": "3",
 			"slno": "314",
 			"state": "Ladakh",
 			"statecode": "LA"
 		},
 		{
-			"active": "14",
+			"active": "3",
 			"activeyesterday": "14",
 			"confirmed": "14",
 			"confirmedyesterday": "14",
@@ -5998,8 +5998,8 @@
 			"deltarecovered": "0",
 			"district": "Leh",
 			"notes": "",
-			"recovered": "",
-			"recoveredyesterday": "",
+			"recovered": "11",
+			"recoveredyesterday": "11",
 			"slno": "315",
 			"state": "Ladakh",
 			"statecode": "LA"
@@ -14631,14 +14631,14 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "0",
+			"active": "64",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "64",
 			"confirmedyesterday": "0",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "64",
+			"deltaconfirmed": "64",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
