@@ -5329,12 +5329,12 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "481",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "0",
 			"positiveratebytests": "",
 			"source": "",
 			"source2": "",
@@ -5342,9 +5342,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "543",
 			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "1108",
@@ -5660,7 +5660,7 @@
 			"numventilators": "",
 			"positive": "83",
 			"positiveratebytests": "",
-			"source": "https://health.odisha.gov.in/covid19-dashboard.html",
+			"source": "https://health.odisha.gov.in/",
 			"source2": "",
 			"state": "Odisha",
 			"testsperthousand": "",
