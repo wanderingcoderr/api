@@ -14726,14 +14726,14 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "1",
+			"active": "113",
 			"activeyesterday": "1",
-			"confirmed": "1",
+			"confirmed": "113",
 			"confirmedyesterday": "1",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "112",
+			"deltaconfirmed": "112",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",

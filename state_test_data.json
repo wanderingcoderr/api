@@ -1466,7 +1466,7 @@
 			"numventilators": "",
 			"positive": "36",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "http://cghealth.nic.in/cghealth17/",
 			"source2": "",
 			"state": "Chhattisgarh",
 			"testsperthousand": "",
@@ -1765,22 +1765,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "22713",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "2248",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/CMODelhi/status/1252978551088984066/photo/2",
 			"source2": "",
 			"state": "Delhi",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "28309",
+			"unconfirmed": "3018",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "197",
@@ -2809,22 +2809,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "3311",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "39",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/nhm_hp/status/1252945118459392001/photo/1",
 			"source2": "",
 			"state": "Himachal Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "3783",
+			"unconfirmed": "433",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "1429",

@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case and 1 recovery in Haryana\n",
-    "timestamp": 1587459078
-  },
-  {
     "update": "31 new cases in Rajasthan\n4 recoveries in Odisha\n",
     "timestamp": 1587463883
   },
@@ -198,5 +194,9 @@
   {
     "update": "92 new cases, 113 recoveries and 1 death in Delhi\n1 new case in Punjab\n",
     "timestamp": 1587568897
+  },
+  {
+    "update": "112 new cases and 11 recoveries in Uttar Pradesh\n",
+    "timestamp": 1587569486
   }
 ]
