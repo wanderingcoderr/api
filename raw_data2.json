@@ -71263,7 +71263,7 @@
 			"backupnotes": "",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Hospitalized",
-			"dateannounced": "",
+			"dateannounced": "22/04/2020",
 			"detectedcity": "",
 			"detecteddistrict": "South Andaman",
 			"detectedstate": "Andaman and Nicobar Islands",
@@ -71275,7 +71275,7 @@
 			"source1": "https://twitter.com/ChetanSanghi/status/1252957907198472193",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "AN",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
