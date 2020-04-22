@@ -750,14 +750,14 @@
 	],
 	"statewise": [
 		{
-			"active": "15694",
-			"confirmed": "20407",
+			"active": "15699",
+			"confirmed": "20414",
 			"deaths": "653",
-			"deltaconfirmed": "327",
+			"deltaconfirmed": "334",
 			"deltadeaths": "8",
-			"deltarecovered": "84",
-			"lastupdatedtime": "22/04/2020 15:27:37",
-			"recovered": "4060",
+			"deltarecovered": "86",
+			"lastupdatedtime": "22/04/2020 15:57:36",
+			"recovered": "4062",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -880,13 +880,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "272",
-			"confirmed": "418",
+			"active": "279",
+			"confirmed": "425",
 			"deaths": "17",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "21/04/2020 17:32:38",
+			"lastupdatedtime": "22/04/2020 15:57:37",
 			"recovered": "129",
 			"state": "Karnataka",
 			"statecode": "KA",
@@ -971,14 +971,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "51",
+			"active": "49",
 			"confirmed": "82",
 			"deaths": "1",
 			"deltaconfirmed": "3",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "22/04/2020 10:57:38",
-			"recovered": "30",
+			"deltarecovered": "2",
+			"lastupdatedtime": "22/04/2020 15:57:38",
+			"recovered": "32",
 			"state": "Odisha",
 			"statecode": "OR",
 			"statenotes": ""
