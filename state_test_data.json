@@ -3566,7 +3566,7 @@
 		},
 		{
 			"negative": "25424",
-			"numcallsstatehelpline": "",
+			"numcallsstatehelpline": "4898",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
@@ -3979,22 +3979,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "19998",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "437",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
 			"source2": "",
 			"state": "Kerala",
 			"testsperthousand": "",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "346",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "20821",
+			"unconfirmed": "386",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "",
@@ -4411,22 +4411,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
+			"negative": "21077",
+			"numcallsstatehelpline": "808177",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1587",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/JansamparkMP/status/1252908046629691392/photo/1",
 			"source2": "",
 			"state": "Madhya Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "31078",
+			"unconfirmed": "8414",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "14837",
