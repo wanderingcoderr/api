@@ -750,10 +750,10 @@
 	],
 	"statewise": [
 		{
-			"active": "15775",
-			"confirmed": "20528",
+			"active": "15781",
+			"confirmed": "20534",
 			"deaths": "653",
-			"deltaconfirmed": "448",
+			"deltaconfirmed": "454",
 			"deltadeaths": "8",
 			"deltarecovered": "124",
 			"lastupdatedtime": "22/04/2020 18:17:39",
@@ -945,10 +945,10 @@
 			"statenotes": "1 death in Ambala unaccounted."
 		},
 		{
-			"active": "186",
-			"confirmed": "251",
+			"active": "192",
+			"confirmed": "257",
 			"deaths": "16",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "21/04/2020 18:47:38",
