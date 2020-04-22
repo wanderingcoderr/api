@@ -2734,13 +2734,13 @@
       },
       {
         "district": "Palghar",
-        "active": 83,
-        "confirmed": 83,
-        "deceased": 0,
+        "active": 125,
+        "confirmed": 129,
+        "deceased": 4,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 46,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -2770,13 +2770,13 @@
       },
       {
         "district": "Raigarh",
-        "active": 42,
-        "confirmed": 42,
-        "deceased": 0,
+        "active": 49,
+        "confirmed": 50,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 8,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2842,13 +2842,13 @@
       },
       {
         "district": "Thane",
-        "active": 362,
-        "confirmed": 362,
-        "deceased": 0,
+        "active": 434,
+        "confirmed": 447,
+        "deceased": 13,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 85,
+          "deceased": 13,
           "recovered": 0
         }
       },
@@ -2878,25 +2878,13 @@
       },
       {
         "district": "Other States*",
-        "active": 11,
-        "confirmed": 11,
-        "deceased": 0,
+        "active": 13,
+        "confirmed": 15,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 143,
-        "confirmed": 143,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": -996,
-          "deceased": 0,
+          "confirmed": 4,
+          "deceased": 2,
           "recovered": 0
         }
       }
@@ -5343,12 +5331,12 @@
       },
       {
         "district": "Unknown",
-        "active": 365,
-        "confirmed": 365,
+        "active": 396,
+        "confirmed": 396,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 31,
           "deceased": 0,
           "recovered": 0
         }
