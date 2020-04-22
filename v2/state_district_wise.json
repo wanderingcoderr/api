@@ -57,12 +57,12 @@
       },
       {
         "district": "Chittoor",
-        "active": 49,
-        "confirmed": 53,
+        "active": 55,
+        "confirmed": 59,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -81,48 +81,48 @@
       },
       {
         "district": "Guntur",
-        "active": 136,
-        "confirmed": 157,
+        "active": 156,
+        "confirmed": 177,
         "deceased": 6,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Krishna",
-        "active": 63,
-        "confirmed": 83,
+        "active": 66,
+        "confirmed": 86,
         "deceased": 6,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Kurnool",
-        "active": 175,
-        "confirmed": 184,
+        "active": 194,
+        "confirmed": 203,
         "deceased": 5,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Prakasam",
-        "active": 43,
-        "confirmed": 44,
+        "active": 47,
+        "confirmed": 48,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -177,12 +177,12 @@
       },
       {
         "district": "Unknown",
-        "active": 55,
-        "confirmed": 55,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 55,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -769,14 +769,14 @@
     "districtData": [
       {
         "district": "Ahmadabad",
-        "active": 1373,
-        "confirmed": 1373,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 1321,
+        "confirmed": 1434,
+        "deceased": 57,
+        "recovered": 56,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 61,
+          "deceased": 57,
+          "recovered": 56
         }
       },
       {
@@ -1057,14 +1057,14 @@
       },
       {
         "district": "Surat",
-        "active": 347,
-        "confirmed": 347,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 341,
+        "confirmed": 364,
+        "deceased": 12,
+        "recovered": 11,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 17,
+          "deceased": 12,
+          "recovered": 11
         }
       },
       {
@@ -1081,14 +1081,14 @@
       },
       {
         "district": "Vadodara",
-        "active": 199,
-        "confirmed": 199,
-        "deceased": 0,
-        "recovered": 0,
+        "active": 192,
+        "confirmed": 207,
+        "deceased": 7,
+        "recovered": 8,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "confirmed": 8,
+          "deceased": 7,
+          "recovered": 8
         }
       },
       {
@@ -1105,12 +1105,12 @@
       },
       {
         "district": "Unknown",
-        "active": 94,
-        "confirmed": 94,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 94,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }

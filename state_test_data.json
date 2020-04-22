@@ -2233,21 +2233,21 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
+			"negative": "35787",
+			"numcallsstatehelpline": "52032",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "2272",
 			"positiveratebytests": "",
-			"source": "",
-			"source2": "",
+			"source": "https://gujcovid19.gujarat.gov.in/uploads/pressbrief2204222020111751102.pdf",
+			"source2": "https://gujcovid19.gujarat.gov.in/",
 			"state": "Gujarat",
 			"testsperthousand": "",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "32317",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "38059",
-			"unconfirmed": "",
+			"unconfirmed": "0",
 			"updatedon": "22/04/2020"
 		},
 		{
