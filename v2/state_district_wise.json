@@ -2202,12 +2202,12 @@
       {
         "district": "Kannur",
         "notes": "",
-        "active": 54,
-        "confirmed": 102,
+        "active": 61,
+        "confirmed": 109,
         "deceased": 0,
         "recovered": 48,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -2241,12 +2241,12 @@
       {
         "district": "Kottayam",
         "notes": "",
-        "active": 0,
-        "confirmed": 3,
+        "active": 1,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2255,24 +2255,24 @@
         "district": "Kozhikode",
         "notes": "",
         "active": 9,
-        "confirmed": 20,
+        "confirmed": 22,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
         "district": "Malappuram",
         "notes": "",
-        "active": 7,
-        "confirmed": 21,
+        "active": 8,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2280,14 +2280,14 @@
       {
         "district": "Palakkad",
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 12,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2338,19 +2338,6 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 11,
-        "confirmed": 11,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
