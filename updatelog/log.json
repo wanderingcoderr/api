@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case added to Assam (moved from Nagaland)\n",
-    "timestamp": 1587352475
-  },
-  {
     "update": "8 new cases in Odisha\n",
     "timestamp": 1587354271
   },
@@ -198,5 +194,9 @@
   {
     "update": "7 new cases in Karnataka\n2 recoveries in Odisha\n",
     "timestamp": 1587551473
+  },
+  {
+    "update": "35 new cases and 4 recoveries in Madhya Pradesh\n",
+    "timestamp": 1587552087
   }
 ]

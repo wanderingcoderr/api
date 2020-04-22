@@ -14460,14 +14460,14 @@
 			"statecode": "LD"
 		},
 		{
-			"active": "1",
+			"active": "36",
 			"activeyesterday": "1",
-			"confirmed": "1",
+			"confirmed": "36",
 			"confirmedyesterday": "1",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "35",
+			"deltaconfirmed": "35",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",

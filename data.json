@@ -750,14 +750,14 @@
 	],
 	"statewise": [
 		{
-			"active": "15699",
-			"confirmed": "20414",
+			"active": "15730",
+			"confirmed": "20449",
 			"deaths": "653",
-			"deltaconfirmed": "334",
+			"deltaconfirmed": "369",
 			"deltadeaths": "8",
-			"deltarecovered": "86",
+			"deltarecovered": "90",
 			"lastupdatedtime": "22/04/2020 15:57:36",
-			"recovered": "4062",
+			"recovered": "4066",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -828,14 +828,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1324",
-			"confirmed": "1552",
+			"active": "1355",
+			"confirmed": "1587",
 			"deaths": "80",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "35",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"lastupdatedtime": "21/04/2020 17:57:38",
-			"recovered": "148",
+			"recovered": "152",
 			"state": "Madhya Pradesh",
 			"statecode": "MP",
 			"statenotes": ""
