@@ -1002,6 +1002,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 94,
+        "confirmed": 94,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 94,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "GJ"
