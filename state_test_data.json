@@ -1225,22 +1225,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "492",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "27",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "http://chdcovid19.in/",
 			"source2": "",
 			"state": "Chandigarh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "529",
+			"unconfirmed": "9",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "921",
@@ -1459,6 +1459,24 @@
 			"updatedon": "20/04/2020"
 		},
 		{
+			"negative": "7555",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "36",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Chhattisgarh",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "8272",
+			"unconfirmed": "681",
+			"updatedon": "21/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -1474,7 +1492,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"updatedon": "23/04/2020"
 		},
 		{
 			"negative": "",

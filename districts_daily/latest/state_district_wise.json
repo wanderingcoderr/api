@@ -734,12 +734,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 2112,
-        "confirmed": 2112,
+        "active": 2204,
+        "confirmed": 2204,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 92,
           "deceased": 0,
           "recovered": 0
         }
@@ -816,25 +816,25 @@
       },
       "Banas Kantha": {
         "notes": "",
-        "active": 14,
-        "confirmed": 15,
+        "active": 15,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 1
         }
       },
       "Bharuch": {
         "notes": "",
-        "active": 18,
+        "active": 19,
         "confirmed": 24,
-        "deceased": 3,
+        "deceased": 2,
         "recovered": 3,
         "delta": {
           "confirmed": 0,
-          "deceased": 3,
+          "deceased": 2,
           "recovered": 3
         }
       },
@@ -864,14 +864,14 @@
       },
       "Chota Udaipur": {
         "notes": "",
-        "active": 6,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 11,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 2
         }
       },
       "Dahod": {
@@ -960,12 +960,12 @@
       },
       "Mahisagar": {
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1104,25 +1104,13 @@
       },
       "Valsad": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 14,
-        "confirmed": 14,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 14,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       }
@@ -3171,12 +3159,12 @@
     "districtData": {
       "Amritsar": {
         "notes": "",
-        "active": 10,
-        "confirmed": 13,
+        "active": 11,
+        "confirmed": 14,
         "deceased": 2,
         "recovered": 1,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 2,
           "recovered": 1
         }
