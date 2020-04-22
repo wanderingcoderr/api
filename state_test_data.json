@@ -5658,7 +5658,7 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "82",
 			"positiveratebytests": "",
 			"source": "",
 			"source2": "",
@@ -5666,9 +5666,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "13775",
 			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "1159",
@@ -5732,14 +5732,14 @@
 			"numventilators": "",
 			"positive": "7",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport",
 			"source2": "",
 			"state": "Puducherry",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "1319",
-			"unconfirmed": "",
+			"unconfirmed": "40",
 			"updatedon": "21/04/2020"
 		},
 		{
