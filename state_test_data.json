@@ -6301,22 +6301,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "58552",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1868",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://t.me/indiacovid/2926",
 			"source2": "",
 			"state": "Rajasthan",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "66257",
+			"unconfirmed": "5837",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "2789",
