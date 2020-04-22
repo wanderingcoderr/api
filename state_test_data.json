@@ -2246,9 +2246,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "38059",
 			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "938",
@@ -4069,21 +4069,21 @@
 			"updatedon": "19/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "896",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "18",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/ladags/status/1252646578688389121?s=09",
 			"source2": "",
 			"state": "Ladakh",
 			"testsperthousand": "",
-			"totalpeopleinquarantine": "",
+			"totalpeopleinquarantine": "154",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
+			"totaltested": "1137",
+			"unconfirmed": "164",
 			"updatedon": "21/04/2020"
 		},
 		{
