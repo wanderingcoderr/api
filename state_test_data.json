@@ -5658,7 +5658,7 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "82",
+			"positive": "83",
 			"positiveratebytests": "",
 			"source": "https://health.odisha.gov.in/covid19-dashboard.html",
 			"source2": "",
@@ -5666,7 +5666,7 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "13775",
+			"totaltested": "18750",
 			"unconfirmed": "",
 			"updatedon": "22/04/2020"
 		},
