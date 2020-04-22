@@ -9771,7 +9771,7 @@
 			"activeyesterday": "56",
 			"confirmed": "61",
 			"confirmedyesterday": "61",
-			"deceased": "0",
+			"deceased": "",
 			"deceasedyesterday": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
