@@ -536,6 +536,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"
@@ -1455,14 +1467,14 @@
       },
       "Bandipore": {
         "notes": "",
-        "active": 97,
+        "active": 95,
         "confirmed": 97,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Baramula": {
@@ -1551,14 +1563,14 @@
       },
       "Pulwama": {
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Rajouri": {
@@ -1587,26 +1599,26 @@
       },
       "Shupiyan": {
         "notes": "",
-        "active": 46,
+        "active": 42,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 14,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Srinagar": {
         "notes": "",
-        "active": 79,
+        "active": 76,
         "confirmed": 79,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Udhampur": {
