@@ -750,14 +750,14 @@
 	],
 	"statewise": [
 		{
-			"active": "16321",
+			"active": "16319",
 			"confirmed": "21370",
 			"deaths": "681",
 			"deltaconfirmed": "1290",
 			"deltadeaths": "36",
-			"deltarecovered": "392",
-			"lastupdatedtime": "22/04/2020 22:27:37",
-			"recovered": "4368",
+			"deltarecovered": "394",
+			"lastupdatedtime": "22/04/2020 23:07:37",
+			"recovered": "4370",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1023,14 +1023,14 @@
 			"statenotes": "Death of Tibetan refugee included"
 		},
 		{
-			"active": "10",
+			"active": "8",
 			"confirmed": "36",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "1",
-			"lastupdatedtime": "22/04/2020 12:22:38",
-			"recovered": "26",
+			"deltarecovered": "3",
+			"lastupdatedtime": "22/04/2020 23:07:39",
+			"recovered": "28",
 			"state": "Chhattisgarh",
 			"statecode": "CT",
 			"statenotes": ""
