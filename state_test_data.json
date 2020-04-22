@@ -4789,6 +4789,24 @@
 			"updatedon": "20/04/2020"
 		},
 		{
+			"negative": "821",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "12",
+			"positiveratebytests": "",
+			"source": "http://meghalayaonline.gov.in/covid/login.htm#",
+			"source2": "",
+			"state": "Meghalaya",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "933",
+			"unconfirmed": "100",
+			"updatedon": "21/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4804,7 +4822,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"updatedon": "23/04/2020"
 		},
 		{
 			"negative": "0",
@@ -5046,6 +5064,24 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
+			"positive": "1",
+			"positiveratebytests": "",
+			"source": "https://t.me/indiacovid/2898?single",
+			"source2": "",
+			"state": "Mizoram",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "135",
+			"unconfirmed": "",
+			"updatedon": "21/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
 			"positive": "",
 			"positiveratebytests": "",
 			"source": "",
@@ -5056,7 +5092,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "22/04/2020"
+			"updatedon": "23/04/2020"
 		},
 		{
 			"negative": "47",
