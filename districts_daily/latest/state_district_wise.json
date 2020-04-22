@@ -2088,6 +2088,17 @@
           "recovered": 0
         }
       },
+      "Dindori": {
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Gwalior": {
         "active": 1,
         "confirmed": 3,
@@ -2220,17 +2231,6 @@
           "recovered": 0
         }
       },
-      "Satna": {
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
       "Shajapur": {
         "active": 5,
         "confirmed": 6,
@@ -2304,17 +2304,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": -1,
-        "confirmed": -1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2796,12 +2785,12 @@
         }
       },
       "Jajapur": {
-        "active": 6,
-        "confirmed": 7,
+        "active": 7,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2857,17 +2846,6 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
