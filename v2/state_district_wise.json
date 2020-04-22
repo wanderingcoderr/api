@@ -4052,19 +4052,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -20,
-        "confirmed": -20,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": -20,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     ]
   },
