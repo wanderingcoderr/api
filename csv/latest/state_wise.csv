@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,20449,4066,653,15730,22/04/2020 15:57:36,TT,369,90,8,
+Total,20454,4072,653,15729,22/04/2020 16:17:38,TT,374,96,8,
 Maharashtra,5218,722,251,4245,21/04/2020 20:17:38,MH,0,0,0,
 Delhi,2156,611,47,1498,21/04/2020 20:17:38,DL,0,0,0,
 Gujarat,2272,144,95,2033,22/04/2020 11:32:37,GJ,94,5,5,
@@ -13,7 +13,7 @@ Karnataka,425,129,17,279,22/04/2020 15:57:37,KA,7,0,0,
 Kerala,426,307,2,117,21/04/2020 18:07:38,KL,0,0,0,
 Jammu and Kashmir,380,81,5,294,20/04/2020 18:07:33,JK,0,0,0,
 West Bengal,423,73,15,335,22/04/2020 09:42:38,WB,31,0,0,WB numbers are currently updated according to https://www.mohfw.gov.in
-Haryana,255,147,3,105,21/04/2020 19:27:39,HR,0,0,0,1 death in Ambala unaccounted.
+Haryana,260,153,3,104,22/04/2020 16:17:40,HR,5,6,0,1 death in Ambala unaccounted.
 Punjab,251,49,16,186,21/04/2020 18:47:38,PB,0,0,0,
 Bihar,136,42,2,92,22/04/2020 15:22:38,BR,10,0,0,
 Odisha,82,32,1,49,22/04/2020 15:57:38,OR,3,2,0,
