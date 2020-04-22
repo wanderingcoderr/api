@@ -440,12 +440,12 @@
         }
       },
       "Patna": {
-        "active": 6,
-        "confirmed": 11,
+        "active": 11,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -3400,6 +3400,17 @@
         "recovered": 24,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "active": 69,
+        "confirmed": 69,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 69,
           "deceased": 0,
           "recovered": 0
         }
