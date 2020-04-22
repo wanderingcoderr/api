@@ -3417,13 +3417,13 @@
       },
       {
         "district": "Bharatpur",
-        "active": 102,
+        "active": 101,
         "confirmed": 103,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 1,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3465,12 +3465,12 @@
       },
       {
         "district": "Dausa",
-        "active": 20,
-        "confirmed": 20,
+        "active": 21,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3513,26 +3513,26 @@
       },
       {
         "district": "Jaipur",
-        "active": 617,
-        "confirmed": 661,
+        "active": 657,
+        "confirmed": 723,
         "deceased": 14,
-        "recovered": 30,
+        "recovered": 52,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 66,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 22
         }
       },
       {
         "district": "Jaisalmer",
-        "active": 28,
+        "active": 11,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 17
         }
       },
       {
@@ -3561,14 +3561,14 @@
       },
       {
         "district": "Jodhpur",
-        "active": 251,
+        "active": 236,
         "confirmed": 279,
         "deceased": 2,
-        "recovered": 26,
+        "recovered": 41,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       {
@@ -3597,12 +3597,12 @@
       },
       {
         "district": "Nagaur",
-        "active": 70,
-        "confirmed": 71,
+        "active": 74,
+        "confirmed": 75,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -3633,12 +3633,12 @@
       },
       {
         "district": "Sawai Madhopur",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3657,12 +3657,12 @@
       },
       {
         "district": "Tonk",
-        "active": 88,
-        "confirmed": 104,
+        "active": 89,
+        "confirmed": 105,
         "deceased": 1,
         "recovered": 15,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -3699,18 +3699,6 @@
         "recovered": 24,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "active": 69,
-        "confirmed": 69,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 69,
           "deceased": 0,
           "recovered": 0
         }

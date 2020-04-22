@@ -22086,19 +22086,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "22/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "4717",
-			"source1": "",
+			"source1": "https://t.me/indiacovid/2926",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Rajasthan",
+			"statecode": "RJ"
 		},
 		{
 			"agebracket": "",
