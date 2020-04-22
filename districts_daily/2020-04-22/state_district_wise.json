@@ -1431,12 +1431,12 @@
     "districtData": {
       "Anantnag": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1455,24 +1455,24 @@
       },
       "Bandipore": {
         "notes": "",
-        "active": 91,
-        "confirmed": 91,
+        "active": 97,
+        "confirmed": 97,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Baramula": {
         "notes": "",
-        "active": 45,
-        "confirmed": 45,
+        "active": 47,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1539,12 +1539,12 @@
       },
       "Kupwara": {
         "notes": "",
-        "active": 33,
-        "confirmed": 33,
+        "active": 37,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1587,12 +1587,12 @@
       },
       "Shupiyan": {
         "notes": "",
-        "active": 32,
-        "confirmed": 32,
+        "active": 46,
+        "confirmed": 46,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -1617,18 +1617,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 27,
-        "confirmed": 27,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 27,
           "deceased": 0,
           "recovered": 0
         }
@@ -3231,24 +3219,24 @@
       },
       "Jalandhar": {
         "notes": "",
-        "active": 48,
-        "confirmed": 48,
+        "active": 53,
+        "confirmed": 53,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kapurthala": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3369,18 +3357,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 6,
-        "confirmed": 6,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }

@@ -750,14 +750,14 @@
 	],
 	"statewise": [
 		{
-			"active": "15781",
+			"active": "15766",
 			"confirmed": "20534",
 			"deaths": "653",
 			"deltaconfirmed": "454",
 			"deltadeaths": "8",
-			"deltarecovered": "124",
-			"lastupdatedtime": "22/04/2020 18:17:39",
-			"recovered": "4100",
+			"deltarecovered": "139",
+			"lastupdatedtime": "22/04/2020 18:47:37",
+			"recovered": "4115",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -906,14 +906,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "321",
+			"active": "310",
 			"confirmed": "407",
 			"deaths": "5",
 			"deltaconfirmed": "27",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "11",
 			"lastupdatedtime": "22/04/2020 16:57:38",
-			"recovered": "81",
+			"recovered": "92",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK",
 			"statenotes": ""
@@ -945,14 +945,14 @@
 			"statenotes": "1 death in Ambala unaccounted."
 		},
 		{
-			"active": "192",
+			"active": "188",
 			"confirmed": "257",
 			"deaths": "16",
 			"deltaconfirmed": "6",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "21/04/2020 18:47:38",
-			"recovered": "49",
+			"deltarecovered": "4",
+			"lastupdatedtime": "22/04/2020 18:47:38",
+			"recovered": "53",
 			"state": "Punjab",
 			"statecode": "PB",
 			"statenotes": ""
