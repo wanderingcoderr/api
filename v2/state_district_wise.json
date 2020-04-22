@@ -2674,13 +2674,13 @@
       },
       {
         "district": "Mumbai",
-        "active": 2455,
-        "confirmed": 2455,
-        "deceased": 0,
+        "active": 3300,
+        "confirmed": 3451,
+        "deceased": 151,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 996,
+          "deceased": 151,
           "recovered": 0
         }
       },
@@ -2890,12 +2890,12 @@
       },
       {
         "district": "Unknown",
-        "active": 1139,
-        "confirmed": 1139,
+        "active": 143,
+        "confirmed": 143,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -996,
           "deceased": 0,
           "recovered": 0
         }
