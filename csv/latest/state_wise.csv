@@ -1,15 +1,15 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,20495,4073,653,15769,22/04/2020 18:07:36,TT,415,97,8,
+Total,20528,4100,653,15775,22/04/2020 18:17:39,TT,448,124,8,
 Maharashtra,5218,722,251,4245,21/04/2020 20:17:38,MH,0,0,0,
 Delhi,2156,611,47,1498,21/04/2020 20:17:38,DL,0,0,0,
 Gujarat,2272,144,95,2033,22/04/2020 11:32:37,GJ,94,5,5,
 Rajasthan,1868,328,27,1513,22/04/2020 15:27:38,RJ,133,54,1,
-Tamil Nadu,1596,635,18,943,21/04/2020 18:47:38,TN,0,0,0,
+Tamil Nadu,1629,662,18,949,22/04/2020 18:17:40,TN,33,27,0,
 Madhya Pradesh,1587,152,80,1355,21/04/2020 17:57:38,MP,35,4,0,
 Uttar Pradesh,1337,162,21,1154,21/04/2020 22:22:38,UP,0,0,0,
 Telangana,928,194,23,711,21/04/2020 20:17:41,TG,0,0,0,
 Andhra Pradesh,813,120,24,669,22/04/2020 12:22:37,AP,56,24,2,
-Karnataka,427,129,17,281,22/04/2020 15:57:37,KA,9,0,0,
+Karnataka,427,129,17,281,22/04/2020 18:17:41,KA,9,0,0,
 Kerala,437,308,2,127,22/04/2020 18:07:37,KL,11,1,0,
 Jammu and Kashmir,407,81,5,321,22/04/2020 16:57:38,JK,27,0,0,
 West Bengal,423,73,15,335,22/04/2020 09:42:38,WB,31,0,0,WB numbers are currently updated according to https://www.mohfw.gov.in

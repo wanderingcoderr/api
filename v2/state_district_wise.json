@@ -2079,12 +2079,12 @@
       {
         "district": "Mysuru",
         "notes": "",
-        "active": 86,
-        "confirmed": 86,
+        "active": 88,
+        "confirmed": 88,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -2137,19 +2137,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4510,6 +4497,19 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 33,
+        "confirmed": 33,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 33,
           "deceased": 0,
           "recovered": 0
         }
