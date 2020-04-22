@@ -7057,22 +7057,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "40263",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "1449",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/ANINewsUP/status/1252986461911052289/photo/1",
 			"source2": "",
 			"state": "Uttar Pradesh",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "42192",
+			"unconfirmed": "480",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "554",
@@ -7345,22 +7345,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "3664",
 			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
+			"numicubeds": "498",
+			"numisolationbeds": "856",
+			"numventilators": "189",
+			"positive": "46",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "http://health.uk.gov.in/files/2020.04.22_Health_Bulletin_Summary.pdf",
 			"source2": "",
 			"state": "Uttarakhand",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "4275",
 			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "568",
