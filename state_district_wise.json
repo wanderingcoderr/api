@@ -1229,14 +1229,14 @@
         }
       },
       "Italians*": {
-        "active": 14,
+        "active": 0,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 14
         }
       }
     },
