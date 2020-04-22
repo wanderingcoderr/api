@@ -2539,22 +2539,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "13397",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "260",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Morning%20bulletin%2022-04-2020.pdf",
 			"source2": "",
 			"state": "Haryana",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"totaltested": "15557",
+			"unconfirmed": "1914",
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "870",
@@ -4681,22 +4681,22 @@
 			"updatedon": "21/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "77638",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "5229",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/Maha_MEDD/status/1252842842268950530",
 			"source2": "",
 			"state": "Maharashtra",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "82304",
 			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "299",
