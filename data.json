@@ -929,7 +929,7 @@
 			"recovered": "73",
 			"state": "West Bengal",
 			"statecode": "WB",
-			"statenotes": "WB numbers are currently updated according to https://www.mohfw.gov.in"
+			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
 			"active": "103",
@@ -942,7 +942,7 @@
 			"recovered": "158",
 			"state": "Haryana",
 			"statecode": "HR",
-			"statenotes": "1 death in Ambala unaccounted."
+			"statenotes": "One death in Ambala included."
 		},
 		{
 			"active": "209",

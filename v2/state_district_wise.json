@@ -5808,8 +5808,8 @@
       {
         "district": "Medinipur East",
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5847,12 +5847,12 @@
       {
         "district": "North 24 Parganas",
         "notes": "",
-        "active": 46,
-        "confirmed": 46,
+        "active": 47,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 42,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -5865,7 +5865,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -5878,7 +5878,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -5886,8 +5886,8 @@
       {
         "district": "South 24 Parganas",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 12,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -5899,12 +5899,12 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 66,
-        "confirmed": 66,
+        "active": 35,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": -299,
+          "confirmed": -330,
           "deceased": 0,
           "recovered": 0
         }
