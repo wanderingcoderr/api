@@ -750,14 +750,14 @@
 	],
 	"statewise": [
 		{
-			"active": "15770",
-			"confirmed": "20543",
+			"active": "15769",
+			"confirmed": "20544",
 			"deaths": "653",
 			"deltaconfirmed": "463",
 			"deltadeaths": "8",
-			"deltarecovered": "144",
-			"lastupdatedtime": "22/04/2020 19:07:37",
-			"recovered": "4120",
+			"deltarecovered": "146",
+			"lastupdatedtime": "22/04/2020 19:17:37",
+			"recovered": "4122",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -880,14 +880,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "281",
+			"active": "279",
 			"confirmed": "427",
 			"deaths": "17",
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "22/04/2020 18:17:41",
-			"recovered": "129",
+			"deltarecovered": "2",
+			"lastupdatedtime": "22/04/2020 19:17:37",
+			"recovered": "131",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": ""
@@ -1075,8 +1075,8 @@
 			"statenotes": ""
 		},
 		{
-			"active": "6",
-			"confirmed": "17",
+			"active": "7",
+			"confirmed": "18",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
