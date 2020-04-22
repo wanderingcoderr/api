@@ -37,6 +37,24 @@
 			"updatedon": "19/04/2020"
 		},
 		{
+			"negative": "1807",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "50",
+			"numventilators": "",
+			"positive": "16",
+			"positiveratebytests": "",
+			"source": "https://twitter.com/BollyNumbers/status/1252639188316327936?s=09",
+			"source2": "",
+			"state": "Andaman and Nicobar Islands",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2020",
+			"unconfirmed": "197",
+			"updatedon": "20/04/2020"
+		},
+		{
 			"negative": "1175",
 			"numcallsstatehelpline": "",
 			"numicubeds": "2680",
