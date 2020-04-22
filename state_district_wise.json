@@ -1490,6 +1490,17 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "active": 27,
+        "confirmed": 27,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 27,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "JK"
@@ -2111,25 +2122,25 @@
         }
       },
       "Hoshangabad": {
-        "active": 25,
+        "active": 24,
         "confirmed": 25,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Indore": {
-        "active": 800,
+        "active": 797,
         "confirmed": 923,
         "deceased": 52,
-        "recovered": 71,
+        "recovered": 74,
         "delta": {
           "confirmed": 8,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Jabalpur": {
