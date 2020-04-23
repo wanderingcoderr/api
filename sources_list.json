@@ -13,7 +13,7 @@
 		{
 			"region": "Andhra Pradesh",
 			"source1": "https://twitter.com/ArogyaAndhra",
-			"source2": "",
+			"source2": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
 			"source3": "",
 			"source4": "",
 			"source5": "",
@@ -23,7 +23,7 @@
 		{
 			"region": "Arunachal Pradesh",
 			"source1": "https://twitter.com/PemaKhanduBJP",
-			"source2": "",
+			"source2": "http://covid19.itanagarsmartcity.in/covidstatus.php",
 			"source3": "",
 			"source4": "",
 			"source5": "",
@@ -53,7 +53,7 @@
 		{
 			"region": "Chandigarh",
 			"source1": "http://chdcovid19.in/",
-			"source2": "",
+			"source2": "https://twitter.com/PIBChandigarh",
 			"source3": "",
 			"source4": "",
 			"source5": "",
@@ -153,8 +153,8 @@
 		{
 			"region": "Jharkhand",
 			"source1": "https://twitter.com/BannaGupta76/",
-			"source2": "",
-			"source3": "",
+			"source2": "https://mobile.twitter.com/FobGumla",
+			"source3": "https://mobile.twitter.com/RanchiPIB",
 			"source4": "",
 			"source5": "",
 			"source6": "",
