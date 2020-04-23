@@ -2899,6 +2899,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "3714",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "40",
+			"source": "",
+			"source2": "",
+			"state": "Himachal Pradesh",
+			"testpositivityrate": "1.00%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3994",
+			"unconfirmed": "",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "1429",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
