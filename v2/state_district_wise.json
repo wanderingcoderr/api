@@ -511,8 +511,8 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 27,
-        "confirmed": 29,
+        "active": 29,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -595,19 +595,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
