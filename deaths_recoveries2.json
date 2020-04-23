@@ -29615,18 +29615,18 @@
 			"statecode": "MP"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "1",
 			"city": "",
 			"date": "23/04/2020",
 			"district": "Kapurthala",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "",
+			"notes": "6 month old girl from Phagwara. Died at PGIMER Chandigarh. Tested positive on 21st Apr. Was in a hospital for over a month earlier in Ludhiana for a congenital heart problem. ",
 			"patientnumbercouldbemappedlater": "",
 			"patientstatus": "Deceased",
 			"slno": "5160",
 			"source1": "https://twitter.com/kbssidhu1961/status/1253299062620581893?s=20",
-			"source2": "",
+			"source2": "https://www.tribuneindia.com/news/chandigarh/6-month-old-phagwara-girl-detected-with-coronavirus-dies-at-pgi-75096",
 			"source3": "",
 			"state": "Punjab",
 			"statecode": "PB"
