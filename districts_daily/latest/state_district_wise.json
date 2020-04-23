@@ -2404,12 +2404,12 @@
       },
       "Indore": {
         "notes": "",
-        "active": 797,
-        "confirmed": 923,
+        "active": 819,
+        "confirmed": 945,
         "deceased": 52,
         "recovered": 74,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 0
         }
@@ -2602,6 +2602,18 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 78,
+        "confirmed": 78,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 78,
           "deceased": 0,
           "recovered": 0
         }

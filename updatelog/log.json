@@ -1,9 +1,5 @@
 [
   {
-    "update": "22 recoveries and 3 deaths in Uttar Pradesh\n",
-    "timestamp": 1587488171
-  },
-  {
     "update": "1 death in Rajasthan\n",
     "timestamp": 1587488498
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Odisha\n",
     "timestamp": 1587643879
+  },
+  {
+    "update": "100 new cases, 51 recoveries and 3 deaths in Madhya Pradesh\n",
+    "timestamp": 1587644476
   }
 ]
