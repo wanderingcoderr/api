@@ -2647,6 +2647,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "15452",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "270",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Bulletin%2023-04-2020.pdf",
+			"source2": "",
+			"state": "Haryana",
+			"testpositivityrate": "1.54%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "17582",
+			"unconfirmed": "1860",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "870",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",

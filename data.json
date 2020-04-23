@@ -759,14 +759,14 @@
 	],
 	"statewise": [
 		{
-			"active": "16495",
-			"confirmed": "21764",
+			"active": "16488",
+			"confirmed": "21774",
 			"deaths": "691",
-			"deltaconfirmed": "392",
+			"deltaconfirmed": "402",
 			"deltadeaths": "10",
-			"deltarecovered": "208",
-			"lastupdatedtime": "23/04/2020 18:32:37",
-			"recovered": "4578",
+			"deltarecovered": "225",
+			"lastupdatedtime": "23/04/2020 19:47:37",
+			"recovered": "4595",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -889,14 +889,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "287",
+			"active": "283",
 			"confirmed": "445",
 			"deaths": "17",
 			"deltaconfirmed": "18",
 			"deltadeaths": "0",
-			"deltarecovered": "10",
-			"lastupdatedtime": "23/04/2020 17:17:37",
-			"recovered": "141",
+			"deltarecovered": "14",
+			"lastupdatedtime": "23/04/2020 19:47:37",
+			"recovered": "145",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": ""
@@ -941,14 +941,14 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "103",
-			"confirmed": "264",
+			"active": "97",
+			"confirmed": "270",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "22/04/2020 19:07:38",
-			"recovered": "158",
+			"deltarecovered": "12",
+			"lastupdatedtime": "23/04/2020 19:47:38",
+			"recovered": "170",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": "One death in Ambala included."
@@ -967,13 +967,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "104",
-			"confirmed": "148",
+			"active": "107",
+			"confirmed": "151",
 			"deaths": "2",
-			"deltaconfirmed": "5",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/04/2020 14:57:38",
+			"lastupdatedtime": "23/04/2020 19:47:39",
 			"recovered": "42",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -994,13 +994,13 @@
 		},
 		{
 			"active": "23",
-			"confirmed": "46",
+			"confirmed": "47",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "22/04/2020 20:07:38",
-			"recovered": "23",
+			"recovered": "24",
 			"state": "Uttarakhand",
 			"statecode": "UT",
 			"statenotes": ""
@@ -1747,7 +1747,7 @@
 			"totalindividualstested": "485172",
 			"totalpositivecases": "21797",
 			"totalsamplestested": "500542",
-			"updatetimestamp": "23/04/2020 21:00:00"
+			"updatetimestamp": "23/04/2020 09:00:00"
 		}
 	]
 }
