@@ -828,13 +828,13 @@
     "districtData": {
       "Ahmadabad": {
         "notes": "",
-        "active": 1477,
+        "active": 1470,
         "confirmed": 1652,
-        "deceased": 62,
+        "deceased": 69,
         "recovered": 113,
         "delta": {
           "confirmed": 151,
-          "deceased": 0,
+          "deceased": 7,
           "recovered": 27
         }
       },
@@ -1116,13 +1116,13 @@
       },
       "Surat": {
         "notes": "",
-        "active": 431,
+        "active": 430,
         "confirmed": 456,
-        "deceased": 12,
+        "deceased": 13,
         "recovered": 13,
         "delta": {
           "confirmed": 41,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -1152,13 +1152,13 @@
       },
       "Vadodara": {
         "notes": "",
-        "active": 152,
+        "active": 151,
         "confirmed": 215,
-        "deceased": 10,
+        "deceased": 11,
         "recovered": 53,
         "delta": {
           "confirmed": 7,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 45
         }
       },
@@ -3500,12 +3500,12 @@
     "districtData": {
       "Ajmer": {
         "notes": "",
-        "active": 99,
-        "confirmed": 104,
+        "active": 101,
+        "confirmed": 106,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3536,24 +3536,24 @@
       },
       "Barmer": {
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bharatpur": {
         "notes": "",
-        "active": 101,
-        "confirmed": 103,
+        "active": 104,
+        "confirmed": 106,
         "deceased": 1,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3836,12 +3836,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 29,
-        "confirmed": 29,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 29,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }

@@ -1,0 +1,26 @@
+{
+  "raw_data": [
+    {
+      "agebracket": "",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "E0",
+      "currentstatus": "Hospitalized",
+      "dateannounced": "02/04/2020",
+      "detectedcity": "",
+      "detecteddistrict": "Lohit",
+      "detectedstate": "Arunachal Pradesh",
+      "estimatedonsetdate": "",
+      "gender": "",
+      "nationality": "India",
+      "notes": "Travelled to Delhi",
+      "patientnumber": "2094",
+      "source1": "https://twitter.com/PemaKhanduBJP/status/1245584842604965889",
+      "source2": "",
+      "source3": "",
+      "statecode": "AR",
+      "statepatientnumber": "",
+      "statuschangedate": "02/04/2020",
+      "typeoftransmission": "Local"
+    }
+  ]
+}

@@ -8027,6 +8027,24 @@
 			"totaltested": "7037",
 			"unconfirmed": "",
 			"updatedon": "22/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "40605",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "456",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_23.04_.2020_.pdf",
+			"source2": "",
+			"state": "West Bengal",
+			"testpositivityrate": "5.71%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "7990",
+			"unconfirmed": "",
+			"updatedon": "23/04/2020"
 		}
 	]
 }
