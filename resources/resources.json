@@ -1974,7 +1974,7 @@
 		{
 			"category": "Government Helpline",
 			"city": "Gulbarga",
-			"contact": "http://www.kalaburagi.nic.in",
+			"contact": "https://kalaburagi.nic.in/covid-19kan/",
 			"descriptionandorserviceprovided": "District Corona Helpline for Gulbarga",
 			"nameoftheorganisation": "District Corona Helpline",
 			"phonenumber": "8472278698",
@@ -30662,6 +30662,15 @@
 			"nameoftheorganisation": "COVID-19 India Support Handbook",
 			"phonenumber": "",
 			"state": "PAN India"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
+			"city": "Tezpur",
+			"contact": "http://tmcassam.org/about_hospital.php",
+			"descriptionandorserviceprovided": "Hospital and CoVID-19 testing available",
+			"nameoftheorganisation": "TEZPUR MEDICAL COLLEGE & HOSPITAL",
+			"phonenumber": "18003456767",
+			"state": "Assam"
 		},
 		{
 			"category": "CoVID-19 Testing Lab",
