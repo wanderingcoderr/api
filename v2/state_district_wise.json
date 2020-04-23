@@ -3427,14 +3427,14 @@
       {
         "district": "Khordha",
         "notes": "",
-        "active": 25,
+        "active": 24,
         "confirmed": 46,
         "deceased": 1,
-        "recovered": 20,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
