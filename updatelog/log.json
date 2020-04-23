@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 new cases in Jammu and Kashmir\n",
-    "timestamp": 1587474661
-  },
-  {
     "update": "76 new cases, 178 recoveries and 1 death in Tamil Nadu\n1 new case and 11 recoveries in Punjab\n",
     "timestamp": 1587475260
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Assam\n",
     "timestamp": 1587621102
+  },
+  {
+    "update": "16 new cases in Karnataka\n",
+    "timestamp": 1587627088
   }
 ]

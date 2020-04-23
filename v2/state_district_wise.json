@@ -2205,6 +2205,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 16,
+        "confirmed": 16,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 16,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
