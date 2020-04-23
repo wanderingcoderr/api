@@ -2359,6 +2359,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "39760",
+			"numcallsstatehelpline": "53060",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "2624",
+			"source": "",
+			"source2": "",
+			"state": "Gujarat",
+			"testpositivityrate": "6.19%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "34409",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "42384",
+			"unconfirmed": "0",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "938",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
