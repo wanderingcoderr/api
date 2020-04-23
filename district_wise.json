@@ -14365,14 +14365,14 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "0",
+			"active": "3",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "3",
 			"confirmedyesterday": "0",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
