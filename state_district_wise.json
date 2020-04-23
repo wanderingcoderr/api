@@ -51,7 +51,7 @@
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 0
         }
       },
       "Chittoor": {
@@ -86,8 +86,8 @@
         "recovered": 23,
         "delta": {
           "confirmed": 18,
-          "deceased": 2,
-          "recovered": 8
+          "deceased": 0,
+          "recovered": 0
         }
       },
       "Krishna": {
@@ -140,12 +140,12 @@
       },
       "Visakhapatnam": {
         "notes": "",
-        "active": 3,
-        "confirmed": 21,
+        "active": 4,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -171,19 +171,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 9
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       }
     },

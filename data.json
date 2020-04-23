@@ -759,14 +759,14 @@
 	],
 	"statewise": [
 		{
-			"active": "16488",
+			"active": "16464",
 			"confirmed": "21552",
-			"deaths": "682",
+			"deaths": "685",
 			"deltaconfirmed": "180",
-			"deltadeaths": "1",
-			"deltarecovered": "12",
-			"lastupdatedtime": "23/04/2020 14:32:37",
-			"recovered": "4382",
+			"deltadeaths": "4",
+			"deltarecovered": "33",
+			"lastupdatedtime": "23/04/2020 14:47:36",
+			"recovered": "4403",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -876,14 +876,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "749",
+			"active": "725",
 			"confirmed": "893",
-			"deaths": "24",
+			"deaths": "27",
 			"deltaconfirmed": "80",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "23/04/2020 14:32:38",
-			"recovered": "120",
+			"deltadeaths": "3",
+			"deltarecovered": "21",
+			"lastupdatedtime": "23/04/2020 14:47:37",
+			"recovered": "141",
 			"state": "Andhra Pradesh",
 			"statecode": "AP",
 			"statenotes": ""
