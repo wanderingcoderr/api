@@ -8703,14 +8703,14 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "8",
+			"active": "10",
 			"activeyesterday": "8",
-			"confirmed": "8",
+			"confirmed": "10",
 			"confirmedyesterday": "8",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Baleshwar",
