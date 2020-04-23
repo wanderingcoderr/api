@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,21567,4416,685,16466,23/04/2020 16:47:37,TT,195,46,4,
+Total,21569,4416,685,16468,23/04/2020 17:17:37,TT,197,46,4,
 Maharashtra,5649,789,269,4591,22/04/2020 20:17:37,MH,0,0,0,
 Delhi,2248,724,48,1476,22/04/2020 20:47:38,DL,0,0,0,
 Gujarat,2407,179,103,2125,22/04/2020 20:32:37,GJ,0,0,0,
@@ -9,7 +9,7 @@ Madhya Pradesh,1587,152,80,1355,21/04/2020 17:57:38,MP,0,0,0,
 Uttar Pradesh,1449,173,21,1255,22/04/2020 20:57:38,UP,0,0,0,
 Telangana,943,194,24,725,21/04/2020 20:17:41,TG,0,0,0,
 Andhra Pradesh,893,141,27,725,23/04/2020 14:47:37,AP,80,21,3,
-Karnataka,443,141,17,285,23/04/2020 16:47:38,KA,16,10,0,
+Karnataka,445,141,17,287,23/04/2020 17:17:37,KA,18,10,0,
 Kerala,437,308,2,127,22/04/2020 18:07:37,KL,0,0,0,
 Jammu and Kashmir,407,92,5,310,22/04/2020 16:57:38,JK,0,0,0,
 West Bengal,456,79,15,362,22/04/2020 09:42:38,WB,33,6,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
