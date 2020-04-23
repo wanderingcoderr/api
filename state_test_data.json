@@ -1837,6 +1837,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "24538",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "2375",
+			"source": "https://twitter.com/CMODelhi/status/1253345233498226689?s=19",
+			"source2": "",
+			"state": "Delhi",
+			"testpositivityrate": "7.77%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "30560",
+			"unconfirmed": "3068",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "197",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -2913,7 +2931,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "3994",
-			"unconfirmed": "",
+			"unconfirmed": "240",
 			"updatedon": "23/04/2020"
 		},
 		{
@@ -7631,6 +7649,24 @@
 			"totaltested": "4275",
 			"unconfirmed": "",
 			"updatedon": "22/04/2020"
+		},
+		{
+			"negative": "3879",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "47",
+			"source": "http://health.uk.gov.in/files/2020.04.23_Health_Bulletin.pdf",
+			"source2": "",
+			"state": "Uttarakhand",
+			"testpositivityrate": "1.05%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "4473",
+			"unconfirmed": "265",
+			"updatedon": "23/04/2020"
 		},
 		{
 			"negative": "568",
