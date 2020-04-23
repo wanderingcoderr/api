@@ -1683,6 +1683,26 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "462621",
 			"updatetimestamp": "21/04/2020 21:00:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "",
+			"updatetimestamp": "22/04/2020 21:00:00"
+		},
+		{
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "",
+			"testsconductedbyprivatelabs": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "500542",
+			"updatetimestamp": "23/04/2020 21:00:00"
 		}
 	]
 }

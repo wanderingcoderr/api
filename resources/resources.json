@@ -137,6 +137,15 @@
 		},
 		{
 			"category": "CoVID-19 Testing Lab",
+			"city": "Tezpur",
+			"contact": "http://tmcassam.org/about_hospital.php",
+			"descriptionandorserviceprovided": "Hospital and CoVID-19 testing available",
+			"nameoftheorganisation": "TEZPUR MEDICAL COLLEGE & HOSPITAL",
+			"phonenumber": "18003456767",
+			"state": "Assam"
+		},
+		{
+			"category": "CoVID-19 Testing Lab",
 			"city": "Darbhanga",
 			"contact": "https://dmch.in/",
 			"descriptionandorserviceprovided": "Government approved and supported testing lab by ICMR",
@@ -15508,6 +15517,33 @@
 			"state": "Odisha"
 		},
 		{
+			"category": "Mental well being and Emotional support",
+			"city": "PAN State",
+			"contact": "http://vaastav.org/",
+			"descriptionandorserviceprovided": "If you are feeling distressed and having anxiety and need to speak to someone, then please call the helpline.\n\nThis is Government of Maharashtra helpline called as \"1on1\" supported by BMC and MPower\r\n\r\nAlso if you are facing any fake legal cases(Gender biased laws) then you can approach below helplines,",
+			"nameoftheorganisation": "Vastav Foundation",
+			"phonenumber": "8882498498,\n1800120820050",
+			"state": "PAN India"
+		},
+		{
+			"category": "Mental well being and Emotional support",
+			"city": "PAN State",
+			"contact": "https://www.saveindianfamily.org/",
+			"descriptionandorserviceprovided": "If you are feeling distressed and having anxiety and need to speak to someone, then please call the helpline.\n\nThis is Government of Maharashtra helpline called as \"1on1\" supported by BMC and MPower\n\nAlso if you are facing any fake legal cases(Gender biased laws) then you can approach below helplines,",
+			"nameoftheorganisation": "Save Indian Family Foundation",
+			"phonenumber": "9278978978,\n1800120820050",
+			"state": "PAN India"
+		},
+		{
+			"category": "Other",
+			"city": "PAN State",
+			"contact": "http://covidindiasupport.com/",
+			"descriptionandorserviceprovided": "India's crowd-sourced library of regional resources, support groups and COVID-19 related data",
+			"nameoftheorganisation": "COVID-19 India Support Handbook",
+			"phonenumber": "",
+			"state": "PAN India"
+		},
+		{
 			"category": "CoVID-19 Testing Lab",
 			"city": "Puducherry",
 			"contact": "https://www.jipmer.edu.in/",
@@ -30635,42 +30671,6 @@
 			"nameoftheorganisation": "Way 2 Wellness",
 			"phonenumber": "8800293073,\n8800293074",
 			"state": "Uttar Pradesh"
-		},
-		{
-			"category": "Mental well being and Emotional support",
-			"city": "PAN State",
-			"contact": "http://vaastav.org/",
-			"descriptionandorserviceprovided": "If you are feeling distressed and having anxiety and need to speak to someone, then please call the helpline.\n\nThis is Government of Maharashtra helpline called as \"1on1\" supported by BMC and MPower\r\n\r\nAlso if you are facing any fake legal cases(Gender biased laws) then you can approach below helplines,",
-			"nameoftheorganisation": "Vastav Foundation",
-			"phonenumber": "8882498498,\n1800120820050",
-			"state": "PAN India"
-		},
-		{
-			"category": "Mental well being and Emotional support",
-			"city": "PAN State",
-			"contact": "https://www.saveindianfamily.org/",
-			"descriptionandorserviceprovided": "If you are feeling distressed and having anxiety and need to speak to someone, then please call the helpline.\n\nThis is Government of Maharashtra helpline called as \"1on1\" supported by BMC and MPower\n\nAlso if you are facing any fake legal cases(Gender biased laws) then you can approach below helplines,",
-			"nameoftheorganisation": "Save Indian Family Foundation",
-			"phonenumber": "9278978978,\n1800120820050",
-			"state": "PAN India"
-		},
-		{
-			"category": "Other",
-			"city": "PAN State",
-			"contact": "http://covidindiasupport.com/",
-			"descriptionandorserviceprovided": "India's crowd-sourced library of regional resources, support groups and COVID-19 related data",
-			"nameoftheorganisation": "COVID-19 India Support Handbook",
-			"phonenumber": "",
-			"state": "PAN India"
-		},
-		{
-			"category": "CoVID-19 Testing Lab",
-			"city": "Tezpur",
-			"contact": "http://tmcassam.org/about_hospital.php",
-			"descriptionandorserviceprovided": "Hospital and CoVID-19 testing available",
-			"nameoftheorganisation": "TEZPUR MEDICAL COLLEGE & HOSPITAL",
-			"phonenumber": "18003456767",
-			"state": "Assam"
 		},
 		{
 			"category": "CoVID-19 Testing Lab",
