@@ -759,14 +759,14 @@
 	],
 	"statewise": [
 		{
-			"active": "17300",
+			"active": "17298",
 			"confirmed": "23031",
 			"deaths": "721",
 			"deltaconfirmed": "1659",
 			"deltadeaths": "40",
-			"deltarecovered": "640",
+			"deltarecovered": "642",
 			"lastupdatedtime": "23/04/2020 22:42:37",
-			"recovered": "5010",
+			"recovered": "5012",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -967,14 +967,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "118",
+			"active": "116",
 			"confirmed": "162",
 			"deaths": "2",
 			"deltaconfirmed": "19",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"lastupdatedtime": "23/04/2020 22:42:40",
-			"recovered": "42",
+			"recovered": "44",
 			"state": "Bihar",
 			"statecode": "BR",
 			"statenotes": ""
