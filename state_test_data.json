@@ -6463,21 +6463,21 @@
 			"updatedon": "22/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "63485",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "1937",
+			"source": "https://twitter.com/BollyNumbers/status/1253249026625069056?s=20",
 			"source2": "",
 			"state": "Rajasthan",
-			"testpositivityrate": "0.00%",
+			"testpositivityrate": "2.78%",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "69764",
-			"unconfirmed": "",
+			"unconfirmed": "4342",
 			"updatedon": "23/04/2020"
 		},
 		{
