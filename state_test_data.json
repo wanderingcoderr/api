@@ -6787,6 +6787,24 @@
 			"updatedon": "21/04/2020"
 		},
 		{
+			"negative": "3123",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "2",
+			"positiveratebytests": "",
+			"source": "https://t.me/indiacovid/2983?single",
+			"source2": "",
+			"state": "Tripura",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "3215",
+			"unconfirmed": "",
+			"updatedon": "22/04/2020"
+		},
+		{
 			"negative": "4796",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
