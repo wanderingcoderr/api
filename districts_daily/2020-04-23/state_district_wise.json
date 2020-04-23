@@ -3113,12 +3113,12 @@
       },
       "Jajapur": {
         "notes": "",
-        "active": 7,
-        "confirmed": 8,
+        "active": 11,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }

@@ -307,6 +307,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Andhra Pradesh",
+			"testpositivityrate": "0.00%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "48032",
+			"unconfirmed": "",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "185",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
