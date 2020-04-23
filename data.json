@@ -748,25 +748,25 @@
 			"totalrecovered": "3976"
 		},
 		{
-			"dailyconfirmed": "1290",
+			"dailyconfirmed": "1323",
 			"dailydeceased": "36",
-			"dailyrecovered": "394",
+			"dailyrecovered": "400",
 			"date": "22 April ",
-			"totalconfirmed": "21370",
+			"totalconfirmed": "21403",
 			"totaldeceased": "681",
-			"totalrecovered": "4370"
+			"totalrecovered": "4376"
 		}
 	],
 	"statewise": [
 		{
-			"active": "16319",
-			"confirmed": "21370",
+			"active": "16346",
+			"confirmed": "21403",
 			"deaths": "681",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "22/04/2020 23:07:37",
-			"recovered": "4370",
+			"recovered": "4376",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -928,14 +928,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "335",
-			"confirmed": "423",
+			"active": "362",
+			"confirmed": "456",
 			"deaths": "15",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "22/04/2020 09:42:38",
-			"recovered": "73",
+			"recovered": "79",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"

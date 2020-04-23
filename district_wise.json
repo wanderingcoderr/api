@@ -14764,14 +14764,14 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "35",
+			"active": "68",
 			"activeyesterday": "35",
-			"confirmed": "35",
+			"confirmed": "68",
 			"confirmedyesterday": "35",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "33",
+			"deltaconfirmed": "33",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",

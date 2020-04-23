@@ -5426,12 +5426,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 35,
-        "confirmed": 35,
+        "active": 68,
+        "confirmed": 68,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 33,
           "deceased": 0,
           "recovered": 0
         }
