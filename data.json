@@ -748,23 +748,23 @@
 			"totalrecovered": "3976"
 		},
 		{
-			"dailyconfirmed": "1323",
+			"dailyconfirmed": "1290",
 			"dailydeceased": "36",
-			"dailyrecovered": "400",
+			"dailyrecovered": "394",
 			"date": "22 April ",
-			"totalconfirmed": "21403",
+			"totalconfirmed": "21370",
 			"totaldeceased": "681",
-			"totalrecovered": "4376"
+			"totalrecovered": "4370"
 		}
 	],
 	"statewise": [
 		{
-			"active": "16346",
-			"confirmed": "21403",
+			"active": "16393",
+			"confirmed": "21450",
 			"deaths": "681",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "80",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "6",
 			"lastupdatedtime": "22/04/2020 23:07:37",
 			"recovered": "4376",
 			"state": "Total",
@@ -811,10 +811,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1517",
-			"confirmed": "1888",
+			"active": "1564",
+			"confirmed": "1935",
 			"deaths": "27",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "47",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "22/04/2020 22:27:37",
@@ -931,9 +931,9 @@
 			"active": "362",
 			"confirmed": "456",
 			"deaths": "15",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "33",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "6",
 			"lastupdatedtime": "22/04/2020 09:42:38",
 			"recovered": "79",
 			"state": "West Bengal",
