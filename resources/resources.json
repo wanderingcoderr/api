@@ -7894,15 +7894,6 @@
 			"state": "Gujarat"
 		},
 		{
-			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
-			"city": "Ahmednagar",
-			"contact": "https://www.snehalaya.org",
-			"descriptionandorserviceprovided": "Drive to provide 'Midday meal to families living in slums' around the area where they work. People can contributefood grains, vegetables or other fresh food items to the slum community directly or through them. Snehalaya plans to take this drive to 17 official slums in Ahmednagar.",
-			"nameoftheorganisation": "Snehalaya",
-			"phonenumber": "9011020173",
-			"state": "Gujarat"
-		},
-		{
 			"category": "CoVID-19 Testing Lab",
 			"city": "Bhavnagar",
 			"contact": "http://gmcbhavnagar.edu.in/",
@@ -19981,6 +19972,15 @@
 			"state": "Madhya Pradesh"
 		},
 		{
+			"category": "Delivery [Vegetables, Fruits, Groceries, Medicines, etc.]",
+			"city": "Ahmednagar",
+			"contact": "https://www.snehalaya.org",
+			"descriptionandorserviceprovided": "Drive to provide 'Midday meal to families living in slums' around the area where they work. People can contributefood grains, vegetables or other fresh food items to the slum community directly or through them. Snehalaya plans to take this drive to 17 official slums in Ahmednagar.",
+			"nameoftheorganisation": "Snehalaya",
+			"phonenumber": "9011020173",
+			"state": "Maharashtra"
+		},
+		{
 			"category": "Free Food",
 			"city": "Aurangabad",
 			"contact": "http://www.miwf.in/feed-the-poor-in-covid-19-lockdown",
@@ -20873,7 +20873,7 @@
 		},
 		{
 			"category": "Accommodation and Shelter Homes",
-			"city": "Kalyan",
+			"city": "Kalyan-Dombivli",
 			"contact": "",
 			"descriptionandorserviceprovided": "Address: Manpada Road, Opposite Gaondevi, Dehind Renuka Mata Temple, Dombivali North\nDistrict: Navi Mumbai\nFood is provided",
 			"nameoftheorganisation": "Kalyan Dombivali Beghar Nivara",
@@ -21575,7 +21575,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN States",
+			"city": "PAN State",
 			"contact": "https://twitter.com/rajeshtope11/status/1250964094573670401/photo/1",
 			"descriptionandorserviceprovided": "Coronavirus testing and consultation from doctors",
 			"nameoftheorganisation": "Government of Maharashtra",
@@ -21584,7 +21584,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN States",
+			"city": "PAN State",
 			"contact": "https://twitter.com/rajeshtope11/status/1250964094573670401/photo/1",
 			"descriptionandorserviceprovided": "Coronavirus and quarantine related queries",
 			"nameoftheorganisation": "Government of Maharashtra",
@@ -21593,7 +21593,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN States",
+			"city": "PAN State",
 			"contact": "https://twitter.com/rajeshtope11/status/1250964094573670401/photo/1",
 			"descriptionandorserviceprovided": "Issues related to food and ration",
 			"nameoftheorganisation": "Government of Maharashtra",
@@ -21602,7 +21602,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN States",
+			"city": "PAN State",
 			"contact": "https://twitter.com/rajeshtope11/status/1250964094573670401/photo/1",
 			"descriptionandorserviceprovided": "Being Stranded outside of a state/city/house",
 			"nameoftheorganisation": "Government of Maharashtra",
@@ -21611,7 +21611,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN States",
+			"city": "PAN State",
 			"contact": "https://twitter.com/rajeshtope11/status/1250964094573670401/photo/1",
 			"descriptionandorserviceprovided": "Toll free helpline",
 			"nameoftheorganisation": "Government of Maharashtra",
@@ -22727,7 +22727,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "National Helpline for Domestic Violence/Intimate Partner Violence",
 			"nameoftheorganisation": "Women Helpline (All India) - Women in Distress",
@@ -22736,7 +22736,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "National Helpline for Domestic Violence/Intimate Partner Violence",
 			"nameoftheorganisation": "Women Helpline Domestic Abuse",
@@ -22745,7 +22745,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "http://www.ncw.nic.in",
 			"descriptionandorserviceprovided": "National Helpline for Domestic Violence/Intimate Partner Violence [Whatsapp Only]",
 			"nameoftheorganisation": "National Commission for Women",
@@ -22754,7 +22754,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "Nirmal Niketan",
@@ -22763,7 +22763,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "https://www.action-india.org/",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "Action India",
@@ -22772,7 +22772,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "Sneha",
@@ -22781,7 +22781,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "SAARTHAK",
@@ -22790,7 +22790,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "Nari Shakti Samiti",
@@ -22799,7 +22799,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "Joint Women Program(Bangalore, Kolkata, Chennai)",
@@ -22808,7 +22808,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "Sakshi",
@@ -22817,7 +22817,7 @@
 		},
 		{
 			"category": "Government Helpline",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "http://www.aiwc.org.in/",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "All India women's conference",
@@ -22826,7 +22826,7 @@
 		},
 		{
 			"category": "Other",
-			"city": "PAN India",
+			"city": "PAN State",
 			"contact": "https://notearsfoundationtrust.org/",
 			"descriptionandorserviceprovided": "Important Helplines for Women facing Domestic Violence",
 			"nameoftheorganisation": "No Tears Foundation Trust & Nitiaalya",

@@ -759,14 +759,14 @@
 	],
 	"statewise": [
 		{
-			"active": "16464",
-			"confirmed": "21552",
+			"active": "16469",
+			"confirmed": "21559",
 			"deaths": "685",
-			"deltaconfirmed": "180",
+			"deltaconfirmed": "187",
 			"deltadeaths": "4",
-			"deltarecovered": "33",
-			"lastupdatedtime": "23/04/2020 14:47:36",
-			"recovered": "4403",
+			"deltarecovered": "35",
+			"lastupdatedtime": "23/04/2020 14:57:37",
+			"recovered": "4405",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -811,10 +811,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1564",
-			"confirmed": "1935",
+			"active": "1566",
+			"confirmed": "1937",
 			"deaths": "27",
-			"deltaconfirmed": "47",
+			"deltaconfirmed": "49",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "22/04/2020 22:27:37",
@@ -967,13 +967,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "99",
-			"confirmed": "143",
+			"active": "104",
+			"confirmed": "148",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "23/04/2020 10:32:38",
+			"lastupdatedtime": "23/04/2020 14:57:38",
 			"recovered": "42",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -1019,14 +1019,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "21",
+			"active": "19",
 			"confirmed": "39",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"lastupdatedtime": "18/04/2020 19:15:06",
-			"recovered": "16",
+			"recovered": "18",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "Death of Tibetan refugee included"
