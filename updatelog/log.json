@@ -1,9 +1,5 @@
 [
   {
-    "update": "31 new cases in West Bengal\n",
-    "timestamp": 1587528859
-  },
-  {
     "update": "2 new cases in Odisha\n",
     "timestamp": 1587531703
   },
@@ -198,5 +194,9 @@
   {
     "update": "10 new cases in Kerala\n",
     "timestamp": 1587646303
+  },
+  {
+    "update": "54 new cases, 90 recoveries and 2 deaths in Tamil Nadu\n8 recoveries in Kerala\n",
+    "timestamp": 1587646905
   }
 ]
