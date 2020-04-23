@@ -1,9 +1,5 @@
 [
   {
-    "update": "94 new cases in Gujarat\n",
-    "timestamp": 1587535309
-  },
-  {
     "update": "5 recoveries and 5 deaths in Gujarat\n",
     "timestamp": 1587535891
   },
@@ -198,5 +194,9 @@
   {
     "update": "8 deaths in Gujarat\n",
     "timestamp": 1587654689
+  },
+  {
+    "update": "778 new cases in Maharashtra\n217 new cases and 1 death in Gujarat\n7 new cases in Jammu and Kashmir\n1 recovery in Tripura\n",
+    "timestamp": 1587655298
   }
 ]
