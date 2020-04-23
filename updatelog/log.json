@@ -1,9 +1,5 @@
 [
   {
-    "update": "76 new cases and 44 recoveries in Rajasthan\n",
-    "timestamp": 1587489680
-  },
-  {
     "update": "31 new cases in West Bengal\n",
     "timestamp": 1587528859
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 new cases, 13 recoveries and 1 death in Punjab\n",
     "timestamp": 1587645705
+  },
+  {
+    "update": "10 new cases in Kerala\n",
+    "timestamp": 1587646303
   }
 ]

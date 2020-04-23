@@ -1491,12 +1491,12 @@
     "districtData": {
       "Anantnag": {
         "notes": "",
-        "active": 8,
-        "confirmed": 8,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1515,24 +1515,24 @@
       },
       "Bandipore": {
         "notes": "",
-        "active": 95,
-        "confirmed": 97,
+        "active": 97,
+        "confirmed": 99,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Baramula": {
         "notes": "",
-        "active": 47,
-        "confirmed": 47,
+        "active": 50,
+        "confirmed": 50,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1599,12 +1599,12 @@
       },
       "Kupwara": {
         "notes": "",
-        "active": 37,
-        "confirmed": 37,
+        "active": 41,
+        "confirmed": 41,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1633,6 +1633,18 @@
           "recovered": 0
         }
       },
+      "Ramban": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Samba": {
         "notes": "",
         "active": 4,
@@ -1647,12 +1659,12 @@
       },
       "Shupiyan": {
         "notes": "",
-        "active": 42,
-        "confirmed": 46,
+        "active": 51,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1677,18 +1689,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 20,
-        "confirmed": 20,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
@@ -2220,6 +2220,18 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 10,
+        "confirmed": 10,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
