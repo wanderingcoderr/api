@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 deaths in West Bengal\n",
-    "timestamp": 1587473483
-  },
-  {
     "update": "12 new cases in Jammu and Kashmir\n",
     "timestamp": 1587474661
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases, 4 recoveries and 1 death in Jharkhand\n",
     "timestamp": 1587619281
+  },
+  {
+    "update": "1 new case in Assam\n",
+    "timestamp": 1587621102
   }
 ]
