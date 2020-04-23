@@ -6463,6 +6463,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Rajasthan",
+			"testpositivityrate": "0.00%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "69764",
+			"unconfirmed": "",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "2789",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
