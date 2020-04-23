@@ -2040,17 +2040,17 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
+			"positive": "7",
 			"positiveratebytests": "",
-			"source": "",
+			"source": "https://twitter.com/DHS_Goa/status/1253201084950016000?s=19",
 			"source2": "",
 			"state": "Goa",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "1116",
 			"unconfirmed": "",
-			"updatedon": "23/04/2020"
+			"updatedon": "22/04/2020"
 		},
 		{
 			"negative": "3905",
@@ -3599,6 +3599,24 @@
 			"totaltested": "29512",
 			"unconfirmed": "",
 			"updatedon": "22/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"positiveratebytests": "",
+			"source": "",
+			"source2": "",
+			"state": "Karnataka",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "24/04/2020"
 		},
 		{
 			"negative": "7256",
