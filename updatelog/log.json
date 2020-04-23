@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 deaths in Maharashtra\n180 recoveries in Delhi\n13 deaths in Gujarat\n8 recoveries in Telangana\n",
-    "timestamp": 1587480674
-  },
-  {
     "update": "1 new case in Andaman and Nicobar Islands\n",
     "timestamp": 1587481290
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 new cases in Odisha\n",
     "timestamp": 1587638472
+  },
+  {
+    "update": "10 recoveries in Karnataka\n4 new cases in Andaman and Nicobar Islands\n",
+    "timestamp": 1587640895
   }
 ]

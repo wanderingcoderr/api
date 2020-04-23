@@ -759,14 +759,14 @@
 	],
 	"statewise": [
 		{
-			"active": "16472",
-			"confirmed": "21563",
+			"active": "16466",
+			"confirmed": "21567",
 			"deaths": "685",
-			"deltaconfirmed": "191",
+			"deltaconfirmed": "195",
 			"deltadeaths": "4",
-			"deltarecovered": "36",
-			"lastupdatedtime": "23/04/2020 15:07:37",
-			"recovered": "4406",
+			"deltarecovered": "46",
+			"lastupdatedtime": "23/04/2020 16:47:37",
+			"recovered": "4416",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -889,14 +889,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "295",
+			"active": "285",
 			"confirmed": "443",
 			"deaths": "17",
 			"deltaconfirmed": "16",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "23/04/2020 12:57:38",
-			"recovered": "131",
+			"deltarecovered": "10",
+			"lastupdatedtime": "23/04/2020 16:47:38",
+			"recovered": "141",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": ""
@@ -1084,13 +1084,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "7",
-			"confirmed": "18",
+			"active": "11",
+			"confirmed": "22",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "20/04/2020 18:07:34",
+			"lastupdatedtime": "23/04/2020 16:47:39",
 			"recovered": "11",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN",

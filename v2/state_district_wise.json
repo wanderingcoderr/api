@@ -19,12 +19,12 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 6,
-        "confirmed": 16,
+        "active": 10,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
