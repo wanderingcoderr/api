@@ -2524,19 +2524,6 @@
         }
       },
       {
-        "district": "Burhanpur",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
         "district": "Chhindwara",
         "notes": "",
         "active": 3,
@@ -2706,19 +2693,6 @@
         }
       },
       {
-        "district": "Rajgarh",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
         "district": "Ratlam",
         "notes": "",
         "active": 12,
@@ -2825,12 +2799,12 @@
       {
         "district": "Other Region*",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3770,6 +3744,19 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }

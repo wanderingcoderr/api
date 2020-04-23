@@ -4501,6 +4501,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "22861",
+			"numcallsstatehelpline": "836495",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1687",
+			"source": "https://twitter.com/JansamparkMP/status/1253294536438284288?s=09",
+			"source2": "",
+			"state": "Madhya Pradesh",
+			"testpositivityrate": "5.10%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "33074",
+			"unconfirmed": "8526",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "14837",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -6155,6 +6173,24 @@
 			"totaltested": "7887",
 			"unconfirmed": "530",
 			"updatedon": "22/04/2020"
+		},
+		{
+			"negative": "7433",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "283",
+			"source": "https://twitter.com/kbssidhu1961/status/1253299062620581893?s=19",
+			"source2": "",
+			"state": "Punjab",
+			"testpositivityrate": "3.23%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "8757",
+			"unconfirmed": "1041",
+			"updatedon": "23/04/2020"
 		},
 		{
 			"negative": "11439",
