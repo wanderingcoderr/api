@@ -511,12 +511,12 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 20,
-        "confirmed": 27,
+        "active": 24,
+        "confirmed": 31,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -563,12 +563,12 @@
       {
         "district": "Rohtas",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -608,19 +608,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 5,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }

@@ -86601,19 +86601,19 @@
     {
       "agebracket": "",
       "city": "",
-      "date": "",
-      "district": "",
+      "date": "23/04/2020",
+      "district": "Khordha",
       "gender": "",
       "nationality": "",
       "notes": "",
       "patientnumbercouldbemappedlater": "",
-      "patientstatus": "",
+      "patientstatus": "Recovered",
       "slno": "5095",
-      "source1": "",
+      "source1": "https://twitter.com/HFWOdisha/status/1253225886536491010",
       "source2": "",
       "source3": "",
-      "state": "",
-      "statecode": ""
+      "state": "Odisha",
+      "statecode": "OR"
     },
     {
       "agebracket": "",
