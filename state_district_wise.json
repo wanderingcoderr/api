@@ -3836,12 +3836,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 29,
+        "confirmed": 29,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 29,
           "deceased": 0,
           "recovered": 0
         }
@@ -4314,12 +4314,12 @@
       },
       "Hyderabad": {
         "notes": "",
-        "active": 513,
-        "confirmed": 513,
+        "active": 526,
+        "confirmed": 526,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -4338,12 +4338,12 @@
       },
       "Jangoan": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4362,12 +4362,12 @@
       },
       "Jogulamba Gadwal": {
         "notes": "",
-        "active": 28,
-        "confirmed": 28,
+        "active": 38,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -4410,12 +4410,12 @@
       },
       "Kumuram Bheem Asifabad": {
         "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4458,12 +4458,12 @@
       },
       "Medchal Malkajgiri": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4554,12 +4554,12 @@
       },
       "Ranga Reddy": {
         "notes": "",
-        "active": 25,
-        "confirmed": 25,
+        "active": 26,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4626,12 +4626,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 100,
-        "confirmed": 100,
+        "active": 73,
+        "confirmed": 73,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 27,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
