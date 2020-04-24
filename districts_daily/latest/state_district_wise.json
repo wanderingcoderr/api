@@ -2402,18 +2402,6 @@
           "recovered": 0
         }
       },
-      "Dindori": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
       "Gwalior": {
         "notes": "",
         "active": 2,
@@ -2584,12 +2572,12 @@
       },
       "Tikamgarh": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
