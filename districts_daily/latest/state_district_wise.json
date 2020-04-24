@@ -1209,6 +1209,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 169,
+        "confirmed": 191,
+        "deceased": 15,
+        "recovered": 7,
+        "delta": {
+          "confirmed": 191,
+          "deceased": 15,
+          "recovered": 7
+        }
       }
     },
     "statecode": "GJ"
@@ -4672,12 +4684,12 @@
     "districtData": {
       "Agra": {
         "notes": "",
-        "active": 311,
-        "confirmed": 336,
+        "active": 321,
+        "confirmed": 346,
         "deceased": 7,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -4900,26 +4912,26 @@
       },
       "Gautam Buddha Nagar": {
         "notes": "",
-        "active": 49,
-        "confirmed": 103,
+        "active": 56,
+        "confirmed": 112,
         "deceased": 0,
-        "recovered": 54,
+        "recovered": 56,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Ghaziabad": {
         "notes": "",
-        "active": 38,
+        "active": 36,
         "confirmed": 52,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Ghazipur": {
@@ -5008,12 +5020,12 @@
       },
       "Kanpur Nagar": {
         "notes": "",
-        "active": 86,
-        "confirmed": 96,
+        "active": 115,
+        "confirmed": 125,
         "deceased": 3,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 29,
           "deceased": 0,
           "recovered": 0
         }
@@ -5140,12 +5152,12 @@
       },
       "Moradabad": {
         "notes": "",
-        "active": 91,
-        "confirmed": 97,
+        "active": 98,
+        "confirmed": 104,
         "deceased": 5,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -5344,14 +5356,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 70,
-        "confirmed": 111,
+        "active": 19,
+        "confirmed": 56,
         "deceased": 1,
-        "recovered": 40,
+        "recovered": 36,
         "delta": {
-          "confirmed": 111,
+          "confirmed": 56,
           "deceased": 1,
-          "recovered": 20
+          "recovered": 16
         }
       }
     },

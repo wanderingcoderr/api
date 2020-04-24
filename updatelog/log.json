@@ -1,9 +1,5 @@
 [
   {
-    "update": "10 recoveries in Karnataka\n4 new cases in Andaman and Nicobar Islands\n",
-    "timestamp": 1587640895
-  },
-  {
     "update": "2 new cases in Karnataka\n",
     "timestamp": 1587642690
   },
@@ -198,5 +194,9 @@
   {
     "update": "17 new cases, 20 recoveries and 1 death in Uttar Pradesh\n",
     "timestamp": 1587739282
+  },
+  {
+    "update": "191 new cases, 7 recoveries and 15 deaths in Gujarat\n",
+    "timestamp": 1587739893
   }
 ]
