@@ -343,6 +343,24 @@
 			"updatedon": "23/04/2020"
 		},
 		{
+			"negative": "53383",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "955",
+			"source": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
+			"source2": "",
+			"state": "Andhra Pradesh",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "54338",
+			"unconfirmed": "",
+			"updatedon": "24/04/2020"
+		},
+		{
 			"negative": "185",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4969,6 +4987,24 @@
 			"updatedon": "23/04/2020"
 		},
 		{
+			"negative": "89561",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "6427",
+			"source": "https://twitter.com/Maha_MEDD/status/1253554384606298114?s=19",
+			"source2": "",
+			"state": "Maharashtra",
+			"testpositivityrate": "6.75%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "95210",
+			"unconfirmed": "",
+			"updatedon": "24/04/2020"
+		},
+		{
 			"negative": "299",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -6641,6 +6677,24 @@
 			"totaltested": "69764",
 			"unconfirmed": "4315",
 			"updatedon": "23/04/2020"
+		},
+		{
+			"negative": "68133",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "2008",
+			"source": "https://t.me/indiacovid/3073",
+			"source2": "",
+			"state": "Rajasthan",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "74484",
+			"unconfirmed": "4343",
+			"updatedon": "24/04/2020"
 		},
 		{
 			"negative": "2789",

@@ -14631,14 +14631,14 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "0",
+			"active": "8",
 			"activeyesterday": "0",
-			"confirmed": "0",
+			"confirmed": "8",
 			"confirmedyesterday": "0",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",
