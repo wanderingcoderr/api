@@ -5689,6 +5689,24 @@
 			"updatedon": "22/04/2020"
 		},
 		{
+			"negative": "543",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "0",
+			"source": "https://nagahealth.nagaland.gov.in/",
+			"source2": "",
+			"state": "Nagaland",
+			"testpositivityrate": "0.00%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "607",
+			"unconfirmed": "64",
+			"updatedon": "23/04/2020"
+		},
+		{
 			"negative": "1108",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -6137,6 +6155,24 @@
 			"totaltested": "1473",
 			"unconfirmed": "112",
 			"updatedon": "22/04/2020"
+		},
+		{
+			"negative": "1513",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "7",
+			"source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport",
+			"source2": "",
+			"state": "Puducherry",
+			"testpositivityrate": "0.45%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1548",
+			"unconfirmed": "28",
+			"updatedon": "23/04/2020"
 		},
 		{
 			"negative": "1236",

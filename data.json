@@ -768,14 +768,14 @@
 	],
 	"statewise": [
 		{
-			"active": "17673",
-			"confirmed": "23659",
-			"deaths": "742",
-			"deltaconfirmed": "620",
-			"deltadeaths": "21",
-			"deltarecovered": "232",
+			"active": "17669",
+			"confirmed": "23676",
+			"deaths": "743",
+			"deltaconfirmed": "637",
+			"deltadeaths": "22",
+			"deltarecovered": "252",
 			"lastupdatedtime": "24/04/2020 19:57:37",
-			"recovered": "5244",
+			"recovered": "5264",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -859,14 +859,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1374",
-			"confirmed": "1604",
-			"deaths": "24",
-			"deltaconfirmed": "94",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"active": "1370",
+			"confirmed": "1621",
+			"deaths": "25",
+			"deltaconfirmed": "111",
+			"deltadeaths": "1",
+			"deltarecovered": "20",
 			"lastupdatedtime": "24/04/2020 19:47:38",
-			"recovered": "206",
+			"recovered": "226",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
