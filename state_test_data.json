@@ -1027,6 +1027,24 @@
 			"updatedon": "23/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "176",
+			"source": "https://twitter.com/sanjayjavin/status/1253554587811774465?s=19",
+			"source2": "",
+			"state": "Bihar",
+			"testpositivityrate": "1.18%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "14924",
+			"unconfirmed": "1000",
+			"updatedon": "24/04/2020"
+		},
+		{
 			"negative": "98",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
