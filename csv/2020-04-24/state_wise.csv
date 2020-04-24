@@ -1,16 +1,16 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,23259,5080,727,17452,24/04/2020 16:47:36,TT,220,68,6,
+Total,23422,5095,728,17599,24/04/2020 17:07:36,TT,383,83,7,
 Maharashtra,6427,840,283,5304,23/04/2020 21:07:38,MH,0,0,0,
 Delhi,2376,808,50,1518,23/04/2020 21:07:38,DL,0,0,0,
 Gujarat,2624,258,112,2254,23/04/2020 20:47:39,GJ,0,0,0,
 Rajasthan,2008,473,31,1504,24/04/2020 15:57:37,RJ,44,22,3,
 Tamil Nadu,1683,752,20,911,23/04/2020 18:32:38,TN,0,0,0,
-Madhya Pradesh,1687,203,83,1401,23/04/2020 17:47:39,MP,0,0,0,
+Madhya Pradesh,1847,203,83,1561,23/04/2020 17:47:39,MP,160,0,0,
 Uttar Pradesh,1510,206,24,1280,23/04/2020 21:22:41,UP,0,0,0,
 Telangana,970,252,25,693,23/04/2020 21:22:42,TG,0,0,0,
 Andhra Pradesh,955,145,29,781,23/04/2020 14:47:37,AP,62,4,2,
 Karnataka,463,150,18,295,24/04/2020 13:32:37,KA,18,5,1,
-Kerala,447,316,2,129,24/04/2020 12:27:38,KL,0,0,0,
+Kerala,450,331,3,116,24/04/2020 17:07:37,KL,3,15,1,
 Jammu and Kashmir,434,92,5,337,23/04/2020 17:32:38,JK,0,0,0,
 West Bengal,514,103,15,396,24/04/2020 09:17:38,WB,58,24,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
 Haryana,275,183,3,89,24/04/2020 14:52:40,HR,5,13,0,One death in Ambala included.

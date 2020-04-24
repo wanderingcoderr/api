@@ -2142,38 +2142,38 @@
       },
       "Kannur": {
         "notes": "",
-        "active": 60,
+        "active": 57,
         "confirmed": 109,
         "deceased": 0,
-        "recovered": 49,
+        "recovered": 52,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Kasaragod": {
         "notes": "",
-        "active": 20,
-        "confirmed": 172,
+        "active": 18,
+        "confirmed": 175,
         "deceased": 0,
-        "recovered": 152,
+        "recovered": 157,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Kollam": {
         "notes": "",
-        "active": 7,
+        "active": 3,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Kottayam": {
@@ -2226,14 +2226,14 @@
       },
       "Pathanamthitta": {
         "notes": "",
-        "active": 6,
+        "active": 3,
         "confirmed": 17,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Thiruvananthapuram": {
@@ -2626,6 +2626,18 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 159,
+        "confirmed": 159,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 159,
           "deceased": 0,
           "recovered": 0
         }
