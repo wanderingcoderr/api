@@ -2027,12 +2027,12 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 20,
-        "confirmed": 23,
+        "active": 21,
+        "confirmed": 24,
         "deceased": 1,
         "recovered": 2,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 1,
           "recovered": 2
         }
@@ -2066,12 +2066,12 @@
       {
         "district": "Bengaluru",
         "notes": "",
-        "active": 59,
-        "confirmed": 112,
+        "active": 67,
+        "confirmed": 120,
         "deceased": 4,
         "recovered": 49,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 9,
           "deceased": 4,
           "recovered": 49
         }
@@ -2079,14 +2079,14 @@
       {
         "district": "Bengaluru Rural",
         "notes": "",
-        "active": 8,
+        "active": 6,
         "confirmed": 12,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 6,
         "delta": {
           "confirmed": 7,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 6
         }
       },
       {
@@ -2287,14 +2287,14 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1,
-        "confirmed": 11,
+        "active": -8,
+        "confirmed": 2,
         "deceased": 2,
-        "recovered": 10,
+        "recovered": 8,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       }
     ]
@@ -5854,12 +5854,12 @@
       {
         "district": "Nainital",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

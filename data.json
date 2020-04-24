@@ -768,14 +768,14 @@
 	],
 	"statewise": [
 		{
-			"active": "17555",
-			"confirmed": "23519",
+			"active": "17554",
+			"confirmed": "23520",
 			"deaths": "742",
-			"deltaconfirmed": "480",
+			"deltaconfirmed": "481",
 			"deltadeaths": "21",
-			"deltarecovered": "210",
-			"lastupdatedtime": "24/04/2020 18:17:37",
-			"recovered": "5222",
+			"deltarecovered": "212",
+			"lastupdatedtime": "24/04/2020 18:47:37",
+			"recovered": "5224",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1003,13 +1003,13 @@
 		},
 		{
 			"active": "23",
-			"confirmed": "47",
+			"confirmed": "48",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "1",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "22/04/2020 20:07:38",
-			"recovered": "24",
+			"recovered": "25",
 			"state": "Uttarakhand",
 			"statecode": "UT",
 			"statenotes": ""
@@ -1067,14 +1067,14 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
-			"active": "13",
+			"active": "12",
 			"confirmed": "27",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 17:45:25",
-			"recovered": "14",
+			"deltarecovered": "1",
+			"lastupdatedtime": "24/04/2020 18:47:38",
+			"recovered": "15",
 			"state": "Chandigarh",
 			"statecode": "CH",
 			"statenotes": ""
