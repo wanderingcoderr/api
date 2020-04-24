@@ -1873,12 +1873,12 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 21,
-        "confirmed": 21,
+        "active": 23,
+        "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1897,24 +1897,24 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 43,
-        "confirmed": 43,
+        "active": 45,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Bengaluru": {
         "notes": "",
-        "active": 111,
-        "confirmed": 111,
+        "active": 122,
+        "confirmed": 122,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -1945,12 +1945,12 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2053,12 +2053,12 @@
       },
       "Tumakuru": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2089,24 +2089,24 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 37,
-        "confirmed": 37,
+        "active": 38,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
         "notes": "",
-        "active": 20,
-        "confirmed": 20,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 18,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
