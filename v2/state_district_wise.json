@@ -2183,14 +2183,14 @@
       {
         "district": "Kodagu",
         "notes": "",
-        "active": 0,
+        "active": 1,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
