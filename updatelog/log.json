@@ -1,9 +1,5 @@
 [
   {
-    "update": "20 new cases in Punjab\n",
-    "timestamp": 1587568279
-  },
-  {
     "update": "92 new cases, 113 recoveries and 1 death in Delhi\n1 new case in Punjab\n",
     "timestamp": 1587568897
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 deaths in Rajasthan\n",
     "timestamp": 1587724285
+  },
+  {
+    "update": "12 new cases in Bihar\n",
+    "timestamp": 1587726090
   }
 ]

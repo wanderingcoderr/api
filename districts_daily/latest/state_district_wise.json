@@ -572,6 +572,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 10,
+        "confirmed": 12,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 12,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"
@@ -4643,26 +4655,26 @@
     "districtData": {
       "Gomati": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "North Tripura": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
