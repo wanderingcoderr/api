@@ -1731,14 +1731,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 11,
+        "confirmed": 27,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 16,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 16
         }
       }
     },
@@ -2279,10 +2279,10 @@
     "districtData": {
       "Kargil": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2291,10 +2291,10 @@
       },
       "Leh": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3811,7 +3811,7 @@
         }
       },
       "Evacuees": {
-        "notes": "Evacuees from other countries; They have been counted separatly from districts",
+        "notes": "Evacuees from other countries; They have been counted separatly by the state",
         "active": 36,
         "confirmed": 61,
         "deceased": 0,
