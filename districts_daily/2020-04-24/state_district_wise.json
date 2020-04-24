@@ -2098,6 +2098,18 @@
           "deceased": 2,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 11,
+        "deceased": 2,
+        "recovered": 8,
+        "delta": {
+          "confirmed": 11,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "KA"
@@ -3477,6 +3489,18 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 15,
+        "deceased": 1,
+        "recovered": 13,
+        "delta": {
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
