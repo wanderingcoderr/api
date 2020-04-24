@@ -98329,21 +98329,21 @@
       "statecode": "RJ"
     },
     {
-      "agebracket": "1",
+      "agebracket": "",
       "city": "",
-      "date": "25/04/2020",
+      "date": "",
       "district": "",
-      "gender": "F",
+      "gender": "",
       "nationality": "",
       "notes": "",
       "patientnumbercouldbemappedlater": "",
-      "patientstatus": "Deceased",
+      "patientstatus": "",
       "slno": "5787",
       "source1": "",
       "source2": "",
       "source3": "",
-      "state": "Kerala",
-      "statecode": "KL"
+      "state": "",
+      "statecode": ""
     },
     {
       "agebracket": "",
