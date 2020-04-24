@@ -394,12 +394,12 @@
       {
         "district": "Banka",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -446,12 +446,12 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 8,
-        "confirmed": 8,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -524,12 +524,12 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 24,
-        "confirmed": 31,
+        "active": 30,
+        "confirmed": 37,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -537,12 +537,12 @@
       {
         "district": "Nalanda",
         "notes": "",
-        "active": 29,
-        "confirmed": 31,
+        "active": 32,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -621,19 +621,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 6,
-        "confirmed": 6,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
