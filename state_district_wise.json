@@ -3512,10 +3512,10 @@
       },
       "Alwar": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 7,
         "deceased": 1,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3524,10 +3524,10 @@
       },
       "Banswara": {
         "notes": "",
-        "active": 56,
+        "active": 45,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3548,10 +3548,10 @@
       },
       "Bharatpur": {
         "notes": "",
-        "active": 105,
+        "active": 101,
         "confirmed": 107,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 5,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
@@ -3572,10 +3572,10 @@
       },
       "Bikaner": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 37,
         "deceased": 1,
-        "recovered": 31,
+        "recovered": 32,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3596,10 +3596,10 @@
       },
       "Dausa": {
         "notes": "",
-        "active": 21,
+        "active": 15,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3632,10 +3632,10 @@
       },
       "Hanumangarh": {
         "notes": "",
-        "active": 10,
+        "active": 8,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3644,13 +3644,13 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 674,
-        "confirmed": 740,
-        "deceased": 14,
-        "recovered": 52,
+        "active": 606,
+        "confirmed": 753,
+        "deceased": 15,
+        "recovered": 132,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 13,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3668,22 +3668,22 @@
       },
       "Jhalawar": {
         "notes": "",
-        "active": 8,
-        "confirmed": 20,
+        "active": 10,
+        "confirmed": 24,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Jhunjhunu": {
         "notes": "",
-        "active": 20,
+        "active": 13,
         "confirmed": 41,
         "deceased": 0,
-        "recovered": 21,
+        "recovered": 28,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3704,10 +3704,10 @@
       },
       "Karauli": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3716,10 +3716,10 @@
       },
       "Kota": {
         "notes": "",
-        "active": 82,
+        "active": 77,
         "confirmed": 140,
         "deceased": 3,
-        "recovered": 55,
+        "recovered": 60,
         "delta": {
           "confirmed": 18,
           "deceased": 0,
@@ -3728,10 +3728,10 @@
       },
       "Nagaur": {
         "notes": "",
-        "active": 92,
+        "active": 89,
         "confirmed": 93,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3740,10 +3740,10 @@
       },
       "Pali": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3776,22 +3776,22 @@
       },
       "Sikar": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 4,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
       "Tonk": {
         "notes": "",
-        "active": 99,
+        "active": 95,
         "confirmed": 115,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 19,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3824,24 +3824,12 @@
       },
       "Evacuees*": {
         "notes": "",
-        "active": 37,
+        "active": 36,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 24,
+        "recovered": 25,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 17,
-        "confirmed": 17,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
