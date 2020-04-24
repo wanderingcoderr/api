@@ -2380,12 +2380,12 @@
       },
       "Dewas": {
         "notes": "",
-        "active": 15,
-        "confirmed": 21,
+        "active": 16,
+        "confirmed": 22,
         "deceased": 6,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2560,14 +2560,14 @@
       },
       "Sheopur": {
         "notes": "",
-        "active": 4,
+        "active": 2,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Shivpuri": {
@@ -2628,18 +2628,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 1,
-          "deceased": 0,
-          "recovered": 2
         }
       }
     },
@@ -5594,13 +5582,13 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 8,
+        "active": 5,
         "confirmed": 126,
-        "deceased": 15,
+        "deceased": 18,
         "recovered": 103,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       }
