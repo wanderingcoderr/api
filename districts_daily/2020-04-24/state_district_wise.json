@@ -479,12 +479,12 @@
       },
       "Munger": {
         "notes": "",
-        "active": 30,
-        "confirmed": 37,
+        "active": 45,
+        "confirmed": 52,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -569,18 +569,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 10,
-        "confirmed": 12,
-        "deceased": 0,
-        "recovered": 2,
-        "delta": {
-          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
