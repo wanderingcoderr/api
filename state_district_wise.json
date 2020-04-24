@@ -2,7 +2,7 @@
   "Andaman and Nicobar Islands": {
     "districtData": {
       "North and Middle Andaman": {
-        "notes": "Third test note",
+        "notes": "",
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -293,7 +293,7 @@
         }
       },
       "Lakhimpur": {
-        "notes": "Another test note",
+        "notes": "",
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -1419,8 +1419,8 @@
           "recovered": 0
         }
       },
-      "Italians*": {
-        "notes": "",
+      "Italians": {
+        "notes": "Italian tourists who were treated in Haryana",
         "active": 0,
         "confirmed": 14,
         "deceased": 0,
@@ -2606,8 +2606,8 @@
           "recovered": 0
         }
       },
-      "Other Region*": {
-        "notes": "",
+      "Other Region": {
+        "notes": "Cases from other states",
         "active": 3,
         "confirmed": 3,
         "deceased": 0,
@@ -3007,8 +3007,8 @@
           "recovered": 0
         }
       },
-      "Other States*": {
-        "notes": "",
+      "Other States": {
+        "notes": "Cases from other States/UTs",
         "active": 19,
         "confirmed": 21,
         "deceased": 2,
@@ -3798,8 +3798,8 @@
           "recovered": 0
         }
       },
-      "Italians*": {
-        "notes": "",
+      "Italians": {
+        "notes": "Italian tourists who were tested positive in Rajasthan",
         "active": 0,
         "confirmed": 2,
         "deceased": 0,
@@ -3810,8 +3810,8 @@
           "recovered": 0
         }
       },
-      "Evacuees*": {
-        "notes": "",
+      "Evacuees": {
+        "notes": "Evacuees from other countries; They have been counted separatly from districts",
         "active": 36,
         "confirmed": 61,
         "deceased": 0,

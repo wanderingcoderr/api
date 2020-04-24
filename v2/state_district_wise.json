@@ -5,7 +5,7 @@
     "districtData": [
       {
         "district": "North and Middle Andaman",
-        "notes": "Third test note",
+        "notes": "",
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -322,7 +322,7 @@
       },
       {
         "district": "Lakhimpur",
-        "notes": "Another test note",
+        "notes": "",
         "active": 0,
         "confirmed": 1,
         "deceased": 0,
@@ -1546,8 +1546,8 @@
         }
       },
       {
-        "district": "Italians*",
-        "notes": "",
+        "district": "Italians",
+        "notes": "Italian tourists who were treated in Haryana",
         "active": 0,
         "confirmed": 14,
         "deceased": 0,
@@ -2836,8 +2836,8 @@
         }
       },
       {
-        "district": "Other Region*",
-        "notes": "",
+        "district": "Other Region",
+        "notes": "Cases from other states",
         "active": 3,
         "confirmed": 3,
         "deceased": 0,
@@ -3271,8 +3271,8 @@
         }
       },
       {
-        "district": "Other States*",
-        "notes": "",
+        "district": "Other States",
+        "notes": "Cases from other States/UTs",
         "active": 19,
         "confirmed": 21,
         "deceased": 2,
@@ -4132,8 +4132,8 @@
         }
       },
       {
-        "district": "Italians*",
-        "notes": "",
+        "district": "Italians",
+        "notes": "Italian tourists who were tested positive in Rajasthan",
         "active": 0,
         "confirmed": 2,
         "deceased": 0,
@@ -4145,8 +4145,8 @@
         }
       },
       {
-        "district": "Evacuees*",
-        "notes": "",
+        "district": "Evacuees",
+        "notes": "Evacuees from other countries; They have been counted separatly from districts",
         "active": 36,
         "confirmed": 61,
         "deceased": 0,
