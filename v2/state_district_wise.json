@@ -19,12 +19,12 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 11,
-        "confirmed": 21,
+        "active": 15,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -1664,12 +1664,12 @@
       {
         "district": "Anantnag",
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -1690,27 +1690,27 @@
       {
         "district": "Bandipore",
         "notes": "",
-        "active": 80,
-        "confirmed": 99,
+        "active": 85,
+        "confirmed": 108,
         "deceased": 1,
-        "recovered": 18,
+        "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Baramula",
         "notes": "",
-        "active": 44,
-        "confirmed": 50,
+        "active": 38,
+        "confirmed": 52,
         "deceased": 2,
-        "recovered": 4,
+        "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
@@ -1781,12 +1781,12 @@
       {
         "district": "Kupwara",
         "notes": "",
-        "active": 35,
-        "confirmed": 41,
+        "active": 39,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1847,13 +1847,13 @@
         "district": "Shupiyan",
         "notes": "",
         "active": 49,
-        "confirmed": 55,
+        "confirmed": 60,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -1880,19 +1880,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 11,
-        "confirmed": 27,
-        "deceased": 0,
-        "recovered": 16,
-        "delta": {
-          "confirmed": 20,
-          "deceased": 0,
-          "recovered": 16
         }
       }
     ]
@@ -2008,12 +1995,12 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -8,
-        "confirmed": 3,
+        "active": -4,
+        "confirmed": 7,
         "deceased": 3,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
