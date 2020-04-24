@@ -1253,26 +1253,26 @@
       },
       "Gurugram": {
         "notes": "",
-        "active": 21,
+        "active": 12,
         "confirmed": 47,
         "deceased": 0,
-        "recovered": 26,
+        "recovered": 35,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Hisar": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Jind": {
@@ -1289,14 +1289,14 @@
       },
       "Kaithal": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Karnal": {
@@ -1397,14 +1397,14 @@
       },
       "Sonipat": {
         "notes": "",
-        "active": 11,
+        "active": 9,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Yamunanagar": {
@@ -1873,14 +1873,14 @@
       },
       "Ballari": {
         "notes": "",
-        "active": 13,
+        "active": 10,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Belagavi": {
@@ -1909,26 +1909,26 @@
       },
       "Bengaluru Rural": {
         "notes": "",
-        "active": 5,
+        "active": 1,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Bidar": {
         "notes": "",
-        "active": 15,
+        "active": 6,
         "confirmed": 15,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Chikkaballapura": {
@@ -1957,37 +1957,37 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Dharwad": {
         "notes": "",
-        "active": 9,
+        "active": 8,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gadag": {
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 4,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2005,14 +2005,14 @@
       },
       "Kodagu": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Mandya": {
@@ -2053,26 +2053,26 @@
       },
       "Udupi": {
         "notes": "",
-        "active": 3,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Uttara Kannada": {
         "notes": "",
-        "active": 10,
+        "active": 1,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Vijayapura": {
