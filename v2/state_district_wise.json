@@ -5030,12 +5030,12 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -204,
-        "confirmed": 73,
+        "active": -191,
+        "confirmed": 86,
         "deceased": 25,
         "recovered": 252,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
