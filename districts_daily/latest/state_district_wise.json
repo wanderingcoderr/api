@@ -2721,13 +2721,13 @@
       },
       "Dhule": {
         "notes": "",
-        "active": 16,
+        "active": 15,
         "confirmed": 17,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2769,12 +2769,12 @@
       },
       "Jalna": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2841,13 +2841,13 @@
       },
       "Nandurbar": {
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 7,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3024,18 +3024,6 @@
         "active": 19,
         "confirmed": 21,
         "deceased": 2,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
