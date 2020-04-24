@@ -392,6 +392,19 @@
     "statecode": "BR",
     "districtData": [
       {
+        "district": "Aurangabad",
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Banka",
         "notes": "",
         "active": 2,
@@ -446,12 +459,12 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 10,
-        "confirmed": 10,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -522,14 +535,27 @@
         }
       },
       {
+        "district": "Madhepura",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Munger",
         "notes": "",
-        "active": 45,
-        "confirmed": 52,
+        "active": 46,
+        "confirmed": 53,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 21,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 0
         }
@@ -563,12 +589,12 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 19,
-        "confirmed": 24,
+        "active": 21,
+        "confirmed": 26,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -589,12 +615,12 @@
       {
         "district": "Saran",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

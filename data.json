@@ -768,14 +768,14 @@
 	],
 	"statewise": [
 		{
-			"active": "17659",
-			"confirmed": "23642",
+			"active": "17673",
+			"confirmed": "23659",
 			"deaths": "742",
-			"deltaconfirmed": "603",
+			"deltaconfirmed": "620",
 			"deltadeaths": "21",
-			"deltarecovered": "229",
-			"lastupdatedtime": "24/04/2020 19:47:37",
-			"recovered": "5241",
+			"deltarecovered": "232",
+			"lastupdatedtime": "24/04/2020 19:57:37",
+			"recovered": "5244",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -950,14 +950,14 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "89",
+			"active": "86",
 			"confirmed": "275",
 			"deaths": "3",
 			"deltaconfirmed": "5",
 			"deltadeaths": "0",
-			"deltarecovered": "13",
+			"deltarecovered": "16",
 			"lastupdatedtime": "24/04/2020 14:52:40",
-			"recovered": "183",
+			"recovered": "186",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": "One death in Ambala included."
@@ -976,13 +976,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "151",
-			"confirmed": "197",
+			"active": "168",
+			"confirmed": "214",
 			"deaths": "2",
-			"deltaconfirmed": "27",
+			"deltaconfirmed": "44",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/04/2020 16:37:38",
+			"lastupdatedtime": "24/04/2020 19:57:38",
 			"recovered": "44",
 			"state": "Bihar",
 			"statecode": "BR",
