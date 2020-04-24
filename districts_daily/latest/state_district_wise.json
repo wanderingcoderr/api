@@ -4626,14 +4626,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -192,
+        "active": -230,
         "confirmed": 86,
         "deceased": 25,
-        "recovered": 253,
+        "recovered": 291,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 39
         }
       }
     },
