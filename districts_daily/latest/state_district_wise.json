@@ -3045,14 +3045,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 339,
+        "active": 204,
         "confirmed": 390,
-        "deceased": 0,
-        "recovered": 51,
+        "deceased": 18,
+        "recovered": 168,
         "delta": {
           "confirmed": 390,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 18,
+          "recovered": 117
         }
       }
     },
