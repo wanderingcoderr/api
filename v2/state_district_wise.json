@@ -4660,14 +4660,14 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -361,
+        "active": -475,
         "confirmed": 72,
         "deceased": 22,
-        "recovered": 411,
+        "recovered": 525,
         "delta": {
           "confirmed": 72,
           "deceased": 2,
-          "recovered": 0
+          "recovered": 114
         }
       }
     ]
