@@ -5341,12 +5341,7 @@
           "deceased": 0,
           "recovered": 9
         }
-      }
-    },
-    "statecode": "UP"
-  },
-  "Uttarakhand": {
-    "districtData": {
+      },
       "Ayodhya": {
         "notes": "",
         "active": 1,
@@ -5358,7 +5353,12 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
+      }
+    },
+    "statecode": "UP"
+  },
+  "Uttarakhand": {
+    "districtData": {
       "Almora": {
         "notes": "",
         "active": 1,
@@ -5432,7 +5432,7 @@
         }
       }
     },
-    "statecode": "UP"
+    "statecode": "UT"
   },
   "West Bengal": {
     "districtData": {
