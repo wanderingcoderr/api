@@ -1,9 +1,5 @@
 [
   {
-    "update": "112 new cases and 11 recoveries in Uttar Pradesh\n",
-    "timestamp": 1587569486
-  },
-  {
     "update": "20 new cases and 16 recoveries in Rajasthan\n",
     "timestamp": 1587574899
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 new cases in Bihar\n",
     "timestamp": 1587726694
+  },
+  {
+    "update": "4 new cases in Odisha\n",
+    "timestamp": 1587727285
   }
 ]

@@ -3401,12 +3401,12 @@
       {
         "district": "Bhadrak",
         "notes": "",
-        "active": 10,
-        "confirmed": 12,
+        "active": 14,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
