@@ -6427,7 +6427,7 @@
 			"updatedon": "23/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "8310",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
@@ -6441,7 +6441,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "10611",
-			"unconfirmed": "",
+			"unconfirmed": "2003",
 			"updatedon": "24/04/2020"
 		},
 		{
@@ -7078,8 +7078,8 @@
 			"negative": "56836",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
+			"numisolationbeds": "29074",
+			"numventilators": "3371",
 			"positive": "1683",
 			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-23.04.2020.pdf",
 			"source2": "",
@@ -7093,22 +7093,22 @@
 			"updatedon": "23/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "62596",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"numisolationbeds": "29074",
+			"numventilators": "3371",
+			"positive": "1755",
+			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-24.04.2020.pdf",
 			"source2": "",
 			"state": "Tamil Nadu",
 			"testpositivityrate": "",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "25/04/2020"
+			"totaltested": "72403",
+			"unconfirmed": "1483",
+			"updatedon": "24/04/2020"
 		},
 		{
 			"negative": "14104",
