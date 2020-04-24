@@ -1253,12 +1253,12 @@
       },
       "Gurugram": {
         "notes": "",
-        "active": 19,
-        "confirmed": 45,
+        "active": 21,
+        "confirmed": 47,
         "deceased": 0,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1361,24 +1361,24 @@
       },
       "Panipat": {
         "notes": "",
-        "active": 0,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Rohtak": {
         "notes": "",
-        "active": 2,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1861,14 +1861,14 @@
     "districtData": {
       "Bagalkote": {
         "notes": "",
-        "active": 23,
+        "active": 20,
         "confirmed": 23,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 2
         }
       },
       "Ballari": {
@@ -1885,26 +1885,26 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 45,
+        "active": 41,
         "confirmed": 45,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 3
         }
       },
       "Bengaluru": {
         "notes": "",
-        "active": 122,
+        "active": 69,
         "confirmed": 122,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 4,
+        "recovered": 49,
         "delta": {
           "confirmed": 11,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 4,
+          "recovered": 49
         }
       },
       "Bengaluru Rural": {
@@ -1933,26 +1933,26 @@
       },
       "Chikkaballapura": {
         "notes": "",
-        "active": 14,
+        "active": 2,
         "confirmed": 14,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 2,
+        "recovered": 10,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 2,
+          "recovered": 10
         }
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 17,
+        "active": 5,
         "confirmed": 17,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 1,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 11
         }
       },
       "Davanagere": {
@@ -1993,14 +1993,14 @@
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 35,
+        "active": 28,
         "confirmed": 35,
-        "deceased": 0,
-        "recovered": 0,
+        "deceased": 4,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 4,
+          "recovered": 3
         }
       },
       "Kodagu": {
@@ -2029,14 +2029,14 @@
       },
       "Mysuru": {
         "notes": "",
-        "active": 88,
+        "active": 55,
         "confirmed": 88,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 33,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 33
         }
       },
       "Tumakuru": {
@@ -2077,13 +2077,13 @@
       },
       "Vijayapura": {
         "notes": "",
-        "active": 38,
+        "active": 36,
         "confirmed": 38,
-        "deceased": 0,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
