@@ -7206,8 +7206,8 @@
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "2008",
-			"source": "https://t.me/indiacovid/3073",
+			"positive": "2034",
+			"source": "https://t.me/indiacovid/3122",
 			"source2": "",
 			"state": "Rajasthan",
 			"testpositivityrate": "",
@@ -7215,7 +7215,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "74484",
-			"unconfirmed": "4343",
+			"unconfirmed": "4317",
 			"updatedon": "24/04/2020"
 		},
 		{
@@ -8047,6 +8047,24 @@
 			"updatedon": "23/04/2020"
 		},
 		{
+			"negative": "51161",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "1621",
+			"source": "",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "53166",
+			"unconfirmed": "",
+			"updatedon": "24/04/2020"
+		},
+		{
 			"negative": "554",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -8351,6 +8369,42 @@
 			"totaltested": "4473",
 			"unconfirmed": "265",
 			"updatedon": "23/04/2020"
+		},
+		{
+			"negative": "4239",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "48",
+			"source": "http://health.uk.gov.in/files/2020.04.24_Health_Bulletin.pdf",
+			"source2": "",
+			"state": "Uttarakhand",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "4767",
+			"unconfirmed": "327",
+			"updatedon": "24/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Uttarakhand",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "26/04/2020"
 		},
 		{
 			"negative": "568",
@@ -8711,6 +8765,24 @@
 			"totaltested": "8933",
 			"unconfirmed": "",
 			"updatedon": "24/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "West Bengal",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "26/04/2020"
 		}
 	]
 }
