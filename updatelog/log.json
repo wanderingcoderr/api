@@ -1,9 +1,5 @@
 [
   {
-    "update": "100 new cases, 51 recoveries and 3 deaths in Madhya Pradesh\n",
-    "timestamp": 1587644476
-  },
-  {
     "update": "5 new cases, 13 recoveries and 1 death in Punjab\n",
     "timestamp": 1587645705
   },
@@ -198,5 +194,9 @@
   {
     "update": "138 new cases, 49 recoveries and 3 deaths in Delhi\n26 new cases in Rajasthan\n",
     "timestamp": 1587744118
+  },
+  {
+    "update": "20 recoveries and 1 death in Rajasthan\n2 new cases in Andaman and Nicobar Islands\n",
+    "timestamp": 1587744702
   }
 ]

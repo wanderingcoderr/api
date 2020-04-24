@@ -19,12 +19,12 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 15,
-        "confirmed": 25,
+        "active": 17,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -3991,12 +3991,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 606,
-        "confirmed": 753,
+        "active": 629,
+        "confirmed": 776,
         "deceased": 15,
         "recovered": 132,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 36,
           "deceased": 1,
           "recovered": 0
         }
@@ -4043,12 +4043,12 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 267,
-        "confirmed": 310,
+        "active": 273,
+        "confirmed": 316,
         "deceased": 2,
         "recovered": 41,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4069,12 +4069,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 77,
-        "confirmed": 140,
+        "active": 81,
+        "confirmed": 144,
         "deceased": 3,
         "recovered": 60,
         "delta": {
-          "confirmed": 18,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 5
         }
@@ -4095,12 +4095,12 @@
       {
         "district": "Pali",
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 1
         }
@@ -4192,19 +4192,6 @@
         "recovered": 25,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 32,
-        "confirmed": 34,
-        "deceased": 2,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 26,
           "deceased": 0,
           "recovered": 0
         }
