@@ -768,9 +768,9 @@
 	],
 	"statewise": [
 		{
-			"active": "17360",
+			"active": "17359",
 			"confirmed": "23140",
-			"deaths": "722",
+			"deaths": "723",
 			"deltaconfirmed": "101",
 			"deltadeaths": "1",
 			"deltarecovered": "46",
@@ -911,9 +911,9 @@
 			"statenotes": ""
 		},
 		{
-			"active": "129",
+			"active": "128",
 			"confirmed": "447",
-			"deaths": "2",
+			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
