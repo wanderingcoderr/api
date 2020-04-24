@@ -2565,13 +2565,13 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 243,
-        "confirmed": 323,
-        "deceased": 7,
+        "active": 278,
+        "confirmed": 360,
+        "deceased": 9,
         "recovered": 73,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 37,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -2656,13 +2656,13 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 810,
-        "confirmed": 945,
-        "deceased": 53,
+        "active": 892,
+        "confirmed": 1029,
+        "deceased": 55,
         "recovered": 82,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 84,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -2670,38 +2670,38 @@
         "district": "Jabalpur",
         "notes": "",
         "active": 23,
-        "confirmed": 30,
+        "confirmed": 31,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 27,
+        "active": 23,
         "confirmed": 35,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
         "district": "Khargone",
         "notes": "",
-        "active": 39,
-        "confirmed": 51,
-        "deceased": 5,
+        "active": 48,
+        "confirmed": 61,
+        "deceased": 6,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 10,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2825,13 +2825,13 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 64,
-        "confirmed": 76,
-        "deceased": 7,
+        "active": 86,
+        "confirmed": 102,
+        "deceased": 11,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 26,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -2864,14 +2864,14 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 159,
-        "confirmed": 159,
+        "active": -1,
+        "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
-          "confirmed": 159,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       }
     ]
