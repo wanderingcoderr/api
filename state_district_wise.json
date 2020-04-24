@@ -5570,12 +5570,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 68,
-        "confirmed": 68,
+        "active": 126,
+        "confirmed": 126,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 58,
           "deceased": 0,
           "recovered": 0
         }
