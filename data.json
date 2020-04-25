@@ -1869,6 +1869,19 @@
 			"totalpositivecases": "23502",
 			"totalsamplestested": "541789",
 			"updatetimestamp": "24/04/2020 21:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://icmr.nic.in/sites/default/files/whats_new/ICMR_testing_update_25Apr2020_9AM_IST.pdf",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "579957",
+			"updatetimestamp": "25/04/2020 21:00:00"
 		}
 	]
 }
