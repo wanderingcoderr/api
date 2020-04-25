@@ -1366,12 +1366,12 @@
       {
         "district": "Ambala",
         "notes": "",
-        "active": 1,
-        "confirmed": 12,
+        "active": 2,
+        "confirmed": 13,
         "deceased": 1,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1431,12 +1431,12 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 12,
-        "confirmed": 47,
+        "active": 16,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1509,27 +1509,27 @@
       {
         "district": "Nuh",
         "notes": "",
-        "active": 22,
+        "active": 19,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 38,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
         "district": "Palwal",
         "notes": "",
-        "active": 7,
+        "active": 5,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 27,
+        "recovered": 29,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
@@ -1587,12 +1587,12 @@
       {
         "district": "Sonipat",
         "notes": "",
-        "active": 13,
-        "confirmed": 17,
+        "active": 15,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2682,12 +2682,12 @@
       {
         "district": "Hoshangabad",
         "notes": "",
-        "active": 25,
-        "confirmed": 26,
+        "active": 29,
+        "confirmed": 30,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2733,7 +2733,7 @@
       },
       {
         "district": "Khargone",
-        "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a false positive on the previous day",
+        "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
         "active": 47,
         "confirmed": 60,
         "deceased": 6,
@@ -2903,8 +2903,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -76,
-        "confirmed": 2,
+        "active": -80,
+        "confirmed": -2,
         "deceased": 7,
         "recovered": 71,
         "delta": {
