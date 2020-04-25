@@ -777,14 +777,14 @@
 	],
 	"statewise": [
 		{
-			"active": "18527",
-			"confirmed": "25057",
-			"deaths": "794",
-			"deltaconfirmed": "609",
+			"active": "18743",
+			"confirmed": "25313",
+			"deaths": "801",
+			"deltaconfirmed": "865",
 			"deltadeaths": "13",
 			"deltarecovered": "240",
-			"lastupdatedtime": "25/04/2020 20:17:37",
-			"recovered": "5736",
+			"lastupdatedtime": "25/04/2020 20:27:37",
+			"recovered": "5769",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -816,14 +816,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "2423",
-			"confirmed": "2815",
-			"deaths": "127",
-			"deltaconfirmed": "0",
+			"active": "2653",
+			"confirmed": "3071",
+			"deaths": "133",
+			"deltaconfirmed": "256",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "24/04/2020 20:21:01",
-			"recovered": "265",
+			"lastupdatedtime": "25/04/2020 20:27:38",
+			"recovered": "285",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
@@ -868,14 +868,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1519",
+			"active": "1505",
 			"confirmed": "1793",
-			"deaths": "26",
+			"deaths": "27",
 			"deltaconfirmed": "172",
 			"deltadeaths": "1",
 			"deltarecovered": "22",
-			"lastupdatedtime": "25/04/2020 20:17:38",
-			"recovered": "248",
+			"lastupdatedtime": "25/04/2020 20:22:38",
+			"recovered": "261",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""

@@ -1245,6 +1245,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 230,
+        "confirmed": 256,
+        "deceased": 6,
+        "recovered": 20,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "GJ"
@@ -2404,14 +2416,14 @@
       },
       "Bhopal": {
         "notes": "",
-        "active": 306,
+        "active": 275,
         "confirmed": 388,
         "deceased": 9,
-        "recovered": 73,
+        "recovered": 104,
         "delta": {
           "confirmed": 28,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 31
         }
       },
       "Chhindwara": {
@@ -2476,14 +2488,14 @@
       },
       "Indore": {
         "notes": "",
-        "active": 946,
+        "active": 921,
         "confirmed": 1085,
         "deceased": 57,
-        "recovered": 82,
+        "recovered": 107,
         "delta": {
           "confirmed": 56,
           "deceased": 2,
-          "recovered": 0
+          "recovered": 25
         }
       },
       "Jabalpur": {
@@ -5380,10 +5392,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 149,
+        "active": 135,
         "confirmed": 172,
-        "deceased": 1,
-        "recovered": 22,
+        "deceased": 2,
+        "recovered": 35,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
