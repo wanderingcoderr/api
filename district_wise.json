@@ -14422,10 +14422,10 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "-1",
-			"activeyesterday": "-1",
-			"confirmed": "0",
-			"confirmedyesterday": "0",
+			"active": "6",
+			"activeyesterday": "6",
+			"confirmed": "7",
+			"confirmedyesterday": "7",
 			"deceased": "1",
 			"deceasedyesterday": "1",
 			"deltaactive": "0",
