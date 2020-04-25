@@ -2805,14 +2805,14 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 3555,
-        "confirmed": 4205,
+        "active": 3867,
+        "confirmed": 4447,
         "deceased": 167,
-        "recovered": 483,
+        "recovered": 413,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 242,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -70
         }
       },
       "Nagpur": {
@@ -3033,14 +3033,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 204,
-        "confirmed": 390,
+        "active": -108,
+        "confirmed": 148,
         "deceased": 18,
-        "recovered": 168,
+        "recovered": 238,
         "delta": {
-          "confirmed": 390,
+          "confirmed": 148,
           "deceased": 18,
-          "recovered": 117
+          "recovered": 187
         }
       }
     },
@@ -5594,12 +5594,12 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 5,
-        "confirmed": 126,
+        "active": 62,
+        "confirmed": 183,
         "deceased": 18,
         "recovered": 103,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 57,
           "deceased": 3,
           "recovered": 0
         }

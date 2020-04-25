@@ -1,9 +1,5 @@
 [
   {
-    "update": "79 recoveries in Gujarat\n",
-    "timestamp": 1587654114
-  },
-  {
     "update": "8 deaths in Gujarat\n",
     "timestamp": 1587654689
   },
@@ -198,5 +194,9 @@
   {
     "update": "29 recoveries in Telangana\n",
     "timestamp": 1587754894
+  },
+  {
+    "update": "57 new cases in West Bengal\n",
+    "timestamp": 1587787319
   }
 ]
