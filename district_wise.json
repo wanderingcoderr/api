@@ -1540,14 +1540,14 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "22",
+			"active": "20",
 			"activeyesterday": "20",
-			"confirmed": "22",
+			"confirmed": "20",
 			"confirmedyesterday": "20",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "2",
-			"deltaconfirmed": "2",
+			"deltaactive": "0",
+			"deltaconfirmed": "0",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Buxar",

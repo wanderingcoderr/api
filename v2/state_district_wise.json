@@ -472,12 +472,12 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 22,
-        "confirmed": 22,
+        "active": 20,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
