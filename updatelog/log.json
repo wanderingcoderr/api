@@ -1,9 +1,5 @@
 [
   {
-    "update": "12 new cases in Bihar\n",
-    "timestamp": 1587726090
-  },
-  {
     "update": "3 new cases in Bihar\n",
     "timestamp": 1587726694
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Bihar\n4 new cases in Andaman and Nicobar Islands\n",
     "timestamp": 1587825098
+  },
+  {
+    "update": "15 new cases in Uttar Pradesh\n",
+    "timestamp": 1587826302
   }
 ]
