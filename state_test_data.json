@@ -2638,12 +2638,12 @@
 			"source": "https://gujcovid19.gujarat.gov.in/",
 			"source2": "",
 			"state": "Gujarat",
-			"testpositivityrate": "6.42%",
+			"testpositivityrate": "6.02%",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "33734",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "43822",
-			"unconfirmed": "0",
+			"totaltested": "46743",
+			"unconfirmed": "2921",
 			"updatedon": "24/04/2020"
 		},
 		{
