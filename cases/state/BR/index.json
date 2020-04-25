@@ -5017,7 +5017,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "34",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5039,7 +5039,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "48",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5061,7 +5061,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "28",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5083,7 +5083,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "42",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5105,7 +5105,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "46",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5127,7 +5127,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "15",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5149,7 +5149,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "35",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5171,7 +5171,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "50",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5193,7 +5193,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "31",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -5215,13 +5215,13 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "35",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
       "dateannounced": "25/04/2020",
       "detectedcity": "",
-      "detecteddistrict": "",
+      "detecteddistrict": "Patna",
       "detectedstate": "Bihar",
       "estimatedonsetdate": "",
       "gender": "M",

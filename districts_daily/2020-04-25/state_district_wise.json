@@ -369,6 +369,18 @@
   },
   "Bihar": {
     "districtData": {
+      "Arwal": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Aurangabad": {
         "notes": "",
         "active": 2,
@@ -419,24 +431,24 @@
       },
       "Bhojpur": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Buxar": {
         "notes": "",
-        "active": 20,
-        "confirmed": 20,
+        "active": 24,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -479,12 +491,12 @@
       },
       "Kaimur Bhabua": {
         "notes": "",
-        "active": 8,
-        "confirmed": 8,
+        "active": 13,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -551,36 +563,36 @@
       },
       "Patna": {
         "notes": "",
-        "active": 21,
-        "confirmed": 26,
+        "active": 22,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Rohtas": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Saran": {
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -603,18 +615,6 @@
         "confirmed": 1,
         "deceased": 1,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 13,
-        "confirmed": 15,
-        "deceased": 0,
-        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2250,14 +2250,14 @@
       },
       "Kozhikode": {
         "notes": "",
-        "active": 11,
+        "active": 9,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Malappuram": {
@@ -2339,24 +2339,24 @@
     "districtData": {
       "Kargil": {
         "notes": "",
-        "active": 0,
-        "confirmed": 4,
+        "active": 1,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Leh": {
         "notes": "",
-        "active": 2,
-        "confirmed": 14,
+        "active": 3,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

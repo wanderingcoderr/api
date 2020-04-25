@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,24836,5554,785,18497,25/04/2020 17:17:37,TT,389,58,5,
+Total,24838,5554,785,18499,25/04/2020 17:22:37,TT,391,58,5,
 Maharashtra,6817,957,301,5559,24/04/2020 20:52:39,MH,0,0,0,
 Delhi,2514,857,53,1604,24/04/2020 21:32:38,DL,0,0,0,
 Gujarat,2815,265,127,2423,24/04/2020 20:21:01,GJ,0,0,0,
@@ -10,12 +10,12 @@ Uttar Pradesh,1778,248,26,1504,25/04/2020 16:17:39,UP,157,22,1,
 Telangana,983,291,25,667,25/04/2020 00:32:37,TG,0,0,0,
 Andhra Pradesh,1016,171,31,814,25/04/2020 12:47:37,AP,61,26,2,
 Karnataka,489,153,18,318,24/04/2020 17:57:37,KA,15,1,0,
-Kerala,457,338,3,116,25/04/2020 17:17:38,KL,7,7,0,
-Jammu and Kashmir,494,109,6,379,25/04/2020 17:17:39,JK,40,0,1,
+Kerala,457,338,3,116,25/04/2020 17:22:40,KL,7,7,0,
+Jammu and Kashmir,494,109,6,379,25/04/2020 17:22:41,JK,40,0,1,
 West Bengal,571,103,18,450,25/04/2020 09:32:37,WB,57,0,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
 Haryana,280,186,3,91,24/04/2020 14:52:40,HR,5,0,0,One death in Ambala included
 Punjab,298,70,17,211,24/04/2020 18:07:38,PB,0,0,0,
-Bihar,238,44,2,192,25/04/2020 12:57:38,BR,15,0,0,
+Bihar,238,44,2,192,25/04/2020 17:22:43,BR,15,0,0,
 Odisha,94,33,1,60,24/04/2020 16:47:38,OR,0,0,0,
 Uttarakhand,48,25,0,23,22/04/2020 20:07:38,UT,0,0,0,
 Jharkhand,63,8,3,52,25/04/2020 16:17:40,JH,4,0,0,
@@ -23,7 +23,7 @@ Himachal Pradesh,40,18,2,20,23/04/2020 21:52:49,HP,0,0,0,Death of Tibetan refuge
 Chhattisgarh,37,32,0,5,25/04/2020 09:37:38,CT,1,2,0,
 Assam,36,19,1,16,20/04/2020 08:45:06,AS,0,0,0,Includes one case from Nagaland
 Chandigarh,27,15,0,12,24/04/2020 18:52:39,CH,0,0,0,
-Ladakh,18,16,0,2,23/04/2020 10:32:40,LA,0,0,0,
+Ladakh,20,16,0,4,23/04/2020 10:32:40,LA,2,0,0,
 Andaman and Nicobar Islands,29,11,0,18,24/04/2020 21:42:40,AN,0,0,0,
 Meghalaya,12,0,1,11,18/04/2020 12:38:07,ML,0,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,

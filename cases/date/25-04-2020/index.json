@@ -8339,7 +8339,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "34",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8361,7 +8361,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "48",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8383,7 +8383,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "28",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8405,7 +8405,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "42",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8427,7 +8427,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "46",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8449,7 +8449,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "15",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8471,7 +8471,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "35",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8493,7 +8493,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "50",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8515,7 +8515,7 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "31",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
@@ -8537,13 +8537,13 @@
       "typeoftransmission": ""
     },
     {
-      "agebracket": "",
+      "agebracket": "35",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
       "dateannounced": "25/04/2020",
       "detectedcity": "",
-      "detecteddistrict": "",
+      "detecteddistrict": "Patna",
       "detectedstate": "Bihar",
       "estimatedonsetdate": "",
       "gender": "M",
@@ -8562,44 +8562,44 @@
       "agebracket": "",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
-      "currentstatus": "",
+      "currentstatus": "Hospitalized",
       "dateannounced": "25/04/2020",
       "detectedcity": "",
-      "detecteddistrict": "",
-      "detectedstate": "",
+      "detecteddistrict": "Leh",
+      "detectedstate": "Ladakh",
       "estimatedonsetdate": "",
       "gender": "",
       "nationality": "",
-      "notes": "",
+      "notes": "Details awaited",
       "patientnumber": "24839",
-      "source1": "",
+      "source1": "http://covid.ladakh.gov.in/#dataInsights",
       "source2": "",
       "source3": "",
-      "statecode": "",
+      "statecode": "LA",
       "statepatientnumber": "",
-      "statuschangedate": "",
+      "statuschangedate": "25/04/2020",
       "typeoftransmission": ""
     },
     {
       "agebracket": "",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
-      "currentstatus": "",
+      "currentstatus": "Hospitalized",
       "dateannounced": "25/04/2020",
       "detectedcity": "",
-      "detecteddistrict": "",
-      "detectedstate": "",
+      "detecteddistrict": "Kargil",
+      "detectedstate": "Ladakh",
       "estimatedonsetdate": "",
       "gender": "",
       "nationality": "",
-      "notes": "",
+      "notes": "Details awaited",
       "patientnumber": "24840",
-      "source1": "",
+      "source1": "http://covid.ladakh.gov.in/#dataInsights",
       "source2": "",
       "source3": "",
-      "statecode": "",
+      "statecode": "LA",
       "statepatientnumber": "",
-      "statuschangedate": "",
+      "statuschangedate": "25/04/2020",
       "typeoftransmission": ""
     },
     {
