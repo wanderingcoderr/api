@@ -1423,6 +1423,24 @@
 			"updatedon": "24/04/2020"
 		},
 		{
+			"negative": "668",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "28",
+			"source": "",
+			"source2": "",
+			"state": "Chandigarh",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "734",
+			"unconfirmed": "",
+			"updatedon": "25/04/2020"
+		},
+		{
 			"negative": "921",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -3583,6 +3601,24 @@
 			"updatedon": "24/04/2020"
 		},
 		{
+			"negative": "12341",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "494",
+			"source": "https://twitter.com/diprjk/status/1254041627196297217",
+			"source2": "",
+			"state": "Jammu and Kashmir",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "263",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "12835",
+			"unconfirmed": "",
+			"updatedon": "25/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -3598,7 +3634,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "26/04/2020"
+			"updatedon": "27/04/2020"
 		},
 		{
 			"negative": "1326",
@@ -7147,22 +7183,22 @@
 			"updatedon": "24/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "9392",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "",
-			"source": "",
+			"positive": "308",
+			"source": "https://t.me/indiacovid/3185",
 			"source2": "",
 			"state": "Punjab",
 			"testpositivityrate": "",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "26/04/2020"
+			"totaltested": "13270",
+			"unconfirmed": "3569",
+			"updatedon": "25/04/2020"
 		},
 		{
 			"negative": "11439",
