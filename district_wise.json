@@ -14175,10 +14175,10 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "-3",
-			"activeyesterday": "-3",
-			"confirmed": "0",
-			"confirmedyesterday": "0",
+			"active": "6",
+			"activeyesterday": "6",
+			"confirmed": "9",
+			"confirmedyesterday": "9",
 			"deceased": "0",
 			"deceasedyesterday": "0",
 			"deltaactive": "0",
