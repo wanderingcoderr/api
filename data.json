@@ -777,10 +777,10 @@
 	],
 	"statewise": [
 		{
-			"active": "19503",
-			"confirmed": "26267",
+			"active": "19504",
+			"confirmed": "26268",
 			"deaths": "825",
-			"deltaconfirmed": "1819",
+			"deltaconfirmed": "1820",
 			"deltadeaths": "44",
 			"deltarecovered": "443",
 			"lastupdatedtime": "25/04/2020 22:32:37",
@@ -1024,10 +1024,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "55",
-			"confirmed": "66",
+			"active": "56",
+			"confirmed": "67",
 			"deaths": "3",
-			"deltaconfirmed": "7",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "25/04/2020 22:02:38",

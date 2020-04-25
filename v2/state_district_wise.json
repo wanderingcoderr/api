@@ -2073,8 +2073,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
-        "confirmed": 13,
+        "active": 3,
+        "confirmed": 14,
         "deceased": 3,
         "recovered": 8,
         "delta": {
