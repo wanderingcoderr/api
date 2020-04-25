@@ -19,25 +19,12 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 21,
-        "confirmed": 31,
+        "active": 22,
+        "confirmed": 32,
         "deceased": 0,
         "recovered": 10,
         "delta": {
           "confirmed": 4,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 1,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3351,9 +3338,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 693,
+        "active": 671,
         "confirmed": 811,
-        "deceased": 0,
+        "deceased": 22,
         "recovered": 118,
         "delta": {
           "confirmed": 0,
@@ -4744,12 +4731,12 @@
       {
         "district": "Hyderabad",
         "notes": "",
-        "active": 526,
-        "confirmed": 526,
+        "active": 532,
+        "confirmed": 532,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -5069,12 +5056,12 @@
       {
         "district": "Warangal Urban",
         "notes": "",
-        "active": 21,
-        "confirmed": 21,
+        "active": 22,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

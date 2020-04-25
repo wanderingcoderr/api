@@ -1,9 +1,5 @@
 [
   {
-    "update": "159 new cases in Madhya Pradesh\n3 new cases, 15 recoveries and 1 death in Kerala\n",
-    "timestamp": 1587728508
-  },
-  {
     "update": "7 recoveries and 9 deaths in Madhya Pradesh\n",
     "timestamp": 1587729095
   },
@@ -198,5 +194,9 @@
   {
     "update": "811 new cases in Maharashtra\n3 recoveries in Himachal Pradesh\n",
     "timestamp": 1587827520
+  },
+  {
+    "update": "22 deaths in Maharashtra\n7 new cases in Telangana\n",
+    "timestamp": 1587828096
   }
 ]
