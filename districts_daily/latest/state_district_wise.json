@@ -455,12 +455,12 @@
       },
       "Gaya": {
         "notes": "",
-        "active": 1,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -515,12 +515,12 @@
       },
       "Munger": {
         "notes": "",
-        "active": 55,
-        "confirmed": 62,
+        "active": 58,
+        "confirmed": 65,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -551,12 +551,12 @@
       },
       "Patna": {
         "notes": "",
-        "active": 23,
-        "confirmed": 28,
+        "active": 28,
+        "confirmed": 33,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -605,18 +605,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 1,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 6,
-        "confirmed": 9,
-        "deceased": 0,
-        "recovered": 3,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3289,6 +3277,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 5,
+        "confirmed": 6,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     },

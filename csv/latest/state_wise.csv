@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,26277,5939,825,19513,25/04/2020 23:02:37,TT,1829,443,44,
+Total,26283,5939,825,19519,25/04/2020 23:12:37,TT,1835,443,44,
 Maharashtra,7628,1076,323,6229,25/04/2020 21:02:37,MH,811,119,22,
 Delhi,2625,869,54,1702,25/04/2020 21:52:38,DL,111,12,1,
 Gujarat,3071,282,133,2656,25/04/2020 20:42:38,GJ,256,17,6,
@@ -15,8 +15,8 @@ Jammu and Kashmir,494,112,6,376,25/04/2020 19:22:38,JK,40,3,1,
 West Bengal,571,103,18,450,25/04/2020 09:32:37,WB,57,0,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
 Haryana,287,191,3,93,25/04/2020 19:42:38,HR,12,5,0,One death in Ambala included
 Punjab,308,72,17,219,25/04/2020 19:32:38,PB,10,2,0,
-Bihar,251,45,2,204,25/04/2020 20:02:38,BR,28,1,0,
-Odisha,94,34,1,59,25/04/2020 22:32:38,OR,0,1,0,
+Bihar,251,45,2,204,25/04/2020 23:12:38,BR,28,1,0,
+Odisha,100,34,1,65,25/04/2020 22:32:38,OR,6,1,0,
 Uttarakhand,48,26,0,22,25/04/2020 19:32:40,UT,0,1,0,
 Jharkhand,67,8,3,56,25/04/2020 23:02:38,JH,8,0,0,
 Himachal Pradesh,40,23,2,15,25/04/2020 20:57:38,HP,0,5,0,Death of Tibetan refugee included
