@@ -608,6 +608,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 13,
+        "confirmed": 15,
+        "deceased": 0,
+        "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"
@@ -1776,6 +1788,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 39,
+        "confirmed": 40,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "JK"
@@ -2178,48 +2202,48 @@
       },
       "Kannur": {
         "notes": "",
-        "active": 57,
-        "confirmed": 109,
+        "active": 56,
+        "confirmed": 110,
         "deceased": 0,
-        "recovered": 52,
+        "recovered": 54,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kasaragod": {
         "notes": "",
-        "active": 18,
+        "active": 16,
         "confirmed": 175,
         "deceased": 0,
-        "recovered": 157,
+        "recovered": 159,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kollam": {
         "notes": "",
-        "active": 3,
-        "confirmed": 11,
+        "active": 6,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kottayam": {
         "notes": "",
-        "active": 3,
-        "confirmed": 6,
+        "active": 6,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -2298,26 +2322,14 @@
       },
       "Wayanad": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 6,
-        "confirmed": 7,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },
