@@ -14498,8 +14498,8 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "671",
-			"activeyesterday": "671",
+			"active": "552",
+			"activeyesterday": "552",
 			"confirmed": "811",
 			"confirmedyesterday": "811",
 			"deceased": "22",
@@ -14510,8 +14510,8 @@
 			"deltarecovered": "0",
 			"district": "Unknown",
 			"districtnotes": "",
-			"recovered": "118",
-			"recoveredyesterday": "118",
+			"recovered": "237",
+			"recoveredyesterday": "237",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"

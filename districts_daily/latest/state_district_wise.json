@@ -3069,10 +3069,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 671,
+        "active": 552,
         "confirmed": 811,
         "deceased": 22,
-        "recovered": 118,
+        "recovered": 237,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
