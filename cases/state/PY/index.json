@@ -153,6 +153,28 @@
       "statepatientnumber": "",
       "statuschangedate": "10/04/2020",
       "typeoftransmission": "Local"
+    },
+    {
+      "agebracket": "18",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "",
+      "currentstatus": "Hospitalized",
+      "dateannounced": "25/04/2020",
+      "detectedcity": "",
+      "detecteddistrict": "Puducherry",
+      "detectedstate": "Puducherry",
+      "estimatedonsetdate": "",
+      "gender": "M",
+      "nationality": "",
+      "notes": "Son of a positive patient",
+      "patientnumber": "24841",
+      "source1": "https://www.thehindu.com/news/cities/puducherry/covid-19-one-more-tests-positive-in-puducherry/article31431309.ece",
+      "source2": "",
+      "source3": "",
+      "statecode": "PY",
+      "statepatientnumber": "",
+      "statuschangedate": "25/04/2020",
+      "typeoftransmission": ""
     }
   ]
 }

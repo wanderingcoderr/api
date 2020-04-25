@@ -628,12 +628,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 12,
-        "confirmed": 27,
+        "active": 13,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 1
         }
@@ -2158,6 +2158,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 5,
+        "confirmed": 11,
+        "deceased": 0,
+        "recovered": 6,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "KA"
@@ -3298,12 +3310,12 @@
       },
       "Puducherry": {
         "notes": "",
-        "active": 6,
-        "confirmed": 6,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

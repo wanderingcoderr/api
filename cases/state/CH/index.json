@@ -593,6 +593,28 @@
       "statepatientnumber": "",
       "statuschangedate": "21/04/2020",
       "typeoftransmission": ""
+    },
+    {
+      "agebracket": "",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "",
+      "currentstatus": "Hospitalized",
+      "dateannounced": "25/04/2020",
+      "detectedcity": "Sector 26",
+      "detecteddistrict": "Chandigarh",
+      "detectedstate": "Chandigarh",
+      "estimatedonsetdate": "",
+      "gender": "",
+      "nationality": "",
+      "notes": "Hospital Staff at GMCH-32",
+      "patientnumber": "24853",
+      "source1": "http://chdcovid19.in/",
+      "source2": "https://twitter.com/nagarkoti/status/1253745575511482370",
+      "source3": "",
+      "statecode": "CH",
+      "statepatientnumber": "",
+      "statuschangedate": "25/04/2020",
+      "typeoftransmission": ""
     }
   ]
 }
