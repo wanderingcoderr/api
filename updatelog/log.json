@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases and 13 recoveries in Haryana\n",
-    "timestamp": 1587720101
-  },
-  {
     "update": "1 new case in Andaman and Nicobar Islands\n",
     "timestamp": 1587723681
   },
@@ -198,5 +194,9 @@
   {
     "update": "3 recoveries in Jammu and Kashmir\n",
     "timestamp": 1587822729
+  },
+  {
+    "update": "3 new cases in Bihar\n1 recovery in Uttarakhand\n",
+    "timestamp": 1587823320
   }
 ]

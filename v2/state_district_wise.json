@@ -485,12 +485,12 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 24,
-        "confirmed": 24,
+        "active": 25,
+        "confirmed": 25,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -537,12 +537,12 @@
       {
         "district": "Kaimur Bhabua",
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 14,
+        "confirmed": 14,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -667,12 +667,12 @@
       {
         "district": "Vaishali",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2617,12 +2617,12 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 278,
-        "confirmed": 360,
+        "active": 306,
+        "confirmed": 388,
         "deceased": 9,
         "recovered": 73,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 28,
           "deceased": 0,
           "recovered": 0
         }
@@ -2695,12 +2695,12 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 892,
-        "confirmed": 1029,
+        "active": 948,
+        "confirmed": 1085,
         "deceased": 55,
         "recovered": 82,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 56,
           "deceased": 0,
           "recovered": 0
         }
@@ -2708,12 +2708,12 @@
       {
         "district": "Jabalpur",
         "notes": "",
-        "active": 23,
-        "confirmed": 31,
+        "active": 35,
+        "confirmed": 43,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -2721,25 +2721,25 @@
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 23,
-        "confirmed": 35,
+        "active": 24,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       {
         "district": "Khargone",
-        "notes": "",
-        "active": 48,
-        "confirmed": 61,
+        "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a false positive on the previous day",
+        "active": 47,
+        "confirmed": 60,
         "deceased": 6,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2864,12 +2864,12 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 86,
-        "confirmed": 102,
+        "active": 87,
+        "confirmed": 103,
         "deceased": 11,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2903,8 +2903,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 21,
-        "confirmed": 99,
+        "active": -76,
+        "confirmed": 2,
         "deceased": 7,
         "recovered": 71,
         "delta": {
@@ -3829,12 +3829,12 @@
       {
         "district": "Shahid Bhagat Singh Nagar",
         "notes": "",
-        "active": 1,
-        "confirmed": 20,
+        "active": 0,
+        "confirmed": 19,
         "deceased": 1,
         "recovered": 18,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
