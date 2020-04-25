@@ -5308,14 +5308,14 @@
       },
       "Shamli": {
         "notes": "",
-        "active": 25,
+        "active": 12,
         "confirmed": 27,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       "Shrawasti": {
@@ -5368,14 +5368,14 @@
       },
       "Varanasi": {
         "notes": "",
-        "active": 10,
+        "active": 19,
         "confirmed": 26,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": -9
         }
       },
       "Ayodhya": {
