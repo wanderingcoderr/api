@@ -1,9 +1,5 @@
 [
   {
-    "update": "72 new cases and 2 deaths in Tamil Nadu\n4 recoveries in Punjab\n",
-    "timestamp": 1587732083
-  },
-  {
     "update": "114 recoveries in Tamil Nadu\n",
     "timestamp": 1587732691
   },
@@ -198,5 +194,9 @@
   {
     "update": "111 new cases, 12 recoveries and 1 death in Delhi\n20 recoveries and 1 death in Rajasthan\n",
     "timestamp": 1587831701
+  },
+  {
+    "update": "3 new cases in Jharkhand\n",
+    "timestamp": 1587832303
   }
 ]

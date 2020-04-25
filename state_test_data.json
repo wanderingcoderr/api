@@ -2053,6 +2053,24 @@
 			"updatedon": "24/04/2020"
 		},
 		{
+			"negative": "28693",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "2625",
+			"source": "https://twitter.com/CMODelhi/status/1254081976631545856?s=20",
+			"source2": "",
+			"state": "Delhi",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "35519",
+			"unconfirmed": "3709",
+			"updatedon": "25/04/2020"
+		},
+		{
 			"negative": "197",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -2627,6 +2645,24 @@
 			"totaltested": "46743",
 			"unconfirmed": "2921",
 			"updatedon": "24/04/2020"
+		},
+		{
+			"negative": "45254",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "3061",
+			"source": "",
+			"source2": "",
+			"state": "Gujarat",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "48315",
+			"unconfirmed": "0",
+			"updatedon": "25/04/2020"
 		},
 		{
 			"negative": "938",

@@ -2032,6 +2032,19 @@
         }
       },
       {
+        "district": "Palamu",
+        "notes": "",
+        "active": 3,
+        "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Ranchi",
         "notes": "",
         "active": 29,
@@ -3273,7 +3286,7 @@
       {
         "district": "Solapur",
         "notes": "",
-        "active": 42,
+        "active": 46,
         "confirmed": 46,
         "deceased": 4,
         "recovered": 0,
@@ -3950,6 +3963,19 @@
         }
       },
       {
+        "district": "Chittaurgarh",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Churu",
         "notes": "",
         "active": 3,
@@ -4145,6 +4171,19 @@
         }
       },
       {
+        "district": "Rajsamand",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Sawai Madhopur",
         "notes": "",
         "active": 8,
@@ -4216,19 +4255,6 @@
         "confirmed": 61,
         "deceased": 0,
         "recovered": 25,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 2,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
