@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Kerala\n",
-    "timestamp": 1587707494
-  },
-  {
     "update": "18 new cases in Karnataka\n",
     "timestamp": 1587712900
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Bihar\n",
     "timestamp": 1587817898
+  },
+  {
+    "update": "11 new cases in Punjab\n",
+    "timestamp": 1587818495
   }
 ]

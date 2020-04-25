@@ -3540,6 +3540,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -4,
+        "confirmed": 11,
+        "deceased": 1,
+        "recovered": 14,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "PB"

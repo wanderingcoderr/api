@@ -14631,10 +14631,10 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "-15",
-			"activeyesterday": "-15",
-			"confirmed": "0",
-			"confirmedyesterday": "0",
+			"active": "-4",
+			"activeyesterday": "-4",
+			"confirmed": "11",
+			"confirmedyesterday": "11",
 			"deceased": "1",
 			"deceasedyesterday": "1",
 			"deltaactive": "0",
