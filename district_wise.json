@@ -14346,8 +14346,8 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "-3",
-			"activeyesterday": "-3",
+			"active": "-5",
+			"activeyesterday": "-5",
 			"confirmed": "1",
 			"confirmedyesterday": "1",
 			"deceased": "1",
@@ -14358,8 +14358,8 @@
 			"deltarecovered": "0",
 			"district": "Unknown",
 			"districtnotes": "",
-			"recovered": "3",
-			"recoveredyesterday": "3",
+			"recovered": "5",
+			"recoveredyesterday": "5",
 			"slno": "741",
 			"state": "Himachal Pradesh",
 			"statecode": "HP"
@@ -14707,8 +14707,8 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "-230",
-			"activeyesterday": "-230",
+			"active": "-246",
+			"activeyesterday": "-246",
 			"confirmed": "86",
 			"confirmedyesterday": "86",
 			"deceased": "25",
@@ -14719,8 +14719,8 @@
 			"deltarecovered": "0",
 			"district": "Unknown",
 			"districtnotes": "",
-			"recovered": "291",
-			"recoveredyesterday": "291",
+			"recovered": "307",
+			"recoveredyesterday": "307",
 			"slno": "760",
 			"state": "Telangana",
 			"statecode": "TG"
