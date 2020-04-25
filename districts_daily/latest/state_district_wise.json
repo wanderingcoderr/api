@@ -1587,12 +1587,12 @@
     "districtData": {
       "Anantnag": {
         "notes": "",
-        "active": 16,
-        "confirmed": 16,
+        "active": 37,
+        "confirmed": 37,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 21,
           "deceased": 0,
           "recovered": 0
         }
@@ -1611,24 +1611,24 @@
       },
       "Bandipore": {
         "notes": "",
-        "active": 85,
-        "confirmed": 108,
+        "active": 93,
+        "confirmed": 116,
         "deceased": 1,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Baramula": {
         "notes": "",
-        "active": 38,
-        "confirmed": 52,
+        "active": 41,
+        "confirmed": 55,
         "deceased": 2,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1647,14 +1647,14 @@
       },
       "Jammu": {
         "notes": "",
-        "active": 21,
+        "active": 19,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kathua": {
@@ -1695,12 +1695,12 @@
       },
       "Kupwara": {
         "notes": "",
-        "active": 39,
-        "confirmed": 45,
+        "active": 40,
+        "confirmed": 46,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1755,26 +1755,26 @@
       },
       "Shupiyan": {
         "notes": "",
-        "active": 49,
-        "confirmed": 60,
+        "active": 52,
+        "confirmed": 63,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Srinagar": {
         "notes": "",
-        "active": 51,
-        "confirmed": 79,
+        "active": 54,
+        "confirmed": 83,
         "deceased": 1,
-        "recovered": 27,
+        "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Udhampur": {
@@ -1783,18 +1783,6 @@
         "confirmed": 20,
         "deceased": 1,
         "recovered": 8,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 39,
-        "confirmed": 40,
-        "deceased": 1,
-        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
