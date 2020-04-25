@@ -14650,10 +14650,10 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "2",
-			"activeyesterday": "2",
-			"confirmed": "25",
-			"confirmedyesterday": "25",
+			"active": "4",
+			"activeyesterday": "4",
+			"confirmed": "27",
+			"confirmedyesterday": "27",
 			"deceased": "3",
 			"deceasedyesterday": "3",
 			"deltaactive": "0",
