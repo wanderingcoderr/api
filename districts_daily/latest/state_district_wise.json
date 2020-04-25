@@ -2793,24 +2793,24 @@
       },
       "Kolhapur": {
         "notes": "",
-        "active": 7,
-        "confirmed": 9,
+        "active": 8,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Latur": {
         "notes": "",
-        "active": 0,
-        "confirmed": 8,
+        "active": 1,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2938,13 +2938,13 @@
       "Ratnagiri": {
         "notes": "",
         "active": 5,
-        "confirmed": 7,
+        "confirmed": 8,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Sangli": {
@@ -3045,14 +3045,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -125,
-        "confirmed": -1,
+        "active": -127,
+        "confirmed": -4,
         "deceased": 0,
-        "recovered": 124,
+        "recovered": 123,
         "delta": {
-          "confirmed": -6,
+          "confirmed": -9,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       }
     },
