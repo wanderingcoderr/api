@@ -1,16 +1,16 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,24929,5655,786,18488,25/04/2020 18:27:37,TT,482,159,6,
+Total,25029,5655,787,18587,25/04/2020 18:32:37,TT,581,159,6,
 Maharashtra,6817,957,301,5559,24/04/2020 20:52:39,MH,0,0,0,
 Delhi,2514,857,53,1604,24/04/2020 21:32:38,DL,0,0,0,
 Gujarat,2815,265,127,2423,24/04/2020 20:21:01,GJ,0,0,0,
 Rajasthan,2061,493,33,1535,25/04/2020 14:47:37,RJ,27,0,1,
-Tamil Nadu,1821,960,23,838,25/04/2020 18:27:37,TN,66,94,1,
-Madhya Pradesh,1846,210,92,1544,24/04/2020 17:17:37,MP,0,0,0,
+Tamil Nadu,1821,960,23,838,25/04/2020 18:32:37,TN,66,94,1,
+Madhya Pradesh,1945,210,92,1643,24/04/2020 17:17:37,MP,99,0,0,
 Uttar Pradesh,1778,248,26,1504,25/04/2020 16:17:39,UP,157,22,1,
 Telangana,983,291,25,667,25/04/2020 00:32:37,TG,0,0,0,
 Andhra Pradesh,1016,171,31,814,25/04/2020 12:47:37,AP,61,26,2,
 Karnataka,500,158,18,324,25/04/2020 17:42:38,KA,26,6,0,
-Kerala,457,338,3,116,25/04/2020 17:22:40,KL,7,7,0,
+Kerala,458,338,4,116,25/04/2020 17:22:40,KL,7,7,0,Mahe native who expired in Kannur included in Kerala's tally
 Jammu and Kashmir,494,109,6,379,25/04/2020 17:22:41,JK,40,0,1,
 West Bengal,571,103,18,450,25/04/2020 09:32:37,WB,57,0,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
 Haryana,280,186,3,91,24/04/2020 14:52:40,HR,5,0,0,One death in Ambala included

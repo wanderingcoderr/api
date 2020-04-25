@@ -2398,8 +2398,8 @@
         "district": "Kannur",
         "notes": "",
         "active": 56,
-        "confirmed": 110,
-        "deceased": 0,
+        "confirmed": 111,
+        "deceased": 1,
         "recovered": 54,
         "delta": {
           "confirmed": 1,
@@ -2905,6 +2905,19 @@
         "notes": "Cases from other states",
         "active": 3,
         "confirmed": 3,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 99,
+        "confirmed": 99,
         "deceased": 0,
         "recovered": 0,
         "delta": {

@@ -777,13 +777,13 @@
 	],
 	"statewise": [
 		{
-			"active": "18488",
-			"confirmed": "24929",
-			"deaths": "786",
-			"deltaconfirmed": "482",
+			"active": "18587",
+			"confirmed": "25029",
+			"deaths": "787",
+			"deltaconfirmed": "581",
 			"deltadeaths": "6",
 			"deltarecovered": "159",
-			"lastupdatedtime": "25/04/2020 18:27:37",
+			"lastupdatedtime": "25/04/2020 18:32:37",
 			"recovered": "5655",
 			"state": "Total",
 			"statecode": "TT",
@@ -848,17 +848,17 @@
 			"deltaconfirmed": "66",
 			"deltadeaths": "1",
 			"deltarecovered": "94",
-			"lastupdatedtime": "25/04/2020 18:27:37",
+			"lastupdatedtime": "25/04/2020 18:32:37",
 			"recovered": "960",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
 			"statenotes": ""
 		},
 		{
-			"active": "1544",
-			"confirmed": "1846",
+			"active": "1643",
+			"confirmed": "1945",
 			"deaths": "92",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "99",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "24/04/2020 17:17:37",
@@ -921,8 +921,8 @@
 		},
 		{
 			"active": "116",
-			"confirmed": "457",
-			"deaths": "3",
+			"confirmed": "458",
+			"deaths": "4",
 			"deltaconfirmed": "7",
 			"deltadeaths": "0",
 			"deltarecovered": "7",
@@ -930,7 +930,7 @@
 			"recovered": "338",
 			"state": "Kerala",
 			"statecode": "KL",
-			"statenotes": ""
+			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
 			"active": "379",
