@@ -49182,21 +49182,22 @@
 			"statecode": "AP"
 		},
 		{
+			"_cx0b9": "https://twitter.com/DHFWKA/status/1253945625759997953?s=19",
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "25/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
-			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientnumbercouldbemappedlater": "25/04/2020",
+			"patientstatus": "Recovered",
 			"slno": "6313",
-			"source1": "",
+			"source1": "https://twitter.com/DHFWKA/status/1253945625759997953?s=19",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Karnataka",
+			"statecode": "KA"
 		},
 		{
 			"agebracket": "",

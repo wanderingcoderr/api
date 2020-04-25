@@ -2134,6 +2134,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 14,
+        "confirmed": 15,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 15,
+          "deceased": 0,
+          "recovered": 1
+        }
       }
     },
     "statecode": "KA"
