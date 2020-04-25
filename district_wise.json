@@ -1882,14 +1882,14 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "22",
+			"active": "23",
 			"activeyesterday": "21",
-			"confirmed": "27",
+			"confirmed": "28",
 			"confirmedyesterday": "26",
 			"deceased": "",
 			"deceasedyesterday": "",
-			"deltaactive": "1",
-			"deltaconfirmed": "1",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Patna",

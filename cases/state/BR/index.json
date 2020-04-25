@@ -5235,6 +5235,28 @@
       "statepatientnumber": "",
       "statuschangedate": "25/04/2020",
       "typeoftransmission": ""
+    },
+    {
+      "agebracket": "24",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "",
+      "currentstatus": "Hospitalized",
+      "dateannounced": "25/04/2020",
+      "detectedcity": "Khajpura",
+      "detecteddistrict": "Patna",
+      "detectedstate": "Bihar",
+      "estimatedonsetdate": "",
+      "gender": "M",
+      "nationality": "",
+      "notes": "Details awaited",
+      "patientnumber": "24854",
+      "source1": "https://twitter.com/sanjayjavin/status/1254022155508932609",
+      "source2": "",
+      "source3": "",
+      "statecode": "BR",
+      "statepatientnumber": "",
+      "statuschangedate": "25/04/2020",
+      "typeoftransmission": ""
     }
   ]
 }
