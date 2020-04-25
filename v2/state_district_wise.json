@@ -5231,7 +5231,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -5244,7 +5244,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 0
         }
       },
       {
@@ -5439,7 +5439,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -5497,10 +5497,10 @@
       {
         "district": "Kaushambi",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5543,7 +5543,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 0
         }
       },
       {
@@ -5588,9 +5588,9 @@
       {
         "district": "Meerut",
         "notes": "",
-        "active": 50,
+        "active": 49,
         "confirmed": 86,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 33,
         "delta": {
           "confirmed": 0,
@@ -5666,10 +5666,10 @@
       {
         "district": "Prayagraj",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5764,7 +5764,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 13
+          "recovered": 0
         }
       },
       {
@@ -5829,7 +5829,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": -9
+          "recovered": 0
         }
       },
       {
