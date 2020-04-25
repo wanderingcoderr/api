@@ -2841,13 +2841,13 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 3799,
-        "confirmed": 4447,
-        "deceased": 178,
+        "active": 4388,
+        "confirmed": 5049,
+        "deceased": 191,
         "recovered": 470,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 602,
+          "deceased": 13,
           "recovered": 57
         }
       },
@@ -2937,13 +2937,13 @@
       },
       "Pune": {
         "notes": "",
-        "active": 709,
-        "confirmed": 961,
-        "deceased": 67,
+        "active": 772,
+        "confirmed": 1030,
+        "deceased": 73,
         "recovered": 185,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 69,
+          "deceased": 6,
           "recovered": 8
         }
       },
@@ -3021,12 +3021,12 @@
       },
       "Thane": {
         "notes": "",
-        "active": 514,
-        "confirmed": 643,
+        "active": 588,
+        "confirmed": 717,
         "deceased": 15,
         "recovered": 114,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 74,
           "deceased": 0,
           "recovered": 25
         }
@@ -3069,9 +3069,9 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 670,
-        "confirmed": 811,
-        "deceased": 22,
+        "active": -56,
+        "confirmed": 66,
+        "deceased": 3,
         "recovered": 119,
         "delta": {
           "confirmed": 0,
