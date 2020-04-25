@@ -2914,7 +2914,7 @@
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2947,11 +2947,11 @@
       },
       {
         "district": "Buldana",
-        "notes": "",
-        "active": 15,
-        "confirmed": 24,
+        "notes": "Reconciled as per MH bulleting 23/04",
+        "active": 9,
+        "confirmed": 21,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3025,9 +3025,9 @@
       },
       {
         "district": "Jalna",
-        "notes": "",
-        "active": 3,
-        "confirmed": 3,
+        "notes": "Reconciled as per MH bulleting 23/04",
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -3044,7 +3044,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3057,7 +3057,7 @@
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3200,9 +3200,9 @@
         "deceased": 1,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -3305,19 +3305,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -127,
-        "confirmed": -4,
-        "deceased": 0,
-        "recovered": 123,
-        "delta": {
-          "confirmed": -9,
           "deceased": 0,
           "recovered": 0
         }
