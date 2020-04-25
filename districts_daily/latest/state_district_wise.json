@@ -3548,14 +3548,14 @@
       },
       "Banswara": {
         "notes": "",
-        "active": 45,
+        "active": 40,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 16,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Barmer": {
@@ -3668,9 +3668,9 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 630,
+        "active": 627,
         "confirmed": 778,
-        "deceased": 16,
+        "deceased": 19,
         "recovered": 132,
         "delta": {
           "confirmed": 1,
@@ -3692,14 +3692,14 @@
       },
       "Jhalawar": {
         "notes": "",
-        "active": 15,
+        "active": 13,
         "confirmed": 29,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 16,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Jhunjhunu": {
@@ -3740,14 +3740,14 @@
       },
       "Kota": {
         "notes": "",
-        "active": 85,
+        "active": 72,
         "confirmed": 148,
         "deceased": 3,
-        "recovered": 60,
+        "recovered": 73,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 13
         }
       },
       "Nagaur": {
@@ -3764,8 +3764,8 @@
       },
       "Pali": {
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 0,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 2,
         "delta": {
@@ -3852,18 +3852,6 @@
         "confirmed": 61,
         "deceased": 0,
         "recovered": 25,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -24,
-        "confirmed": -1,
-        "deceased": 3,
-        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
