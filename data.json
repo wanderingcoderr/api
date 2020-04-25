@@ -777,10 +777,10 @@
 	],
 	"statewise": [
 		{
-			"active": "18300",
-			"confirmed": "24608",
+			"active": "18305",
+			"confirmed": "24613",
 			"deaths": "783",
-			"deltaconfirmed": "161",
+			"deltaconfirmed": "166",
 			"deltadeaths": "3",
 			"deltarecovered": "29",
 			"lastupdatedtime": "25/04/2020 14:47:36",
@@ -959,10 +959,10 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "86",
-			"confirmed": "275",
+			"active": "91",
+			"confirmed": "280",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "5",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "24/04/2020 14:52:40",

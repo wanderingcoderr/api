@@ -14327,10 +14327,10 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "0",
-			"activeyesterday": "0",
-			"confirmed": "0",
-			"confirmedyesterday": "0",
+			"active": "5",
+			"activeyesterday": "5",
+			"confirmed": "5",
+			"confirmedyesterday": "5",
 			"deceased": "0",
 			"deceasedyesterday": "0",
 			"deltaactive": "0",
