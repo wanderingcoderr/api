@@ -1880,12 +1880,12 @@
       },
       "Ranchi": {
         "notes": "",
-        "active": 29,
-        "confirmed": 29,
+        "active": 30,
+        "confirmed": 30,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1904,8 +1904,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 3,
-        "confirmed": 14,
+        "active": 2,
+        "confirmed": 13,
         "deceased": 3,
         "recovered": 8,
         "delta": {
@@ -3209,12 +3209,12 @@
       },
       "Jajapur": {
         "notes": "",
-        "active": 11,
-        "confirmed": 12,
+        "active": 17,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -3245,14 +3245,14 @@
       },
       "Khordha": {
         "notes": "",
-        "active": 24,
+        "active": 23,
         "confirmed": 46,
         "deceased": 1,
-        "recovered": 21,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Puri": {
@@ -3277,18 +3277,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 5,
-        "confirmed": 6,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     },
