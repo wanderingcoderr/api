@@ -14688,8 +14688,8 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "-482",
-			"activeyesterday": "-482",
+			"active": "-576",
+			"activeyesterday": "-576",
 			"confirmed": "66",
 			"confirmedyesterday": "66",
 			"deceased": "23",
@@ -14700,8 +14700,8 @@
 			"deltarecovered": "0",
 			"district": "Unknown",
 			"districtnotes": "",
-			"recovered": "525",
-			"recoveredyesterday": "525",
+			"recovered": "619",
+			"recoveredyesterday": "619",
 			"slno": "759",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
