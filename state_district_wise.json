@@ -3399,26 +3399,26 @@
       },
       "Jalandhar": {
         "notes": "",
-        "active": 54,
-        "confirmed": 63,
+        "active": 57,
+        "confirmed": 66,
         "deceased": 2,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kapurthala": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Ludhiana": {
@@ -3435,14 +3435,14 @@
       },
       "Mansa": {
         "notes": "",
-        "active": 12,
+        "active": 11,
         "confirmed": 13,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Moga": {
@@ -3459,24 +3459,24 @@
       },
       "Pathankot": {
         "notes": "",
-        "active": 23,
-        "confirmed": 24,
+        "active": 24,
+        "confirmed": 25,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Patiala": {
         "notes": "",
-        "active": 54,
-        "confirmed": 55,
+        "active": 60,
+        "confirmed": 61,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -3519,12 +3519,12 @@
       },
       "Shahid Bhagat Singh Nagar": {
         "notes": "",
-        "active": 0,
-        "confirmed": 19,
+        "active": 1,
+        "confirmed": 20,
         "deceased": 1,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3535,18 +3535,6 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -4,
-        "confirmed": 11,
-        "deceased": 1,
-        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4325,6 +4313,18 @@
         "confirmed": 23,
         "deceased": 0,
         "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -482,
+        "confirmed": 66,
+        "deceased": 23,
+        "recovered": 525,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
