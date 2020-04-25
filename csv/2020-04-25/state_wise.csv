@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,24505,5498,780,18227,25/04/2020 09:37:36,TT,58,2,0,
+Total,24530,5498,780,18252,25/04/2020 09:37:36,TT,83,2,0,
 Maharashtra,6817,957,301,5559,24/04/2020 20:52:39,MH,0,0,0,
 Delhi,2514,857,53,1604,24/04/2020 21:32:38,DL,0,0,0,
 Gujarat,2815,265,127,2423,24/04/2020 20:21:01,GJ,0,0,0,
-Rajasthan,2034,493,32,1509,24/04/2020 21:42:37,RJ,0,0,0,
+Rajasthan,2059,493,32,1534,24/04/2020 21:42:37,RJ,25,0,0,
 Tamil Nadu,1755,866,22,867,24/04/2020 18:17:38,TN,0,0,0,
 Madhya Pradesh,1846,210,92,1544,24/04/2020 17:17:37,MP,0,0,0,
 Uttar Pradesh,1621,226,25,1370,24/04/2020 19:47:38,UP,0,0,0,

@@ -2661,14 +2661,14 @@
       },
       "Akola": {
         "notes": "",
-        "active": 19,
-        "confirmed": 20,
+        "active": 15,
+        "confirmed": 23,
         "deceased": 1,
-        "recovered": 0,
+        "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Amravati": {
@@ -2733,12 +2733,12 @@
       },
       "Dhule": {
         "notes": "",
-        "active": 15,
-        "confirmed": 17,
+        "active": 20,
+        "confirmed": 22,
         "deceased": 2,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 1,
           "recovered": 0
         }
@@ -3021,38 +3021,38 @@
       },
       "Yavatmal": {
         "notes": "",
-        "active": 10,
-        "confirmed": 17,
+        "active": 13,
+        "confirmed": 23,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Other States": {
         "notes": "Cases from other States/UTs",
-        "active": 19,
-        "confirmed": 21,
+        "active": 23,
+        "confirmed": 25,
         "deceased": 2,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
         "notes": "",
-        "active": -110,
-        "confirmed": 23,
+        "active": -118,
+        "confirmed": 5,
         "deceased": 0,
-        "recovered": 133,
+        "recovered": 123,
         "delta": {
-          "confirmed": 23,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 82
+          "recovered": 72
         }
       }
     },
@@ -3856,6 +3856,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 25,
+        "deceased": 3,
+        "recovered": 20,
+        "delta": {
+          "confirmed": 17,
+          "deceased": 1,
+          "recovered": 20
         }
       }
     },
