@@ -1429,7 +1429,7 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"positive": "28",
-			"source": "",
+			"source": "http://chdcovid19.in/",
 			"source2": "",
 			"state": "Chandigarh",
 			"testpositivityrate": "",
@@ -1437,7 +1437,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "734",
-			"unconfirmed": "",
+			"unconfirmed": "37",
 			"updatedon": "25/04/2020"
 		},
 		{
@@ -2971,21 +2971,21 @@
 			"updatedon": "24/04/2020"
 		},
 		{
-			"negative": "17207",
+			"negative": "17787",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
-			"positive": "280",
-			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Morning%20Bulletin%2025-04-2020.pdf",
+			"positive": "287",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Bulletin%2025-04-2020.pdf",
 			"source2": "",
 			"state": "Haryana",
 			"testpositivityrate": "",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "19527",
-			"unconfirmed": "2040",
+			"totaltested": "20270",
+			"unconfirmed": "2196",
 			"updatedon": "25/04/2020"
 		},
 		{
@@ -6859,6 +6859,42 @@
 			"updatedon": "24/04/2020"
 		},
 		{
+			"negative": "1793",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "8",
+			"source": "https://covid19dashboard.py.gov.in/Home/TestResultsReport",
+			"source2": "",
+			"state": "Puducherry",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "1864",
+			"unconfirmed": "63",
+			"updatedon": "25/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Puducherry",
+			"testpositivityrate": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "27/04/2020"
+		},
+		{
 			"negative": "1236",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -7916,9 +7952,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "80110",
 			"unconfirmed": "",
-			"updatedon": "26/04/2020"
+			"updatedon": "25/04/2020"
 		},
 		{
 			"negative": "14104",

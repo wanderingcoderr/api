@@ -19,12 +19,12 @@
       {
         "district": "South Andaman",
         "notes": "",
-        "active": 17,
-        "confirmed": 27,
+        "active": 21,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -2630,12 +2630,12 @@
       {
         "district": "Chhindwara",
         "notes": "",
-        "active": 3,
-        "confirmed": 4,
+        "active": 4,
+        "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2894,19 +2894,6 @@
         "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -78,
-        "confirmed": 1,
-        "deceased": 7,
-        "recovered": 72,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

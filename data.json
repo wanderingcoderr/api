@@ -777,14 +777,14 @@
 	],
 	"statewise": [
 		{
-			"active": "18509",
-			"confirmed": "25038",
+			"active": "18512",
+			"confirmed": "25042",
 			"deaths": "794",
-			"deltaconfirmed": "590",
+			"deltaconfirmed": "594",
 			"deltadeaths": "13",
-			"deltarecovered": "239",
+			"deltarecovered": "240",
 			"lastupdatedtime": "25/04/2020 19:42:37",
-			"recovered": "5735",
+			"recovered": "5736",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -985,14 +985,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "196",
+			"active": "195",
 			"confirmed": "242",
 			"deaths": "2",
 			"deltaconfirmed": "19",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "25/04/2020 19:32:39",
-			"recovered": "44",
+			"recovered": "45",
 			"state": "Bihar",
 			"statecode": "BR",
 			"statenotes": ""
@@ -1102,10 +1102,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "18",
-			"confirmed": "29",
+			"active": "22",
+			"confirmed": "33",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "24/04/2020 21:42:40",

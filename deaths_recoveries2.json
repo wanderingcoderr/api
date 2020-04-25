@@ -52959,19 +52959,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
+			"date": "25/04/2020",
 			"district": "",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Recovered",
 			"slno": "6535",
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Bihar",
+			"statecode": "BR"
 		},
 		{
 			"agebracket": "",
