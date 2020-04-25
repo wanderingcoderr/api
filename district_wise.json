@@ -14745,10 +14745,10 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "0",
-			"activeyesterday": "0",
-			"confirmed": "0",
-			"confirmedyesterday": "0",
+			"active": "160",
+			"activeyesterday": "160",
+			"confirmed": "160",
+			"confirmedyesterday": "160",
 			"deceased": "0",
 			"deceasedyesterday": "0",
 			"deltaactive": "0",
