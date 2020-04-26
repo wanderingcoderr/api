@@ -32,50 +32,50 @@
     "districtData": {
       "Anantapur": {
         "notes": "",
-        "active": 34,
-        "confirmed": 51,
+        "active": 35,
+        "confirmed": 53,
         "deceased": 4,
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Chittoor": {
         "notes": "",
-        "active": 62,
+        "active": 60,
         "confirmed": 73,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "East Godavari": {
         "notes": "",
-        "active": 25,
-        "confirmed": 37,
+        "active": 27,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Guntur": {
         "notes": "",
-        "active": 178,
-        "confirmed": 209,
+        "active": 177,
+        "confirmed": 214,
         "deceased": 8,
-        "recovered": 23,
+        "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Krishna": {
@@ -176,14 +176,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 81,
-        "confirmed": 81,
+        "active": 21,
+        "confirmed": 72,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 51,
         "delta": {
-          "confirmed": 81,
+          "confirmed": 72,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 51
         }
       }
     },
