@@ -56969,11 +56969,11 @@
 			"statecode": "WB"
 		},
 		{
-			"agebracket": "",
-			"city": "",
+			"agebracket": "65",
+			"city": "Ratanada",
 			"date": "26/04/2020",
 			"district": "Jodhpur",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
@@ -58414,18 +58414,18 @@
 			"statecode": "KA"
 		},
 		{
-			"agebracket": "",
+			"agebracket": "60",
 			"city": "",
 			"date": "26/04/2020",
 			"district": "Jodhpur",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
-			"notes": "",
+			"notes": "She was suffering from diabetes, HTN and kidney disease.",
 			"patientnumbercouldbemappedlater": "",
 			"patientstatus": "Deceased",
 			"slno": "6856",
 			"source1": "https://twitter.com/ANI/status/1254341776795672581?s=20",
-			"source2": "",
+			"source2": "https://www.deccanherald.com/national/west/rajasthan-reports-69-new-covid-19-cases-one-death-830155.html",
 			"source3": "",
 			"state": "Rajasthan",
 			"statecode": "RJ"

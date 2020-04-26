@@ -3649,23 +3649,23 @@
 			"updatedon": "25/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "4794",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "40",
+			"source": "https://twitter.com/nhm_hp/status/1254445018900836353?s=19",
 			"source2": "",
 			"state": "Himachal Pradesh",
-			"testpositivityrate": "",
+			"testpositivityrate": "0.82%",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "27/04/2020"
+			"totaltested": "4901",
+			"unconfirmed": "67",
+			"updatedon": "26/04/2020"
 		},
 		{
 			"negative": "1429",
@@ -4656,23 +4656,23 @@
 			"updatedon": "25/04/2020"
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
+			"negative": "38207",
+			"numcallsstatehelpline": "8486",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "503",
+			"source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/26-04-2020%20-%2005-00%20-%20English.pdf",
 			"source2": "",
 			"state": "Karnataka",
-			"testpositivityrate": "",
+			"testpositivityrate": "1.17%",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "42964",
 			"unconfirmed": "",
-			"updatedon": "27/04/2020"
+			"updatedon": "26/04/2020"
 		},
 		{
 			"negative": "7256",
@@ -5718,6 +5718,25 @@
 			"totaltested": "36887",
 			"unconfirmed": "9021",
 			"updatedon": "25/04/2020"
+		},
+		{
+			"negative": "28179",
+			"numcallsstatehelpline": "961106",
+			"numicubeds": "865",
+			"numisolationbeds": "33514",
+			"numventilators": "592",
+			"populationsourceuidai": "",
+			"positive": "2090",
+			"source": "",
+			"source2": "",
+			"state": "Madhya Pradesh",
+			"testpositivityrate": "5.40%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "38708",
+			"unconfirmed": "8439",
+			"updatedon": "26/04/2020"
 		},
 		{
 			"negative": "14837",
