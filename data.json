@@ -786,14 +786,14 @@
 	],
 	"statewise": [
 		{
-			"active": "19738",
+			"active": "19757",
 			"confirmed": "26766",
 			"deaths": "837",
 			"deltaconfirmed": "483",
 			"deltadeaths": "12",
-			"deltarecovered": "253",
+			"deltarecovered": "234",
 			"lastupdatedtime": "26/04/2020 18:52:37",
-			"recovered": "6191",
+			"recovered": "6172",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -929,14 +929,14 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "283",
+			"active": "302",
 			"confirmed": "503",
 			"deaths": "19",
 			"deltaconfirmed": "3",
 			"deltadeaths": "1",
-			"deltarecovered": "43",
+			"deltarecovered": "24",
 			"lastupdatedtime": "26/04/2020 18:42:38",
-			"recovered": "201",
+			"recovered": "182",
 			"state": "Karnataka",
 			"statecode": "KA",
 			"statenotes": ""
