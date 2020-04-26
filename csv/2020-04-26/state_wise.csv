@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,26529,6070,829,19630,26/04/2020 17:47:38,TT,246,132,4,
+Total,26529,6074,830,19625,26/04/2020 17:57:36,TT,246,136,5,
 Maharashtra,7628,1076,323,6229,25/04/2020 21:02:37,MH,0,0,0,
 Gujarat,3071,282,133,2656,25/04/2020 20:42:38,GJ,0,0,0,
 Delhi,2625,869,54,1702,25/04/2020 21:52:38,DL,0,0,0,
@@ -11,8 +11,8 @@ Andhra Pradesh,1097,231,31,835,26/04/2020 11:57:37,AP,81,60,0,
 Telangana,990,307,25,658,25/04/2020 20:57:37,TG,0,0,0,
 West Bengal,611,105,18,488,26/04/2020 09:47:38,WB,40,2,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
 Karnataka,501,177,18,306,26/04/2020 13:37:37,KA,1,19,0,
-Jammu and Kashmir,523,137,6,380,26/04/2020 17:47:39,JK,29,25,0,
-Kerala,469,338,4,127,26/04/2020 07:52:37,KL,11,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Jammu and Kashmir,523,137,7,379,26/04/2020 17:52:37,JK,29,25,1,
+Kerala,469,342,4,123,26/04/2020 17:57:38,KL,11,4,0,Mahe native who expired in Kannur included in Kerala's tally
 Punjab,308,72,17,219,26/04/2020 09:07:38,PB,0,0,0,
 Haryana,287,191,3,93,25/04/2020 19:42:38,HR,0,0,0,One death in Ambala included
 Bihar,259,56,2,201,26/04/2020 17:42:38,BR,8,11,0,
@@ -23,7 +23,7 @@ Himachal Pradesh,40,22,2,16,26/04/2020 10:47:39,HP,0,0,0,Death of Tibetan refuge
 Chhattisgarh,37,32,0,5,25/04/2020 09:37:38,CT,0,0,0,
 Assam,36,27,1,8,26/04/2020 17:32:41,AS,0,8,0,Includes one case from Nagaland
 Andaman and Nicobar Islands,33,11,0,22,25/04/2020 20:02:39,AN,0,0,0,
-Chandigarh,30,17,0,13,26/04/2020 17:47:40,CH,2,2,0,
+Chandigarh,30,17,0,13,26/04/2020 17:52:41,CH,2,2,0,
 Ladakh,20,16,0,4,25/04/2020 17:32:38,LA,0,0,0,
 Meghalaya,12,0,1,11,18/04/2020 12:38:07,ML,0,0,0,
 Puducherry,8,4,0,4,25/04/2020 17:42:40,PY,0,0,0,
