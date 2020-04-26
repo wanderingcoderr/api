@@ -1671,9 +1671,9 @@
       {
         "district": "Solan",
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 9,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 3,
         "delta": {
           "confirmed": 0,
