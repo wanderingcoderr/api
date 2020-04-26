@@ -4199,13 +4199,13 @@
       {
         "district": "Tonk",
         "notes": "",
-        "active": 81,
+        "active": 82,
         "confirmed": 115,
-        "deceased": 2,
+        "deceased": 1,
         "recovered": 32,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 13
         }
       },
