@@ -2922,12 +2922,12 @@
       {
         "district": "Ahmadnagar",
         "notes": "",
-        "active": 11,
-        "confirmed": 35,
+        "active": 12,
+        "confirmed": 36,
         "deceased": 2,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2935,12 +2935,12 @@
       {
         "district": "Akola",
         "notes": "",
-        "active": 15,
-        "confirmed": 23,
+        "active": 21,
+        "confirmed": 29,
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2948,12 +2948,12 @@
       {
         "district": "Amravati",
         "notes": "",
-        "active": 14,
-        "confirmed": 19,
+        "active": 15,
+        "confirmed": 20,
         "deceased": 1,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3052,13 +3052,13 @@
       {
         "district": "Jalgaon",
         "notes": "",
-        "active": 10,
-        "confirmed": 13,
-        "deceased": 2,
+        "active": 14,
+        "confirmed": 19,
+        "deceased": 4,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 6,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -3091,13 +3091,13 @@
       {
         "district": "Latur",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 9,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 8,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3182,12 +3182,12 @@
       {
         "district": "Palghar",
         "notes": "",
-        "active": 109,
-        "confirmed": 139,
+        "active": 111,
+        "confirmed": 141,
         "deceased": 4,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3221,12 +3221,12 @@
       {
         "district": "Raigarh",
         "notes": "",
-        "active": 37,
-        "confirmed": 56,
+        "active": 38,
+        "confirmed": 57,
         "deceased": 1,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3247,12 +3247,12 @@
       {
         "district": "Sangli",
         "notes": "",
-        "active": 0,
-        "confirmed": 26,
+        "active": 1,
+        "confirmed": 27,
         "deceased": 1,
         "recovered": 25,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3287,12 +3287,12 @@
         "district": "Solapur",
         "notes": "",
         "active": 42,
-        "confirmed": 46,
-        "deceased": 4,
+        "confirmed": 47,
+        "deceased": 5,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 1,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3325,12 +3325,12 @@
       {
         "district": "Yavatmal",
         "notes": "",
-        "active": 18,
-        "confirmed": 28,
+        "active": 38,
+        "confirmed": 48,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
@@ -3346,19 +3346,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -77,
-        "confirmed": 39,
-        "deceased": 4,
-        "recovered": 112,
-        "delta": {
-          "confirmed": 39,
-          "deceased": 4,
-          "recovered": -7
         }
       }
     ]
@@ -5900,13 +5887,13 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 50,
+        "active": 49,
         "confirmed": 80,
-        "deceased": 2,
+        "deceased": 3,
         "recovered": 28,
         "delta": {
           "confirmed": 80,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 28
         }
       }

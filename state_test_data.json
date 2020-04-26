@@ -9140,6 +9140,25 @@
 			"updatedon": "25/04/2020"
 		},
 		{
+			"negative": "58492",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "1873",
+			"source": "https://twitter.com/qazifarazahmad/status/1254434010375131138?s=19",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"testpositivityrate": "3.03%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "61799",
+			"unconfirmed": "984",
+			"updatedon": "26/04/2020"
+		},
+		{
 			"negative": "554",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
