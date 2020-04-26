@@ -775,25 +775,25 @@
 			"totalrecovered": "5496"
 		},
 		{
-			"dailyconfirmed": "1896",
+			"dailyconfirmed": "1835",
 			"dailydeceased": "44",
 			"dailyrecovered": "443",
 			"date": "25 April ",
-			"totalconfirmed": "26343",
+			"totalconfirmed": "26282",
 			"totaldeceased": "824",
 			"totalrecovered": "5939"
 		}
 	],
 	"statewise": [
 		{
-			"active": "19580",
-			"confirmed": "26344",
-			"deaths": "825",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 09:27:36",
-			"recovered": "5939",
+			"active": "19617",
+			"confirmed": "26384",
+			"deaths": "826",
+			"deltaconfirmed": "101",
+			"deltadeaths": "1",
+			"deltarecovered": "2",
+			"lastupdatedtime": "26/04/2020 09:47:37",
+			"recovered": "5941",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -838,11 +838,11 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1594",
+			"active": "1593",
 			"confirmed": "2141",
-			"deaths": "34",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
+			"deaths": "35",
+			"deltaconfirmed": "58",
+			"deltadeaths": "1",
 			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 09:27:37",
 			"recovered": "513",
@@ -916,14 +916,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "450",
-			"confirmed": "571",
+			"active": "488",
+			"confirmed": "611",
 			"deaths": "18",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "40",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 09:32:37",
-			"recovered": "103",
+			"deltarecovered": "2",
+			"lastupdatedtime": "26/04/2020 09:47:38",
+			"recovered": "105",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
@@ -1010,7 +1010,7 @@
 			"active": "68",
 			"confirmed": "103",
 			"deaths": "1",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "25/04/2020 23:22:41",
