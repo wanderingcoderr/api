@@ -10999,6 +10999,28 @@
       "statepatientnumber": "KA-P500",
       "statuschangedate": "25/04/2020",
       "typeoftransmission": ""
+    },
+    {
+      "agebracket": "47",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "P21463",
+      "currentstatus": "Hospitalized",
+      "dateannounced": "26/04/2020",
+      "detectedcity": "Panemangalore",
+      "detecteddistrict": "Dakshina Kannada",
+      "detectedstate": "Karnataka",
+      "estimatedonsetdate": "",
+      "gender": "F",
+      "nationality": "",
+      "notes": "Contact of KA-P432",
+      "patientnumber": "26467",
+      "source1": "https://twitter.com/sriramulubjp/status/1254301034509332481",
+      "source2": "",
+      "source3": "",
+      "statecode": "KA",
+      "statepatientnumber": "KA-P501",
+      "statuschangedate": "26/04/2020",
+      "typeoftransmission": ""
     }
   ]
 }

@@ -152,12 +152,12 @@
       },
       "West Godavari": {
         "notes": "",
-        "active": 31,
-        "confirmed": 41,
+        "active": 41,
+        "confirmed": 51,
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 1
         }
@@ -170,18 +170,6 @@
         "recovered": 28,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 10,
-        "confirmed": 10,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 10,
           "deceased": 0,
           "recovered": 0
         }
@@ -467,14 +455,14 @@
       },
       "Gaya": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Gopalganj": {
@@ -539,14 +527,14 @@
       },
       "Nalanda": {
         "notes": "",
-        "active": 32,
+        "active": 31,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 3,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Nawada": {
@@ -599,14 +587,14 @@
       },
       "Siwan": {
         "notes": "",
-        "active": 13,
+        "active": 12,
         "confirmed": 30,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 18,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Vaishali": {
@@ -2005,12 +1993,12 @@
       },
       "Dakshina Kannada": {
         "notes": "",
-        "active": 4,
-        "confirmed": 17,
+        "active": 5,
+        "confirmed": 18,
         "deceased": 2,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
