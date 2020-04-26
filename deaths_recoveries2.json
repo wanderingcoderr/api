@@ -58416,19 +58416,19 @@
 		{
 			"agebracket": "",
 			"city": "",
-			"date": "",
-			"district": "",
+			"date": "26/04/2020",
+			"district": "Jodhpur",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
-			"patientstatus": "",
+			"patientstatus": "Deceased",
 			"slno": "6856",
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"state": "",
-			"statecode": ""
+			"state": "Rajasthan",
+			"statecode": "RJ"
 		}
 	]
 }
