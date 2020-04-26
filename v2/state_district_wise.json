@@ -5887,14 +5887,14 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 49,
+        "active": 11,
         "confirmed": 80,
         "deceased": 3,
-        "recovered": 28,
+        "recovered": 66,
         "delta": {
           "confirmed": 80,
           "deceased": 3,
-          "recovered": 28
+          "recovered": 66
         }
       }
     ]
