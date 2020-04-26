@@ -359,12 +359,12 @@
     "districtData": {
       "Arwal": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -467,12 +467,24 @@
       },
       "Gopalganj": {
         "notes": "",
-        "active": 4,
-        "confirmed": 7,
+        "active": 9,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 9,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Jehanabad": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -563,12 +575,12 @@
       },
       "Rohtas": {
         "notes": "",
-        "active": 9,
-        "confirmed": 9,
+        "active": 15,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -608,18 +620,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 15,
-        "confirmed": 15,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 15,
-          "deceased": 0,
-          "recovered": -3
-        }
       }
     },
     "statecode": "BR"
@@ -628,12 +628,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 13,
-        "confirmed": 30,
+        "active": 19,
+        "confirmed": 36,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 2
         }
@@ -2450,6 +2450,18 @@
           "recovered": 0
         }
       },
+      "Dindori": {
+        "notes": "",
+        "active": 2,
+        "confirmed": 2,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 2,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "Gwalior": {
         "notes": "",
         "active": 2,
@@ -2572,14 +2584,14 @@
       },
       "Sagar": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Shajapur": {
@@ -2664,18 +2676,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 1,
-        "confirmed": 2,
-        "deceased": 0,
-        "recovered": 1,
-        "delta": {
-          "confirmed": 2,
-          "deceased": 0,
-          "recovered": 1
         }
       }
     },
