@@ -2604,12 +2604,12 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 302,
-        "confirmed": 415,
+        "active": 275,
+        "confirmed": 388,
         "deceased": 9,
         "recovered": 104,
         "delta": {
-          "confirmed": 27,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2682,12 +2682,12 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 1012,
-        "confirmed": 1176,
+        "active": 921,
+        "confirmed": 1085,
         "deceased": 57,
         "recovered": 107,
         "delta": {
-          "confirmed": 91,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2721,14 +2721,14 @@
       {
         "district": "Khargone",
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 43,
-        "confirmed": 61,
+        "active": 47,
+        "confirmed": 60,
         "deceased": 6,
-        "recovered": 12,
+        "recovered": 7,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 0
         }
       },
       {
@@ -2890,14 +2890,14 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 31,
-        "confirmed": 26,
+        "active": 145,
+        "confirmed": 145,
         "deceased": 0,
-        "recovered": -5,
+        "recovered": 0,
         "delta": {
-          "confirmed": 26,
+          "confirmed": 145,
           "deceased": 0,
-          "recovered": -5
+          "recovered": 0
         }
       }
     ]
@@ -4017,12 +4017,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 648,
-        "confirmed": 800,
+        "active": 647,
+        "confirmed": 799,
         "deceased": 19,
         "recovered": 133,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -4231,19 +4231,6 @@
         "recovered": 25,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -1,
-        "confirmed": -1,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
