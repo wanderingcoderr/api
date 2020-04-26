@@ -1,9 +1,5 @@
 [
   {
-    "update": "11 new cases and 5 recoveries in Karnataka\n1 new case in Chandigarh\n1 new case in Puducherry\n",
-    "timestamp": 1587816703
-  },
-  {
     "update": "1 new case in Bihar\n",
     "timestamp": 1587817898
   },
@@ -198,5 +194,9 @@
   {
     "update": "230 new cases in Gujarat\n6 new cases in Jharkhand\n",
     "timestamp": 1587912124
+  },
+  {
+    "update": "9 new cases in Jharkhand\n",
+    "timestamp": 1587912448
   }
 ]
