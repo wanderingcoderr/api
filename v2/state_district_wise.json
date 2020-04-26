@@ -4056,13 +4056,13 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 288,
+        "active": 287,
         "confirmed": 341,
-        "deceased": 3,
+        "deceased": 4,
         "recovered": 50,
         "delta": {
           "confirmed": 15,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -4225,13 +4225,13 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 10,
+        "active": 11,
         "confirmed": 11,
-        "deceased": 1,
+        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 11,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       }
