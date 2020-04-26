@@ -929,13 +929,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "116",
-			"confirmed": "458",
+			"active": "115",
+			"confirmed": "457",
 			"deaths": "4",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 17:22:40",
+			"lastupdatedtime": "26/04/2020 07:37:37",
 			"recovered": "338",
 			"state": "Kerala",
 			"statecode": "KL",
@@ -1033,13 +1033,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "56",
-			"confirmed": "67",
+			"active": "57",
+			"confirmed": "68",
 			"deaths": "3",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 23:02:38",
+			"lastupdatedtime": "26/04/2020 07:37:38",
 			"recovered": "8",
 			"state": "Jharkhand",
 			"statecode": "JH",

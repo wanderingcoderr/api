@@ -1904,8 +1904,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 2,
-        "confirmed": 13,
+        "active": 3,
+        "confirmed": 14,
         "deceased": 3,
         "recovered": 8,
         "delta": {
@@ -2330,6 +2330,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -2,
+        "confirmed": -1,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       }
     },
