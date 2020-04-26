@@ -14650,14 +14650,14 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "1",
+			"active": "58",
 			"activeyesterday": "0",
-			"confirmed": "1",
+			"confirmed": "58",
 			"confirmedyesterday": "0",
 			"deceased": "0",
 			"deceasedyesterday": "0",
-			"deltaactive": "1",
-			"deltaconfirmed": "1",
+			"deltaactive": "58",
+			"deltaconfirmed": "58",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Unknown",

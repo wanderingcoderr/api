@@ -4264,12 +4264,12 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 58,
+        "confirmed": 58,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 58,
           "deceased": 0,
           "recovered": 0
         }
