@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 recovery in Bihar\n4 new cases in Andaman and Nicobar Islands\n",
-    "timestamp": 1587825098
-  },
-  {
     "update": "15 new cases in Uttar Pradesh\n",
     "timestamp": 1587826302
   },
@@ -198,5 +194,9 @@
   {
     "update": "116 recoveries and 5 deaths in Rajasthan\n9 new cases in Punjab\n",
     "timestamp": 1587919302
+  },
+  {
+    "update": "293 new cases and 8 recoveries in Delhi\n",
+    "timestamp": 1587920509
   }
 ]
