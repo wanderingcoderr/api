@@ -1,9 +1,5 @@
 [
   {
-    "update": "29 recoveries in Telangana\n",
-    "timestamp": 1587754894
-  },
-  {
     "update": "57 new cases in West Bengal\n",
     "timestamp": 1587787319
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 recoveries in Jharkhand\n",
     "timestamp": 1587885078
+  },
+  {
+    "update": "2 new cases in Uttarakhand\n",
+    "timestamp": 1587887497
   }
 ]
