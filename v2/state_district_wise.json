@@ -718,10 +718,10 @@
       {
         "district": "Korba",
         "notes": "",
-        "active": 11,
+        "active": 4,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1619,10 +1619,10 @@
       {
         "district": "Chamba",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 6,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -1658,8 +1658,8 @@
       {
         "district": "Sirmaur",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 1,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -1684,23 +1684,10 @@
       {
         "district": "Una",
         "notes": "",
-        "active": 8,
+        "active": 5,
         "confirmed": 16,
         "deceased": 0,
-        "recovered": 8,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -5,
-        "confirmed": 1,
-        "deceased": 1,
-        "recovered": 5,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
