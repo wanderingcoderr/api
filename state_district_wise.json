@@ -1385,14 +1385,14 @@
       },
       "Nuh": {
         "notes": "",
-        "active": 19,
+        "active": 18,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 38,
+        "recovered": 39,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Palwal": {
@@ -1409,24 +1409,24 @@
       },
       "Panchkula": {
         "notes": "",
-        "active": 15,
+        "active": 8,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       "Panipat": {
         "notes": "",
-        "active": 3,
-        "confirmed": 8,
+        "active": 7,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1457,12 +1457,12 @@
       },
       "Sonipat": {
         "notes": "",
-        "active": 15,
-        "confirmed": 19,
+        "active": 16,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1489,18 +1489,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -3,
-        "confirmed": 5,
-        "deceased": 0,
-        "recovered": 8,
-        "delta": {
-          "confirmed": 5,
-          "deceased": 0,
-          "recovered": 8
         }
       }
     },
@@ -3093,14 +3081,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 379,
+        "active": 309,
         "confirmed": 440,
         "deceased": 19,
-        "recovered": 42,
+        "recovered": 112,
         "delta": {
           "confirmed": 440,
           "deceased": 19,
-          "recovered": -77
+          "recovered": -7
         }
       }
     },
@@ -4398,12 +4386,12 @@
       },
       "Hyderabad": {
         "notes": "",
-        "active": 532,
-        "confirmed": 532,
+        "active": 543,
+        "confirmed": 543,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -4710,14 +4698,14 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -246,
+        "active": -254,
         "confirmed": 86,
         "deceased": 25,
-        "recovered": 307,
+        "recovered": 315,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       }
     },
