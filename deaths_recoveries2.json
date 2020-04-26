@@ -67815,11 +67815,11 @@
 			"statecode": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "60",
 			"city": "",
 			"date": "26/04/2020",
 			"district": "",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
