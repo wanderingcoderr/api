@@ -1901,6 +1901,25 @@
 			"updatedon": "24/04/2020"
 		},
 		{
+			"negative": "11168",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "37",
+			"source": "http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_25042020.pdf",
+			"source2": "",
+			"state": "Chhattisgarh",
+			"testpositivityrate": "0.29%",
+			"testsperthousand": "0.4344978158",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "12596",
+			"unconfirmed": "1391",
+			"updatedon": "25/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4580,6 +4599,25 @@
 			"updatedon": "24/04/2020"
 		},
 		{
+			"negative": "34888",
+			"numcallsstatehelpline": "8731",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "500",
+			"source": "https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/25-04-2020%20-%2005-00%20-%20English.pdf",
+			"source2": "",
+			"state": "Karnataka",
+			"testpositivityrate": "1.28%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "39083",
+			"unconfirmed": "",
+			"updatedon": "25/04/2020"
+		},
+		{
 			"negative": "",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -4596,7 +4634,7 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "",
 			"unconfirmed": "",
-			"updatedon": "26/04/2020"
+			"updatedon": "27/04/2020"
 		},
 		{
 			"negative": "7256",

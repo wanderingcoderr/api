@@ -3104,13 +3104,13 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 4307,
-        "confirmed": 5049,
-        "deceased": 191,
+        "active": 4652,
+        "confirmed": 5407,
+        "deceased": 204,
         "recovered": 551,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 358,
+          "deceased": 13,
           "recovered": 81
         }
       },
@@ -3208,13 +3208,13 @@
       {
         "district": "Pune",
         "notes": "",
-        "active": 751,
-        "confirmed": 1030,
-        "deceased": 73,
+        "active": 770,
+        "confirmed": 1052,
+        "deceased": 76,
         "recovered": 206,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 22,
+          "deceased": 3,
           "recovered": 21
         }
       },
@@ -3299,13 +3299,13 @@
       {
         "district": "Thane",
         "notes": "",
-        "active": 583,
-        "confirmed": 717,
-        "deceased": 15,
+        "active": 605,
+        "confirmed": 738,
+        "deceased": 14,
         "recovered": 119,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 21,
+          "deceased": -1,
           "recovered": 5
         }
       },
@@ -3351,13 +3351,13 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 309,
-        "confirmed": 440,
-        "deceased": 19,
+        "active": -77,
+        "confirmed": 39,
+        "deceased": 4,
         "recovered": 112,
         "delta": {
-          "confirmed": 440,
-          "deceased": 19,
+          "confirmed": 39,
+          "deceased": 4,
           "recovered": -7
         }
       }
@@ -5900,12 +5900,12 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 20,
-        "confirmed": 50,
+        "active": 50,
+        "confirmed": 80,
         "deceased": 2,
         "recovered": 28,
         "delta": {
-          "confirmed": 50,
+          "confirmed": 80,
           "deceased": 2,
           "recovered": 28
         }

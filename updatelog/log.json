@@ -1,9 +1,5 @@
 [
   {
-    "update": "99 new cases in Madhya Pradesh\n1 new case in Kerala. Note : 1 death of Mahe patient who expired in Kannur on 11th April added to Kerala's tally.\n",
-    "timestamp": 1587820288
-  },
-  {
     "update": "71 recoveries and 7 deaths in Madhya Pradesh\n",
     "timestamp": 1587820904
   },
@@ -198,5 +194,9 @@
   {
     "update": "50 new cases and 28 recoveries in Uttar Pradesh\n1 recovery in Telangana\n",
     "timestamp": 1587914522
+  },
+  {
+    "update": "30 new cases in Uttar Pradesh\n",
+    "timestamp": 1587915732
   }
 ]
