@@ -3257,14 +3257,14 @@
       },
       "Khordha": {
         "notes": "",
-        "active": 23,
+        "active": 22,
         "confirmed": 46,
         "deceased": 1,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Puri": {

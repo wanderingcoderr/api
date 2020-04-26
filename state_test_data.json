@@ -530,26 +530,26 @@
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "526",
 			"unconfirmed": "16",
-			"updatedon": "23/04/2020"
+			"updatedon": "24/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "529",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "2",
+			"source": "http://covid19.itanagarsmartcity.in/covidstatus.php",
 			"source2": "",
 			"state": "Arunachal Pradesh",
 			"testpositivityrate": "",
-			"testsperthousand": "0",
+			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "25/04/2020"
+			"totaltested": "568",
+			"unconfirmed": "37",
+			"updatedon": "26/04/2020"
 		},
 		{
 			"negative": "819",
@@ -8190,23 +8190,23 @@
 			"updatedon": "25/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "75670",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "2152",
+			"source": "https://t.me/indiacovid/3237",
 			"source2": "",
 			"state": "Rajasthan",
-			"testpositivityrate": "",
+			"testpositivityrate": "2.59%",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "27/04/2020"
+			"totaltested": "82942",
+			"unconfirmed": "5120",
+			"updatedon": "26/04/2020"
 		},
 		{
 			"negative": "2789",
