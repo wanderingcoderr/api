@@ -2452,12 +2452,12 @@
       },
       "Dindori": {
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2668,24 +2668,12 @@
       },
       "Other Region": {
         "notes": "Cases from other states",
-        "active": 3,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -2,
-        "confirmed": -2,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": -2,
+          "confirmed": -1,
           "deceased": 0,
           "recovered": 0
         }
