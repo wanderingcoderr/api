@@ -731,8 +731,8 @@
       {
         "district": "Raipur",
         "notes": "",
-        "active": 0,
-        "confirmed": 5,
+        "active": 1,
+        "confirmed": 6,
         "deceased": 0,
         "recovered": 5,
         "delta": {
@@ -748,19 +748,6 @@
         "confirmed": 1,
         "deceased": 0,
         "recovered": 1,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -6,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 7,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2987,14 +2974,14 @@
       {
         "district": "Buldana",
         "notes": "Reconciled as per MH bulleting 24/04",
-        "active": 9,
+        "active": 6,
         "confirmed": 21,
         "deceased": 1,
-        "recovered": 11,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -3104,27 +3091,27 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 4388,
+        "active": 4307,
         "confirmed": 5049,
         "deceased": 191,
-        "recovered": 470,
+        "recovered": 551,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 81
         }
       },
       {
         "district": "Nagpur",
         "notes": "",
-        "active": 91,
+        "active": 86,
         "confirmed": 107,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -3208,14 +3195,14 @@
       {
         "district": "Pune",
         "notes": "",
-        "active": 772,
+        "active": 751,
         "confirmed": 1030,
         "deceased": 73,
-        "recovered": 185,
+        "recovered": 206,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 21
         }
       },
       {
@@ -3234,14 +3221,14 @@
       {
         "district": "Ratnagiri",
         "notes": "",
-        "active": 5,
+        "active": 2,
         "confirmed": 8,
         "deceased": 1,
-        "recovered": 2,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       {
@@ -3299,27 +3286,27 @@
       {
         "district": "Thane",
         "notes": "",
-        "active": 588,
+        "active": 583,
         "confirmed": 717,
         "deceased": 15,
-        "recovered": 114,
+        "recovered": 119,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
         "district": "Washim",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3357,27 +3344,27 @@
       {
         "district": "Imphal East",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Imphal West",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
