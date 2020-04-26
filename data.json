@@ -812,19 +812,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1702",
-			"confirmed": "2625",
-			"deaths": "54",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 21:52:38",
-			"recovered": "869",
-			"state": "Delhi",
-			"statecode": "DL",
-			"statenotes": ""
-		},
-		{
 			"active": "2656",
 			"confirmed": "3071",
 			"deaths": "133",
@@ -835,6 +822,19 @@
 			"recovered": "282",
 			"state": "Gujarat",
 			"statecode": "GJ",
+			"statenotes": ""
+		},
+		{
+			"active": "1702",
+			"confirmed": "2625",
+			"deaths": "54",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 21:52:38",
+			"recovered": "869",
+			"state": "Delhi",
+			"statecode": "DL",
 			"statenotes": ""
 		},
 		{
@@ -851,19 +851,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "838",
-			"confirmed": "1821",
-			"deaths": "23",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 18:32:37",
-			"recovered": "960",
-			"state": "Tamil Nadu",
-			"statecode": "TN",
-			"statenotes": ""
-		},
-		{
 			"active": "1565",
 			"confirmed": "1945",
 			"deaths": "99",
@@ -877,8 +864,21 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1505",
-			"confirmed": "1793",
+			"active": "838",
+			"confirmed": "1821",
+			"deaths": "23",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 18:32:37",
+			"recovered": "960",
+			"state": "Tamil Nadu",
+			"statecode": "TN",
+			"statenotes": ""
+		},
+		{
+			"active": "1506",
+			"confirmed": "1794",
 			"deaths": "27",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
@@ -887,19 +887,6 @@
 			"recovered": "261",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
-			"statenotes": ""
-		},
-		{
-			"active": "658",
-			"confirmed": "990",
-			"deaths": "25",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 20:57:37",
-			"recovered": "307",
-			"state": "Telangana",
-			"statecode": "TG",
 			"statenotes": ""
 		},
 		{
@@ -916,42 +903,16 @@
 			"statenotes": ""
 		},
 		{
-			"active": "324",
-			"confirmed": "500",
-			"deaths": "18",
+			"active": "658",
+			"confirmed": "990",
+			"deaths": "25",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 17:42:38",
-			"recovered": "158",
-			"state": "Karnataka",
-			"statecode": "KA",
-			"statenotes": ""
-		},
-		{
-			"active": "116",
-			"confirmed": "458",
-			"deaths": "4",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 07:52:37",
-			"recovered": "338",
-			"state": "Kerala",
-			"statecode": "KL",
-			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
-		},
-		{
-			"active": "375",
-			"confirmed": "493",
-			"deaths": "6",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 07:52:38",
-			"recovered": "112",
-			"state": "Jammu and Kashmir",
-			"statecode": "JK",
+			"lastupdatedtime": "25/04/2020 20:57:37",
+			"recovered": "307",
+			"state": "Telangana",
+			"statecode": "TG",
 			"statenotes": ""
 		},
 		{
@@ -968,17 +929,43 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "93",
-			"confirmed": "287",
-			"deaths": "3",
+			"active": "324",
+			"confirmed": "500",
+			"deaths": "18",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 19:42:38",
-			"recovered": "191",
-			"state": "Haryana",
-			"statecode": "HR",
-			"statenotes": "One death in Ambala included"
+			"lastupdatedtime": "25/04/2020 17:42:38",
+			"recovered": "158",
+			"state": "Karnataka",
+			"statecode": "KA",
+			"statenotes": ""
+		},
+		{
+			"active": "375",
+			"confirmed": "493",
+			"deaths": "6",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "26/04/2020 07:52:38",
+			"recovered": "112",
+			"state": "Jammu and Kashmir",
+			"statecode": "JK",
+			"statenotes": ""
+		},
+		{
+			"active": "116",
+			"confirmed": "458",
+			"deaths": "4",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "26/04/2020 07:52:37",
+			"recovered": "338",
+			"state": "Kerala",
+			"statecode": "KL",
+			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
 			"active": "219",
@@ -992,6 +979,19 @@
 			"state": "Punjab",
 			"statecode": "PB",
 			"statenotes": ""
+		},
+		{
+			"active": "93",
+			"confirmed": "287",
+			"deaths": "3",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 19:42:38",
+			"recovered": "191",
+			"state": "Haryana",
+			"statecode": "HR",
+			"statenotes": "One death in Ambala included"
 		},
 		{
 			"active": "204",
@@ -1020,6 +1020,19 @@
 			"statenotes": ""
 		},
 		{
+			"active": "56",
+			"confirmed": "67",
+			"deaths": "3",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "26/04/2020 07:42:37",
+			"recovered": "8",
+			"state": "Jharkhand",
+			"statecode": "JH",
+			"statenotes": ""
+		},
+		{
 			"active": "22",
 			"confirmed": "48",
 			"deaths": "0",
@@ -1030,19 +1043,6 @@
 			"recovered": "26",
 			"state": "Uttarakhand",
 			"statecode": "UT",
-			"statenotes": ""
-		},
-		{
-			"active": "57",
-			"confirmed": "68",
-			"deaths": "3",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 07:42:37",
-			"recovered": "8",
-			"state": "Jharkhand",
-			"statecode": "JH",
 			"statenotes": ""
 		},
 		{
@@ -1085,6 +1085,19 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
+			"active": "22",
+			"confirmed": "33",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 20:02:39",
+			"recovered": "11",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN",
+			"statenotes": ""
+		},
+		{
 			"active": "13",
 			"confirmed": "28",
 			"deaths": "0",
@@ -1111,19 +1124,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "22",
-			"confirmed": "33",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 20:02:39",
-			"recovered": "11",
-			"state": "Andaman and Nicobar Islands",
-			"statecode": "AN",
-			"statenotes": ""
-		},
-		{
 			"active": "11",
 			"confirmed": "12",
 			"deaths": "1",
@@ -1137,19 +1137,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "0",
-			"confirmed": "7",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "19/04/2020 17:04:07",
-			"recovered": "7",
-			"state": "Goa",
-			"statecode": "GA",
-			"statenotes": ""
-		},
-		{
 			"active": "4",
 			"confirmed": "8",
 			"deaths": "0",
@@ -1160,6 +1147,19 @@
 			"recovered": "4",
 			"state": "Puducherry",
 			"statecode": "PY",
+			"statenotes": ""
+		},
+		{
+			"active": "0",
+			"confirmed": "7",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "19/04/2020 17:04:07",
+			"recovered": "7",
+			"state": "Goa",
+			"statecode": "GA",
 			"statenotes": ""
 		},
 		{
