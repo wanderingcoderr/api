@@ -80,50 +80,50 @@
       },
       "Krishna": {
         "notes": "",
-        "active": 90,
-        "confirmed": 127,
+        "active": 140,
+        "confirmed": 177,
         "deceased": 8,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 50,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kurnool": {
         "notes": "",
-        "active": 259,
-        "confirmed": 275,
+        "active": 239,
+        "confirmed": 279,
         "deceased": 9,
-        "recovered": 7,
+        "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 24
         }
       },
       "Prakasam": {
         "notes": "",
-        "active": 41,
-        "confirmed": 53,
+        "active": 33,
+        "confirmed": 56,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 23,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "S.P.S. Nellore": {
         "notes": "",
-        "active": 62,
+        "active": 47,
         "confirmed": 72,
         "deceased": 2,
-        "recovered": 8,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       "Srikakulam": {
@@ -152,38 +152,38 @@
       },
       "West Godavari": {
         "notes": "",
-        "active": 30,
-        "confirmed": 39,
+        "active": 31,
+        "confirmed": 41,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Y.S.R.": {
         "notes": "",
-        "active": 27,
-        "confirmed": 55,
+        "active": 30,
+        "confirmed": 58,
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Unknown": {
         "notes": "",
-        "active": 21,
-        "confirmed": 72,
+        "active": 10,
+        "confirmed": 10,
         "deceased": 0,
-        "recovered": 51,
+        "recovered": 0,
         "delta": {
-          "confirmed": 72,
+          "confirmed": 10,
           "deceased": 0,
-          "recovered": 51
+          "recovered": 0
         }
       }
     },
