@@ -2392,12 +2392,12 @@
       },
       "Bhopal": {
         "notes": "",
-        "active": 275,
-        "confirmed": 388,
+        "active": 302,
+        "confirmed": 415,
         "deceased": 9,
         "recovered": 104,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 27,
           "deceased": 0,
           "recovered": 0
         }
@@ -2464,12 +2464,12 @@
       },
       "Indore": {
         "notes": "",
-        "active": 921,
-        "confirmed": 1085,
+        "active": 1012,
+        "confirmed": 1176,
         "deceased": 57,
         "recovered": 107,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 91,
           "deceased": 0,
           "recovered": 0
         }
@@ -2500,14 +2500,14 @@
       },
       "Khargone": {
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 47,
-        "confirmed": 60,
+        "active": 43,
+        "confirmed": 61,
         "deceased": 6,
-        "recovered": 7,
+        "recovered": 12,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Mandsaur": {
@@ -2652,6 +2652,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 31,
+        "confirmed": 26,
+        "deceased": 0,
+        "recovered": -5,
+        "delta": {
+          "confirmed": 26,
+          "deceased": 0,
+          "recovered": -5
         }
       }
     },
@@ -4329,6 +4341,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -639,
+        "confirmed": 64,
+        "deceased": 24,
+        "recovered": 679,
+        "delta": {
+          "confirmed": 64,
+          "deceased": 1,
+          "recovered": 60
         }
       }
     },
