@@ -1946,6 +1946,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -2,
+        "confirmed": -1,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -2535,19 +2548,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 1
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -2,
-        "confirmed": -1,
-        "deceased": 1,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
         }
       }
     ]

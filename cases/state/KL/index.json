@@ -10011,18 +10011,18 @@
       "typeoftransmission": "Local"
     },
     {
-      "agebracket": "",
+      "agebracket": "47",
       "backupnotes": "",
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
       "dateannounced": "25/04/2020",
-      "detectedcity": "",
+      "detectedcity": "Chathannoor",
       "detecteddistrict": "Kollam",
       "detectedstate": "Kerala",
       "estimatedonsetdate": "",
-      "gender": "",
-      "nationality": "",
-      "notes": "Details awaited",
+      "gender": "F",
+      "nationality": "India",
+      "notes": "Details awaited, ASHA Worker, random sampling",
       "patientnumber": "24783",
       "source1": "https://www.facebook.com/dckollam/posts/1585490721603134",
       "source2": "",
@@ -10031,6 +10031,28 @@
       "statepatientnumber": "KL-KL-P14",
       "statuschangedate": "25/04/2020",
       "typeoftransmission": ""
+    },
+    {
+      "agebracket": "20",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "",
+      "currentstatus": "Hospitalized",
+      "dateannounced": "25/04/2020",
+      "detectedcity": "Peringathur",
+      "detecteddistrict": "Kannur",
+      "detectedstate": "Kerala",
+      "estimatedonsetdate": "",
+      "gender": "M",
+      "nationality": "India",
+      "notes": "Contact transmission ",
+      "patientnumber": "24784",
+      "source1": "https://www.facebook.com/CollectorKNR/posts/2912277562202412",
+      "source2": "",
+      "source3": "",
+      "statecode": "KL",
+      "statepatientnumber": "",
+      "statuschangedate": "25/04/2020",
+      "typeoftransmission": "Local"
     }
   ]
 }
