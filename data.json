@@ -777,23 +777,23 @@
 		{
 			"dailyconfirmed": "1835",
 			"dailydeceased": "44",
-			"dailyrecovered": "443",
+			"dailyrecovered": "442",
 			"date": "25 April ",
 			"totalconfirmed": "26282",
 			"totaldeceased": "824",
-			"totalrecovered": "5939"
+			"totalrecovered": "5938"
 		}
 	],
 	"statewise": [
 		{
-			"active": "19617",
+			"active": "19618",
 			"confirmed": "26384",
 			"deaths": "826",
 			"deltaconfirmed": "101",
 			"deltadeaths": "1",
 			"deltarecovered": "2",
-			"lastupdatedtime": "26/04/2020 09:47:37",
-			"recovered": "5941",
+			"lastupdatedtime": "26/04/2020 10:47:37",
+			"recovered": "5940",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1046,14 +1046,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "15",
+			"active": "16",
 			"confirmed": "40",
 			"deaths": "2",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 20:57:38",
-			"recovered": "23",
+			"lastupdatedtime": "26/04/2020 10:47:39",
+			"recovered": "22",
 			"state": "Himachal Pradesh",
 			"statecode": "HP",
 			"statenotes": "Death of Tibetan refugee included"
