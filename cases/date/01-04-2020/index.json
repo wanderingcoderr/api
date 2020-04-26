@@ -6848,7 +6848,7 @@
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Hospitalized",
       "dateannounced": "01/04/2020",
-      "detectedcity": "",
+      "detectedcity": "Puttur",
       "detecteddistrict": "Dakshina Kannada",
       "detectedstate": "Karnataka",
       "estimatedonsetdate": "",
@@ -6904,7 +6904,7 @@
       "source2": "",
       "source3": "",
       "statecode": "KA",
-      "statepatientnumber": "KA-P108",
+      "statepatientnumber": "KA-P108K",
       "statuschangedate": "01/04/2020",
       "typeoftransmission": "Imported"
     },

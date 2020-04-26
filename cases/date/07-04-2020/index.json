@@ -3394,9 +3394,9 @@
       "contractedfromwhichpatientsuspected": "",
       "currentstatus": "Deceased",
       "dateannounced": "07/04/2020",
-      "detectedcity": "",
+      "detectedcity": "Mahe",
       "detecteddistrict": "Kannur",
-      "detectedstate": "",
+      "detectedstate": "Kerala",
       "estimatedonsetdate": "",
       "gender": "M",
       "nationality": "India",
@@ -3405,9 +3405,9 @@
       "source1": "https://twitter.com/ANI/status/1247507049216270340",
       "source2": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-7-1.pdf",
       "source3": "https://english.manoramaonline.com/news/kerala/2020/04/11/kerala-third-coronavirus-death-kannur-pariyaram-mahe.html",
-      "statecode": "",
+      "statecode": "KL",
       "statepatientnumber": "",
-      "statuschangedate": "07/04/2020",
+      "statuschangedate": "11/04/2020",
       "typeoftransmission": "TBD"
     },
     {

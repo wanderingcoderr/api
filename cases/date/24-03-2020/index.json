@@ -326,7 +326,7 @@
       "source2": "State Health Bulletion - 24th Mar 8am",
       "source3": "",
       "statecode": "KA",
-      "statepatientnumber": "KA-P34",
+      "statepatientnumber": "KA-P34K",
       "statuschangedate": "07/04/2020",
       "typeoftransmission": "Imported"
     },
@@ -337,7 +337,7 @@
       "currentstatus": "Recovered",
       "dateannounced": "24/03/2020",
       "detectedcity": "",
-      "detecteddistrict": "Dakshina Kannada",
+      "detecteddistrict": "Uttara Kannada",
       "detectedstate": "Karnataka",
       "estimatedonsetdate": "",
       "gender": "M",
@@ -700,7 +700,7 @@
       "source2": "State Health Bulletin",
       "source3": "https://indianexpress.com/article/cities/bangalore/coronavirus-in-karnataka-38-cases-so-far-bengaluru-uses-drones-to-spray-disinfectants-6329577/",
       "statecode": "KA",
-      "statepatientnumber": "KA-P39",
+      "statepatientnumber": "KA-P39K",
       "statuschangedate": "07/04/2020",
       "typeoftransmission": "Imported"
     },
@@ -1338,7 +1338,7 @@
       "source2": "State Health Bulletin",
       "source3": "https://twitter.com/DHFWKA/status/1249600756392456194/",
       "statecode": "KA",
-      "statepatientnumber": "KA-P40",
+      "statepatientnumber": "KA-P40K",
       "statuschangedate": "13/04/2020",
       "typeoftransmission": "Imported"
     },
@@ -1360,7 +1360,7 @@
       "source2": "State Health Bulletin",
       "source3": "https://indianexpress.com/article/cities/bangalore/coronavirus-in-karnataka-38-cases-so-far-bengaluru-uses-drones-to-spray-disinfectants-6329577/",
       "statecode": "KA",
-      "statepatientnumber": "KA-P41",
+      "statepatientnumber": "KA-P41K",
       "statuschangedate": "07/04/2020",
       "typeoftransmission": "Imported"
     },
