@@ -786,14 +786,14 @@
 	],
 	"statewise": [
 		{
-			"active": "19626",
-			"confirmed": "26479",
+			"active": "19622",
+			"confirmed": "26483",
 			"deaths": "829",
-			"deltaconfirmed": "196",
+			"deltaconfirmed": "200",
 			"deltadeaths": "4",
-			"deltarecovered": "86",
+			"deltarecovered": "94",
 			"lastupdatedtime": "26/04/2020 16:27:36",
-			"recovered": "6024",
+			"recovered": "6032",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -994,10 +994,10 @@
 			"statenotes": "One death in Ambala included"
 		},
 		{
-			"active": "204",
-			"confirmed": "251",
+			"active": "208",
+			"confirmed": "255",
 			"deaths": "2",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "4",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 09:07:39",
@@ -1072,14 +1072,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "16",
+			"active": "8",
 			"confirmed": "36",
 			"deaths": "1",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "8",
 			"lastupdatedtime": "20/04/2020 08:45:06",
-			"recovered": "19",
+			"recovered": "27",
 			"state": "Assam",
 			"statecode": "AS",
 			"statenotes": "Includes one case from Nagaland"

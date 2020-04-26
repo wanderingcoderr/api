@@ -1,9 +1,5 @@
 [
   {
-    "update": "61 new cases, 26 recoveries and 2 deaths in Andhra Pradesh\n",
-    "timestamp": 1587799282
-  },
-  {
     "update": "15 new cases and 1 recovery in Karnataka\n",
     "timestamp": 1587800493
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 deaths in Uttar Pradesh\n",
     "timestamp": 1587898911
+  },
+  {
+    "update": "4 new cases in Bihar\n8 recoveries in Assam\n",
+    "timestamp": 1587902535
   }
 ]
