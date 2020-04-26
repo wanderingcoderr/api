@@ -786,14 +786,14 @@
 	],
 	"statewise": [
 		{
-			"active": "19622",
-			"confirmed": "26483",
+			"active": "19646",
+			"confirmed": "26518",
 			"deaths": "829",
-			"deltaconfirmed": "200",
+			"deltaconfirmed": "212",
 			"deltadeaths": "4",
-			"deltarecovered": "94",
-			"lastupdatedtime": "26/04/2020 16:27:36",
-			"recovered": "6032",
+			"deltarecovered": "105",
+			"lastupdatedtime": "26/04/2020 17:37:37",
+			"recovered": "6043",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -942,10 +942,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "376",
-			"confirmed": "494",
+			"active": "405",
+			"confirmed": "523",
 			"deaths": "6",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "6",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 09:17:37",
@@ -994,14 +994,14 @@
 			"statenotes": "One death in Ambala included"
 		},
 		{
-			"active": "208",
-			"confirmed": "255",
+			"active": "201",
+			"confirmed": "259",
 			"deaths": "2",
-			"deltaconfirmed": "4",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 09:07:39",
-			"recovered": "45",
+			"deltarecovered": "11",
+			"lastupdatedtime": "26/04/2020 17:37:38",
+			"recovered": "56",
 			"state": "Bihar",
 			"statecode": "BR",
 			"statenotes": ""
@@ -1078,7 +1078,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "8",
-			"lastupdatedtime": "20/04/2020 08:45:06",
+			"lastupdatedtime": "26/04/2020 17:32:41",
 			"recovered": "27",
 			"state": "Assam",
 			"statecode": "AS",
@@ -1098,10 +1098,10 @@
 			"statenotes": ""
 		},
 		{
-			"active": "13",
-			"confirmed": "28",
+			"active": "15",
+			"confirmed": "30",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 09:07:39",

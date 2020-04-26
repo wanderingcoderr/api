@@ -419,36 +419,36 @@
       },
       "Bhojpur": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Buxar": {
         "notes": "",
-        "active": 25,
+        "active": 24,
         "confirmed": 25,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "East Champaran": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -467,12 +467,12 @@
       },
       "Gopalganj": {
         "notes": "",
-        "active": 0,
-        "confirmed": 3,
+        "active": 4,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -515,38 +515,38 @@
       },
       "Munger": {
         "notes": "",
-        "active": 58,
+        "active": 53,
         "confirmed": 65,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       "Nalanda": {
         "notes": "",
-        "active": 31,
+        "active": 28,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 4
         }
       },
       "Nawada": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Patna": {
@@ -608,18 +608,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 4,
-        "confirmed": 4,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 4,
-          "deceased": 0,
-          "recovered": -3
-        }
       }
     },
     "statecode": "BR"
@@ -628,12 +616,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 13,
-        "confirmed": 28,
+        "active": 15,
+        "confirmed": 30,
         "deceased": 0,
         "recovered": 15,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1773,6 +1761,18 @@
         "recovered": 8,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 28,
+        "confirmed": 29,
+        "deceased": 1,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 30,
           "deceased": 0,
           "recovered": 0
         }

@@ -1,0 +1,26 @@
+{
+  "raw_data": [
+    {
+      "agebracket": "",
+      "backupnotes": "",
+      "contractedfromwhichpatientsuspected": "",
+      "currentstatus": "",
+      "dateannounced": "26/04/2020",
+      "detectedcity": "",
+      "detecteddistrict": "Chandigarh",
+      "detectedstate": "Chandigarh",
+      "estimatedonsetdate": "",
+      "gender": "",
+      "nationality": "",
+      "notes": "",
+      "patientnumber": "26489",
+      "source1": "http://chdcovid19.in/",
+      "source2": "",
+      "source3": "",
+      "statecode": "CG",
+      "statepatientnumber": "",
+      "statuschangedate": "",
+      "typeoftransmission": ""
+    }
+  ]
+}
