@@ -67594,8 +67594,8 @@
 			"statecode": ""
 		},
 		{
-			"agebracket": "",
-			"city": "",
+			"agebracket": "65",
+			"city": "Bamba mohalla",
 			"date": "26/04/2020",
 			"district": "Jodhpur",
 			"gender": "",
@@ -67611,11 +67611,11 @@
 			"statecode": ""
 		},
 		{
-			"agebracket": "",
-			"city": "",
+			"agebracket": "50",
+			"city": "Ghatgate",
 			"date": "26/04/2020",
 			"district": "Jaipur",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
@@ -67628,11 +67628,11 @@
 			"statecode": ""
 		},
 		{
-			"agebracket": "",
-			"city": "",
+			"agebracket": "55",
+			"city": "Ghatgate",
 			"date": "26/04/2020",
 			"district": "Jaipur",
-			"gender": "",
+			"gender": "F",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
@@ -67645,11 +67645,11 @@
 			"statecode": ""
 		},
 		{
-			"agebracket": "",
-			"city": "",
+			"agebracket": "29",
+			"city": "Patan",
 			"date": "26/04/2020",
-			"district": "Tonk",
-			"gender": "",
+			"district": "Sikar",
+			"gender": "M",
 			"nationality": "",
 			"notes": "",
 			"patientnumbercouldbemappedlater": "",
