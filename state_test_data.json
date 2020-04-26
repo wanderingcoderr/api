@@ -7772,6 +7772,25 @@
 			"updatedon": "25/04/2020"
 		},
 		{
+			"negative": "10497",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "313",
+			"source": "https://twitter.com/kbssidhu1961/status/1254392531548160002?s=19",
+			"source2": "",
+			"state": "Punjab",
+			"testpositivityrate": "2.19%",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "14317",
+			"unconfirmed": "3507",
+			"updatedon": "26/04/2020"
+		},
+		{
 			"negative": "11439",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",

@@ -1289,12 +1289,12 @@
       },
       "Faridabad": {
         "notes": "",
-        "active": 14,
-        "confirmed": 43,
+        "active": 16,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1325,12 +1325,12 @@
       },
       "Hisar": {
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -1489,6 +1489,18 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -3,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 8,
+        "delta": {
+          "confirmed": 5,
+          "deceased": 0,
+          "recovered": 8
         }
       }
     },
