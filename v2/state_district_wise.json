@@ -576,12 +576,12 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 53,
-        "confirmed": 65,
+        "active": 56,
+        "confirmed": 68,
         "deceased": 1,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 5
         }
@@ -675,19 +675,6 @@
           "confirmed": 0,
           "deceased": 0,
           "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 4,
-        "confirmed": 4,
-        "deceased": 0,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 4,
-          "deceased": 0,
-          "recovered": -3
         }
       }
     ]
