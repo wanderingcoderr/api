@@ -3887,12 +3887,12 @@
       {
         "district": "Ajmer",
         "notes": "",
-        "active": 118,
-        "confirmed": 123,
+        "active": 119,
+        "confirmed": 124,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3939,13 +3939,13 @@
       {
         "district": "Bharatpur",
         "notes": "",
-        "active": 104,
+        "active": 103,
         "confirmed": 110,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 5,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -4056,13 +4056,13 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 571,
-        "confirmed": 817,
-        "deceased": 24,
+        "active": 580,
+        "confirmed": 827,
+        "deceased": 25,
         "recovered": 222,
         "delta": {
-          "confirmed": 9,
-          "deceased": 3,
+          "confirmed": 19,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -4225,12 +4225,12 @@
       {
         "district": "Tonk",
         "notes": "",
-        "active": 88,
-        "confirmed": 121,
+        "active": 90,
+        "confirmed": 123,
         "deceased": 1,
         "recovered": 32,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
