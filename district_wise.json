@@ -5734,9 +5734,9 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "72",
+			"active": "71",
 			"activeyesterday": "80",
-			"confirmed": "134",
+			"confirmed": "133",
 			"confirmedyesterday": "133",
 			"deceased": "5",
 			"deceasedyesterday": "4",
@@ -15877,11 +15877,11 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "-1",
+			"active": "0",
 			"activeyesterday": "-2",
 			"confirmed": "0",
 			"confirmedyesterday": "-1",
-			"deceased": "1",
+			"deceased": "0",
 			"deceasedyesterday": "1",
 			"deltaactive": "1",
 			"deltaconfirmed": "1",
@@ -16003,7 +16003,7 @@
 			"statecode": "LD"
 		},
 		{
-			"active": "-2",
+			"active": "0",
 			"activeyesterday": "0",
 			"confirmed": "0",
 			"confirmedyesterday": "0",
@@ -16017,14 +16017,14 @@
 			"districtkey": "MP_Unknown",
 			"districtnotes": "",
 			"formulaactive": "",
-			"recovered": "2",
+			"recovered": "0",
 			"recoveredyesterday": "0",
 			"slno": "748",
 			"state": "Madhya Pradesh",
 			"statecode": "MP"
 		},
 		{
-			"active": "-132",
+			"active": "-112",
 			"activeyesterday": "-119",
 			"confirmed": "0",
 			"confirmedyesterday": "0",
@@ -16038,7 +16038,7 @@
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
 			"formulaactive": "",
-			"recovered": "132",
+			"recovered": "112",
 			"recoveredyesterday": "119",
 			"slno": "749",
 			"state": "Maharashtra",

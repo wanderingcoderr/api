@@ -793,38 +793,38 @@
 			"totalrecovered": "6523"
 		},
 		{
-			"dailyconfirmed": "1",
-			"dailydeceased": "1",
-			"dailyrecovered": "22",
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
 			"date": "27 April ",
-			"totalconfirmed": "27890",
-			"totaldeceased": "881",
-			"totalrecovered": "6545"
+			"totalconfirmed": "27889",
+			"totaldeceased": "880",
+			"totalrecovered": "6523"
 		}
 	],
 	"statewise": [
 		{
-			"active": "20464",
-			"confirmed": "27891",
-			"deaths": "882",
-			"deltaconfirmed": "1",
-			"deltadeaths": "1",
-			"deltarecovered": "22",
+			"active": "20486",
+			"confirmed": "27890",
+			"deaths": "881",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 19:37:37",
-			"recovered": "6545",
+			"recovered": "6523",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
 		},
 		{
-			"active": "5978",
+			"active": "5999",
 			"confirmed": "8068",
 			"deaths": "342",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "20",
+			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 19:37:37",
-			"recovered": "1208",
+			"recovered": "1188",
 			"state": "Maharashtra",
 			"statecode": "MH",
 			"statenotes": ""
@@ -869,14 +869,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1745",
+			"active": "1747",
 			"confirmed": "2090",
 			"deaths": "103",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "2",
+			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 18:32:38",
-			"recovered": "304",
+			"recovered": "302",
 			"state": "Madhya Pradesh",
 			"statecode": "MP",
 			"statenotes": ""
@@ -947,10 +947,10 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "302",
-			"confirmed": "504",
+			"active": "301",
+			"confirmed": "503",
 			"deaths": "19",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 19:22:38",
@@ -962,9 +962,9 @@
 		{
 			"active": "367",
 			"confirmed": "523",
-			"deaths": "7",
+			"deaths": "6",
 			"deltaconfirmed": "0",
-			"deltadeaths": "1",
+			"deltadeaths": "0",
 			"deltarecovered": "0",
 			"lastupdatedtime": "26/04/2020 17:52:37",
 			"recovered": "137",
@@ -973,7 +973,7 @@
 			"statenotes": ""
 		},
 		{
-			"active": "120",
+			"active": "121",
 			"confirmed": "469",
 			"deaths": "4",
 			"deltaconfirmed": "0",
