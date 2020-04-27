@@ -10879,9 +10879,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "1",
+			"active": "2",
 			"activeyesterday": "6",
-			"confirmed": "33",
+			"confirmed": "34",
 			"confirmedyesterday": "33",
 			"deceased": "2",
 			"deceasedyesterday": "2",
@@ -11089,11 +11089,11 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "565",
+			"active": "571",
 			"activeyesterday": "640",
-			"confirmed": "808",
+			"confirmed": "817",
 			"confirmedyesterday": "792",
-			"deceased": "21",
+			"deceased": "24",
 			"deceasedyesterday": "19",
 			"deltaactive": "7",
 			"deltaconfirmed": "7",
@@ -11110,9 +11110,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "8",
+			"active": "9",
 			"activeyesterday": "8",
-			"confirmed": "34",
+			"confirmed": "35",
 			"confirmedyesterday": "34",
 			"deceased": "0",
 			"deceasedyesterday": "",
@@ -11152,9 +11152,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "14",
+			"active": "23",
 			"activeyesterday": "13",
-			"confirmed": "30",
+			"confirmed": "39",
 			"confirmedyesterday": "29",
 			"deceased": "0",
 			"deceasedyesterday": "",
@@ -11194,9 +11194,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "309",
+			"active": "315",
 			"activeyesterday": "274",
-			"confirmed": "364",
+			"confirmed": "370",
 			"confirmedyesterday": "326",
 			"deceased": "5",
 			"deceasedyesterday": "2",
@@ -11236,9 +11236,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "74",
+			"active": "78",
 			"activeyesterday": "65",
-			"confirmed": "158",
+			"confirmed": "162",
 			"confirmedyesterday": "149",
 			"deceased": "4",
 			"deceasedyesterday": "4",
@@ -11404,9 +11404,9 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "82",
+			"active": "88",
 			"activeyesterday": "95",
-			"confirmed": "115",
+			"confirmed": "121",
 			"confirmedyesterday": "115",
 			"deceased": "1",
 			"deceasedyesterday": "1",

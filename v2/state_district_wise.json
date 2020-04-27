@@ -3926,8 +3926,8 @@
       {
         "district": "Bhilwara",
         "notes": "",
-        "active": 1,
-        "confirmed": 33,
+        "active": 2,
+        "confirmed": 34,
         "deceased": 2,
         "recovered": 30,
         "delta": {
@@ -4030,9 +4030,9 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 565,
-        "confirmed": 808,
-        "deceased": 21,
+        "active": 571,
+        "confirmed": 817,
+        "deceased": 24,
         "recovered": 222,
         "delta": {
           "confirmed": 7,
@@ -4043,8 +4043,8 @@
       {
         "district": "Jaisalmer",
         "notes": "",
-        "active": 8,
-        "confirmed": 34,
+        "active": 9,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 26,
         "delta": {
@@ -4056,8 +4056,8 @@
       {
         "district": "Jhalawar",
         "notes": "",
-        "active": 14,
-        "confirmed": 30,
+        "active": 23,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 16,
         "delta": {
@@ -4082,8 +4082,8 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 309,
-        "confirmed": 364,
+        "active": 315,
+        "confirmed": 370,
         "deceased": 5,
         "recovered": 50,
         "delta": {
@@ -4108,8 +4108,8 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 74,
-        "confirmed": 158,
+        "active": 78,
+        "confirmed": 162,
         "deceased": 4,
         "recovered": 80,
         "delta": {
@@ -4199,8 +4199,8 @@
       {
         "district": "Tonk",
         "notes": "",
-        "active": 82,
-        "confirmed": 115,
+        "active": 88,
+        "confirmed": 121,
         "deceased": 1,
         "recovered": 32,
         "delta": {
