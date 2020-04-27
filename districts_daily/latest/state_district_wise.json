@@ -3519,13 +3519,13 @@
       },
       "Patiala": {
         "notes": "",
-        "active": 60,
+        "active": 59,
         "confirmed": 61,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
