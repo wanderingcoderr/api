@@ -1623,13 +1623,13 @@
     "districtData": {
       "Anantnag": {
         "notes": "",
-        "active": 54,
+        "active": 53,
         "confirmed": 54,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 6,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -4470,10 +4470,10 @@
       },
       "Jagitial": {
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4482,10 +4482,10 @@
       },
       "Jangoan": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4554,8 +4554,8 @@
       },
       "Kumuram Bheem Asifabad": {
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -4566,10 +4566,10 @@
       },
       "Mahabubabad": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4582,6 +4582,18 @@
         "confirmed": 11,
         "deceased": 0,
         "recovered": 8,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Mancherial": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4614,10 +4626,10 @@
       },
       "Mulugu": {
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4626,10 +4638,10 @@
       },
       "Nagarkurnool": {
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4642,6 +4654,18 @@
         "confirmed": 17,
         "deceased": 0,
         "recovered": 11,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Narayanpet": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 1,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4674,10 +4698,10 @@
       },
       "Peddapalli": {
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 2,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4722,10 +4746,10 @@
       },
       "Siddipet": {
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4770,10 +4794,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -14,
-        "confirmed": 2,
-        "deceased": 2,
-        "recovered": 14,
+        "active": -7,
+        "confirmed": -3,
+        "deceased": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

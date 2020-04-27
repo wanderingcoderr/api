@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 recoveries in Karnataka\n",
-    "timestamp": 1587888694
-  },
-  {
     "update": "1 death in Rajasthan\n",
     "timestamp": 1587894694
   },
@@ -198,5 +194,9 @@
   {
     "update": "23 new cases and 27 recoveries in Jammu and Kashmir\n",
     "timestamp": 1587996112
+  },
+  {
+    "update": "1 death in Jammu and Kashmir\n",
+    "timestamp": 1587996723
   }
 ]

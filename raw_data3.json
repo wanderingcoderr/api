@@ -6337,7 +6337,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6358,7 +6358,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6379,7 +6379,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6400,7 +6400,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6421,7 +6421,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6442,7 +6442,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6463,7 +6463,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6484,7 +6484,7 @@
 			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -6492,20 +6492,20 @@
 		{
 			"agebracket": "",
 			"contractedfromwhichpatientsuspected": "",
-			"currentstatus": "",
+			"currentstatus": "Deceased",
 			"dateannounced": "27/04/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
-			"detectedstate": "",
+			"detecteddistrict": "Anantnag",
+			"detectedstate": "Jammu and Kashmir",
 			"entryid": "310",
 			"gender": "",
 			"nationality": "",
 			"notes": "",
-			"numcases": "",
-			"source1": "",
+			"numcases": "1",
+			"source1": "https://twitter.com/diprjk/status/1254769375883620353",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "JK",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
