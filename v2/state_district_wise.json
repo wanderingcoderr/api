@@ -2313,13 +2313,13 @@
       {
         "district": "Kalaburagi",
         "notes": "",
-        "active": 27,
+        "active": 26,
         "confirmed": 38,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 7,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },

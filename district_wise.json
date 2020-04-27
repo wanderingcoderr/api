@@ -4577,12 +4577,12 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "27",
+			"active": "26",
 			"confirmed": "38",
-			"deceased": "4",
-			"deltaactive": "0",
+			"deceased": "5",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"deltadeceased": "1",
 			"deltarecovered": "0",
 			"district": "Kalaburagi",
 			"districtkey": "KA_Kalaburagi",
