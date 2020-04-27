@@ -6088,8 +6088,8 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 16,
-        "confirmed": 27,
+        "active": 17,
+        "confirmed": 28,
         "deceased": 0,
         "recovered": 11,
         "delta": {
@@ -6144,19 +6144,6 @@
         "confirmed": 4,
         "deceased": 0,
         "recovered": 4,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -9,
-        "confirmed": 1,
-        "deceased": 0,
-        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
