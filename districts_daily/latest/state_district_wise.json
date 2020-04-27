@@ -2769,26 +2769,26 @@
     "districtData": {
       "Ahmadnagar": {
         "notes": "",
-        "active": 12,
+        "active": 11,
         "confirmed": 36,
         "deceased": 2,
-        "recovered": 22,
+        "recovered": 23,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Akola": {
         "notes": "",
-        "active": 21,
+        "active": 20,
         "confirmed": 29,
         "deceased": 1,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Amravati": {
@@ -2829,14 +2829,14 @@
       },
       "Buldana": {
         "notes": "Reconciled as per MH bulleting 24/04",
-        "active": 6,
+        "active": 5,
         "confirmed": 21,
         "deceased": 1,
-        "recovered": 14,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Chandrapur": {
@@ -2985,14 +2985,14 @@
       },
       "Nashik": {
         "notes": "",
-        "active": 117,
+        "active": 114,
         "confirmed": 131,
         "deceased": 12,
-        "recovered": 2,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Osmanabad": {
@@ -3009,14 +3009,14 @@
       },
       "Palghar": {
         "notes": "",
-        "active": 102,
+        "active": 101,
         "confirmed": 141,
         "deceased": 4,
-        "recovered": 35,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Parbhani": {
@@ -3045,14 +3045,14 @@
       },
       "Raigarh": {
         "notes": "",
-        "active": 36,
+        "active": 35,
         "confirmed": 57,
         "deceased": 1,
-        "recovered": 20,
+        "recovered": 21,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Ratnagiri": {
@@ -3165,10 +3165,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 428,
+        "active": 522,
         "confirmed": 522,
         "deceased": 0,
-        "recovered": 94,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
