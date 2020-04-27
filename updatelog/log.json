@@ -1,9 +1,5 @@
 [
   {
-    "update": "4 new cases in Bihar\n8 recoveries in Assam\n",
-    "timestamp": 1587902535
-  },
-  {
     "update": "29 new cases in Jammu and Kashmir\n4 new cases and 11 recoveries in Bihar\n2 new cases in Chandigarh\n",
     "timestamp": 1587903099
   },
@@ -198,5 +194,9 @@
   {
     "update": "5 new cases in Chandigarh\n",
     "timestamp": 1587999111
+  },
+  {
+    "update": "2 new cases and 16 recoveries in Telangana\n",
+    "timestamp": 1587999724
   }
 ]

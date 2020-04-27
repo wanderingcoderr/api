@@ -9457,11 +9457,11 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "371",
-			"confirmed": "540",
+			"active": "373",
+			"confirmed": "542",
 			"deceased": "18",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Hyderabad",
@@ -12385,7 +12385,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "0",
+			"active": "-16",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12395,7 +12395,7 @@
 			"district": "Unknown",
 			"districtkey": "TG_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "16",
 			"slno": "760",
 			"state": "Telangana",
 			"statecode": "TG"
