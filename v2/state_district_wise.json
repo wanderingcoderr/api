@@ -958,8 +958,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 1199,
-        "confirmed": 2130,
+        "active": 1389,
+        "confirmed": 2320,
         "deceased": 54,
         "recovered": 877,
         "delta": {

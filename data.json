@@ -793,24 +793,24 @@
 			"totalrecovered": "6523"
 		},
 		{
-			"dailyconfirmed": "1370",
+			"dailyconfirmed": "1560",
 			"dailydeceased": "57",
 			"dailyrecovered": "606",
 			"date": "27 April ",
-			"totalconfirmed": "29260",
+			"totalconfirmed": "29450",
 			"totaldeceased": "938",
 			"totalrecovered": "7129"
 		}
 	],
 	"statewise": [
 		{
-			"active": "21193",
-			"confirmed": "29260",
+			"active": "21383",
+			"confirmed": "29450",
 			"deaths": "938",
-			"deltaconfirmed": "1370",
+			"deltaconfirmed": "1560",
 			"deltadeaths": "57",
 			"deltarecovered": "606",
-			"lastupdatedtime": "27/04/2020 22:10:56",
+			"lastupdatedtime": "27/04/2020 22:20:55",
 			"recovered": "7129",
 			"state": "Total",
 			"statecode": "TT",
@@ -843,13 +843,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1987",
-			"confirmed": "2918",
+			"active": "2177",
+			"confirmed": "3108",
 			"deaths": "54",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "190",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 21:52:38",
+			"lastupdatedtime": "27/04/2020 22:20:56",
 			"recovered": "877",
 			"state": "Delhi",
 			"statecode": "DL",
@@ -1044,7 +1044,7 @@
 			"deltaconfirmed": "21",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/04/2020 22:10:57",
+			"lastupdatedtime": "27/04/2020 22:11:56",
 			"recovered": "13",
 			"state": "Jharkhand",
 			"statecode": "JH",
