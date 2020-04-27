@@ -1901,14 +1901,14 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "56",
+			"active": "69",
 			"activeyesterday": "56",
-			"confirmed": "68",
+			"confirmed": "81",
 			"confirmedyesterday": "68",
 			"deceased": "1",
 			"deceasedyesterday": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "13",
+			"deltaconfirmed": "13",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Munger",
@@ -14921,9 +14921,9 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "13",
+			"active": "0",
 			"activeyesterday": "",
-			"confirmed": "13",
+			"confirmed": "0",
 			"confirmedyesterday": "",
 			"deceased": "0",
 			"deceasedyesterday": "",
