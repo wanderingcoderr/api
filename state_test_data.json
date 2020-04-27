@@ -8481,6 +8481,26 @@
 			"updatedon": "26/04/2020"
 		},
 		{
+			"negative": "1942",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "8",
+			"source": "https://covid19dashboard.py.gov.in/",
+			"source2": "",
+			"state": "Puducherry",
+			"testpositivityrate": "0.40%",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "2014",
+			"unconfirmed": "64",
+			"updatedon": "27/04/2020"
+		},
+		{
 			"negative": "1236",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -10321,14 +10341,14 @@
 			"updatedon": "26/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "64139",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
 			"positive": "1896",
-			"source": "",
+			"source": "https://t.me/indiacovid/3405",
 			"source2": "",
 			"state": "Uttar Pradesh",
 			"testpositivityrate": "",
@@ -10337,7 +10357,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "67145",
-			"unconfirmed": "",
+			"unconfirmed": "1020",
 			"updatedon": "27/04/2020"
 		},
 		{
@@ -11199,6 +11219,26 @@
 			"totaltested": "10893",
 			"unconfirmed": "",
 			"updatedon": "26/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "44954",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "649",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_27.04_.2020_.pdf",
+			"source2": "https://www.mohfw.gov.in/",
+			"state": "West Bengal",
+			"testpositivityrate": "5.39%",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "12043",
+			"unconfirmed": "",
+			"updatedon": "27/04/2020"
 		}
 	]
 }

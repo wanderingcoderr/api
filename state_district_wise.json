@@ -563,12 +563,12 @@
       },
       "Nalanda": {
         "notes": "",
-        "active": 28,
-        "confirmed": 34,
+        "active": 29,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }

@@ -793,24 +793,24 @@
 			"totalrecovered": "6523"
 		},
 		{
-			"dailyconfirmed": "1560",
+			"dailyconfirmed": "1561",
 			"dailydeceased": "58",
 			"dailyrecovered": "611",
 			"date": "27 April ",
-			"totalconfirmed": "29450",
+			"totalconfirmed": "29451",
 			"totaldeceased": "939",
 			"totalrecovered": "7134"
 		}
 	],
 	"statewise": [
 		{
-			"active": "21377",
-			"confirmed": "29450",
+			"active": "21378",
+			"confirmed": "29451",
 			"deaths": "939",
-			"deltaconfirmed": "1560",
+			"deltaconfirmed": "1561",
 			"deltadeaths": "58",
 			"deltarecovered": "611",
-			"lastupdatedtime": "27/04/2020 23:01:55",
+			"lastupdatedtime": "27/04/2020 23:31:55",
 			"recovered": "7134",
 			"state": "Total",
 			"statecode": "TT",
@@ -1012,13 +1012,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "287",
-			"confirmed": "345",
+			"active": "288",
+			"confirmed": "346",
 			"deaths": "2",
-			"deltaconfirmed": "68",
+			"deltaconfirmed": "69",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/04/2020 19:01:56",
+			"lastupdatedtime": "27/04/2020 23:31:56",
 			"recovered": "56",
 			"state": "Bihar",
 			"statecode": "BR",
@@ -1161,7 +1161,7 @@
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "25/04/2020 17:42:40",
+			"lastupdatedtime": "27/04/2020 23:21:56",
 			"recovered": "5",
 			"state": "Puducherry",
 			"statecode": "PY",
