@@ -2937,14 +2937,14 @@
       },
       "Palghar": {
         "notes": "",
-        "active": 111,
+        "active": 102,
         "confirmed": 141,
         "deceased": 4,
-        "recovered": 26,
+        "recovered": 35,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       },
       "Parbhani": {
@@ -2961,26 +2961,26 @@
       },
       "Pune": {
         "notes": "",
-        "active": 770,
+        "active": 766,
         "confirmed": 1052,
         "deceased": 76,
-        "recovered": 206,
+        "recovered": 210,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Raigarh": {
         "notes": "",
-        "active": 38,
+        "active": 36,
         "confirmed": 57,
         "deceased": 1,
-        "recovered": 18,
+        "recovered": 20,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Ratnagiri": {
@@ -3045,14 +3045,14 @@
       },
       "Thane": {
         "notes": "",
-        "active": 605,
+        "active": 599,
         "confirmed": 738,
         "deceased": 14,
-        "recovered": 119,
+        "recovered": 125,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       "Washim": {
