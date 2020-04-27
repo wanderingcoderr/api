@@ -20,6 +20,27 @@
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "27/04/2020",
+			"detectedcity": "",
+			"detecteddistrict": "Bhilwara",
+			"detectedstate": "Rajasthan",
+			"entryid": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"numcases": "",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "RJ",
+			"statepatientnumber": "",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }

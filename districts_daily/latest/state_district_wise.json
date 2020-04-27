@@ -349,7 +349,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 0
         }
       }
     },
@@ -4693,7 +4693,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 9
+          "recovered": 0
         }
       }
     },
@@ -5510,9 +5510,9 @@
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": -23
+          "recovered": 0
         }
       }
     },
@@ -5683,9 +5683,9 @@
         "deceased": 20,
         "recovered": 105,
         "delta": {
-          "confirmed": 40,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       }
     },
