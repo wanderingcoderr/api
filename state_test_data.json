@@ -9341,6 +9341,26 @@
 			"updatedon": "26/04/2020"
 		},
 		{
+			"negative": "83021",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "1937",
+			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-27-04-20-COVID-19-6-PM.pdf",
+			"source2": "",
+			"state": "Tamil Nadu",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "94781",
+			"unconfirmed": "",
+			"updatedon": "27/04/2020"
+		},
+		{
 			"negative": "14104",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
