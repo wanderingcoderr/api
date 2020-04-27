@@ -28,11 +28,9 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 20/04/2020,Arunachal Pradesh,439,1,405,34,,,,,,,https://twitter.com/ANI/status/1252454869983608832?s=09,,0.23%,0.2834496402,
 21/04/2020,Arunachal Pradesh,454,1,433,19,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,0.22%,0.2931347077,
 22/04/2020,Arunachal Pradesh,496,2,441,53,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,0.40%,0.3202528965,
-23/04/2020,Arunachal Pradesh,,,,,,,,,,,,,,0,
-24/04/2020,Arunachal Pradesh,526,2,508,16,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,0.38%,0.3396230313,
+23/04/2020,Arunachal Pradesh,526,2,508,16,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,0.38%,0.3396230313,
+24/04/2020,Arunachal Pradesh,,,,,,,,,,,,,,0,
 25/04/2020,Arunachal Pradesh,,,,,,,,,,,,,,0,
-26/04/2020,Arunachal Pradesh,568,2,529,37,,,,,,,http://covid19.itanagarsmartcity.in/covidstatus.php,,,,
-27/04/2020,Arunachal Pradesh,,,,,,,,,,,,,,,
 02/04/2020,Assam,962,16,819,127,,,,,,,https://twitter.com/nhm_assam/status/1245742375319691264/photo/1,,1.66%,0.02742238659,35080827
 05/04/2020,Assam,,,,,,,,,,,,,,0,
 10/04/2020,Assam,2863,29,2685,,,,3212,440,240,9245,https://t.me/indiacovid/2003?single,,1.01%,0.08161153099,
@@ -51,7 +49,6 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Assam,,,,,,,,,,,,,,0,
 24/04/2020,Assam,6680,35,6391,,,,3338,440,303,14478,https://twitter.com/nhm_assam/status/1253714714485538817,,0.52%,0.1904174038,
 25/04/2020,Assam,7159,35,6781,,,,3338,440,303,14812,https://twitter.com/nhm_assam/status/1254067546023694337?s=19,,0.49%,0.2040715859,
-26/04/2020,Assam,7823,35,7474,,,,3338,440,303,15418,https://twitter.com/nhm_assam/status/1254433067911036936?s=19,,,,
 05/04/2020,Bihar,3037,32,2299,706,,,,,,,https://twitter.com/sanjayjavin/status/1246667952054665216,,1.05%,0.02484111725,122256981
 05/04/2020,Bihar,3037,32,2299,706,,,,,,,,,1.05%,0.02484111725,
 08/04/2020,Bihar,4596,38,,465,,,,,,,https://twitter.com/sanjayjavin/status/1247762894063677440,,0.83%,0.03759294531,
@@ -72,8 +69,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Bihar,13785,148,,1240,768,,2344,116,50,,https://twitter.com/BiharHealthDept/status/1253330396726480901?s=19,,1.07%,0.1127542974,
 24/04/2020,Bihar,14924,176,,1000,,,2344,116,50,,https://twitter.com/sanjayjavin/status/1253554587811774465?s=19,https://twitter.com/BiharHealthDept/status/1254045733969330178,1.18%,0.1220707388,
 25/04/2020,Bihar,15885,238,,898,1255,,2344,116,50,,https://t.me/indiacovid/3178,,1.50%,0.1299312307,
-26/04/2020,Bihar,17041,255,,1018,1427,,2344,116,50,,https://twitter.com/BiharHealthDept/status/1254402408664363008?s=20,,1.50%,0.1393867234,
-27/04/2020,Bihar,,,,,,,,,,,,,,,
+26/04/2020,Bihar,16985,251,,1018,,,,,,,https://twitter.com/BiharHealthDept/status/1254295552906407936,,1.48%,0.1389286719,
 02/04/2020,Chandigarh,124,18,98,8,,,,,,,http://chdcovid19.in/,,14.52%,0.1085359118,1142479
 08/04/2020,Chandigarh,184,18,162,,,,,,,,http://chdcovid19.in/,,9.78%,0.1610532885,
 10/04/2020,Chandigarh,223,19,199,4,,,,,,,http://chdcovid19.in/,,8.52%,0.1951895834,
@@ -92,7 +88,6 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Chandigarh,599,27,557,14,,,,,,,http://chdcovid19.in/,,4.51%,0.5242984773,
 24/04/2020,Chandigarh,638,27,603,7,,,,,,,http://chdcovid19.in/,,4.23%,0.5584347721,
 25/04/2020,Chandigarh,734,28,668,37,,,,,,,http://chdcovid19.in/,,3.81%,0.6424625748,
-26/04/2020,Chandigarh,756,30,677,48,,,,,,,,,,,
 02/04/2020,Chhattisgarh,1232,9,921,302,,,,,,,http://www.cghealth.nic.in/cghealth17/,,0.73%,0.04249772222,28989789
 10/04/2020,Chhattisgarh,3473,18,3322,133,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHINDI_10042020.pdf,,0.52%,0.119800803,
 11/04/2020,Chhattisgarh,3858,18,3503,337,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/RevisedMediaBulletinHINDI_11042020.pdf,,0.47%,0.1330813412,
@@ -109,9 +104,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 22/04/2020,Chhattisgarh,9220,36,8296,888,,,,,,,http://cghealth.nic.in/cghealth17/,,0.39%,0.3180430185,
 23/04/2020,Chhattisgarh,10346,36,9206,1104,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_23042020.pdf,,0.35%,0.3568842809,
 24/04/2020,Chhattisgarh,11386,36,10213,1137,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletin_24042020.pdf,,0.32%,0.3927589814,
-25/04/2020,Chhattisgarh,12596,37,11168,1391,,,,,,,http://cghealth.nic.in/cghealth17/Information/content/CORONA/MediaBulletinHindi_25042020.pdf,,0.29%,0.4344978158,
-26/04/2020,Chhattisgarh,13786,37,12406,1343,,,,,,,https://t.me/indiacovid/3300?single,,,,
-27/04/2020,Chhattisgarh,,,,,,,,,,,,,,,
+25/04/2020,Chhattisgarh,,,,,,,,,,,,,,0,
 01/04/2020,Delhi,2621,,,2621,,,,,,,http://health.delhigovt.nic.in/wps/wcm/connect/068e55804dc3527fb23cf7982ee7a5c7/HB01A.pdf?MOD=AJPERES&lmod=908572962&CACHEID=068e55804dc3527fb23cf7982ee7a5c7,,0.00%,0.141689523,18498192
 07/04/2020,Delhi,9041,576,7308,1157,3120,,,,,,http://health.delhigovt.nic.in/wps/wcm/connect/ed4d3d804dd60b488b60ff982ee7a5c7/HB07A.pdf?MOD=AJPERES&lmod=1435478287&CACHEID=ed4d3d804dd60b488b60ff982ee7a5c7,,6.37%,0.4887504682,
 09/04/2020,Delhi,9968,720,8643,605,2664,,,,,,http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Health+Bulletin,http://health.delhigovt.nic.in/wps/wcm/connect/22522a804ddd430195f5f7d194e333e1/HB09A.pdf,7.22%,0.5388634738,
@@ -131,7 +124,6 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Delhi,30560,2375,24538,3068,,,,,,,https://twitter.com/CMODelhi/status/1253345233498226689?s=19,,7.77%,1.652053347,
 24/04/2020,Delhi,33672,2514,26552,4128,,,,,,,https://twitter.com/CMODelhi/status/1253715491987664897/photo/2,,7.47%,1.820286004,
 25/04/2020,Delhi,35519,2625,28693,3709,,,,,,,https://twitter.com/CMODelhi/status/1254081976631545856?s=20,,7.39%,1.9201336,
-26/04/2020,Delhi,37613,2918,31919,2533,,,,,,,https://twitter.com/CMODelhi/status/1254453744063754240?s=09,,,,
 02/04/2020,Goa,220,5,197,18,,,,,,,https://www.goa.gov.in/wp-content/uploads/2020/04/Media-Bulletin-02.04.2020.pdf,,2.27%,0.1406335798,1564349
 09/04/2020,Goa,344,7,,,,,,,,,https://twitter.com/dip_goa/status/1248237654258352129?s=09,,2.03%,0.2198997794,
 10/04/2020,Goa,354,7,,,,,,,,,https://twitter.com/DHS_Goa/status/1248609175241764872/photo/1,,1.98%,0.2262922148,
@@ -189,7 +181,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Haryana,17582,270,15452,1860,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Bulletin%2023-04-2020.pdf,,1.54%,,
 24/04/2020,Haryana,18845,275,16642,1928,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Bulletin%2024-04-2020.pdf,,1.46%,,
 25/04/2020,Haryana,20270,287,17787,2196,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Bulletin%2025-04-2020.pdf,,1.42%,,
-26/04/2020,Haryana,21467,296,19241,1930,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Evening%20Bulletin%2026-04-2020.pdf,,1.38%,,
+26/04/2020,Haryana,20885,294,18581,2010,,,,,,,http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Morning%20Bulletin%2026-04-2020.pdf,,1.41%,,
 27/04/2020,Haryana,,,,,,,,,,,,,,,
 10/04/2020,Himachal Pradesh,900,30,870,,,,,,,,https://twitter.com/nhm_hp/status/1248648731374714880,,3.33%,,7384022
 11/04/2020,Himachal Pradesh,900,30,870,0,,,,,,,http://www.nrhmhp.gov.in/,,3.33%,,
@@ -207,7 +199,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Himachal Pradesh,4020,40,3943,37,,,,,,,https://twitter.com/nhm_hp/status/1253364412880019456?s=19,,1.00%,,
 24/04/2020,Himachal Pradesh,4328,40,4160,128,,,,,,,https://twitter.com/nhm_hp/status/1253724575323557890,,0.92%,,
 25/04/2020,Himachal Pradesh,4623,40,4363,220,,,,,,,https://twitter.com/nhm_hp/status/1254028713022406657,,0.87%,,
-26/04/2020,Himachal Pradesh,4901,40,4794,67,,,,,,,https://twitter.com/nhm_hp/status/1254445018900836353?s=19,,0.82%,,
+26/04/2020,Himachal Pradesh,,,,,,,,,,,,,,,
 27/04/2020,Himachal Pradesh,,,,,,,,,,,,,,,
 05/04/2020,Jammu and Kashmir,1551,106,1429,16,,,,,,,https://twitter.com/diprjk/status/1246764514135040000,,6.83%,,13468313
 10/04/2020,Jammu and Kashmir,2961,207,2754,,415,,,,,,https://twitter.com/diprjk/status/1248598584380887042/photo/1,,6.99%,,
@@ -244,7 +236,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Jharkhand,5380,53,5327,,,,,,,,https://twitter.com/FobGumla/status/1253342601530368001?s=09,,0.99%,,
 24/04/2020,Jharkhand,6162,57,6105,,,,,,,,https://twitter.com/FobGumla/status/1253727385851015170/photo/1,,0.93%,,
 25/04/2020,Jharkhand,6970,67,6903,,,,,,,,https://twitter.com/FobGumla/status/1254135906212012034,,0.96%,,
-26/04/2020,Jharkhand,7806,82,7724,,,,,,,,https://twitter.com/FobGumla/status/1254496811949023232?s=19,,1.05%,,
+26/04/2020,Jharkhand,,,,,,,,,,,,,,,
 03/04/2020,Karnataka,4587,128,4281,178,219,,,,,,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/03-04-2020(English).pdf,,2.79%,,66834193
 07/04/2020,Karnataka,6580,175,5942,,,,1540,250,130,,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/07-04-2020(English).pdf,,2.66%,,
 08/04/2020,Karnataka,6967,181,6473,,,,,,,,https://karunadu.karnataka.gov.in/hfw/kannada/nCovDocs/08-04-2020(English).pdf,,2.60%,,
@@ -264,8 +256,8 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 22/04/2020,Karnataka,29512,427,25424,,,,,,,4898,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/22-04-2020-05-00-English.pdf,,1.45%,,
 23/04/2020,Karnataka,32122,445,28174,,,,,,,5944,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/23-04-2020-05-00-English.pdf,,1.39%,,
 24/04/2020,Karnataka,35958,474,31914,,,,,,,5943,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/24-04-2020-05-00-English.pdf,,1.32%,,
-25/04/2020,Karnataka,39083,500,34888,,,,,,,8731,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/25-04-2020%20-%2005-00%20-%20English.pdf,,1.28%,,
-26/04/2020,Karnataka,42964,503,38207,,,,,,,8486,https://covid19.karnataka.gov.in/storage/pdf-files/Media-Bulletin/26-04-2020%20-%2005-00%20-%20English.pdf,,1.17%,,
+25/04/2020,Karnataka,,,,,,,,,,,,,,,
+26/04/2020,Karnataka,,,,,,,,,,,,,,,
 27/04/2020,Karnataka,,,,,,,,,,,,,,,
 01/04/2020,Kerala,7965,265,7256,444,622,,,,,,https://dashboard.kerala.gov.in/testing-view-public.php,https://dashboard.kerala.gov.in/quarantine-view-public.php,3.33%,,35461849
 02/04/2020,Kerala,8456,286,7622,548,643,,,,,,https://dashboard.kerala.gov.in/testing-view-public.php,https://dashboard.kerala.gov.in/quarantine-view-public.php,3.38%,,
@@ -326,7 +318,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Madhya Pradesh,33074,1687,22861,8526,,,,,,836495,https://twitter.com/JansamparkMP/status/1253294536438284288?s=09,,5.10%,,
 24/04/2020,Madhya Pradesh,35076,1846,24387,8843,,,33514,865,592,876840,https://twitter.com/JansamparkMP/status/1253649153525153792?s=19,,5.26%,,
 25/04/2020,Madhya Pradesh,36887,1945,25921,9021,,,33514,865,592,918227,https://twitter.com/JansamparkMP/status/1254034656330240001,,5.27%,,
-26/04/2020,Madhya Pradesh,38708,2090,28179,8439,,,33514,865,592,961106,https://t.me/indiacovid/3252?single,,5.40%,,
+26/04/2020,Madhya Pradesh,,,,,,,,,,,,,,,
 05/04/2020,Maharashtra,16008,,14837,,3122,,,,,,,,0.00%,,121924973
 06/04/2020,Maharashtra,17563,868,15808,,3498,,,,,,https://www.cnbctv18.com/healthcare/maharashtra-covid-19-tally-mounts-to-868-with-7-fresh-deaths-5634351.htm,,4.94%,,
 07/04/2020,Maharashtra,20877,1018,19290,569,38703,,,,,,https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf,,4.88%,,
@@ -430,7 +422,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Puducherry,1548,7,1513,28,,,,,,,https://covid19dashboard.py.gov.in/Home/TestResultsReport,,0.45%,,
 24/04/2020,Puducherry,1704,7,1657,40,,,,,,,https://covid19dashboard.py.gov.in/Home/TestResultsReport,,0.41%,,
 25/04/2020,Puducherry,1864,8,1793,63,,,,,,,https://covid19dashboard.py.gov.in/Home/TestResultsReport,,0.43%,,
-26/04/2020,Puducherry,1977,8,1902,67,,,,,,,https://covid19dashboard.py.gov.in/Home/TestResultsReport,,0.40%,,
+26/04/2020,Puducherry,,,,,,,,,,,,,,,
 27/04/2020,Puducherry,,,,,,,,,,,,,,,
 02/04/2020,Punjab,1434,37,1236,161,,,,,,,https://twitter.com/kbssidhu1961/status/1245680244658339841/photo/1,,2.58%,,29875481
 08/04/2020,Punjab,2937,106,2614,217,,,,,,,https://twitter.com/kbssidhu1961/status/1247878360966901763/photo/1,,3.61%,,
@@ -451,7 +443,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Punjab,8757,283,7433,1041,,,,,,,https://twitter.com/kbssidhu1961/status/1253299062620581893?s=19,,3.23%,,
 24/04/2020,Punjab,10611,298,8310,2003,,,,,,,https://twitter.com/kbssidhu1961/status/1253658553895784448?s=19,,2.81%,,
 25/04/2020,Punjab,13270,308,9392,3569,,,,,,,https://t.me/indiacovid/3185,,2.32%,,
-26/04/2020,Punjab,14317,322,10497,3498,,,,,,,https://twitter.com/kbssidhu1961/status/1254446294518513666?s=19,,2.25%,,
+26/04/2020,Punjab,,,,,,,,,,,,,,,
 05/04/2020,Rajasthan,12279,260,11439,580,,,,,,,http://www.rajswasthya.nic.in/,,2.12%,,79584255
 07/04/2020,Rajasthan,17638,363,16401,874,,,,,,,,,2.06%,,
 08/04/2020,Rajasthan,17638,363,16401,874,,,,,,,http://www.rajswasthya.nic.in/,,2.06%,,
@@ -472,7 +464,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Rajasthan,69764,1964,63485,4315,,,,,,,https://t.me/indiacovid/3041,,2.82%,,
 24/04/2020,Rajasthan,74484,2034,68133,4317,,,,,,,https://t.me/indiacovid/3122,,2.73%,,
 25/04/2020,Rajasthan,78993,2083,71806,5104,,,,,,,https://t.me/indiacovid/3210,,2.64%,,
-26/04/2020,Rajasthan,82942,2185,75670,5087,,,,,,,https://t.me/indiacovid/3292,,2.63%,,
+26/04/2020,Rajasthan,,,,,,,,,,,,,,,
 27/04/2020,Rajasthan,,,,,,,,,,,,,,,
 03/04/2020,Tamil Nadu,3684,411,2789,484,284,,13323,,3044,,https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-04-20-COVID-19-6-PM.pdf,,11.16%,,77177540
 08/04/2020,Tamil Nadu,5305,690,4414,201,1864,,22049,,3371,,https://stopcorona.tn.gov.in/,,13.01%,,
@@ -500,6 +492,9 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 15/04/2020,Tripura,738,2,,,,,,,,,https://www.facebook.com/bjpbiplab/posts/2424173307684330,,0.27%,,
 16/04/2020,Tripura,762,2,760,,,,,,,,https://t.me/indiacovid/2466,,0.26%,,
 17/04/2020,Tripura,,,,,,,,,,,,,,,
+18/04/2020,Tripura,,,,,,,,,,,,,,,
+19/04/2020,Tripura,,,,,,,,,,,,,,,
+20/04/2020,Tripura,,,,,,,,,,,,,,,
 21/04/2020,Tripura,2604,2,2602,,,,,,,,https://t.me/indiacovid/2898?single,,0.08%,,
 22/04/2020,Tripura,3215,2,3123,,,,,,,,https://t.me/indiacovid/2983?single,,0.06%,,
 05/04/2020,Uttar Pradesh,5255,278,4796,181,,,,,,,WA circular :/,,5.29%,,233378519
@@ -521,7 +516,7 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,Uttar Pradesh,45483,1510,43495,478,,,,,,,https://t.me/indiacovid/3039?single,,3.32%,,
 24/04/2020,Uttar Pradesh,53166,1621,51161,384,,,,,,,https://t.me/indiacovid/3111?single,,3.05%,,
 25/04/2020,Uttar Pradesh,56851,1793,54216,842,,,,,,,https://t.me/indiacovid/3193?single,,3.15%,,
-26/04/2020,Uttar Pradesh,61799,1873,58492,984,,,,,,,https://twitter.com/qazifarazahmad/status/1254434010375131138?s=19,,3.03%,,
+26/04/2020,Uttar Pradesh,,,,,,,,,,,,,,,
 02/04/2020,Uttarakhand,678,7,554,117,,,,,,,https://www.facebook.com/UKMedicalHealth/photos/a.1666257713623931/2556543367928690/?type=3&theater,,1.03%,,11140566
 07/04/2020,Uttarakhand,1289,32,1092,165,176,,,,,,,,2.48%,,
 09/04/2020,Uttarakhand,1531,35,1235,261,1637,,,,,,http://health.uk.gov.in/files/Health_Bulletin__Uttarakhand_Novel_Corona_Virus_9_April_2020_8.00PM.pdf,,2.29%,,
@@ -563,5 +558,5 @@ Updated On,State,Total Tested,Positive,Negative,Unconfirmed,Total People In Quar
 23/04/2020,West Bengal,7990,456,,,,,,,,40605,https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_23.04_.2020_.pdf,https://www.mohfw.gov.in/,5.71%,,
 24/04/2020,West Bengal,8933,514,,,,,,,,41724,https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_24.04_.2020_.pdf,https://www.mohfw.gov.in/,5.75%,,
 25/04/2020,West Bengal,9880,571,,,,,,,,42858,https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_25.04_.2020_.pdf,https://www.mohfw.gov.in/,5.78%,,
-26/04/2020,West Bengal,10893,611,,,,,,,,43892,https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_26.04_.2020_.pdf,https://www.mohfw.gov.in/,5.61%,,
+26/04/2020,West Bengal,,,,,,,,,,,,,,,
 27/04/2020,West Bengal,,,,,,,,,,,,,,,
