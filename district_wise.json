@@ -9619,9 +9619,9 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "10",
+			"active": "15",
 			"activeyesterday": "10",
-			"confirmed": "10",
+			"confirmed": "15",
 			"confirmedyesterday": "10",
 			"deceased": "0",
 			"deceasedyesterday": "",
@@ -10249,7 +10249,7 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "7",
+			"active": "4",
 			"activeyesterday": "7",
 			"confirmed": "7",
 			"confirmedyesterday": "7",
@@ -10263,7 +10263,7 @@
 			"districtkey": "PY_Puducherry",
 			"districtnotes": "",
 			"formulaactive": "",
-			"recovered": "0",
+			"recovered": "3",
 			"recoveredyesterday": "",
 			"slno": "483",
 			"state": "Puducherry",
@@ -16150,7 +16150,7 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "-4",
+			"active": "-1",
 			"activeyesterday": "-4",
 			"confirmed": "0",
 			"confirmedyesterday": "0",
@@ -16164,7 +16164,7 @@
 			"districtkey": "PY_Unknown",
 			"districtnotes": "",
 			"formulaactive": "",
-			"recovered": "4",
+			"recovered": "1",
 			"recoveredyesterday": "4",
 			"slno": "755",
 			"state": "Puducherry",
