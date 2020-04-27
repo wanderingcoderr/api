@@ -2937,14 +2937,14 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 4547,
+        "active": 4477,
         "confirmed": 5407,
         "deceased": 219,
-        "recovered": 641,
+        "recovered": 711,
         "delta": {
           "confirmed": 0,
           "deceased": 15,
-          "recovered": 0
+          "recovered": 70
         }
       },
       "Nagpur": {
@@ -3033,14 +3033,14 @@
       },
       "Pune": {
         "notes": "",
-        "active": 762,
+        "active": 751,
         "confirmed": 1052,
         "deceased": 80,
-        "recovered": 210,
+        "recovered": 221,
         "delta": {
           "confirmed": 0,
           "deceased": 4,
-          "recovered": 0
+          "recovered": 11
         }
       },
       "Raigarh": {
@@ -3117,14 +3117,14 @@
       },
       "Thane": {
         "notes": "",
-        "active": 599,
+        "active": 595,
         "confirmed": 738,
         "deceased": 14,
-        "recovered": 125,
+        "recovered": 129,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Washim": {
