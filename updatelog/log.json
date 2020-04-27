@@ -1,9 +1,5 @@
 [
   {
-    "update": "70 recoveries in Maharashtra\n11 new cases and 8 recoveries in Telangana\n",
-    "timestamp": 1587913310
-  },
-  {
     "update": "1 recovery in Odisha\n",
     "timestamp": 1587913930
   },
@@ -198,5 +194,9 @@
   {
     "update": "190 new cases in Delhi\n",
     "timestamp": 1588006298
+  },
+  {
+    "update": "4 recoveries in Jharkhand\n",
+    "timestamp": 1588006959
   }
 ]

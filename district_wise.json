@@ -4257,17 +4257,17 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "67",
+			"active": "63",
 			"confirmed": "75",
 			"deceased": "2",
-			"deltaactive": "20",
+			"deltaactive": "16",
 			"deltaconfirmed": "20",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"district": "Ranchi",
 			"districtkey": "JH_Ranchi",
 			"districtnotes": "",
-			"recovered": "6",
+			"recovered": "10",
 			"slno": "266",
 			"state": "Jharkhand",
 			"statecode": "JH"

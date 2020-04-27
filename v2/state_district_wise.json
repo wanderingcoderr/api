@@ -2125,14 +2125,14 @@
       {
         "district": "Ranchi",
         "notes": "",
-        "active": 67,
+        "active": 63,
         "confirmed": 75,
         "deceased": 2,
-        "recovered": 6,
+        "recovered": 10,
         "delta": {
           "confirmed": 20,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
