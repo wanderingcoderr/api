@@ -7,7 +7,7 @@ A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing i
 |Status| Data                                                  | URL                                                   |
 |----------------------------------------------------- |----------------------------------------------------- | ----------------------------------------------------- |
 |:broken_heart:| Patient Level : Raw Data | https://api.covid19india.org/raw_data.json  |
-|:end:| Patient Level : Deaths and Recoveries | https://api.covid19india.org/deaths_recoveries.json |
+|:green_heart:| Patient Level : Deaths and Recoveries | https://api.covid19india.org/deaths_recoveries.json |
 |:green_heart:| National Level :Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json                |
 |:green_heart:| State Level : has district-wise info  | https://api.covid19india.org/state_district_wise.json |
 |:green_heart:| State Level : has district-wise info V2 _(minor difference in structure)_ | https://api.covid19india.org/v2/state_district_wise.json |
@@ -16,9 +16,6 @@ A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing i
 |:green_heart:| Essentials and resources  | https://api.covid19india.org/resources/resources.json  |
 |:end:| Travel history (No more updated)  | https://api.covid19india.org/travel_history.json  |
 
-:green_heart: : All good and working <br>
-:broken_heart: We are experiencing data inconsistencies or errors in the data. Currently being fixed. <br>
-:end: : Deprecated. Please do not use. <br>
 
 ### CSV
 Sometimes, having files in a spreadsheet format is more useful for analysts and scientists. We have provided the files as downloadable csv files in the following location.

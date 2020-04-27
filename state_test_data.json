@@ -7821,6 +7821,26 @@
 			"updatedon": "26/04/2020"
 		},
 		{
+			"negative": "613",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "0",
+			"source": "https://nagahealth.nagaland.gov.in/",
+			"source2": "",
+			"state": "Nagaland",
+			"testpositivityrate": "0.00%",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "629",
+			"unconfirmed": "16",
+			"updatedon": "27/04/2020"
+		},
+		{
 			"negative": "1108",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -8859,6 +8879,26 @@
 			"totaltested": "14317",
 			"unconfirmed": "3498",
 			"updatedon": "26/04/2020"
+		},
+		{
+			"negative": "12333",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "330",
+			"source": "https://twitter.com/kbssidhu1961/status/1254807639122276353/photo/1",
+			"source2": "",
+			"state": "Punjab",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "15516",
+			"unconfirmed": "2853",
+			"updatedon": "27/04/2020"
 		},
 		{
 			"negative": "11439",
