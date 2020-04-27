@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases in Jharkhand\n",
-    "timestamp": 1587832303
-  },
-  {
     "update": "1 recovery in Odisha\n",
     "timestamp": 1587834125
   },
@@ -198,5 +194,9 @@
   {
     "update": "4 recoveries in Andhra Pradesh\n",
     "timestamp": 1587966690
+  },
+  {
+    "update": "1 new case in Jharkhand\n",
+    "timestamp": 1587970930
   }
 ]
