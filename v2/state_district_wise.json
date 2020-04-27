@@ -3602,10 +3602,10 @@
       {
         "district": "Puducherry",
         "notes": "",
-        "active": 4,
+        "active": 7,
         "confirmed": 7,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
