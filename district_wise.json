@@ -7489,11 +7489,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "17",
-			"confirmed": "18",
+			"active": "18",
+			"confirmed": "19",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jajapur",

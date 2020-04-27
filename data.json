@@ -795,13 +795,13 @@
 	],
 	"statewise": [
 		{
-			"active": "20665",
-			"confirmed": "28125",
+			"active": "20666",
+			"confirmed": "28126",
 			"deaths": "887",
-			"deltaconfirmed": "235",
+			"deltaconfirmed": "236",
 			"deltadeaths": "6",
 			"deltarecovered": "50",
-			"lastupdatedtime": "27/04/2020 16:41:55",
+			"lastupdatedtime": "27/04/2020 17:31:55",
 			"recovered": "6573",
 			"state": "Total",
 			"statecode": "TT",
@@ -1000,7 +1000,7 @@
 			"recovered": "205",
 			"state": "Haryana",
 			"statecode": "HR",
-			"statenotes": "One death in Ambala included"
+			"statenotes": ""
 		},
 		{
 			"active": "268",
@@ -1016,13 +1016,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "74",
-			"confirmed": "110",
+			"active": "75",
+			"confirmed": "111",
 			"deaths": "1",
-			"deltaconfirmed": "7",
+			"deltaconfirmed": "8",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "27/04/2020 16:22:57",
+			"lastupdatedtime": "27/04/2020 17:31:56",
 			"recovered": "35",
 			"state": "Odisha",
 			"statecode": "OR",

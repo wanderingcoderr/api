@@ -3531,12 +3531,12 @@
       {
         "district": "Jajapur",
         "notes": "",
-        "active": 17,
-        "confirmed": 18,
+        "active": 18,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
