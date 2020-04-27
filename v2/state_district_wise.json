@@ -2352,8 +2352,8 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
