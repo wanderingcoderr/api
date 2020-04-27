@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 recoveries in Jharkhand\n",
-    "timestamp": 1587885078
-  },
-  {
     "update": "2 new cases in Uttarakhand\n",
     "timestamp": 1587887497
   },
@@ -198,5 +194,9 @@
   {
     "update": "19 new cases in Bihar\n",
     "timestamp": 1587994315
+  },
+  {
+    "update": "2 new cases and 8 recoveries in Haryana\n",
+    "timestamp": 1587995498
   }
 ]

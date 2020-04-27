@@ -1405,12 +1405,12 @@
       {
         "district": "Ambala",
         "notes": "",
-        "active": 2,
-        "confirmed": 13,
+        "active": 3,
+        "confirmed": 14,
         "deceased": 1,
         "recovered": 10,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1444,14 +1444,14 @@
       {
         "district": "Faridabad",
         "notes": "",
-        "active": 11,
+        "active": 9,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 37,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 6
+          "recovered": 8
         }
       },
       {
@@ -1470,14 +1470,14 @@
       {
         "district": "Gurugram",
         "notes": "",
-        "active": 16,
+        "active": 15,
         "confirmed": 51,
         "deceased": 0,
-        "recovered": 35,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -1489,6 +1489,19 @@
         "recovered": 2,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Jhajjar",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1548,14 +1561,14 @@
       {
         "district": "Nuh",
         "notes": "",
-        "active": 18,
+        "active": 13,
         "confirmed": 57,
         "deceased": 0,
-        "recovered": 39,
+        "recovered": 44,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
