@@ -8865,11 +8865,11 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "429",
-			"confirmed": "528",
+			"active": "476",
+			"confirmed": "575",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "47",
+			"deltaconfirmed": "47",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Chennai",
@@ -9041,11 +9041,11 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "47",
-			"confirmed": "75",
+			"active": "51",
+			"confirmed": "79",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "4",
+			"deltaconfirmed": "4",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Madurai",
@@ -9393,11 +9393,11 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "33",
-			"confirmed": "51",
+			"active": "34",
+			"confirmed": "52",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Viluppuram",
@@ -12369,8 +12369,8 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "-732",
-			"confirmed": "52",
+			"active": "-784",
+			"confirmed": "0",
 			"deceased": "24",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

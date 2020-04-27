@@ -4322,12 +4322,12 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 429,
-        "confirmed": 528,
+        "active": 476,
+        "confirmed": 575,
         "deceased": 0,
         "recovered": 99,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 47,
           "deceased": 0,
           "recovered": 0
         }
@@ -4452,12 +4452,12 @@
       {
         "district": "Madurai",
         "notes": "",
-        "active": 47,
-        "confirmed": 75,
+        "active": 51,
+        "confirmed": 79,
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -4738,12 +4738,12 @@
       {
         "district": "Viluppuram",
         "notes": "",
-        "active": 33,
-        "confirmed": 51,
+        "active": 34,
+        "confirmed": 52,
         "deceased": 0,
         "recovered": 18,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4755,19 +4755,6 @@
         "confirmed": 32,
         "deceased": 0,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -732,
-        "confirmed": 52,
-        "deceased": 24,
-        "recovered": 760,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
