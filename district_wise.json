@@ -12369,8 +12369,8 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "-703",
-			"confirmed": "0",
+			"active": "-732",
+			"confirmed": "52",
 			"deceased": "24",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12379,7 +12379,7 @@
 			"district": "Unknown",
 			"districtkey": "TN_Unknown",
 			"districtnotes": "",
-			"recovered": "679",
+			"recovered": "760",
 			"slno": "759",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -12433,7 +12433,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "-2",
+			"active": "-9",
 			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12443,7 +12443,7 @@
 			"district": "Unknown",
 			"districtkey": "UT_Unknown",
 			"districtnotes": "",
-			"recovered": "3",
+			"recovered": "10",
 			"slno": "763",
 			"state": "Uttarakhand",
 			"statecode": "UT"

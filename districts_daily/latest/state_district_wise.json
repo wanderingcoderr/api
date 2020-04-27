@@ -4378,6 +4378,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -732,
+        "confirmed": 52,
+        "deceased": 24,
+        "recovered": 760,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "TN"
@@ -5541,10 +5553,10 @@
       },
       "Unknown": {
         "notes": "",
-        "active": -2,
+        "active": -9,
         "confirmed": 1,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
