@@ -4661,6 +4661,26 @@
 			"updatedon": "26/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Jharkhand",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "28/04/2020"
+		},
+		{
 			"negative": "4281",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",

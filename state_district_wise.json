@@ -1952,12 +1952,12 @@
       },
       "Ranchi": {
         "notes": "",
-        "active": 47,
-        "confirmed": 55,
+        "active": 62,
+        "confirmed": 70,
         "deceased": 2,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 15,
           "deceased": 0,
           "recovered": 0
         }
@@ -4446,10 +4446,10 @@
       },
       "Bhadradri Kothagudem": {
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 0,
+        "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4786,18 +4786,6 @@
         "confirmed": 27,
         "deceased": 0,
         "recovered": 22,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": -7,
-        "confirmed": -3,
-        "deceased": 0,
-        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

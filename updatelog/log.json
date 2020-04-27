@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Rajasthan\n",
-    "timestamp": 1587894694
-  },
-  {
     "update": "11 new cases in Rajasthan\n",
     "timestamp": 1587895898
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 death in Jammu and Kashmir\n",
     "timestamp": 1587996723
+  },
+  {
+    "update": "15 new cases in Jharkhand\n",
+    "timestamp": 1587997302
   }
 ]

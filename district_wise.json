@@ -4257,11 +4257,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "47",
-			"confirmed": "55",
+			"active": "62",
+			"confirmed": "70",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "15",
+			"deltaconfirmed": "15",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ranchi",
@@ -9441,8 +9441,8 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "7",
-			"confirmed": "7",
+			"active": "0",
+			"confirmed": "4",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -9451,7 +9451,7 @@
 			"district": "Bhadradri Kothagudem",
 			"districtkey": "TG_Bhadradri Kothagudem",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "4",
 			"slno": "577",
 			"state": "Telangana",
 			"statecode": "TG"
@@ -12385,8 +12385,8 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "-7",
-			"confirmed": "-3",
+			"active": "0",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12395,7 +12395,7 @@
 			"district": "Unknown",
 			"districtkey": "TG_Unknown",
 			"districtnotes": "",
-			"recovered": "4",
+			"recovered": "0",
 			"slno": "760",
 			"state": "Telangana",
 			"statecode": "TG"
