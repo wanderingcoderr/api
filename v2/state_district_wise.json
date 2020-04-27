@@ -3425,6 +3425,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 401,
+        "confirmed": 522,
+        "deceased": 27,
+        "recovered": 94,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -5315,14 +5328,14 @@
       {
         "district": "Baghpat",
         "notes": "",
-        "active": 14,
+        "active": 4,
         "confirmed": 15,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 11,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
@@ -5393,14 +5406,14 @@
       {
         "district": "Basti",
         "notes": "",
-        "active": 17,
+        "active": 9,
         "confirmed": 23,
         "deceased": 1,
-        "recovered": 5,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       {
@@ -5419,14 +5432,14 @@
       {
         "district": "Bijnor",
         "notes": "",
-        "active": 30,
+        "active": 29,
         "confirmed": 30,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -5445,14 +5458,14 @@
       {
         "district": "Bulandshahr",
         "notes": "",
-        "active": 44,
+        "active": 40,
         "confirmed": 50,
         "deceased": 1,
-        "recovered": 5,
+        "recovered": 9,
         "delta": {
           "confirmed": 12,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -5510,14 +5523,14 @@
       {
         "district": "Ghaziabad",
         "notes": "",
-        "active": 42,
+        "active": 27,
         "confirmed": 58,
         "deceased": 0,
-        "recovered": 16,
+        "recovered": 31,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       {
@@ -5562,14 +5575,14 @@
       {
         "district": "Hapur",
         "notes": "",
-        "active": 26,
+        "active": 22,
         "confirmed": 26,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 4,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       {
@@ -5705,14 +5718,14 @@
       {
         "district": "Lucknow",
         "notes": "",
-        "active": 165,
+        "active": 158,
         "confirmed": 196,
         "deceased": 1,
-        "recovered": 30,
+        "recovered": 37,
         "delta": {
           "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       {
@@ -5770,40 +5783,40 @@
       {
         "district": "Meerut",
         "notes": "",
-        "active": 51,
+        "active": 41,
         "confirmed": 92,
         "deceased": 5,
-        "recovered": 36,
+        "recovered": 46,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
         "district": "Mirzapur",
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 3,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Moradabad",
         "notes": "",
-        "active": 97,
+        "active": 95,
         "confirmed": 104,
         "deceased": 6,
-        "recovered": 1,
+        "recovered": 3,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
