@@ -441,6 +441,18 @@
           "recovered": 0
         }
       },
+      "Darbhanga": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
       "East Champaran": {
         "notes": "",
         "active": 5,
@@ -563,12 +575,12 @@
       },
       "Nawada": {
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 2,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -585,14 +597,26 @@
           "recovered": 0
         }
       },
-      "Rohtas": {
+      "Purnia": {
         "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "active": 1,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Rohtas": {
+        "notes": "",
+        "active": 31,
+        "confirmed": 31,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 16,
           "deceased": 0,
           "recovered": 0
         }

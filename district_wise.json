@@ -1313,11 +1313,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Darbhanga",
@@ -1569,11 +1569,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "1",
-			"confirmed": "3",
+			"active": "2",
+			"confirmed": "4",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Nawada",
@@ -1601,11 +1601,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Purnia",
@@ -1617,11 +1617,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "15",
-			"confirmed": "15",
+			"active": "31",
+			"confirmed": "31",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "16",
+			"deltaconfirmed": "16",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Rohtas",
