@@ -16,9 +16,9 @@ A volunteer-driven, crowdsourced database for COVID-19 stats & patient tracing i
 |:green_heart:| Essentials and resources  | https://api.covid19india.org/resources/resources.json  |
 |:end:| Travel history (No more updated)  | https://api.covid19india.org/travel_history.json  |
 
-:green_heart: : All good and working
-:broken_heart: We are experiencing data inconsistencies or errors in the data. Currently being fixed
-:end: : Deprecated. Please do not use. 
+:green_heart: : All good and working <br>
+:broken_heart: We are experiencing data inconsistencies or errors in the data. Currently being fixed. <br>
+:end: : Deprecated. Please do not use. <br>
 
 ### CSV
 Sometimes, having files in a spreadsheet format is more useful for analysts and scientists. We have provided the files as downloadable csv files in the following location.
