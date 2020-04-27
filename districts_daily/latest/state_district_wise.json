@@ -3197,12 +3197,12 @@
     "districtData": {
       "Baleshwar": {
         "notes": "",
-        "active": 15,
-        "confirmed": 15,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -3287,6 +3287,18 @@
         "recovered": 23,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Koraput": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3740,13 +3752,13 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 580,
+        "active": 582,
         "confirmed": 827,
-        "deceased": 25,
+        "deceased": 23,
         "recovered": 222,
         "delta": {
           "confirmed": 19,
-          "deceased": 4,
+          "deceased": 2,
           "recovered": 0
         }
       },

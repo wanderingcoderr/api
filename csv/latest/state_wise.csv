@@ -1,9 +1,9 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,28118,6573,886,20659,27/04/2020 15:11:55,TT,228,50,5,
+Total,28120,6573,884,20663,27/04/2020 16:20:54,TT,230,50,3,
 Maharashtra,8068,1188,342,6538,26/04/2020 19:37:37,MH,0,0,0,
 Gujarat,3301,313,151,2837,25/04/2020 20:42:38,GJ,0,0,0,
 Delhi,2918,877,54,1987,25/04/2020 21:52:38,DL,0,0,0,
-Rajasthan,2234,669,46,1519,27/04/2020 14:32:55,RJ,49,40,5,
+Rajasthan,2234,669,44,1521,27/04/2020 14:32:55,RJ,49,40,3,
 Madhya Pradesh,2090,302,103,1685,26/04/2020 18:32:38,MP,0,0,0,
 Tamil Nadu,1885,1020,24,841,26/04/2020 18:12:38,TN,0,0,0,
 Uttar Pradesh,1873,327,30,1516,26/04/2020 16:27:37,UP,0,0,0,
@@ -16,7 +16,7 @@ Kerala,469,342,4,123,26/04/2020 17:57:38,KL,0,0,0,Mahe native who expired in Kan
 Punjab,322,84,18,220,26/04/2020 18:42:41,PB,0,0,0,
 Haryana,299,205,3,91,27/04/2020 13:22:56,HR,3,6,0,One death in Ambala included
 Bihar,321,56,2,263,27/04/2020 15:11:56,BR,44,0,0,
-Odisha,108,35,1,72,25/04/2020 23:22:41,OR,5,0,0,
+Odisha,110,35,1,74,27/04/2020 16:20:56,OR,7,0,0,
 Jharkhand,83,13,3,67,27/04/2020 12:32:56,JH,1,0,0,
 Uttarakhand,51,26,0,25,26/04/2020 13:17:38,UT,0,0,0,
 Himachal Pradesh,40,22,2,16,26/04/2020 10:47:39,HP,0,0,0,Death of Tibetan refugee included

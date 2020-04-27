@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Uttar Pradesh\n",
-    "timestamp": 1587871886
-  },
-  {
     "update": "1 new case in Jharkhand\n",
     "timestamp": 1587872489
   },
@@ -198,5 +194,9 @@
   {
     "update": "31 new cases in Bihar\n",
     "timestamp": 1587980497
+  },
+  {
+    "update": "2 new cases in Odisha\n",
+    "timestamp": 1587984697
   }
 ]
