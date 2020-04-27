@@ -1,32 +1,32 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
 Total,27890,6523,881,20486,27/04/2020 08:22:37,TT,0,0,0,
-Maharashtra,8068,1188,342,6538,27/04/2020 08:57:37,MH,0,0,0,
-Gujarat,3301,313,151,2837,27/04/2020 08:57:37,GJ,0,0,0,
-Delhi,2918,877,54,1987,27/04/2020 08:57:38,DL,0,0,0,
-Rajasthan,2185,629,41,1515,27/04/2020 08:57:39,RJ,0,0,0,
-Madhya Pradesh,2090,302,103,1685,27/04/2020 08:57:40,MP,0,0,0,
-Tamil Nadu,1885,1020,24,841,27/04/2020 08:57:41,TN,0,0,0,
-Uttar Pradesh,1873,327,30,1516,27/04/2020 08:57:41,UP,0,0,0,
-Andhra Pradesh,1097,231,31,835,27/04/2020 08:57:42,AP,0,0,0,
-Telangana,1001,316,25,660,27/04/2020 08:57:43,TG,0,0,0,
-West Bengal,611,105,20,486,27/04/2020 08:57:44,WB,0,0,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
-Karnataka,503,182,19,302,27/04/2020 08:57:44,KA,0,0,0,
-Jammu and Kashmir,523,137,6,380,27/04/2020 08:57:45,JK,0,0,0,
-Kerala,469,342,4,123,27/04/2020 08:57:46,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
-Punjab,322,84,18,220,27/04/2020 08:57:47,PB,0,0,0,
-Haryana,296,199,3,94,27/04/2020 08:57:47,HR,0,0,0,One death in Ambala included
-Bihar,277,56,2,219,27/04/2020 08:57:48,BR,0,0,0,
-Odisha,103,35,1,67,27/04/2020 08:57:49,OR,0,0,0,
-Jharkhand,82,13,3,66,27/04/2020 08:57:49,JH,0,0,0,
-Uttarakhand,51,26,0,25,27/04/2020 08:57:50,UT,0,0,0,
-Himachal Pradesh,40,22,2,16,27/04/2020 08:57:51,HP,0,0,0,Death of Tibetan refugee included
-Chhattisgarh,37,32,0,5,27/04/2020 08:57:51,CT,0,0,0,
-Assam,36,27,1,8,27/04/2020 08:57:52,AS,0,0,0,Includes one case from Nagaland
-Andaman and Nicobar Islands,33,11,0,22,27/04/2020 08:57:53,AN,0,0,0,
+Maharashtra,8068,1188,342,6538,27/04/2020 09:07:37,MH,0,0,0,
+Gujarat,3301,313,151,2837,27/04/2020 09:07:37,GJ,0,0,0,
+Delhi,2918,877,54,1987,27/04/2020 09:07:39,DL,0,0,0,
+Rajasthan,2185,629,41,1515,27/04/2020 09:07:39,RJ,0,0,0,
+Madhya Pradesh,2090,302,103,1685,27/04/2020 09:07:40,MP,0,0,0,
+Tamil Nadu,1885,1020,24,841,27/04/2020 09:07:41,TN,0,0,0,
+Uttar Pradesh,1873,327,30,1516,27/04/2020 09:07:41,UP,0,0,0,
+Andhra Pradesh,1097,231,31,835,27/04/2020 09:07:42,AP,0,0,0,
+Telangana,1001,316,25,660,27/04/2020 09:07:43,TG,0,0,0,
+West Bengal,611,105,20,486,27/04/2020 09:07:43,WB,0,0,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
+Karnataka,503,182,19,302,27/04/2020 09:07:44,KA,0,0,0,
+Jammu and Kashmir,523,137,6,380,27/04/2020 09:07:45,JK,0,0,0,
+Kerala,469,342,4,123,27/04/2020 09:07:46,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
+Punjab,322,84,18,220,27/04/2020 09:07:46,PB,0,0,0,
+Haryana,296,199,3,94,27/04/2020 09:07:47,HR,0,0,0,One death in Ambala included
+Bihar,277,56,2,219,27/04/2020 09:07:48,BR,0,0,0,
+Odisha,103,35,1,67,27/04/2020 09:07:49,OR,0,0,0,
+Jharkhand,82,13,3,66,27/04/2020 09:07:49,JH,0,0,0,
+Uttarakhand,51,26,0,25,27/04/2020 09:07:50,UT,0,0,0,
+Himachal Pradesh,40,22,2,16,27/04/2020 09:07:51,HP,0,0,0,Death of Tibetan refugee included
+Chhattisgarh,37,32,0,5,27/04/2020 09:07:51,CT,0,0,0,
+Assam,36,27,1,8,27/04/2020 09:07:52,AS,0,0,0,Includes one case from Nagaland
+Andaman and Nicobar Islands,33,11,0,22,27/04/2020 09:07:53,AN,0,0,0,
 Chandigarh,36,17,0,19,26/04/2020 18:52:38,CH,0,0,0,
 Ladakh,20,16,0,4,25/04/2020 17:32:38,LA,0,0,0,
-Meghalaya,12,0,1,11,27/04/2020 08:57:54,ML,0,0,0,
-Puducherry,8,4,0,4,27/04/2020 08:57:54,PY,0,0,0,
+Meghalaya,12,0,1,11,27/04/2020 09:07:53,ML,0,0,0,
+Puducherry,8,4,0,4,27/04/2020 09:07:54,PY,0,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
 Manipur,2,2,0,0,20/04/2020 10:04:08,MN,0,0,0,
 Tripura,2,2,0,0,23/04/2020 20:47:41,TR,0,0,0,
