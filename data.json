@@ -938,19 +938,6 @@
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"
 		},
 		{
-			"active": "302",
-			"confirmed": "503",
-			"deaths": "19",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 19:22:38",
-			"recovered": "182",
-			"state": "Karnataka",
-			"statecode": "KA",
-			"statenotes": ""
-		},
-		{
 			"active": "380",
 			"confirmed": "523",
 			"deaths": "6",
@@ -961,6 +948,19 @@
 			"recovered": "137",
 			"state": "Jammu and Kashmir",
 			"statecode": "JK",
+			"statenotes": ""
+		},
+		{
+			"active": "302",
+			"confirmed": "503",
+			"deaths": "19",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "26/04/2020 19:22:38",
+			"recovered": "182",
+			"state": "Karnataka",
+			"statecode": "KA",
 			"statenotes": ""
 		},
 		{
@@ -1094,19 +1094,6 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
-			"active": "22",
-			"confirmed": "33",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 20:02:39",
-			"recovered": "11",
-			"state": "Andaman and Nicobar Islands",
-			"statecode": "AN",
-			"statenotes": ""
-		},
-		{
 			"active": "19",
 			"confirmed": "36",
 			"deaths": "0",
@@ -1117,6 +1104,19 @@
 			"recovered": "17",
 			"state": "Chandigarh",
 			"statecode": "CH",
+			"statenotes": ""
+		},
+		{
+			"active": "22",
+			"confirmed": "33",
+			"deaths": "0",
+			"deltaconfirmed": "0",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "25/04/2020 20:02:39",
+			"recovered": "11",
+			"state": "Andaman and Nicobar Islands",
+			"statecode": "AN",
 			"statenotes": ""
 		},
 		{
