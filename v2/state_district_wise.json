@@ -407,12 +407,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 7,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -459,12 +459,12 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 8,
+        "confirmed": 9,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 7,
           "deceased": 0,
           "recovered": 0
         }
@@ -550,12 +550,12 @@
       {
         "district": "Lakhisarai",
         "notes": "",
-        "active": 0,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -574,14 +574,27 @@
         }
       },
       {
+        "district": "Madhubani",
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Munger",
         "notes": "",
-        "active": 69,
-        "confirmed": 81,
+        "active": 78,
+        "confirmed": 90,
         "deceased": 1,
         "recovered": 11,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 22,
           "deceased": 0,
           "recovered": 0
         }
@@ -615,12 +628,12 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 28,
-        "confirmed": 33,
+        "active": 30,
+        "confirmed": 35,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
