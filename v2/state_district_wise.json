@@ -628,12 +628,12 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 29,
-        "confirmed": 34,
+        "active": 34,
+        "confirmed": 39,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -4082,13 +4082,13 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 582,
+        "active": 580,
         "confirmed": 827,
-        "deceased": 23,
+        "deceased": 25,
         "recovered": 222,
         "delta": {
           "confirmed": 19,
-          "deceased": 2,
+          "deceased": 4,
           "recovered": 0
         }
       },
