@@ -1952,12 +1952,12 @@
       },
       "Ranchi": {
         "notes": "",
-        "active": 62,
-        "confirmed": 70,
+        "active": 67,
+        "confirmed": 75,
         "deceased": 2,
         "recovered": 6,
         "delta": {
-          "confirmed": 15,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
