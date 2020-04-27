@@ -1,9 +1,5 @@
 [
   {
-    "update": "21 recoveries and 4 deaths in Madhya Pradesh\n2 new cases in Karnataka\n",
-    "timestamp": 1587906129
-  },
-  {
     "update": "24 recoveries and 1 death in Karnataka\n5 new cases, 12 recoveries and 1 death in Punjab\n15 new cases in Bihar\n",
     "timestamp": 1587906707
   },
@@ -198,5 +194,9 @@
   {
     "update": "75 new cases, 16 recoveries and 3 deaths in Madhya Pradesh\n7 recoveries in Uttar Pradesh\n",
     "timestamp": 1588002106
+  },
+  {
+    "update": "39 recoveries and 4 deaths in Madhya Pradesh\n1 death in Uttar Pradesh\n",
+    "timestamp": 1588002689
   }
 ]

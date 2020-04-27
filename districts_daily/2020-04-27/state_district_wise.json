@@ -2452,14 +2452,14 @@
       },
       "Barwani": {
         "notes": "",
-        "active": 17,
+        "active": 14,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Betul": {
@@ -2476,14 +2476,14 @@
       },
       "Bhopal": {
         "notes": "",
-        "active": 315,
+        "active": 277,
         "confirmed": 428,
-        "deceased": 9,
-        "recovered": 104,
+        "deceased": 12,
+        "recovered": 139,
         "delta": {
           "confirmed": 13,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 3,
+          "recovered": 35
         }
       },
       "Chhindwara": {
@@ -2500,14 +2500,14 @@
       },
       "Dewas": {
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 24,
         "deceased": 6,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Dhar": {
@@ -2620,13 +2620,13 @@
       },
       "Mandsaur": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 9,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -5500,13 +5500,13 @@
       },
       "Shrawasti": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 5,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
