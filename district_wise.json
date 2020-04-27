@@ -15161,9 +15161,9 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "0",
+			"active": "1",
 			"activeyesterday": "",
-			"confirmed": "0",
+			"confirmed": "1",
 			"confirmedyesterday": "",
 			"deceased": "0",
 			"deceasedyesterday": "",
