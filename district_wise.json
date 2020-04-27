@@ -8017,17 +8017,17 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "8",
+			"active": "6",
 			"confirmed": "18",
 			"deceased": "4",
-			"deltaactive": "0",
+			"deltaactive": "-2",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"district": "Ludhiana",
 			"districtkey": "PB_Ludhiana",
 			"districtnotes": "",
-			"recovered": "6",
+			"recovered": "8",
 			"slno": "496",
 			"state": "Punjab",
 			"statecode": "PB"

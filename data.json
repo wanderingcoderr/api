@@ -791,18 +791,27 @@
 			"totalconfirmed": "27890",
 			"totaldeceased": "881",
 			"totalrecovered": "6523"
+		},
+		{
+			"dailyconfirmed": "1365",
+			"dailydeceased": "606",
+			"dailyrecovered": "606",
+			"date": "27 April ",
+			"totalconfirmed": "29255",
+			"totaldeceased": "881",
+			"totalrecovered": "7129"
 		}
 	],
 	"statewise": [
 		{
-			"active": "21190",
+			"active": "21188",
 			"confirmed": "29255",
 			"deaths": "938",
 			"deltaconfirmed": "1365",
 			"deltadeaths": "57",
-			"deltarecovered": "604",
-			"lastupdatedtime": "27/04/2020 21:53:56",
-			"recovered": "7127",
+			"deltarecovered": "606",
+			"lastupdatedtime": "27/04/2020 21:59:08",
+			"recovered": "7129",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -853,7 +862,7 @@
 			"deltaconfirmed": "77",
 			"deltadeaths": "9",
 			"deltarecovered": "115",
-			"lastupdatedtime": "27/04/2020 21:53:56",
+			"lastupdatedtime": "27/04/2020 21:54:55",
 			"recovered": "744",
 			"state": "Rajasthan",
 			"statecode": "RJ",
@@ -977,14 +986,14 @@
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
-			"active": "215",
+			"active": "213",
 			"confirmed": "330",
 			"deaths": "19",
 			"deltaconfirmed": "8",
 			"deltadeaths": "1",
-			"deltarecovered": "12",
-			"lastupdatedtime": "27/04/2020 21:53:57",
-			"recovered": "96",
+			"deltarecovered": "14",
+			"lastupdatedtime": "27/04/2020 21:59:09",
+			"recovered": "98",
 			"state": "Punjab",
 			"statecode": "PB",
 			"statenotes": ""

@@ -3842,14 +3842,14 @@
       {
         "district": "Ludhiana",
         "notes": "",
-        "active": 8,
+        "active": 6,
         "confirmed": 18,
         "deceased": 4,
-        "recovered": 6,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
