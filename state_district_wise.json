@@ -3644,14 +3644,14 @@
       },
       "Bikaner": {
         "notes": "",
-        "active": 4,
+        "active": 0,
         "confirmed": 37,
         "deceased": 1,
-        "recovered": 32,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Chittaurgarh": {
@@ -3668,14 +3668,14 @@
       },
       "Churu": {
         "notes": "",
-        "active": 3,
+        "active": 1,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Dausa": {
@@ -3740,14 +3740,14 @@
       },
       "Jaisalmer": {
         "notes": "",
-        "active": 9,
+        "active": 8,
         "confirmed": 35,
         "deceased": 0,
-        "recovered": 26,
+        "recovered": 27,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Jhalawar": {
@@ -3776,14 +3776,14 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 315,
+        "active": 292,
         "confirmed": 370,
         "deceased": 5,
-        "recovered": 50,
+        "recovered": 73,
         "delta": {
           "confirmed": 6,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 23
         }
       },
       "Karauli": {
@@ -3800,14 +3800,14 @@
       },
       "Kota": {
         "notes": "",
-        "active": 78,
+        "active": 68,
         "confirmed": 162,
         "deceased": 4,
-        "recovered": 80,
+        "recovered": 90,
         "delta": {
           "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Nagaur": {
