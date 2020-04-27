@@ -3725,14 +3725,14 @@
       {
         "district": "Amritsar",
         "notes": "",
-        "active": 11,
+        "active": 6,
         "confirmed": 14,
         "deceased": 2,
-        "recovered": 1,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
@@ -3829,12 +3829,12 @@
       {
         "district": "Kapurthala",
         "notes": "",
-        "active": 0,
-        "confirmed": 3,
+        "active": 3,
+        "confirmed": 6,
         "deceased": 1,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3894,14 +3894,14 @@
       {
         "district": "Patiala",
         "notes": "",
-        "active": 59,
+        "active": 58,
         "confirmed": 61,
         "deceased": 1,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 1,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3920,14 +3920,14 @@
       {
         "district": "S.A.S. Nagar",
         "notes": "",
-        "active": 39,
+        "active": 33,
         "confirmed": 63,
         "deceased": 2,
-        "recovered": 22,
+        "recovered": 28,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 6
         }
       },
       {
@@ -3965,6 +3965,19 @@
         "recovered": 0,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Tarn Taran",
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -4043,12 +4056,12 @@
       {
         "district": "Bhilwara",
         "notes": "",
-        "active": 2,
-        "confirmed": 34,
+        "active": 3,
+        "confirmed": 35,
         "deceased": 2,
         "recovered": 30,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4199,14 +4212,14 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 287,
+        "active": 288,
         "confirmed": 375,
         "deceased": 6,
-        "recovered": 82,
+        "recovered": 81,
         "delta": {
           "confirmed": 11,
           "deceased": 1,
-          "recovered": 32
+          "recovered": 31
         }
       },
       {
@@ -4355,14 +4368,14 @@
       {
         "district": "Evacuees",
         "notes": "Evacuees from other countries; They have been counted separatly by the state",
-        "active": 36,
+        "active": 27,
         "confirmed": 61,
         "deceased": 0,
-        "recovered": 25,
+        "recovered": 34,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 9
         }
       }
     ]
