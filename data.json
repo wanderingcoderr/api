@@ -795,13 +795,13 @@
 	],
 	"statewise": [
 		{
-			"active": "20575",
-			"confirmed": "27982",
+			"active": "20655",
+			"confirmed": "28062",
 			"deaths": "884",
-			"deltaconfirmed": "92",
+			"deltaconfirmed": "172",
 			"deltadeaths": "3",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 19:37:37",
+			"lastupdatedtime": "27/04/2020 11:10:54",
 			"recovered": "6523",
 			"state": "Total",
 			"statecode": "TT",
@@ -899,13 +899,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "835",
-			"confirmed": "1097",
+			"active": "915",
+			"confirmed": "1177",
 			"deaths": "31",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "80",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 11:57:37",
+			"lastupdatedtime": "27/04/2020 11:10:56",
 			"recovered": "231",
 			"state": "Andhra Pradesh",
 			"statecode": "AP",
@@ -1913,6 +1913,19 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "625309",
 			"updatetimestamp": "26/04/2020 21:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "665819",
+			"updatetimestamp": "27/04/2020 21:00:00"
 		}
 	]
 }

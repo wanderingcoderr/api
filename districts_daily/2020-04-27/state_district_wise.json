@@ -68,8 +68,8 @@
       },
       "Guntur": {
         "notes": "214",
-        "active": 177,
-        "confirmed": 214,
+        "active": 200,
+        "confirmed": 237,
         "deceased": 8,
         "recovered": 29,
         "delta": {
@@ -80,8 +80,8 @@
       },
       "Krishna": {
         "notes": "177",
-        "active": 140,
-        "confirmed": 177,
+        "active": 173,
+        "confirmed": 210,
         "deceased": 8,
         "recovered": 29,
         "delta": {
@@ -170,6 +170,18 @@
         "recovered": 28,
         "delta": {
           "confirmed": 3,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 24,
+        "confirmed": 24,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -5457,8 +5469,8 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 14,
-        "confirmed": 25,
+        "active": 16,
+        "confirmed": 27,
         "deceased": 0,
         "recovered": 11,
         "delta": {
@@ -5517,8 +5529,8 @@
       },
       "Unknown": {
         "notes": "",
-        "active": 0,
-        "confirmed": 3,
+        "active": -2,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 3,
         "delta": {
