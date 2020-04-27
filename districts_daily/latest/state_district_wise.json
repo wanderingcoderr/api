@@ -2841,14 +2841,14 @@
       },
       "Kolhapur": {
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 10,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Latur": {
