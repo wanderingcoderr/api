@@ -9321,23 +9321,23 @@
 			"updatedon": "26/04/2020"
 		},
 		{
-			"negative": "75670",
+			"negative": "80830",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "221",
-			"source": "https://t.me/indiacovid/3307",
+			"positive": "2262",
+			"source": "https://t.me/indiacovid/3388",
 			"source2": "",
 			"state": "Rajasthan",
-			"testpositivityrate": "0.27%",
+			"testpositivityrate": "2.58%",
 			"testspermillion": "",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "82942",
-			"unconfirmed": "5051",
+			"totaltested": "87777",
+			"unconfirmed": "4685",
 			"updatedon": "27/04/2020"
 		},
 		{
@@ -9757,7 +9757,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "94781",
-			"unconfirmed": "",
+			"unconfirmed": "1381",
 			"updatedon": "27/04/2020"
 		},
 		{
@@ -10319,6 +10319,26 @@
 			"totaltested": "61799",
 			"unconfirmed": "984",
 			"updatedon": "26/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "1896",
+			"source": "",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "67145",
+			"unconfirmed": "",
+			"updatedon": "27/04/2020"
 		},
 		{
 			"negative": "554",

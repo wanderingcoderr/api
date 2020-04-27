@@ -795,23 +795,23 @@
 		{
 			"dailyconfirmed": "1560",
 			"dailydeceased": "58",
-			"dailyrecovered": "610",
+			"dailyrecovered": "611",
 			"date": "27 April ",
 			"totalconfirmed": "29450",
 			"totaldeceased": "939",
-			"totalrecovered": "7133"
+			"totalrecovered": "7134"
 		}
 	],
 	"statewise": [
 		{
-			"active": "21378",
+			"active": "21377",
 			"confirmed": "29450",
 			"deaths": "939",
 			"deltaconfirmed": "1560",
 			"deltadeaths": "58",
-			"deltarecovered": "610",
+			"deltarecovered": "611",
 			"lastupdatedtime": "27/04/2020 23:01:55",
-			"recovered": "7133",
+			"recovered": "7134",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -1155,14 +1155,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "4",
+			"active": "3",
 			"confirmed": "8",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"lastupdatedtime": "25/04/2020 17:42:40",
-			"recovered": "4",
+			"recovered": "5",
 			"state": "Puducherry",
 			"statecode": "PY",
 			"statenotes": ""

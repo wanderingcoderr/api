@@ -3039,26 +3039,26 @@
       {
         "district": "Amravati",
         "notes": "",
-        "active": 15,
+        "active": 9,
         "confirmed": 20,
-        "deceased": 1,
+        "deceased": 7,
         "recovered": 4,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 6,
           "recovered": 0
         }
       },
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 23,
+        "active": 22,
         "confirmed": 50,
-        "deceased": 5,
+        "deceased": 6,
         "recovered": 22,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3143,13 +3143,13 @@
       {
         "district": "Jalgaon",
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 19,
-        "deceased": 4,
+        "deceased": 5,
         "recovered": 1,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3195,13 +3195,13 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 4562,
+        "active": 4547,
         "confirmed": 5407,
-        "deceased": 204,
+        "deceased": 219,
         "recovered": 641,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 15,
           "recovered": 0
         }
       },
@@ -3299,13 +3299,13 @@
       {
         "district": "Pune",
         "notes": "",
-        "active": 766,
+        "active": 762,
         "confirmed": 1052,
-        "deceased": 76,
+        "deceased": 80,
         "recovered": 210,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -3442,9 +3442,9 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 401,
+        "active": 428,
         "confirmed": 522,
-        "deceased": 27,
+        "deceased": 0,
         "recovered": 94,
         "delta": {
           "confirmed": 0,
@@ -3706,14 +3706,14 @@
       {
         "district": "Puducherry",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 7,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     ]
