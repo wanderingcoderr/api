@@ -725,12 +725,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 23,
-        "confirmed": 40,
+        "active": 28,
+        "confirmed": 45,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -1360,12 +1360,12 @@
       {
         "district": "Dang",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1390,19 +1390,6 @@
         "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": -91,
-        "confirmed": 1,
-        "deceased": 11,
-        "recovered": 81,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

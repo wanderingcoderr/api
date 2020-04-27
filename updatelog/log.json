@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Uttar Pradesh\n",
-    "timestamp": 1587898911
-  },
-  {
     "update": "4 new cases in Bihar\n8 recoveries in Assam\n",
     "timestamp": 1587902535
   },
@@ -198,5 +194,9 @@
   {
     "update": "247 new cases, 81 recoveries and 11 deaths in Gujarat\n",
     "timestamp": 1587998501
+  },
+  {
+    "update": "5 new cases in Chandigarh\n",
+    "timestamp": 1587999111
   }
 ]

@@ -1793,11 +1793,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "23",
-			"confirmed": "40",
+			"active": "28",
+			"confirmed": "45",
 			"deceased": "0",
-			"deltaactive": "4",
-			"deltaconfirmed": "4",
+			"deltaactive": "9",
+			"deltaconfirmed": "9",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Chandigarh",
@@ -2977,11 +2977,11 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Dang",
@@ -12049,8 +12049,8 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "-91",
-			"confirmed": "1",
+			"active": "-92",
+			"confirmed": "0",
 			"deceased": "11",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
