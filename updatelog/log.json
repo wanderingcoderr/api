@@ -1,9 +1,5 @@
 [
   {
-    "update": "111 new cases, 12 recoveries and 1 death in Delhi\n20 recoveries and 1 death in Rajasthan\n",
-    "timestamp": 1587831701
-  },
-  {
     "update": "3 new cases in Jharkhand\n",
     "timestamp": 1587832303
   },
@@ -198,5 +194,9 @@
   {
     "update": "80 new cases in Andhra Pradesh\n",
     "timestamp": 1587966081
+  },
+  {
+    "update": "4 recoveries in Andhra Pradesh\n",
+    "timestamp": 1587966690
   }
 ]
