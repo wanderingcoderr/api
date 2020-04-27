@@ -3117,14 +3117,14 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 4652,
+        "active": 4562,
         "confirmed": 5407,
         "deceased": 204,
-        "recovered": 551,
+        "recovered": 641,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 90
         }
       },
       {
