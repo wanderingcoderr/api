@@ -804,14 +804,14 @@
 	],
 	"statewise": [
 		{
-			"active": "20660",
-			"confirmed": "28071",
+			"active": "20657",
+			"confirmed": "28074",
 			"deaths": "884",
-			"deltaconfirmed": "181",
+			"deltaconfirmed": "184",
 			"deltadeaths": "3",
-			"deltarecovered": "4",
-			"lastupdatedtime": "27/04/2020 13:03:54",
-			"recovered": "6527",
+			"deltarecovered": "10",
+			"lastupdatedtime": "27/04/2020 13:21:54",
+			"recovered": "6533",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -999,14 +999,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "94",
-			"confirmed": "296",
+			"active": "91",
+			"confirmed": "299",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "25/04/2020 19:42:38",
-			"recovered": "199",
+			"deltarecovered": "6",
+			"lastupdatedtime": "27/04/2020 13:21:55",
+			"recovered": "205",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": "One death in Ambala included"
