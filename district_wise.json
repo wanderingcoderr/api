@@ -6385,17 +6385,17 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "24",
+			"active": "23",
 			"confirmed": "29",
 			"deceased": "2",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Satara",
 			"districtkey": "MH_Satara",
 			"districtnotes": "",
-			"recovered": "3",
+			"recovered": "4",
 			"slno": "398",
 			"state": "Maharashtra",
 			"statecode": "MH"

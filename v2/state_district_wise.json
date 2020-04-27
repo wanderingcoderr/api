@@ -3351,14 +3351,14 @@
       {
         "district": "Satara",
         "notes": "",
-        "active": 24,
+        "active": 23,
         "confirmed": 29,
         "deceased": 2,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
