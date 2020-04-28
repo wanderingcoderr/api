@@ -8865,9 +8865,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "478",
+			"active": "477",
 			"confirmed": "678",
-			"deceased": "5",
+			"deceased": "6",
 			"deltaactive": "102",
 			"deltaconfirmed": "103",
 			"deltadeceased": "1",
@@ -12371,7 +12371,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "14",
+			"deceased": "13",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

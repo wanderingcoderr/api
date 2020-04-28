@@ -4491,9 +4491,9 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 478,
+        "active": 477,
         "confirmed": 678,
-        "deceased": 5,
+        "deceased": 6,
         "recovered": 195,
         "delta": {
           "confirmed": 103,
@@ -4935,7 +4935,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 14,
+        "deceased": 13,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
