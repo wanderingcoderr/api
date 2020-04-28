@@ -1,9 +1,5 @@
 [
   {
-    "update": "52 new cases and 81 recoveries in Tamil Nadu\n7 recoveries in Uttarakhand\n",
-    "timestamp": 1587991886
-  },
-  {
     "update": "19 new cases in Bihar\n",
     "timestamp": 1587994315
   },
@@ -198,5 +194,9 @@
   {
     "update": "164 new cases and 19 deaths in Gujarat\n",
     "timestamp": 1588083698
+  },
+  {
+    "update": "62 new cases in Gujarat\n",
+    "timestamp": 1588084324
   }
 ]
