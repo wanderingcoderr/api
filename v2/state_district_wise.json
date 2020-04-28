@@ -1483,14 +1483,14 @@
       {
         "district": "Faridabad",
         "notes": "",
-        "active": 7,
+        "active": 6,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 39,
+        "recovered": 40,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 3
         }
       },
       {
@@ -1535,12 +1535,12 @@
       {
         "district": "Jhajjar",
         "notes": "",
-        "active": 4,
-        "confirmed": 4,
+        "active": 5,
+        "confirmed": 5,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -1613,14 +1613,14 @@
       {
         "district": "Palwal",
         "notes": "",
-        "active": 4,
+        "active": 2,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 30,
+        "recovered": 32,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 3
         }
       },
       {
@@ -1639,12 +1639,12 @@
       {
         "district": "Panipat",
         "notes": "",
-        "active": 7,
-        "confirmed": 12,
+        "active": 8,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -1678,12 +1678,12 @@
       {
         "district": "Sonipat",
         "notes": "",
-        "active": 18,
-        "confirmed": 22,
+        "active": 20,
+        "confirmed": 24,
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
