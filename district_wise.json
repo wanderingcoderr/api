@@ -8449,11 +8449,11 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "579",
-			"confirmed": "850",
+			"active": "585",
+			"confirmed": "856",
 			"deceased": "27",
-			"deltaactive": "17",
-			"deltaconfirmed": "17",
+			"deltaactive": "23",
+			"deltaconfirmed": "23",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jaipur",
@@ -8529,11 +8529,11 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "301",
-			"confirmed": "388",
+			"active": "302",
+			"confirmed": "389",
 			"deceased": "6",
-			"deltaactive": "13",
-			"deltaconfirmed": "13",
+			"deltaactive": "14",
+			"deltaconfirmed": "14",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jodhpur",

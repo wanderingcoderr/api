@@ -4173,12 +4173,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 579,
-        "confirmed": 850,
+        "active": 585,
+        "confirmed": 856,
         "deceased": 27,
         "recovered": 244,
         "delta": {
-          "confirmed": 17,
+          "confirmed": 23,
           "deceased": 0,
           "recovered": 0
         }
@@ -4225,12 +4225,12 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 301,
-        "confirmed": 388,
+        "active": 302,
+        "confirmed": 389,
         "deceased": 6,
         "recovered": 81,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
