@@ -9901,6 +9901,26 @@
 			"updatedon": "27/04/2020"
 		},
 		{
+			"negative": "97908",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "2058",
+			"source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-28.04.2020.pdf",
+			"source2": "",
+			"state": "Tamil Nadu",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "101874",
+			"unconfirmed": "1908",
+			"updatedon": "28/04/2020"
+		},
+		{
 			"negative": "14104",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -11359,6 +11379,26 @@
 			"totaltested": "12043",
 			"unconfirmed": "",
 			"updatedon": "27/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "45928",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "697",
+			"source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_28.04_.2020_.pdf",
+			"source2": "https://www.mohfw.gov.in/",
+			"state": "West Bengal",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "13223",
+			"unconfirmed": "",
+			"updatedon": "28/04/2020"
 		}
 	]
 }
