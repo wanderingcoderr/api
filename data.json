@@ -800,44 +800,17 @@
 			"totalconfirmed": "29458",
 			"totaldeceased": "939",
 			"totalrecovered": "7137"
-		},
-		{
-			"dailyconfirmed": "269",
-			"dailydeceased": "2",
-			"dailyrecovered": "70",
-			"date": "28 April ",
-			"totalconfirmed": "29727",
-			"totaldeceased": "941",
-			"totalrecovered": "7207"
-		},
-		{
-			"dailyconfirmed": "0",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "29 April ",
-			"totalconfirmed": "29727",
-			"totaldeceased": "941",
-			"totalrecovered": "7207"
-		},
-		{
-			"dailyconfirmed": "0",
-			"dailydeceased": "0",
-			"dailyrecovered": "0",
-			"date": "30 April ",
-			"totalconfirmed": "29727",
-			"totaldeceased": "941",
-			"totalrecovered": "7207"
 		}
 	],
 	"statewise": [
 		{
-			"active": "21579",
-			"confirmed": "29727",
+			"active": "21580",
+			"confirmed": "29728",
 			"deaths": "941",
-			"deltaconfirmed": "269",
+			"deltaconfirmed": "270",
 			"deltadeaths": "2",
 			"deltarecovered": "70",
-			"lastupdatedtime": "28/04/2020 17:51:55",
+			"lastupdatedtime": "28/04/2020 18:20:45",
 			"recovered": "7207",
 			"state": "Total",
 			"statecode": "TT",
@@ -1117,13 +1090,13 @@
 			"statenotes": ""
 		},
 		{
-			"active": "9",
-			"confirmed": "37",
+			"active": "10",
+			"confirmed": "38",
 			"deaths": "1",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 12:41:57",
+			"lastupdatedtime": "28/04/2020 18:20:46",
 			"recovered": "27",
 			"state": "Assam",
 			"statecode": "AS",
