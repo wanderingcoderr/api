@@ -1,9 +1,5 @@
 [
   {
-    "update": "247 new cases, 81 recoveries and 11 deaths in Gujarat\n",
-    "timestamp": 1587998501
-  },
-  {
     "update": "5 new cases in Chandigarh\n",
     "timestamp": 1587999111
   },
@@ -198,5 +194,9 @@
   {
     "update": "12 new cases and 3 recoveries in Punjab\n",
     "timestamp": 1588089115
+  },
+  {
+    "update": "29 new cases and 1 death in Rajasthan\n12 new cases and 14 recoveries in Uttar Pradesh\n",
+    "timestamp": 1588089726
   }
 ]

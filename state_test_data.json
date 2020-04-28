@@ -6688,7 +6688,7 @@
 			"numventilators": "",
 			"populationsourceuidai": "",
 			"positive": "",
-			"source": "https://www.mpinfo.org/MPinfoStatic/other_updates/Health-Bulletin-28April2020.pdf",
+			"source": "",
 			"source2": "",
 			"state": "Madhya Pradesh",
 			"testpositivityrate": "",
@@ -9647,8 +9647,8 @@
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "2335",
-			"source": "https://t.me/indiacovid/3429",
+			"positive": "2364",
+			"source": "https://t.me/indiacovid/3478",
 			"source2": "",
 			"state": "Rajasthan",
 			"testpositivityrate": "",
@@ -9657,7 +9657,7 @@
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
 			"totaltested": "92506",
-			"unconfirmed": "4337",
+			"unconfirmed": "4308",
 			"updatedon": "28/04/2020"
 		},
 		{
