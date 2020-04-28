@@ -3143,8 +3143,8 @@
       {
         "district": "Akola",
         "notes": "",
-        "active": 20,
-        "confirmed": 29,
+        "active": 25,
+        "confirmed": 34,
         "deceased": 1,
         "recovered": 8,
         "delta": {
@@ -3156,8 +3156,8 @@
       {
         "district": "Amravati",
         "notes": "",
-        "active": 11,
-        "confirmed": 22,
+        "active": 17,
+        "confirmed": 28,
         "deceased": 7,
         "recovered": 4,
         "delta": {
@@ -3169,8 +3169,8 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 24,
-        "confirmed": 52,
+        "active": 62,
+        "confirmed": 90,
         "deceased": 6,
         "recovered": 22,
         "delta": {
@@ -3260,8 +3260,8 @@
       {
         "district": "Hingoli",
         "notes": "",
-        "active": 7,
-        "confirmed": 8,
+        "active": 14,
+        "confirmed": 15,
         "deceased": 0,
         "recovered": 1,
         "delta": {
@@ -3312,8 +3312,8 @@
       {
         "district": "Latur",
         "notes": "",
-        "active": 1,
-        "confirmed": 10,
+        "active": 3,
+        "confirmed": 12,
         "deceased": 1,
         "recovered": 8,
         "delta": {
@@ -3338,8 +3338,8 @@
       {
         "district": "Nagpur",
         "notes": "",
-        "active": 106,
-        "confirmed": 127,
+        "active": 113,
+        "confirmed": 134,
         "deceased": 1,
         "recovered": 20,
         "delta": {
@@ -3546,8 +3546,8 @@
       {
         "district": "Yavatmal",
         "notes": "",
-        "active": 52,
-        "confirmed": 62,
+        "active": 61,
+        "confirmed": 71,
         "deceased": 0,
         "recovered": 10,
         "delta": {

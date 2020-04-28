@@ -5937,8 +5937,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "20",
-			"confirmed": "29",
+			"active": "25",
+			"confirmed": "34",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -5953,8 +5953,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "11",
-			"confirmed": "22",
+			"active": "17",
+			"confirmed": "28",
 			"deceased": "7",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -5969,8 +5969,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "24",
-			"confirmed": "52",
+			"active": "62",
+			"confirmed": "90",
 			"deceased": "6",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6097,8 +6097,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "7",
-			"confirmed": "8",
+			"active": "14",
+			"confirmed": "15",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6161,8 +6161,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "1",
-			"confirmed": "10",
+			"active": "3",
+			"confirmed": "12",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6209,8 +6209,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "106",
-			"confirmed": "127",
+			"active": "113",
+			"confirmed": "134",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6481,8 +6481,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "52",
-			"confirmed": "62",
+			"active": "61",
+			"confirmed": "71",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
