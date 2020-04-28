@@ -3639,10 +3639,10 @@
       },
       "Ludhiana": {
         "notes": "",
-        "active": 6,
+        "active": 8,
         "confirmed": 18,
         "deceased": 4,
-        "recovered": 8,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3765,18 +3765,6 @@
         "recovered": 0,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": -2,
-        "delta": {
-          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -5037,21 +5025,21 @@
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Amroha": {
         "notes": "",
-        "active": 20,
+        "active": 19,
         "confirmed": 25,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Auraiya": {
@@ -5536,14 +5524,14 @@
       },
       "Muzaffarnagar": {
         "notes": "",
-        "active": 15,
+        "active": 12,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Pilibhit": {
@@ -5716,12 +5704,12 @@
       },
       "Varanasi": {
         "notes": "",
-        "active": 40,
-        "confirmed": 49,
+        "active": 41,
+        "confirmed": 50,
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 12,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -5729,6 +5717,18 @@
       "Ayodhya": {
         "notes": "",
         "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 0,

@@ -8017,7 +8017,7 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "6",
+			"active": "8",
 			"confirmed": "18",
 			"deceased": "4",
 			"deltaactive": "0",
@@ -8027,7 +8027,7 @@
 			"district": "Ludhiana",
 			"districtkey": "PB_Ludhiana",
 			"districtnotes": "",
-			"recovered": "8",
+			"recovered": "6",
 			"slno": "496",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -10100,8 +10100,8 @@
 			"active": "23",
 			"confirmed": "24",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Aligarh",
@@ -10145,17 +10145,17 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "20",
+			"active": "19",
 			"confirmed": "25",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Amroha",
 			"districtkey": "UP_Amroha",
 			"districtnotes": "",
-			"recovered": "5",
+			"recovered": "6",
 			"slno": "621",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -10993,17 +10993,17 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "15",
+			"active": "12",
 			"confirmed": "18",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-3",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "3",
 			"district": "Muzaffarnagar",
 			"districtkey": "UP_Muzaffarnagar",
 			"districtnotes": "",
-			"recovered": "3",
+			"recovered": "6",
 			"slno": "674",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"
@@ -11265,11 +11265,11 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "40",
-			"confirmed": "49",
+			"active": "41",
+			"confirmed": "50",
 			"deceased": "1",
-			"deltaactive": "12",
-			"deltaconfirmed": "12",
+			"deltaactive": "13",
+			"deltaconfirmed": "13",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Varanasi",
@@ -12331,7 +12331,7 @@
 			"district": "Unknown",
 			"districtkey": "PB_Unknown",
 			"districtnotes": "",
-			"recovered": "-2",
+			"recovered": "0",
 			"slno": "756",
 			"state": "Punjab",
 			"statecode": "PB"
@@ -12418,7 +12418,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
