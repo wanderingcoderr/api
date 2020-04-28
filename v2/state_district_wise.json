@@ -3991,12 +3991,12 @@
       {
         "district": "Ajmer",
         "notes": "",
-        "active": 119,
-        "confirmed": 124,
+        "active": 130,
+        "confirmed": 135,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -4121,12 +4121,12 @@
       {
         "district": "Dhaulpur",
         "notes": "",
-        "active": 4,
-        "confirmed": 5,
+        "active": 6,
+        "confirmed": 7,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4160,12 +4160,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 562,
-        "confirmed": 833,
+        "active": 579,
+        "confirmed": 850,
         "deceased": 27,
         "recovered": 244,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
@@ -4212,12 +4212,12 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 288,
-        "confirmed": 375,
+        "active": 301,
+        "confirmed": 388,
         "deceased": 6,
         "recovered": 81,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 0
         }
@@ -4238,12 +4238,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 62,
-        "confirmed": 165,
+        "active": 81,
+        "confirmed": 184,
         "deceased": 5,
         "recovered": 98,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 19,
           "deceased": 0,
           "recovered": 0
         }
@@ -4316,12 +4316,12 @@
       {
         "district": "Sikar",
         "notes": "",
-        "active": 1,
-        "confirmed": 5,
+        "active": 2,
+        "confirmed": 6,
         "deceased": 2,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4329,12 +4329,12 @@
       {
         "district": "Tonk",
         "notes": "",
-        "active": 87,
-        "confirmed": 123,
+        "active": 90,
+        "confirmed": 126,
         "deceased": 1,
         "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
