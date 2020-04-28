@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,29687,7181,940,21566,28/04/2020 15:51:55,TT,229,44,1,
+Total,29689,7181,940,21568,28/04/2020 16:10:55,TT,231,44,1,
 Maharashtra,8590,1282,369,6939,28/04/2020 11:32:55,MH,0,0,0,
 Gujarat,3548,394,162,2992,27/04/2020 20:51:55,GJ,0,0,0,
 Delhi,3108,877,54,2177,27/04/2020 22:21:59,DL,0,0,0,
@@ -24,7 +24,7 @@ Chhattisgarh,37,34,0,3,28/04/2020 12:41:57,CT,0,2,0,
 Assam,37,27,1,9,28/04/2020 12:41:57,AS,1,0,0,Includes one case from Nagaland
 Chandigarh,45,17,0,28,27/04/2020 20:21:56,CH,0,0,0,
 Andaman and Nicobar Islands,33,15,0,18,28/04/2020 11:32:57,AN,0,4,0,
-Ladakh,20,16,0,4,25/04/2020 17:32:38,LA,0,0,0,
+Ladakh,22,16,0,6,28/04/2020 16:10:56,LA,2,0,0,
 Meghalaya,12,0,1,11,18/04/2020 12:38:07,ML,0,0,0,
 Puducherry,8,5,0,3,27/04/2020 23:21:56,PY,0,0,0,
 Goa,7,7,0,0,19/04/2020 17:04:07,GA,0,0,0,
