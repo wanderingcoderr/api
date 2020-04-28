@@ -3057,12 +3057,12 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 4846,
-        "confirmed": 5776,
+        "active": 5239,
+        "confirmed": 6169,
         "deceased": 219,
         "recovered": 711,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 393,
           "deceased": 0,
           "recovered": 0
         }
@@ -3105,12 +3105,12 @@
       },
       "Nashik": {
         "notes": "",
-        "active": 129,
-        "confirmed": 146,
+        "active": 178,
+        "confirmed": 195,
         "deceased": 12,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 49,
           "deceased": 0,
           "recovered": 0
         }
@@ -3129,12 +3129,12 @@
       },
       "Palghar": {
         "notes": "",
-        "active": 106,
-        "confirmed": 146,
+        "active": 124,
+        "confirmed": 164,
         "deceased": 4,
         "recovered": 36,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 18,
           "deceased": 0,
           "recovered": 0
         }
@@ -3165,12 +3165,12 @@
       },
       "Raigarh": {
         "notes": "",
-        "active": 39,
-        "confirmed": 61,
+        "active": 44,
+        "confirmed": 66,
         "deceased": 1,
         "recovered": 21,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3237,12 +3237,12 @@
       },
       "Thane": {
         "notes": "",
-        "active": 609,
-        "confirmed": 752,
+        "active": 681,
+        "confirmed": 824,
         "deceased": 14,
         "recovered": 129,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 72,
           "deceased": 0,
           "recovered": 0
         }
