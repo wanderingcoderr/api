@@ -433,14 +433,14 @@
       {
         "district": "Begusarai",
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 9,
         "deceased": 0,
-        "recovered": 1,
+        "recovered": 2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {

@@ -1249,17 +1249,17 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "8",
+			"active": "7",
 			"confirmed": "9",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Begusarai",
 			"districtkey": "BR_Begusarai",
 			"districtnotes": "",
-			"recovered": "1",
+			"recovered": "2",
 			"slno": "79",
 			"state": "Bihar",
 			"statecode": "BR"
