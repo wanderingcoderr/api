@@ -804,14 +804,14 @@
 	],
 	"statewise": [
 		{
-			"active": "22037",
-			"confirmed": "30316",
-			"deaths": "973",
-			"deltaconfirmed": "858",
-			"deltadeaths": "34",
-			"deltarecovered": "169",
-			"lastupdatedtime": "28/04/2020 21:01:45",
-			"recovered": "7306",
+			"active": "22002",
+			"confirmed": "30369",
+			"deaths": "976",
+			"deltaconfirmed": "911",
+			"deltadeaths": "37",
+			"deltarecovered": "254",
+			"lastupdatedtime": "28/04/2020 21:11:45",
+			"recovered": "7391",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -830,14 +830,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "3199",
+			"active": "3159",
 			"confirmed": "3774",
 			"deaths": "181",
 			"deltaconfirmed": "226",
 			"deltadeaths": "19",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 20:02:50",
-			"recovered": "394",
+			"deltarecovered": "40",
+			"lastupdatedtime": "28/04/2020 21:11:47",
+			"recovered": "434",
 			"state": "Gujarat",
 			"statecode": "GJ",
 			"statenotes": ""
@@ -856,19 +856,6 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1540",
-			"confirmed": "2335",
-			"deaths": "51",
-			"deltaconfirmed": "73",
-			"deltadeaths": "1",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 14:32:56",
-			"recovered": "744",
-			"state": "Rajasthan",
-			"statecode": "RJ",
-			"statenotes": ""
-		},
-		{
 			"active": "1894",
 			"confirmed": "2387",
 			"deaths": "120",
@@ -879,6 +866,19 @@
 			"recovered": "373",
 			"state": "Madhya Pradesh",
 			"statecode": "MP",
+			"statenotes": ""
+		},
+		{
+			"active": "1540",
+			"confirmed": "2335",
+			"deaths": "51",
+			"deltaconfirmed": "73",
+			"deltadeaths": "1",
+			"deltarecovered": "0",
+			"lastupdatedtime": "28/04/2020 14:32:56",
+			"recovered": "744",
+			"state": "Rajasthan",
+			"statecode": "RJ",
 			"statenotes": ""
 		},
 		{
@@ -895,14 +895,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1556",
-			"confirmed": "1986",
-			"deaths": "31",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/04/2020 21:21:57",
-			"recovered": "399",
+			"active": "1561",
+			"confirmed": "2039",
+			"deaths": "34",
+			"deltaconfirmed": "53",
+			"deltadeaths": "3",
+			"deltarecovered": "45",
+			"lastupdatedtime": "28/04/2020 21:11:49",
+			"recovered": "444",
 			"state": "Uttar Pradesh",
 			"statecode": "UP",
 			"statenotes": ""
@@ -986,6 +986,19 @@
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
 		},
 		{
+			"active": "300",
+			"confirmed": "366",
+			"deaths": "2",
+			"deltaconfirmed": "20",
+			"deltadeaths": "0",
+			"deltarecovered": "8",
+			"lastupdatedtime": "28/04/2020 21:02:49",
+			"recovered": "64",
+			"state": "Bihar",
+			"statecode": "BR",
+			"statenotes": ""
+		},
+		{
 			"active": "213",
 			"confirmed": "330",
 			"deaths": "19",
@@ -1009,19 +1022,6 @@
 			"recovered": "224",
 			"state": "Haryana",
 			"statecode": "HR",
-			"statenotes": ""
-		},
-		{
-			"active": "300",
-			"confirmed": "366",
-			"deaths": "2",
-			"deltaconfirmed": "20",
-			"deltadeaths": "0",
-			"deltarecovered": "8",
-			"lastupdatedtime": "28/04/2020 21:01:47",
-			"recovered": "64",
-			"state": "Bihar",
-			"statecode": "BR",
 			"statenotes": ""
 		},
 		{
@@ -1051,13 +1051,26 @@
 			"statenotes": ""
 		},
 		{
+			"active": "39",
+			"confirmed": "56",
+			"deaths": "0",
+			"deltaconfirmed": "11",
+			"deltadeaths": "0",
+			"deltarecovered": "0",
+			"lastupdatedtime": "28/04/2020 17:31:59",
+			"recovered": "17",
+			"state": "Chandigarh",
+			"statecode": "CH",
+			"statenotes": ""
+		},
+		{
 			"active": "20",
 			"confirmed": "54",
 			"deaths": "0",
 			"deltaconfirmed": "3",
 			"deltadeaths": "0",
 			"deltarecovered": "1",
-			"lastupdatedtime": "28/04/2020 21:01:48",
+			"lastupdatedtime": "28/04/2020 21:02:52",
 			"recovered": "34",
 			"state": "Uttarakhand",
 			"statecode": "UT",
@@ -1077,19 +1090,6 @@
 			"statenotes": "Death of Tibetan refugee included"
 		},
 		{
-			"active": "3",
-			"confirmed": "37",
-			"deaths": "0",
-			"deltaconfirmed": "0",
-			"deltadeaths": "0",
-			"deltarecovered": "2",
-			"lastupdatedtime": "28/04/2020 12:41:57",
-			"recovered": "34",
-			"state": "Chhattisgarh",
-			"statecode": "CT",
-			"statenotes": ""
-		},
-		{
 			"active": "10",
 			"confirmed": "38",
 			"deaths": "1",
@@ -1103,16 +1103,16 @@
 			"statenotes": "Includes one case from Nagaland"
 		},
 		{
-			"active": "39",
-			"confirmed": "56",
+			"active": "3",
+			"confirmed": "37",
 			"deaths": "0",
-			"deltaconfirmed": "11",
+			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 17:31:59",
-			"recovered": "17",
-			"state": "Chandigarh",
-			"statecode": "CH",
+			"deltarecovered": "2",
+			"lastupdatedtime": "28/04/2020 12:41:57",
+			"recovered": "34",
+			"state": "Chhattisgarh",
+			"statecode": "CT",
 			"statenotes": ""
 		},
 		{

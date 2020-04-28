@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Jammu and Kashmir\n",
-    "timestamp": 1587996723
-  },
-  {
     "update": "15 new cases in Jharkhand\n",
     "timestamp": 1587997302
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Bihar\n2 new cases in Uttarakhand\n",
     "timestamp": 1588087932
+  },
+  {
+    "update": "40 recoveries in Gujarat\n53 new cases, 45 recoveries and 3 deaths in Uttar Pradesh\n",
+    "timestamp": 1588088533
   }
 ]
