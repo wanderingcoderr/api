@@ -3861,14 +3861,14 @@
 			"updatedon": "27/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "21663",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "304",
+			"source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Morning%20Bulletin%20280420.pdf",
 			"source2": "",
 			"state": "Haryana",
 			"testpositivityrate": "",
@@ -3876,9 +3876,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "29/04/2020"
+			"totaltested": "23907",
+			"unconfirmed": "1940",
+			"updatedon": "28/04/2020"
 		},
 		{
 			"negative": "870",
