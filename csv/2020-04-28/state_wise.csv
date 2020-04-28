@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,29674,7181,940,21553,28/04/2020 15:11:55,TT,216,44,1,
+Total,29687,7181,940,21566,28/04/2020 15:50:55,TT,229,44,1,
 Maharashtra,8590,1282,369,6939,28/04/2020 11:32:55,MH,0,0,0,
 Gujarat,3548,394,162,2992,27/04/2020 20:51:55,GJ,0,0,0,
 Delhi,3108,877,54,2177,27/04/2020 22:21:59,DL,0,0,0,
@@ -15,7 +15,7 @@ Karnataka,520,198,20,302,28/04/2020 12:12:56,KA,8,5,0,
 Kerala,482,355,4,123,26/04/2020 17:57:38,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Punjab,330,98,19,213,27/04/2020 22:02:20,PB,0,0,0,
 Haryana,304,218,3,83,28/04/2020 14:02:56,HR,3,5,0,
-Bihar,346,57,2,287,28/04/2020 12:02:56,BR,0,1,0,
+Bihar,359,57,2,300,28/04/2020 15:50:56,BR,13,1,0,
 Odisha,118,37,1,80,28/04/2020 08:11:56,OR,0,0,0,
 Jharkhand,104,17,3,84,28/04/2020 15:11:57,JH,1,0,0,
 Uttarakhand,51,33,0,18,27/04/2020 18:21:57,UT,0,0,0,

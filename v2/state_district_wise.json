@@ -405,6 +405,19 @@
     "statecode": "BR",
     "districtData": [
       {
+        "district": "Araria",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Arwal",
         "notes": "",
         "active": 4,
@@ -433,12 +446,12 @@
       {
         "district": "Banka",
         "notes": "",
-        "active": 2,
-        "confirmed": 2,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -537,12 +550,12 @@
       {
         "district": "Gopalganj",
         "notes": "",
-        "active": 9,
-        "confirmed": 12,
+        "active": 15,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 3,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -563,12 +576,12 @@
       {
         "district": "Kaimur Bhabua",
         "notes": "",
-        "active": 14,
-        "confirmed": 14,
+        "active": 18,
+        "confirmed": 18,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -615,12 +628,12 @@
       {
         "district": "Munger",
         "notes": "",
-        "active": 78,
-        "confirmed": 90,
+        "active": 79,
+        "confirmed": 91,
         "deceased": 1,
         "recovered": 11,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
