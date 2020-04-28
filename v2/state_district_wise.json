@@ -3182,12 +3182,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 62,
-        "confirmed": 90,
+        "active": 26,
+        "confirmed": 54,
         "deceased": 6,
         "recovered": 22,
         "delta": {
-          "confirmed": 38,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3286,13 +3286,13 @@
       {
         "district": "Jalgaon",
         "notes": "",
-        "active": 34,
+        "active": 30,
         "confirmed": 40,
-        "deceased": 5,
+        "deceased": 9,
         "recovered": 1,
         "delta": {
           "confirmed": 20,
-          "deceased": 0,
+          "deceased": 4,
           "recovered": 0
         }
       },
@@ -3338,13 +3338,13 @@
       {
         "district": "Mumbai",
         "notes": "",
-        "active": 5239,
+        "active": 5214,
         "confirmed": 6169,
-        "deceased": 219,
+        "deceased": 244,
         "recovered": 711,
         "delta": {
           "confirmed": 393,
-          "deceased": 0,
+          "deceased": 25,
           "recovered": 0
         }
       },
@@ -3442,13 +3442,13 @@
       {
         "district": "Pune",
         "notes": "",
-        "active": 873,
+        "active": 871,
         "confirmed": 1174,
-        "deceased": 80,
+        "deceased": 82,
         "recovered": 221,
         "delta": {
           "confirmed": 75,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -3587,7 +3587,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 31,
+        "deceased": 0,
         "recovered": 106,
         "delta": {
           "confirmed": 0,
