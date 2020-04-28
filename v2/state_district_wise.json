@@ -730,6 +730,19 @@
         }
       },
       {
+        "district": "Sitamarhi",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Siwan",
         "notes": "",
         "active": 8,
@@ -2798,7 +2811,7 @@
       },
       {
         "district": "Dewas",
-        "notes": "MP bulleting dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
+        "notes": "MP bulletin dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
         "active": 10,
         "confirmed": 23,
         "deceased": 7,
@@ -6244,12 +6257,12 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 18,
-        "confirmed": 29,
+        "active": 20,
+        "confirmed": 31,
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
