@@ -77,14 +77,14 @@
       {
         "district": "Guntur",
         "notes": "",
-        "active": 217,
+        "active": 207,
         "confirmed": 254,
         "deceased": 8,
-        "recovered": 29,
+        "recovered": 39,
         "delta": {
           "confirmed": 17,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
@@ -103,14 +103,14 @@
       {
         "district": "Kurnool",
         "notes": "",
-        "active": 292,
+        "active": 280,
         "confirmed": 332,
         "deceased": 9,
-        "recovered": 31,
+        "recovered": 43,
         "delta": {
           "confirmed": 40,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 12
         }
       },
       {
@@ -129,14 +129,14 @@
       {
         "district": "S.P.S. Nellore",
         "notes": "",
-        "active": 57,
+        "active": 56,
         "confirmed": 82,
         "deceased": 2,
-        "recovered": 23,
+        "recovered": 24,
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4238,13 +4238,13 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 81,
+        "active": 80,
         "confirmed": 184,
-        "deceased": 5,
+        "deceased": 6,
         "recovered": 98,
         "delta": {
           "confirmed": 19,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
