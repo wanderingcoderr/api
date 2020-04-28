@@ -9297,7 +9297,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "18",
+			"active": "9",
 			"confirmed": "51",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9307,7 +9307,7 @@
 			"district": "Tiruchirappalli",
 			"districtkey": "TN_Tiruchirappalli",
 			"districtnotes": "",
-			"recovered": "33",
+			"recovered": "42",
 			"slno": "569",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -9377,7 +9377,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "23",
+			"active": "10",
 			"confirmed": "23",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9387,13 +9387,13 @@
 			"district": "Vellore",
 			"districtkey": "TN_Vellore",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "13",
 			"slno": "573",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
 		{
-			"active": "34",
+			"active": "30",
 			"confirmed": "52",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9403,13 +9403,13 @@
 			"district": "Viluppuram",
 			"districtkey": "TN_Viluppuram",
 			"districtnotes": "",
-			"recovered": "18",
+			"recovered": "22",
 			"slno": "574",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
 		{
-			"active": "32",
+			"active": "16",
 			"confirmed": "32",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9419,7 +9419,7 @@
 			"district": "Virudhunagar",
 			"districtkey": "TN_Virudhunagar",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "16",
 			"slno": "575",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -12369,7 +12369,7 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "-90",
+			"active": "-48",
 			"confirmed": "0",
 			"deceased": "24",
 			"deltaactive": "0",
@@ -12379,7 +12379,7 @@
 			"district": "Unknown",
 			"districtkey": "TN_Unknown",
 			"districtnotes": "",
-			"recovered": "66",
+			"recovered": "24",
 			"slno": "759",
 			"state": "Tamil Nadu",
 			"statecode": "TN"

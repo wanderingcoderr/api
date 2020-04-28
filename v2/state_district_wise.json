@@ -4829,10 +4829,10 @@
       {
         "district": "Tiruchirappalli",
         "notes": "",
-        "active": 18,
+        "active": 9,
         "confirmed": 51,
         "deceased": 0,
-        "recovered": 33,
+        "recovered": 42,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4894,10 +4894,10 @@
       {
         "district": "Vellore",
         "notes": "",
-        "active": 23,
+        "active": 10,
         "confirmed": 23,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4907,10 +4907,10 @@
       {
         "district": "Viluppuram",
         "notes": "",
-        "active": 34,
+        "active": 30,
         "confirmed": 52,
         "deceased": 0,
-        "recovered": 18,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4920,10 +4920,10 @@
       {
         "district": "Virudhunagar",
         "notes": "",
-        "active": 32,
+        "active": 16,
         "confirmed": 32,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4933,10 +4933,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -90,
+        "active": -48,
         "confirmed": 0,
         "deceased": 24,
-        "recovered": 66,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
