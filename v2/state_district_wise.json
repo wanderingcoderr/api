@@ -4621,9 +4621,9 @@
       {
         "district": "Madurai",
         "notes": "",
-        "active": 43,
+        "active": 42,
         "confirmed": 79,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 36,
         "delta": {
           "confirmed": 0,
@@ -4935,7 +4935,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 22,
+        "deceased": 21,
         "recovered": 0,
         "delta": {
           "confirmed": 0,

@@ -4241,14 +4241,14 @@
 			"updatedon": "27/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "5222",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "40",
+			"source": "https://twitter.com/nhm_hp/status/1255116165841514503?s=09",
 			"source2": "",
 			"state": "Himachal Pradesh",
 			"testpositivityrate": "",
@@ -4256,9 +4256,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "29/04/2020"
+			"totaltested": "5388",
+			"unconfirmed": "126",
+			"updatedon": "28/04/2020"
 		},
 		{
 			"negative": "1429",
@@ -4961,14 +4961,14 @@
 			"updatedon": "26/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "8654",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "103",
+			"source": "https://twitter.com/RanchiPIB/status/1254812298784342018?s=19",
 			"source2": "",
 			"state": "Jharkhand",
 			"testpositivityrate": "",
@@ -4976,9 +4976,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "8757",
 			"unconfirmed": "",
-			"updatedon": "28/04/2020"
+			"updatedon": "27/04/2020"
 		},
 		{
 			"negative": "4281",
@@ -5999,6 +5999,26 @@
 			"totaltested": "23271",
 			"unconfirmed": "253",
 			"updatedon": "27/04/2020"
+		},
+		{
+			"negative": "23277",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "485",
+			"source": "https://dashboard.kerala.gov.in/testing-view-public.php",
+			"source2": "",
+			"state": "Kerala",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "23980",
+			"unconfirmed": "218",
+			"updatedon": "28/04/2020"
 		},
 		{
 			"negative": "",
