@@ -800,6 +800,15 @@
 			"totalconfirmed": "29458",
 			"totaldeceased": "939",
 			"totalrecovered": "7137"
+		},
+		{
+			"dailyconfirmed": "1903",
+			"dailydeceased": "69",
+			"dailyrecovered": "610",
+			"date": "28 April ",
+			"totalconfirmed": "31361",
+			"totaldeceased": "1008",
+			"totalrecovered": "7747"
 		}
 	],
 	"statewise": [
