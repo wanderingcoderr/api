@@ -18759,7 +18759,7 @@
 			"currentstatus": "Hospitalized",
 			"dateannounced": "28/04/2020",
 			"detectedcity": "",
-			"detecteddistrict": "",
+			"detecteddistrict": "Jalaun",
 			"detectedstate": "Uttar Pradesh",
 			"entryid": "894",
 			"gender": "",
@@ -18769,7 +18769,7 @@
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -18790,7 +18790,7 @@
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
@@ -18811,7 +18811,7 @@
 			"source1": "",
 			"source2": "",
 			"source3": "",
-			"statecode": "",
+			"statecode": "UP",
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
