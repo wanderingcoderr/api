@@ -800,6 +800,33 @@
 			"totalconfirmed": "29458",
 			"totaldeceased": "939",
 			"totalrecovered": "7137"
+		},
+		{
+			"dailyconfirmed": "269",
+			"dailydeceased": "2",
+			"dailyrecovered": "70",
+			"date": "28 April ",
+			"totalconfirmed": "29727",
+			"totaldeceased": "941",
+			"totalrecovered": "7207"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "29 April ",
+			"totalconfirmed": "29727",
+			"totaldeceased": "941",
+			"totalrecovered": "7207"
+		},
+		{
+			"dailyconfirmed": "0",
+			"dailydeceased": "0",
+			"dailyrecovered": "0",
+			"date": "30 April ",
+			"totalconfirmed": "29727",
+			"totaldeceased": "941",
+			"totalrecovered": "7207"
 		}
 	],
 	"statewise": [
