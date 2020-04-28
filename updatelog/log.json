@@ -1,9 +1,5 @@
 [
   {
-    "update": "522 new cases, 94 recoveries and 27 deaths in Maharashtra\n62 recoveries in Uttar Pradesh\n",
-    "timestamp": 1588001510
-  },
-  {
     "update": "75 new cases, 16 recoveries and 3 deaths in Madhya Pradesh\n7 recoveries in Uttar Pradesh\n",
     "timestamp": 1588002106
   },
@@ -198,5 +194,9 @@
   {
     "update": "537 new cases in Maharashtra\n",
     "timestamp": 1588096316
+  },
+  {
+    "update": "116 new cases in Maharashtra\n",
+    "timestamp": 1588096607
   }
 ]

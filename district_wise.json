@@ -6113,11 +6113,11 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "14",
-			"confirmed": "20",
+			"active": "34",
+			"confirmed": "40",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "20",
+			"deltaconfirmed": "20",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jalgaon",
@@ -6145,8 +6145,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "7",
-			"confirmed": "11",
+			"active": "8",
+			"confirmed": "12",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6321,11 +6321,11 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "798",
-			"confirmed": "1099",
+			"active": "873",
+			"confirmed": "1174",
 			"deceased": "80",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "75",
+			"deltaconfirmed": "75",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Pune",
@@ -6385,11 +6385,11 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "23",
-			"confirmed": "29",
+			"active": "26",
+			"confirmed": "32",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Satara",
@@ -6417,11 +6417,11 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "60",
-			"confirmed": "65",
+			"active": "77",
+			"confirmed": "82",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "17",
+			"deltaconfirmed": "17",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Solapur",

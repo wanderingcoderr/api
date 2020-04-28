@@ -3009,12 +3009,12 @@
       },
       "Jalgaon": {
         "notes": "",
-        "active": 14,
-        "confirmed": 20,
+        "active": 34,
+        "confirmed": 40,
         "deceased": 5,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 20,
           "deceased": 0,
           "recovered": 0
         }
@@ -3033,8 +3033,8 @@
       },
       "Kolhapur": {
         "notes": "",
-        "active": 7,
-        "confirmed": 11,
+        "active": 8,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 4,
         "delta": {
@@ -3153,12 +3153,12 @@
       },
       "Pune": {
         "notes": "",
-        "active": 798,
-        "confirmed": 1099,
+        "active": 873,
+        "confirmed": 1174,
         "deceased": 80,
         "recovered": 221,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 75,
           "deceased": 0,
           "recovered": 0
         }
@@ -3201,12 +3201,12 @@
       },
       "Satara": {
         "notes": "",
-        "active": 23,
-        "confirmed": 29,
+        "active": 26,
+        "confirmed": 32,
         "deceased": 2,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3225,12 +3225,12 @@
       },
       "Solapur": {
         "notes": "",
-        "active": 60,
-        "confirmed": 65,
+        "active": 77,
+        "confirmed": 82,
         "deceased": 5,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 17,
           "deceased": 0,
           "recovered": 0
         }
