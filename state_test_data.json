@@ -7001,14 +7001,14 @@
 			"updatedon": "27/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "112552",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "8590",
+			"source": "https://twitter.com/Maha_MEDD/status/1255016183411077121",
 			"source2": "",
 			"state": "Maharashtra",
 			"testpositivityrate": "",
@@ -7016,9 +7016,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "120620",
 			"unconfirmed": "",
-			"updatedon": "29/04/2020"
+			"updatedon": "28/04/2020"
 		},
 		{
 			"negative": "299",
@@ -8359,6 +8359,26 @@
 			"totaltested": "25103",
 			"unconfirmed": "",
 			"updatedon": "27/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "118",
+			"source": "",
+			"source2": "",
+			"state": "Odisha",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "26687",
+			"unconfirmed": "",
+			"updatedon": "28/04/2020"
 		},
 		{
 			"negative": "1159",

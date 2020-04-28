@@ -4257,11 +4257,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "63",
-			"confirmed": "75",
+			"active": "64",
+			"confirmed": "76",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ranchi",
