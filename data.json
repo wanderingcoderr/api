@@ -804,14 +804,14 @@
 	],
 	"statewise": [
 		{
-			"active": "21382",
-			"confirmed": "29458",
+			"active": "21426",
+			"confirmed": "29506",
 			"deaths": "939",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "48",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 08:11:55",
-			"recovered": "7137",
+			"deltarecovered": "4",
+			"lastupdatedtime": "28/04/2020 09:31:55",
+			"recovered": "7141",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -934,14 +934,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "524",
-			"confirmed": "649",
+			"active": "568",
+			"confirmed": "697",
 			"deaths": "20",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "48",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "26/04/2020 09:47:38",
-			"recovered": "105",
+			"deltarecovered": "4",
+			"lastupdatedtime": "28/04/2020 09:31:57",
+			"recovered": "109",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"

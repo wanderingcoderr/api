@@ -12449,8 +12449,8 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "136",
-			"confirmed": "261",
+			"active": "180",
+			"confirmed": "309",
 			"deceased": "20",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12459,7 +12459,7 @@
 			"district": "Unknown",
 			"districtkey": "WB_Unknown",
 			"districtnotes": "",
-			"recovered": "105",
+			"recovered": "109",
 			"slno": "764",
 			"state": "West Bengal",
 			"statecode": "WB"

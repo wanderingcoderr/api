@@ -6328,10 +6328,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 136,
-        "confirmed": 261,
+        "active": 180,
+        "confirmed": 309,
         "deceased": 20,
-        "recovered": 105,
+        "recovered": 109,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
