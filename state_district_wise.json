@@ -2286,26 +2286,26 @@
       },
       "Kannur": {
         "notes": "",
-        "active": 49,
-        "confirmed": 112,
+        "active": 50,
+        "confirmed": 115,
         "deceased": 2,
-        "recovered": 61,
+        "recovered": 63,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kasaragod": {
         "notes": "",
-        "active": 15,
-        "confirmed": 175,
+        "active": 14,
+        "confirmed": 176,
         "deceased": 0,
-        "recovered": 160,
+        "recovered": 162,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Kollam": {
