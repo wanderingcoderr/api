@@ -2497,12 +2497,12 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "2057",
-			"confirmed": "2378",
-			"deceased": "109",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
-			"deltadeceased": "0",
+			"active": "2202",
+			"confirmed": "2542",
+			"deceased": "128",
+			"deltaactive": "145",
+			"deltaconfirmed": "164",
+			"deltadeceased": "19",
 			"deltarecovered": "0",
 			"district": "Ahmadabad",
 			"districtkey": "GJ_Ahmadabad",
@@ -8865,9 +8865,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "481",
+			"active": "478",
 			"confirmed": "678",
-			"deceased": "2",
+			"deceased": "5",
 			"deltaactive": "102",
 			"deltaconfirmed": "103",
 			"deltadeceased": "1",
@@ -12371,7 +12371,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "19",
+			"deceased": "16",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

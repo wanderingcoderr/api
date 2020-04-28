@@ -1048,13 +1048,13 @@
       {
         "district": "Ahmadabad",
         "notes": "",
-        "active": 2057,
-        "confirmed": 2378,
-        "deceased": 109,
+        "active": 2202,
+        "confirmed": 2542,
+        "deceased": 128,
         "recovered": 212,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 164,
+          "deceased": 19,
           "recovered": 0
         }
       },
@@ -4491,9 +4491,9 @@
       {
         "district": "Chennai",
         "notes": "",
-        "active": 481,
+        "active": 478,
         "confirmed": 678,
-        "deceased": 2,
+        "deceased": 5,
         "recovered": 195,
         "delta": {
           "confirmed": 103,
@@ -4935,7 +4935,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 19,
+        "deceased": 16,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
