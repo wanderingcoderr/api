@@ -810,7 +810,7 @@
 			"deltaconfirmed": "215",
 			"deltadeaths": "1",
 			"deltarecovered": "44",
-			"lastupdatedtime": "28/04/2020 14:31:54",
+			"lastupdatedtime": "28/04/2020 14:32:55",
 			"recovered": "7181",
 			"state": "Total",
 			"statecode": "TT",
@@ -862,7 +862,7 @@
 			"deltaconfirmed": "73",
 			"deltadeaths": "1",
 			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 14:31:55",
+			"lastupdatedtime": "28/04/2020 14:32:56",
 			"recovered": "744",
 			"state": "Rajasthan",
 			"statecode": "RJ",
@@ -1935,6 +1935,19 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "665819",
 			"updatetimestamp": "27/04/2020 21:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://www.icmr.nic.in/pdf/covid/update/ICMR_testing_update_28Apr2020_9AM_IST.pdf",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "716733",
+			"updatetimestamp": "28/04/2020 21:00:00"
 		}
 	]
 }

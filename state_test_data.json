@@ -441,6 +441,26 @@
 			"updatedon": "27/04/2020"
 		},
 		{
+			"negative": "79075",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "1259",
+			"source": "http://hmfw.ap.gov.in/covid_dashboard.aspx",
+			"source2": "",
+			"state": "Andhra Pradesh",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "80334",
+			"unconfirmed": "",
+			"updatedon": "28/04/2020"
+		},
+		{
 			"negative": "185",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
