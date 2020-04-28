@@ -2571,7 +2571,7 @@
         }
       },
       "Dewas": {
-        "notes": "",
+        "notes": "MP bulleting dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
         "active": 10,
         "confirmed": 23,
         "deceased": 7,
@@ -5980,7 +5980,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 309,
-        "deceased": 20,
+        "deceased": 22,
         "recovered": 109,
         "delta": {
           "confirmed": 0,

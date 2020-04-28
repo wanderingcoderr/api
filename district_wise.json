@@ -5306,7 +5306,7 @@
 			"deltarecovered": "1",
 			"district": "Dewas",
 			"districtkey": "MP_Dewas",
-			"districtnotes": "",
+			"districtnotes": "MP bulleting dated 28 Apr reduced total cases in Dewas by 1 upon reconcilation with Indore district",
 			"recovered": "6",
 			"slno": "331",
 			"state": "Madhya Pradesh",
@@ -12451,7 +12451,7 @@
 		{
 			"active": "",
 			"confirmed": "309",
-			"deceased": "20",
+			"deceased": "22",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
