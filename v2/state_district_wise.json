@@ -717,6 +717,19 @@
         }
       },
       {
+        "district": "Sheikhpura",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Siwan",
         "notes": "",
         "active": 12,
@@ -751,12 +764,12 @@
       {
         "district": "Chandigarh",
         "notes": "",
-        "active": 28,
-        "confirmed": 45,
+        "active": 39,
+        "confirmed": 56,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -2222,27 +2235,27 @@
       {
         "district": "Bengaluru",
         "notes": "",
-        "active": 73,
+        "active": 68,
         "confirmed": 135,
         "deceased": 5,
-        "recovered": 57,
+        "recovered": 62,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 5
         }
       },
       {
         "district": "Bengaluru Rural",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 12,
         "deceased": 0,
-        "recovered": 8,
+        "recovered": 9,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -2378,14 +2391,14 @@
       {
         "district": "Mysuru",
         "notes": "",
-        "active": 46,
+        "active": 39,
         "confirmed": 89,
         "deceased": 0,
-        "recovered": 43,
+        "recovered": 50,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 7
         }
       },
       {
@@ -3661,14 +3674,14 @@
       {
         "district": "Khordha",
         "notes": "",
-        "active": 20,
+        "active": 19,
         "confirmed": 46,
         "deceased": 1,
-        "recovered": 25,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
