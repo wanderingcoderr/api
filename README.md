@@ -27,9 +27,9 @@ CSV files for the same are also available through `api.covid19india.org/csv/late
 
 |Status| Data                                                  | URL                                                   |
 |----------------------------------------------------- |----------------------------------------------------- | ----------------------------------------------------- |
-|:green_heart:| Patient Level : Raw Data Partition 1 (Till Apr 19) | https://api.covid19india.org/raw_data1.json  |
-|:green_heart:| Patient Level : Raw Data Partition 2 (Till Apr 26)| https://api.covid19india.org/raw_data2.json  |
-|:green_heart:| Patient Level : Raw Data Partition 3 (Live) | https://api.covid19india.org/raw_data3.json  |
+|:green_heart:| Patient Level : Raw Data Partition 1 (Feb 28 to Apr 19) | https://api.covid19india.org/raw_data1.json  |
+|:green_heart:| Patient Level : Raw Data Partition 2 (Apr 20 to Apr 26)| https://api.covid19india.org/raw_data2.json  |
+|:green_heart:| Patient Level : Raw Data Partition 3 (Live from Apr 27, different structure) | https://api.covid19india.org/raw_data3.json  |
 |:green_heart:| National Level :Time series, State-wise stats and Test counts | https://api.covid19india.org/data.json                |
 |:green_heart:| State Level : has district-wise info  | https://api.covid19india.org/state_district_wise.json |
 |:green_heart:| State Level : has district-wise info V2 _(minor difference in structure)_ | https://api.covid19india.org/v2/state_district_wise.json |
@@ -49,6 +49,11 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 | Google sheets in CSV                                  | https://api.covid19india.org/csv/                      |
 
 > :rocket: Quick example : Apply the formula `=IMPORTDATA("https://api.covid19india.org/csv/latest/state_wise.csv")` in A1 cell of a Google Sheets to get the state data for analysis :)
+
+Note : Now that there are multiple partition to the `raw_data` you would need to append Partition 1 and Partition 2 and then merge Partition 3 with some operations, to get the full data. 
+
+In a later version of the API, we might do this data wrangling. But, for now, please manage this at the end-user side.
+
 
 ## Projects Using This API
 
