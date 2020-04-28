@@ -783,14 +783,14 @@
       {
         "district": "Korba",
         "notes": "",
-        "active": 4,
+        "active": 2,
         "confirmed": 28,
         "deceased": 0,
-        "recovered": 24,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       {
