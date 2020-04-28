@@ -2183,12 +2183,12 @@
       {
         "district": "Bagalkote",
         "notes": "",
-        "active": 19,
-        "confirmed": 26,
+        "active": 22,
+        "confirmed": 29,
         "deceased": 1,
         "recovered": 6,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }

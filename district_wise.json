@@ -4321,11 +4321,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "19",
-			"confirmed": "26",
+			"active": "22",
+			"confirmed": "29",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "3",
+			"deltaconfirmed": "3",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bagalkote",
@@ -12129,7 +12129,7 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "-5",
+			"active": "-14",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12139,7 +12139,7 @@
 			"district": "Unknown",
 			"districtkey": "KA_Unknown",
 			"districtnotes": "",
-			"recovered": "5",
+			"recovered": "14",
 			"slno": "744",
 			"state": "Karnataka",
 			"statecode": "KA"
