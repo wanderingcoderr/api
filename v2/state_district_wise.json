@@ -3013,8 +3013,8 @@
       {
         "district": "Ahmadnagar",
         "notes": "",
-        "active": 11,
-        "confirmed": 36,
+        "active": 17,
+        "confirmed": 42,
         "deceased": 2,
         "recovered": 23,
         "delta": {
@@ -3432,19 +3432,6 @@
         "active": 23,
         "confirmed": 25,
         "deceased": 2,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 522,
-        "confirmed": 522,
-        "deceased": 0,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
@@ -4238,13 +4225,13 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 81,
+        "active": 80,
         "confirmed": 184,
-        "deceased": 5,
+        "deceased": 6,
         "recovered": 98,
         "delta": {
           "confirmed": 19,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
