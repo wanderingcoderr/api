@@ -3985,17 +3985,17 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "2",
+			"active": "0",
 			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-2",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "2",
 			"district": "Dhanbad",
 			"districtkey": "JH_Dhanbad",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "2",
 			"slno": "249",
 			"state": "Jharkhand",
 			"statecode": "JH"
@@ -4257,11 +4257,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "64",
-			"confirmed": "76",
+			"active": "65",
+			"confirmed": "77",
 			"deceased": "2",
-			"deltaactive": "1",
-			"deltaconfirmed": "1",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ranchi",
@@ -12114,7 +12114,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "1",
+			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
