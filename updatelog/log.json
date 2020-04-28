@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 deaths in Rajasthan\n5 new cases in Bihar\n",
-    "timestamp": 1587985305
-  },
-  {
     "update": "1 death in Punjab\n",
     "timestamp": 1587985895
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Assam\n",
     "timestamp": 1588078308
+  },
+  {
+    "update": "121 new cases in Tamil Nadu\n",
+    "timestamp": 1588078931
   }
 ]
