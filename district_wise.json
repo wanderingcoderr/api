@@ -33,17 +33,17 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "22",
+			"active": "18",
 			"confirmed": "32",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-4",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "4",
 			"district": "South Andaman",
 			"districtkey": "AN_South Andaman",
 			"districtnotes": "",
-			"recovered": "10",
+			"recovered": "14",
 			"slno": "3",
 			"state": "Andaman and Nicobar Islands",
 			"statecode": "AN"
@@ -5953,8 +5953,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "9",
-			"confirmed": "20",
+			"active": "11",
+			"confirmed": "22",
 			"deceased": "7",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -5969,8 +5969,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "22",
-			"confirmed": "50",
+			"active": "24",
+			"confirmed": "52",
 			"deceased": "6",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -5985,8 +5985,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "0",
-			"confirmed": "0",
+			"active": "1",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6113,8 +6113,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "13",
-			"confirmed": "19",
+			"active": "14",
+			"confirmed": "20",
 			"deceased": "5",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6145,8 +6145,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "6",
-			"confirmed": "10",
+			"active": "7",
+			"confirmed": "11",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6161,8 +6161,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "0",
-			"confirmed": "9",
+			"active": "1",
+			"confirmed": "10",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6177,8 +6177,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "4477",
-			"confirmed": "5407",
+			"active": "4846",
+			"confirmed": "5776",
 			"deceased": "219",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6209,8 +6209,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "86",
-			"confirmed": "107",
+			"active": "106",
+			"confirmed": "127",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6225,8 +6225,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "3",
+			"confirmed": "3",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6257,8 +6257,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "114",
-			"confirmed": "131",
+			"active": "129",
+			"confirmed": "146",
 			"deceased": "12",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6289,8 +6289,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "101",
-			"confirmed": "141",
+			"active": "106",
+			"confirmed": "146",
 			"deceased": "4",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6321,8 +6321,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "751",
-			"confirmed": "1052",
+			"active": "798",
+			"confirmed": "1099",
 			"deceased": "80",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6337,8 +6337,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "35",
-			"confirmed": "57",
+			"active": "39",
+			"confirmed": "61",
 			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6417,8 +6417,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "42",
-			"confirmed": "47",
+			"active": "60",
+			"confirmed": "65",
 			"deceased": "5",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6433,8 +6433,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "595",
-			"confirmed": "738",
+			"active": "609",
+			"confirmed": "752",
 			"deceased": "14",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6481,8 +6481,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "38",
-			"confirmed": "48",
+			"active": "52",
+			"confirmed": "62",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

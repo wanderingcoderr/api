@@ -15,14 +15,14 @@
       },
       "South Andaman": {
         "notes": "",
-        "active": 22,
+        "active": 18,
         "confirmed": 32,
         "deceased": 0,
-        "recovered": 10,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       }
     },
@@ -2793,8 +2793,8 @@
       },
       "Amravati": {
         "notes": "",
-        "active": 9,
-        "confirmed": 20,
+        "active": 11,
+        "confirmed": 22,
         "deceased": 7,
         "recovered": 4,
         "delta": {
@@ -2805,10 +2805,22 @@
       },
       "Aurangabad": {
         "notes": "",
-        "active": 22,
-        "confirmed": 50,
+        "active": 24,
+        "confirmed": 52,
         "deceased": 6,
         "recovered": 22,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Bhandara": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -2889,8 +2901,8 @@
       },
       "Jalgaon": {
         "notes": "",
-        "active": 13,
-        "confirmed": 19,
+        "active": 14,
+        "confirmed": 20,
         "deceased": 5,
         "recovered": 1,
         "delta": {
@@ -2913,8 +2925,8 @@
       },
       "Kolhapur": {
         "notes": "",
-        "active": 6,
-        "confirmed": 10,
+        "active": 7,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 4,
         "delta": {
@@ -2925,8 +2937,8 @@
       },
       "Latur": {
         "notes": "",
-        "active": 0,
-        "confirmed": 9,
+        "active": 1,
+        "confirmed": 10,
         "deceased": 1,
         "recovered": 8,
         "delta": {
@@ -2937,8 +2949,8 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 4477,
-        "confirmed": 5407,
+        "active": 4846,
+        "confirmed": 5776,
         "deceased": 219,
         "recovered": 711,
         "delta": {
@@ -2949,8 +2961,8 @@
       },
       "Nagpur": {
         "notes": "",
-        "active": 86,
-        "confirmed": 107,
+        "active": 106,
+        "confirmed": 127,
         "deceased": 1,
         "recovered": 20,
         "delta": {
@@ -2961,8 +2973,8 @@
       },
       "Nanded": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 3,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 0,
         "delta": {
@@ -2985,8 +2997,8 @@
       },
       "Nashik": {
         "notes": "",
-        "active": 114,
-        "confirmed": 131,
+        "active": 129,
+        "confirmed": 146,
         "deceased": 12,
         "recovered": 5,
         "delta": {
@@ -3009,8 +3021,8 @@
       },
       "Palghar": {
         "notes": "",
-        "active": 101,
-        "confirmed": 141,
+        "active": 106,
+        "confirmed": 146,
         "deceased": 4,
         "recovered": 36,
         "delta": {
@@ -3033,8 +3045,8 @@
       },
       "Pune": {
         "notes": "",
-        "active": 751,
-        "confirmed": 1052,
+        "active": 798,
+        "confirmed": 1099,
         "deceased": 80,
         "recovered": 221,
         "delta": {
@@ -3045,8 +3057,8 @@
       },
       "Raigarh": {
         "notes": "",
-        "active": 35,
-        "confirmed": 57,
+        "active": 39,
+        "confirmed": 61,
         "deceased": 1,
         "recovered": 21,
         "delta": {
@@ -3105,8 +3117,8 @@
       },
       "Solapur": {
         "notes": "",
-        "active": 42,
-        "confirmed": 47,
+        "active": 60,
+        "confirmed": 65,
         "deceased": 5,
         "recovered": 0,
         "delta": {
@@ -3117,8 +3129,8 @@
       },
       "Thane": {
         "notes": "",
-        "active": 595,
-        "confirmed": 738,
+        "active": 609,
+        "confirmed": 752,
         "deceased": 14,
         "recovered": 129,
         "delta": {
@@ -3141,8 +3153,8 @@
       },
       "Yavatmal": {
         "notes": "",
-        "active": 38,
-        "confirmed": 48,
+        "active": 52,
+        "confirmed": 62,
         "deceased": 0,
         "recovered": 10,
         "delta": {
