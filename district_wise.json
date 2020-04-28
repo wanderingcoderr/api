@@ -9249,7 +9249,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "37",
+			"active": "40",
 			"confirmed": "54",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9259,7 +9259,7 @@
 			"district": "Thiruvallur",
 			"districtkey": "TN_Thiruvallur",
 			"districtnotes": "",
-			"recovered": "17",
+			"recovered": "14",
 			"slno": "566",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -9329,7 +9329,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "18",
+			"active": "1",
 			"confirmed": "18",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9339,7 +9339,7 @@
 			"district": "Tirupathur",
 			"districtkey": "TN_Tirupathur",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "17",
 			"slno": "735",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -9361,7 +9361,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "11",
+			"active": "1",
 			"confirmed": "11",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9371,7 +9371,7 @@
 			"district": "Tiruvannamalai",
 			"districtkey": "TN_Tiruvannamalai",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "10",
 			"slno": "572",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -11873,7 +11873,7 @@
 			"statecode": "WB"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11889,7 +11889,7 @@
 			"statecode": "AN"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11905,7 +11905,7 @@
 			"statecode": "AP"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11921,7 +11921,7 @@
 			"statecode": "AR"
 		},
 		{
-			"active": "-20",
+			"active": "",
 			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11937,7 +11937,7 @@
 			"statecode": "AS"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11953,7 +11953,7 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11969,7 +11969,7 @@
 			"statecode": "CH"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -11985,7 +11985,7 @@
 			"statecode": "CT"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12001,7 +12001,7 @@
 			"statecode": "DN"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12017,7 +12017,7 @@
 			"statecode": "DD"
 		},
 		{
-			"active": "1389",
+			"active": "",
 			"confirmed": "2320",
 			"deceased": "54",
 			"deltaactive": "0",
@@ -12033,7 +12033,7 @@
 			"statecode": "DL"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12049,7 +12049,7 @@
 			"statecode": "GA"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12065,7 +12065,7 @@
 			"statecode": "GJ"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12081,7 +12081,7 @@
 			"statecode": "HR"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12097,7 +12097,7 @@
 			"statecode": "HP"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12113,7 +12113,7 @@
 			"statecode": "JK"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12129,7 +12129,7 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "-1",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12145,7 +12145,7 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12161,7 +12161,7 @@
 			"statecode": "KL"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12177,7 +12177,7 @@
 			"statecode": "LA"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12193,7 +12193,7 @@
 			"statecode": "LD"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12209,7 +12209,7 @@
 			"statecode": "MP"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12225,7 +12225,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12241,7 +12241,7 @@
 			"statecode": "MN"
 		},
 		{
-			"active": "4",
+			"active": "",
 			"confirmed": "5",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -12257,7 +12257,7 @@
 			"statecode": "ML"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12273,7 +12273,7 @@
 			"statecode": "MZ"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12289,7 +12289,7 @@
 			"statecode": "NL"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12305,7 +12305,7 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12321,7 +12321,7 @@
 			"statecode": "PY"
 		},
 		{
-			"active": "2",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12337,7 +12337,7 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12353,7 +12353,7 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12369,7 +12369,7 @@
 			"statecode": "SK"
 		},
 		{
-			"active": "-48",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "24",
 			"deltaactive": "0",
@@ -12379,13 +12379,13 @@
 			"district": "Unknown",
 			"districtkey": "TN_Unknown",
 			"districtnotes": "",
-			"recovered": "24",
+			"recovered": "0",
 			"slno": "759",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
 		{
-			"active": "-16",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12401,7 +12401,7 @@
 			"statecode": "TG"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12417,7 +12417,7 @@
 			"statecode": "TR"
 		},
 		{
-			"active": "0",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12433,7 +12433,7 @@
 			"statecode": "UP"
 		},
 		{
-			"active": "-10",
+			"active": "",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12449,7 +12449,7 @@
 			"statecode": "UT"
 		},
 		{
-			"active": "180",
+			"active": "",
 			"confirmed": "309",
 			"deceased": "20",
 			"deltaactive": "0",

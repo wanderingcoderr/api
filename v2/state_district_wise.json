@@ -388,7 +388,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -20,
+        "active": 0,
         "confirmed": 1,
         "deceased": 0,
         "recovered": 21,
@@ -997,7 +997,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 1389,
+        "active": 0,
         "confirmed": 2320,
         "deceased": 54,
         "recovered": 877,
@@ -2456,7 +2456,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -1,
+        "active": 0,
         "confirmed": 0,
         "deceased": 0,
         "recovered": 1,
@@ -3558,7 +3558,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 4,
+        "active": 0,
         "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
@@ -4037,7 +4037,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 0,
         "deceased": 0,
         "recovered": -2,
@@ -4790,10 +4790,10 @@
       {
         "district": "Thiruvallur",
         "notes": "",
-        "active": 37,
+        "active": 40,
         "confirmed": 54,
         "deceased": 0,
-        "recovered": 17,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4855,10 +4855,10 @@
       {
         "district": "Tirupathur",
         "notes": "",
-        "active": 18,
+        "active": 1,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4881,10 +4881,10 @@
       {
         "district": "Tiruvannamalai",
         "notes": "",
-        "active": 11,
+        "active": 1,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 10,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4933,10 +4933,10 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -48,
+        "active": 0,
         "confirmed": 0,
         "deceased": 24,
-        "recovered": 24,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5342,7 +5342,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -16,
+        "active": 0,
         "confirmed": 0,
         "deceased": 0,
         "recovered": 16,
@@ -6257,7 +6257,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": -10,
+        "active": 0,
         "confirmed": 0,
         "deceased": 0,
         "recovered": 10,
@@ -6445,7 +6445,7 @@
       {
         "district": "Unknown",
         "notes": "",
-        "active": 180,
+        "active": 0,
         "confirmed": 309,
         "deceased": 20,
         "recovered": 109,
