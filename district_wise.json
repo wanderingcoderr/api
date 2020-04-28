@@ -6209,11 +6209,11 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "113",
-			"confirmed": "134",
+			"active": "114",
+			"confirmed": "135",
 			"deceased": "1",
-			"deltaactive": "7",
-			"deltaconfirmed": "7",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Nagpur",
@@ -12210,7 +12210,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "1",
+			"confirmed": "0",
 			"deceased": "31",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",

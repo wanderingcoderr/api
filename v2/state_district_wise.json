@@ -3351,12 +3351,12 @@
       {
         "district": "Nagpur",
         "notes": "",
-        "active": 113,
-        "confirmed": 134,
+        "active": 114,
+        "confirmed": 135,
         "deceased": 1,
         "recovered": 20,
         "delta": {
-          "confirmed": 7,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -3586,7 +3586,7 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 1,
+        "confirmed": 0,
         "deceased": 31,
         "recovered": 106,
         "delta": {
