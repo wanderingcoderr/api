@@ -961,14 +961,14 @@
 			"updatedon": "26/04/2020"
 		},
 		{
-			"negative": "",
-			"numcallsstatehelpline": "",
-			"numicubeds": "",
-			"numisolationbeds": "",
-			"numventilators": "",
+			"negative": "7985",
+			"numcallsstatehelpline": "15809",
+			"numicubeds": "440",
+			"numisolationbeds": "3338",
+			"numventilators": "303",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "35",
+			"source": "https://twitter.com/nhm_assam/status/1254813929898835979",
 			"source2": "",
 			"state": "Assam",
 			"testpositivityrate": "",
@@ -976,9 +976,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "8117",
 			"unconfirmed": "",
-			"updatedon": "28/04/2020"
+			"updatedon": "27/04/2020"
 		},
 		{
 			"negative": "2299",
