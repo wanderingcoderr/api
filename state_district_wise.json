@@ -1337,14 +1337,14 @@
       },
       "Faridabad": {
         "notes": "",
-        "active": 9,
+        "active": 7,
         "confirmed": 46,
         "deceased": 0,
-        "recovered": 37,
+        "recovered": 39,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Fatehabad": {
@@ -1385,12 +1385,12 @@
       },
       "Jhajjar": {
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 4,
+        "confirmed": 4,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -1457,26 +1457,26 @@
       },
       "Palwal": {
         "notes": "",
-        "active": 5,
+        "active": 4,
         "confirmed": 34,
         "deceased": 0,
-        "recovered": 29,
+        "recovered": 30,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Panchkula": {
         "notes": "",
-        "active": 8,
+        "active": 6,
         "confirmed": 18,
         "deceased": 0,
-        "recovered": 10,
+        "recovered": 12,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Panipat": {

@@ -804,14 +804,14 @@
 	],
 	"statewise": [
 		{
-			"active": "21547",
-			"confirmed": "29663",
+			"active": "21545",
+			"confirmed": "29666",
 			"deaths": "940",
-			"deltaconfirmed": "205",
+			"deltaconfirmed": "208",
 			"deltadeaths": "1",
-			"deltarecovered": "39",
-			"lastupdatedtime": "28/04/2020 12:41:55",
-			"recovered": "7176",
+			"deltarecovered": "44",
+			"lastupdatedtime": "28/04/2020 14:00:55",
+			"recovered": "7181",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -999,14 +999,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "85",
-			"confirmed": "301",
+			"active": "83",
+			"confirmed": "304",
 			"deaths": "3",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "3",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "27/04/2020 19:21:56",
-			"recovered": "213",
+			"deltarecovered": "5",
+			"lastupdatedtime": "28/04/2020 14:00:56",
+			"recovered": "218",
 			"state": "Haryana",
 			"statecode": "HR",
 			"statenotes": ""
