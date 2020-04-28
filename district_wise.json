@@ -9233,9 +9233,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "8",
+			"active": "7",
 			"confirmed": "44",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -9393,9 +9393,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "30",
+			"active": "29",
 			"confirmed": "52",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12371,7 +12371,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "21",
+			"deceased": "19",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

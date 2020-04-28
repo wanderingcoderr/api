@@ -4393,9 +4393,9 @@
       },
       "Theni": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 44,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 36,
         "delta": {
           "confirmed": 0,
@@ -4513,9 +4513,9 @@
       },
       "Viluppuram": {
         "notes": "",
-        "active": 30,
+        "active": 29,
         "confirmed": 52,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 22,
         "delta": {
           "confirmed": 0,
@@ -4539,7 +4539,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 21,
+        "deceased": 19,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
