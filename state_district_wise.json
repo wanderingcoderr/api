@@ -2017,12 +2017,12 @@
       },
       "Bengaluru": {
         "notes": "",
-        "active": 72,
-        "confirmed": 134,
+        "active": 73,
+        "confirmed": 135,
         "deceased": 5,
         "recovered": 57,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2113,24 +2113,24 @@
       },
       "Gadag": {
         "notes": "",
-        "active": 3,
-        "confirmed": 4,
+        "active": 4,
+        "confirmed": 5,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Kalaburagi": {
         "notes": "",
-        "active": 26,
-        "confirmed": 38,
+        "active": 32,
+        "confirmed": 44,
         "deceased": 5,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }

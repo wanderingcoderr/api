@@ -4369,11 +4369,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "72",
-			"confirmed": "134",
+			"active": "73",
+			"confirmed": "135",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Bengaluru",
@@ -4529,11 +4529,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "3",
-			"confirmed": "4",
+			"active": "4",
+			"confirmed": "5",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Gadag",
@@ -4577,11 +4577,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "26",
-			"confirmed": "38",
+			"active": "32",
+			"confirmed": "44",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "6",
+			"deltaconfirmed": "6",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kalaburagi",
@@ -12129,7 +12129,7 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "0",
+			"active": "-5",
 			"confirmed": "0",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -12139,7 +12139,7 @@
 			"district": "Unknown",
 			"districtkey": "KA_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "5",
 			"slno": "744",
 			"state": "Karnataka",
 			"statecode": "KA"
