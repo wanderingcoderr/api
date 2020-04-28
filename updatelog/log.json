@@ -1,9 +1,5 @@
 [
   {
-    "update": "27 new cases and 4 deaths in Rajasthan\n",
-    "timestamp": 1588003318
-  },
-  {
     "update": "67 recoveries in Rajasthan\n2 recoveries in Odisha\n",
     "timestamp": 1588003895
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Jharkhand\n1 new case in Chhattisgarh\n",
     "timestamp": 1588097495
+  },
+  {
+    "update": "1 new case, 106 recoveries and 31 deaths in Maharashtra\n26 recoveries in Rajasthan\n",
+    "timestamp": 1588098112
   }
 ]

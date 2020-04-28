@@ -3306,6 +3306,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 31,
+        "recovered": 106,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MH"
@@ -4164,6 +4176,18 @@
         "confirmed": 0,
         "deceased": 2,
         "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 26,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

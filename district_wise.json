@@ -12210,8 +12210,8 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
-			"deceased": "0",
+			"confirmed": "1",
+			"deceased": "31",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12219,7 +12219,7 @@
 			"district": "Unknown",
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "106",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -12347,7 +12347,7 @@
 			"district": "Unknown",
 			"districtkey": "RJ_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "26",
 			"slno": "757",
 			"state": "Rajasthan",
 			"statecode": "RJ"
