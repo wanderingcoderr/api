@@ -2346,36 +2346,36 @@
       },
       "Kannur": {
         "notes": "",
-        "active": 50,
+        "active": 47,
         "confirmed": 115,
         "deceased": 2,
-        "recovered": 63,
+        "recovered": 66,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Kasaragod": {
         "notes": "",
-        "active": 14,
-        "confirmed": 176,
+        "active": 13,
+        "confirmed": 178,
         "deceased": 0,
-        "recovered": 162,
+        "recovered": 165,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Kollam": {
         "notes": "",
-        "active": 6,
-        "confirmed": 14,
+        "active": 12,
+        "confirmed": 20,
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 6,
           "deceased": 0,
           "recovered": 0
         }
@@ -2394,14 +2394,14 @@
       },
       "Kozhikode": {
         "notes": "",
-        "active": 5,
+        "active": 2,
         "confirmed": 24,
         "deceased": 0,
-        "recovered": 19,
+        "recovered": 22,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Malappuram": {
@@ -2430,24 +2430,24 @@
       },
       "Pathanamthitta": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 17,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 15,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Thiruvananthapuram": {
         "notes": "",
-        "active": 0,
-        "confirmed": 15,
+        "active": 2,
+        "confirmed": 17,
         "deceased": 1,
         "recovered": 14,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }

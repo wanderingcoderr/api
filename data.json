@@ -814,13 +814,13 @@
 	"statewise": [
 		{
 			"active": "22810",
-			"confirmed": "31625",
+			"confirmed": "31635",
 			"deaths": "1010",
-			"deltaconfirmed": "265",
+			"deltaconfirmed": "275",
 			"deltadeaths": "2",
-			"deltarecovered": "58",
+			"deltarecovered": "68",
 			"lastupdatedtime": "29/04/2020 16:21:45",
-			"recovered": "7805",
+			"recovered": "7815",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -983,13 +983,13 @@
 		},
 		{
 			"active": "123",
-			"confirmed": "486",
+			"confirmed": "496",
 			"deaths": "4",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "10",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"lastupdatedtime": "28/04/2020 17:30:38",
-			"recovered": "359",
+			"recovered": "369",
 			"state": "Kerala",
 			"statecode": "KL",
 			"statenotes": "Mahe native who expired in Kannur included in Kerala's tally"
