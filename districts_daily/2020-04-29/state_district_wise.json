@@ -5047,9 +5047,9 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 0,
+        "confirmed": 7,
         "deceased": 0,
-        "recovered": 58,
+        "recovered": 92,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

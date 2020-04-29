@@ -12386,7 +12386,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
+			"confirmed": "7",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12395,7 +12395,7 @@
 			"district": "Unknown",
 			"districtkey": "TG_Unknown",
 			"districtnotes": "",
-			"recovered": "58",
+			"recovered": "92",
 			"slno": "760",
 			"state": "Telangana",
 			"statecode": "TG"

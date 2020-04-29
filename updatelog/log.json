@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Jharkhand\n",
-    "timestamp": 1588066916
-  },
-  {
     "update": "13 new cases in Bihar\n",
     "timestamp": 1588069292
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Chandigarh\n1 recovery in Ladakh\n",
     "timestamp": 1588174899
+  },
+  {
+    "update": "7 new cases and 34 recoveries in Telangana\n",
+    "timestamp": 1588175493
   }
 ]
