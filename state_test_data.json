@@ -10781,14 +10781,14 @@
 			"updatedon": "27/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "67266",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
+			"positive": "2053",
+			"source": "https://t.me/indiacovid/3474",
 			"source2": "",
 			"state": "Uttar Pradesh",
 			"testpositivityrate": "",
@@ -10796,9 +10796,9 @@
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
-			"unconfirmed": "",
-			"updatedon": "29/04/2020"
+			"totaltested": "70307",
+			"unconfirmed": "988",
+			"updatedon": "28/04/2020"
 		},
 		{
 			"negative": "554",

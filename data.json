@@ -1957,6 +1957,19 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "716733",
 			"updatetimestamp": "28/04/2020 21:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "",
+			"source": "https://www.icmr.gov.in/pdf/covid/update/ICMR_testing_update_29Apr2020_9AM_IST.pdf",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "770764",
+			"updatetimestamp": "29/04/2020 21:00:00"
 		}
 	]
 }
