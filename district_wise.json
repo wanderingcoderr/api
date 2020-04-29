@@ -4097,11 +4097,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "1",
-			"confirmed": "1",
+			"active": "2",
+			"confirmed": "2",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jamtara",
@@ -4257,11 +4257,11 @@
 			"statecode": "JH"
 		},
 		{
-			"active": "65",
-			"confirmed": "77",
+			"active": "66",
+			"confirmed": "78",
 			"deceased": "2",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Ranchi",
