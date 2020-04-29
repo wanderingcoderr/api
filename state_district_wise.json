@@ -724,12 +724,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 50,
-        "confirmed": 67,
+        "active": 51,
+        "confirmed": 68,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }
@@ -2495,14 +2495,14 @@
       },
       "Leh": {
         "notes": "",
-        "active": 3,
+        "active": 2,
         "confirmed": 15,
         "deceased": 0,
-        "recovered": 12,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       }
     },

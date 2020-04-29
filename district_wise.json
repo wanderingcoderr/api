@@ -1793,11 +1793,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "50",
-			"confirmed": "67",
+			"active": "51",
+			"confirmed": "68",
 			"deceased": "0",
-			"deltaactive": "11",
-			"deltaconfirmed": "11",
+			"deltaactive": "12",
+			"deltaconfirmed": "12",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Chandigarh",
@@ -5041,17 +5041,17 @@
 			"statecode": "LA"
 		},
 		{
-			"active": "3",
+			"active": "2",
 			"confirmed": "15",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Leh",
 			"districtkey": "LA_Leh",
 			"districtnotes": "",
-			"recovered": "12",
+			"recovered": "13",
 			"slno": "315",
 			"state": "Ladakh",
 			"statecode": "LA"
