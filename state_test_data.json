@@ -6321,24 +6321,24 @@
 			"updatedon": "28/04/2020"
 		},
 		{
-			"negative": "",
+			"negative": "23880",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
 			"numisolationbeds": "",
 			"numventilators": "",
 			"populationsourceuidai": "",
-			"positive": "",
-			"source": "",
-			"source2": "",
+			"positive": "486",
+			"source": "http://dhs.kerala.gov.in/wp-content/uploads/2020/04/Daily-Bulletin-HFWD-English-April-29_F.pdf",
+			"source2": "https://www.mohfw.gov.in/",
 			"state": "Kerala",
 			"testpositivityrate": "",
 			"testspermillion": "",
 			"testsperthousand": "",
 			"totalpeopleinquarantine": "",
 			"totalpeoplereleasedfromquarantine": "",
-			"totaltested": "",
+			"totaltested": "24952",
 			"unconfirmed": "",
-			"updatedon": "30/04/2020"
+			"updatedon": "29/04/2020"
 		},
 		{
 			"negative": "",
