@@ -2925,8 +2925,8 @@
       },
       "Aurangabad": {
         "notes": "",
-        "active": 26,
-        "confirmed": 54,
+        "active": 62,
+        "confirmed": 90,
         "deceased": 6,
         "recovered": 22,
         "delta": {
@@ -3213,10 +3213,10 @@
       },
       "Satara": {
         "notes": "",
-        "active": 26,
+        "active": 25,
         "confirmed": 32,
         "deceased": 2,
-        "recovered": 4,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -5969,8 +5969,8 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "26",
-			"confirmed": "54",
+			"active": "62",
+			"confirmed": "90",
 			"deceased": "6",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -6385,7 +6385,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "26",
+			"active": "25",
 			"confirmed": "32",
 			"deceased": "2",
 			"deltaactive": "0",
@@ -6395,7 +6395,7 @@
 			"district": "Satara",
 			"districtkey": "MH_Satara",
 			"districtnotes": "",
-			"recovered": "4",
+			"recovered": "5",
 			"slno": "398",
 			"state": "Maharashtra",
 			"statecode": "MH"

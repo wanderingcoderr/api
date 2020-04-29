@@ -802,38 +802,38 @@
 			"totalrecovered": "7137"
 		},
 		{
-			"dailyconfirmed": "1866",
+			"dailyconfirmed": "1902",
 			"dailydeceased": "69",
-			"dailyrecovered": "713",
+			"dailyrecovered": "714",
 			"date": "28 April ",
-			"totalconfirmed": "31324",
+			"totalconfirmed": "31360",
 			"totaldeceased": "1008",
-			"totalrecovered": "7850"
+			"totalrecovered": "7851"
 		}
 	],
 	"statewise": [
 		{
-			"active": "22467",
-			"confirmed": "31325",
+			"active": "22502",
+			"confirmed": "31361",
 			"deaths": "1008",
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/04/2020 08:31:44",
-			"recovered": "7850",
+			"lastupdatedtime": "29/04/2020 08:40:45",
+			"recovered": "7851",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
 		},
 		{
-			"active": "7391",
-			"confirmed": "9282",
+			"active": "7426",
+			"confirmed": "9318",
 			"deaths": "400",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/04/2020 08:31:45",
-			"recovered": "1491",
+			"lastupdatedtime": "29/04/2020 08:40:45",
+			"recovered": "1492",
 			"state": "Maharashtra",
 			"statecode": "MH",
 			"statenotes": ""
@@ -1040,7 +1040,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "29/04/2020 08:31:46",
+			"lastupdatedtime": "29/04/2020 08:32:46",
 			"recovered": "38",
 			"state": "Odisha",
 			"statecode": "OR",
