@@ -1,9 +1,5 @@
 [
   {
-    "update": "5 new cases in Jharkhand\n",
-    "timestamp": 1588005700
-  },
-  {
     "update": "190 new cases in Delhi\n",
     "timestamp": 1588006298
   },
@@ -198,5 +194,9 @@
   {
     "update": "9 new cases and 8 recoveries in Karnataka\n",
     "timestamp": 1588143110
+  },
+  {
+    "update": "94 new cases and 2 deaths in Madhya Pradesh\n3 new cases in Odisha\n",
+    "timestamp": 1588146724
   }
 ]

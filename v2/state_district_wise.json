@@ -2903,13 +2903,13 @@
       {
         "district": "Indore",
         "notes": "",
-        "active": 1175,
-        "confirmed": 1372,
-        "deceased": 63,
+        "active": 1267,
+        "confirmed": 1466,
+        "deceased": 65,
         "recovered": 134,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 94,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -3737,6 +3737,19 @@
         }
       },
       {
+        "district": "Jharsuguda",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Kalahandi",
         "notes": "",
         "active": 0,
@@ -3758,6 +3771,19 @@
         "recovered": 1,
         "delta": {
           "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Kendujhar",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3808,6 +3834,19 @@
         "confirmed": 10,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
