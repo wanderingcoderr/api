@@ -1,9 +1,5 @@
 [
   {
-    "update": "7 new cases in Odisha (Added for yesterday's date) \n",
-    "timestamp": 1588041700
-  },
-  {
     "update": "48 new cases and 4 recoveries in West Bengal\n",
     "timestamp": 1588046542
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Odisha\n2 recoveries in Assam\n",
     "timestamp": 1588164111
+  },
+  {
+    "update": "16 new cases and 16 recoveries in Jammu and Kashmir\n3 new cases in Odisha\n",
+    "timestamp": 1588165922
   }
 ]
