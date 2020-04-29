@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Assam\n",
-    "timestamp": 1588078308
-  },
-  {
     "update": "121 new cases in Tamil Nadu\n",
     "timestamp": 1588078931
   },
@@ -198,5 +194,9 @@
   {
     "update": "125 new cases, 14 recoveries and 2 deaths in Delhi\n",
     "timestamp": 1588182359
+  },
+  {
+    "update": "1 new case in Uttarakhand\n",
+    "timestamp": 1588185104
   }
 ]
