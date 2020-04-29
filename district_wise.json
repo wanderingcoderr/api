@@ -8353,17 +8353,17 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "1",
+			"active": "0",
 			"confirmed": "14",
 			"deceased": "0",
-			"deltaactive": "0",
+			"deltaactive": "-1",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "1",
 			"district": "Churu",
 			"districtkey": "RJ_Churu",
 			"districtnotes": "",
-			"recovered": "13",
+			"recovered": "14",
 			"slno": "517",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -8449,7 +8449,7 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "593",
+			"active": "564",
 			"confirmed": "864",
 			"deceased": "27",
 			"deltaactive": "5",
@@ -8459,7 +8459,7 @@
 			"district": "Jaipur",
 			"districtkey": "RJ_Jaipur",
 			"districtnotes": "",
-			"recovered": "244",
+			"recovered": "273",
 			"slno": "523",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -8497,7 +8497,7 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "24",
+			"active": "20",
 			"confirmed": "40",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -8507,13 +8507,13 @@
 			"district": "Jhalawar",
 			"districtkey": "RJ_Jhalawar",
 			"districtnotes": "",
-			"recovered": "16",
+			"recovered": "20",
 			"slno": "526",
 			"state": "Rajasthan",
 			"statecode": "RJ"
 		},
 		{
-			"active": "2",
+			"active": "9",
 			"confirmed": "42",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -8523,23 +8523,23 @@
 			"district": "Jhunjhunu",
 			"districtkey": "RJ_Jhunjhunu",
 			"districtnotes": "",
-			"recovered": "40",
+			"recovered": "33",
 			"slno": "527",
 			"state": "Rajasthan",
 			"statecode": "RJ"
 		},
 		{
-			"active": "314",
+			"active": "304",
 			"confirmed": "401",
 			"deceased": "6",
-			"deltaactive": "1",
+			"deltaactive": "-9",
 			"deltaconfirmed": "1",
 			"deltadeceased": "0",
-			"deltarecovered": "0",
+			"deltarecovered": "10",
 			"district": "Jodhpur",
 			"districtkey": "RJ_Jodhpur",
 			"districtnotes": "",
-			"recovered": "81",
+			"recovered": "91",
 			"slno": "528",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -12347,7 +12347,7 @@
 			"district": "Unknown",
 			"districtkey": "RJ_Unknown",
 			"districtnotes": "",
-			"recovered": "26",
+			"recovered": "0",
 			"slno": "757",
 			"state": "Rajasthan",
 			"statecode": "RJ"
