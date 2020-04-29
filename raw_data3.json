@@ -26230,7 +26230,7 @@
 			"typeoftransmission": ""
 		},
 		{
-			"agebracket": "",
+			"agebracket": "73",
 			"contractedfromwhichpatientsuspected": "",
 			"currentstatus": "Deceased",
 			"dateannounced": "29/04/2020",
@@ -26238,9 +26238,9 @@
 			"detecteddistrict": "Tumakuru",
 			"detectedstate": "Karnataka",
 			"entryid": "1250",
-			"gender": "",
+			"gender": "M",
 			"nationality": "",
-			"notes": "P535",
+			"notes": "P535. Complaint of SARI with history of COPD, Asthma and Diabetes. Admitted to hospital on 25th April.",
 			"numcases": "1",
 			"source1": "https://twitter.com/DHFWKA/status/1255493595995475974",
 			"source2": "",

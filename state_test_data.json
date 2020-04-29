@@ -10701,6 +10701,26 @@
 			"updatedon": "28/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "1027",
+			"source": "http://124.124.103.93/COVID/home.htm",
+			"source2": "",
+			"state": "Telangana",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "19278",
+			"unconfirmed": "",
+			"updatedon": "29/04/2020"
+		},
+		{
 			"negative": "335",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
