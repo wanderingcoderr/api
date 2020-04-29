@@ -433,12 +433,12 @@
       {
         "district": "Aurangabad",
         "notes": "",
-        "active": 7,
-        "confirmed": 7,
+        "active": 8,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -485,12 +485,12 @@
       {
         "district": "Bhojpur",
         "notes": "",
-        "active": 8,
-        "confirmed": 9,
+        "active": 10,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -498,12 +498,12 @@
       {
         "district": "Buxar",
         "notes": "",
-        "active": 37,
-        "confirmed": 38,
+        "active": 39,
+        "confirmed": 40,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 12,
+          "confirmed": 14,
           "deceased": 0,
           "recovered": 0
         }
@@ -602,12 +602,12 @@
       {
         "district": "Madhepura",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -667,12 +667,12 @@
       {
         "district": "Patna",
         "notes": "",
-        "active": 35,
-        "confirmed": 40,
+        "active": 37,
+        "confirmed": 42,
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -693,12 +693,12 @@
       {
         "district": "Rohtas",
         "notes": "",
-        "active": 33,
-        "confirmed": 33,
+        "active": 34,
+        "confirmed": 34,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -732,12 +732,12 @@
       {
         "district": "Sitamarhi",
         "notes": "",
-        "active": 1,
-        "confirmed": 1,
+        "active": 2,
+        "confirmed": 2,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -758,12 +758,12 @@
       {
         "district": "Vaishali",
         "notes": "",
-        "active": 1,
-        "confirmed": 2,
+        "active": 2,
+        "confirmed": 3,
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
