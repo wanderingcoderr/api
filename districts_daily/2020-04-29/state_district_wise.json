@@ -712,12 +712,12 @@
     "districtData": {
       "Chandigarh": {
         "notes": "",
-        "active": 39,
-        "confirmed": 56,
+        "active": 50,
+        "confirmed": 67,
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -3908,12 +3908,12 @@
       },
       "Chittaurgarh": {
         "notes": "",
-        "active": 8,
-        "confirmed": 8,
+        "active": 13,
+        "confirmed": 13,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
           "recovered": 0
         }
@@ -3944,12 +3944,12 @@
       },
       "Dhaulpur": {
         "notes": "",
-        "active": 8,
-        "confirmed": 9,
+        "active": 9,
+        "confirmed": 10,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3980,12 +3980,12 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 564,
-        "confirmed": 864,
+        "active": 567,
+        "confirmed": 867,
         "deceased": 27,
         "recovered": 273,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -4052,12 +4052,12 @@
       },
       "Kota": {
         "notes": "",
-        "active": 84,
-        "confirmed": 189,
+        "active": 85,
+        "confirmed": 190,
         "deceased": 7,
         "recovered": 98,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
