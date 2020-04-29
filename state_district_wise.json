@@ -2937,13 +2937,13 @@
       },
       "Aurangabad": {
         "notes": "",
-        "active": 77,
+        "active": 76,
         "confirmed": 105,
-        "deceased": 6,
+        "deceased": 7,
         "recovered": 22,
         "delta": {
           "confirmed": 15,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3081,14 +3081,14 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 5464,
+        "active": 5438,
         "confirmed": 6644,
-        "deceased": 244,
+        "deceased": 270,
         "recovered": 936,
         "delta": {
           "confirmed": 475,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 26,
+          "recovered": 138
         }
       },
       "Nagpur": {
@@ -3100,7 +3100,7 @@
         "delta": {
           "confirmed": 3,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 15
         }
       },
       "Nanded": {
@@ -3160,7 +3160,7 @@
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 4
         }
       },
       "Parbhani": {
@@ -3172,31 +3172,31 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Pune": {
         "notes": "",
-        "active": 866,
+        "active": 863,
         "confirmed": 1192,
-        "deceased": 82,
+        "deceased": 85,
         "recovered": 244,
         "delta": {
           "confirmed": 18,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 3,
+          "recovered": 11
         }
       },
       "Raigarh": {
         "notes": "",
-        "active": 45,
+        "active": 44,
         "confirmed": 69,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 23,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
-          "recovered": 0
+          "deceased": 1,
+          "recovered": 2
         }
       },
       "Ratnagiri": {
@@ -3232,7 +3232,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Sindhudurg": {
@@ -3249,13 +3249,13 @@
       },
       "Solapur": {
         "notes": "",
-        "active": 80,
+        "active": 79,
         "confirmed": 85,
-        "deceased": 5,
+        "deceased": 6,
         "recovered": 0,
         "delta": {
           "confirmed": 3,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3306,18 +3306,6 @@
           "deceased": 0,
           "recovered": 0
         }
-      },
-      "Unknown": {
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 32,
-        "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
       }
     },
     "statecode": "MH"
@@ -3355,8 +3343,8 @@
     "districtData": {
       "East Khasi Hills": {
         "notes": "",
-        "active": 6,
-        "confirmed": 7,
+        "active": 10,
+        "confirmed": 11,
         "deceased": 1,
         "recovered": 0,
         "delta": {
@@ -3368,7 +3356,7 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 5,
+        "confirmed": 1,
         "deceased": 0,
         "recovered": 0,
         "delta": {
