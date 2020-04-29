@@ -10201,6 +10201,26 @@
 			"updatedon": "19/04/2020"
 		},
 		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "1009",
+			"source": "https://www.thehindu.com/news/national/telangana/accuracy-of-tests-more-in-telangana-eatala/article31456895.ece",
+			"source2": "",
+			"state": "Telangana",
+			"testpositivityrate": "5.29%",
+			"testspermillion": "489.8114944",
+			"testsperthousand": "0.4898114944",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "19063",
+			"unconfirmed": "",
+			"updatedon": "28/04/2020"
+		},
+		{
 			"negative": "335",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
@@ -10759,6 +10779,26 @@
 			"totaltested": "67145",
 			"unconfirmed": "1020",
 			"updatedon": "27/04/2020"
+		},
+		{
+			"negative": "",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Uttar Pradesh",
+			"testpositivityrate": "",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "",
+			"unconfirmed": "",
+			"updatedon": "29/04/2020"
 		},
 		{
 			"negative": "554",

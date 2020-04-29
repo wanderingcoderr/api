@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 recoveries in Punjab\n",
-    "timestamp": 1588005093
-  },
-  {
     "update": "5 new cases in Jharkhand\n",
     "timestamp": 1588005700
   },
@@ -198,5 +194,9 @@
   {
     "update": "73 new cases and 29 recoveries in Andhra Pradesh\n",
     "timestamp": 1588140130
+  },
+  {
+    "update": "9 new cases and 8 recoveries in Karnataka\n",
+    "timestamp": 1588143110
   }
 ]

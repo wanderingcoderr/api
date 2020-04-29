@@ -4353,11 +4353,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "47",
-			"confirmed": "54",
+			"active": "48",
+			"confirmed": "55",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Belagavi",
@@ -4577,11 +4577,11 @@
 			"statecode": "KA"
 		},
 		{
-			"active": "32",
-			"confirmed": "44",
+			"active": "40",
+			"confirmed": "52",
 			"deceased": "5",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "8",
+			"deltaconfirmed": "8",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Kalaburagi",
@@ -8865,7 +8865,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "505",
+			"active": "471",
 			"confirmed": "678",
 			"deceased": "12",
 			"deltaactive": "0",
@@ -8875,13 +8875,13 @@
 			"district": "Chennai",
 			"districtkey": "TN_Chennai",
 			"districtnotes": "",
-			"recovered": "161",
+			"recovered": "195",
 			"slno": "545",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
 		{
-			"active": "47",
+			"active": "21",
 			"confirmed": "141",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -8891,7 +8891,7 @@
 			"district": "Coimbatore",
 			"districtkey": "TN_Coimbatore",
 			"districtnotes": "",
-			"recovered": "94",
+			"recovered": "120",
 			"slno": "546",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -9169,7 +9169,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "12",
+			"active": "2",
 			"confirmed": "12",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9179,7 +9179,7 @@
 			"district": "Sivaganga",
 			"districtkey": "TN_Sivaganga",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "10",
 			"slno": "562",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -9233,7 +9233,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "8",
+			"active": "7",
 			"confirmed": "44",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -9243,7 +9243,7 @@
 			"district": "Theni",
 			"districtkey": "TN_Theni",
 			"districtnotes": "",
-			"recovered": "35",
+			"recovered": "36",
 			"slno": "565",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -9265,7 +9265,7 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "22",
+			"active": "16",
 			"confirmed": "30",
 			"deceased": "0",
 			"deltaactive": "0",
@@ -9275,13 +9275,13 @@
 			"district": "Thiruvarur",
 			"districtkey": "TN_Thiruvarur",
 			"districtnotes": "",
-			"recovered": "8",
+			"recovered": "14",
 			"slno": "567",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
 		},
 		{
-			"active": "2",
+			"active": "0",
 			"confirmed": "27",
 			"deceased": "2",
 			"deltaactive": "0",
@@ -9291,7 +9291,7 @@
 			"district": "Thoothukkudi",
 			"districtkey": "TN_Thoothukkudi",
 			"districtnotes": "",
-			"recovered": "23",
+			"recovered": "25",
 			"slno": "568",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
@@ -12139,7 +12139,7 @@
 			"district": "Unknown",
 			"districtkey": "KA_Unknown",
 			"districtnotes": "",
-			"recovered": "1",
+			"recovered": "9",
 			"slno": "744",
 			"state": "Karnataka",
 			"statecode": "KA"
@@ -12379,7 +12379,7 @@
 			"district": "Unknown",
 			"districtkey": "TN_Unknown",
 			"districtnotes": "",
-			"recovered": "133",
+			"recovered": "54",
 			"slno": "759",
 			"state": "Tamil Nadu",
 			"statecode": "TN"
