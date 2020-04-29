@@ -1,9 +1,5 @@
 [
   {
-    "update": "48 new cases and 4 recoveries in West Bengal\n",
-    "timestamp": 1588046542
-  },
-  {
     "update": "66 new cases in Rajasthan\n",
     "timestamp": 1588047102
   },
@@ -198,5 +194,9 @@
   {
     "update": "16 new cases and 16 recoveries in Jammu and Kashmir\n3 new cases in Odisha\n",
     "timestamp": 1588165922
+  },
+  {
+    "update": "104 new cases in Tamil Nadu\n",
+    "timestamp": 1588167128
   }
 ]
