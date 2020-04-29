@@ -1,9 +1,5 @@
 [
   {
-    "update": "2 new cases in Ladakh\n",
-    "timestamp": 1588070499
-  },
-  {
     "update": "4 new cases and 4 recoveries in Kerala\n",
     "timestamp": 1588074114
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases in Jharkhand\n",
     "timestamp": 1588176136
+  },
+  {
+    "update": "3 deaths in Rajasthan\n",
+    "timestamp": 1588176704
   }
 ]

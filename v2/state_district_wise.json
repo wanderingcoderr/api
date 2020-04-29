@@ -4368,13 +4368,13 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 567,
+        "active": 564,
         "confirmed": 867,
-        "deceased": 27,
+        "deceased": 30,
         "recovered": 273,
         "delta": {
           "confirmed": 8,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       },

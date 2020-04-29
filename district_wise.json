@@ -8449,12 +8449,12 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "567",
+			"active": "564",
 			"confirmed": "867",
-			"deceased": "27",
-			"deltaactive": "8",
+			"deceased": "30",
+			"deltaactive": "5",
 			"deltaconfirmed": "8",
-			"deltadeceased": "0",
+			"deltadeceased": "3",
 			"deltarecovered": "0",
 			"district": "Jaipur",
 			"districtkey": "RJ_Jaipur",
