@@ -809,6 +809,15 @@
 			"totalconfirmed": "31360",
 			"totaldeceased": "1008",
 			"totalrecovered": "7747"
+		},
+		{
+			"dailyconfirmed": "1702",
+			"dailydeceased": "71",
+			"dailyrecovered": "690",
+			"date": "29 April ",
+			"totalconfirmed": "33062",
+			"totaldeceased": "1079",
+			"totalrecovered": "8437"
 		}
 	],
 	"statewise": [
@@ -819,7 +828,7 @@
 			"deltaconfirmed": "1702",
 			"deltadeaths": "71",
 			"deltarecovered": "690",
-			"lastupdatedtime": "30/04/2020 00:00:45",
+			"lastupdatedtime": "30/04/2020 00:01:45",
 			"recovered": "8437",
 			"state": "Total",
 			"statecode": "TT",
@@ -1079,7 +1088,7 @@
 			"deltaconfirmed": "1",
 			"deltadeaths": "0",
 			"deltarecovered": "2",
-			"lastupdatedtime": "30/04/2020 00:00:47",
+			"lastupdatedtime": "30/04/2020 00:01:47",
 			"recovered": "36",
 			"state": "Uttarakhand",
 			"statecode": "UT",
