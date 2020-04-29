@@ -3860,14 +3860,14 @@
     "districtData": {
       "Ajmer": {
         "notes": "",
-        "active": 141,
+        "active": 133,
         "confirmed": 146,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 13,
         "delta": {
           "confirmed": 11,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Alwar": {
@@ -3908,14 +3908,14 @@
       },
       "Bharatpur": {
         "notes": "",
-        "active": 104,
+        "active": 103,
         "confirmed": 111,
         "deceased": 2,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bhilwara": {
@@ -3968,14 +3968,14 @@
       },
       "Dausa": {
         "notes": "",
-        "active": 14,
+        "active": 13,
         "confirmed": 21,
         "deceased": 0,
-        "recovered": 7,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Dhaulpur": {
@@ -4004,26 +4004,26 @@
       },
       "Hanumangarh": {
         "notes": "",
-        "active": 9,
+        "active": 6,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 2,
+        "recovered": 5,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Jaipur": {
         "notes": "",
-        "active": 578,
+        "active": 568,
         "confirmed": 881,
         "deceased": 30,
-        "recovered": 273,
+        "recovered": 283,
         "delta": {
           "confirmed": 22,
           "deceased": 3,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Jaisalmer": {
@@ -4064,14 +4064,14 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 316,
+        "active": 304,
         "confirmed": 413,
         "deceased": 6,
-        "recovered": 91,
+        "recovered": 103,
         "delta": {
           "confirmed": 13,
           "deceased": 0,
-          "recovered": 10
+          "recovered": 22
         }
       },
       "Karauli": {
@@ -4218,12 +4218,24 @@
           "recovered": 0
         }
       },
-      "Others state": {
+      "Other state": {
         "notes": "",
         "active": -4,
         "confirmed": 0,
         "deceased": 2,
         "recovered": 2,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 0,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": -2,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

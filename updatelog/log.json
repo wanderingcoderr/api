@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Bihar\n1 recovery in Odisha\n11 new cases in Chandigarh\n",
-    "timestamp": 1588075310
-  },
-  {
     "update": "19 new cases, 12 recoveries and 1 death in Jammu and Kashmir\n",
     "timestamp": 1588076492
   },
@@ -198,5 +194,9 @@
   {
     "update": "45 new cases in Rajasthan\n",
     "timestamp": 1588178512
+  },
+  {
+    "update": "33 recoveries in Rajasthan\n",
+    "timestamp": 1588179730
   }
 ]
