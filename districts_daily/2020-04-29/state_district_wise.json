@@ -704,6 +704,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "West Champaran": {
+        "notes": "",
+        "active": 5,
+        "confirmed": 5,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 5,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "BR"

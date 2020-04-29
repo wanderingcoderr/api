@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 death in Karnataka\n",
-    "timestamp": 1588008690
-  },
-  {
     "update": "1 recovery in Puducherry\n",
     "timestamp": 1588009899
   },
@@ -198,5 +194,9 @@
   {
     "update": "10 new cases in Rajasthan\n11 new cases in Chandigarh\n",
     "timestamp": 1588156304
+  },
+  {
+    "update": "5 new cases in Bihar\n",
+    "timestamp": 1588157518
   }
 ]
