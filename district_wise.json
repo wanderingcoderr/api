@@ -6017,7 +6017,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "5",
+			"active": "3",
 			"confirmed": "21",
 			"deceased": "1",
 			"deltaactive": "0",
@@ -6027,7 +6027,7 @@
 			"district": "Buldana",
 			"districtkey": "MH_Buldana",
 			"districtnotes": "Reconciled as per MH bulleting 24/04",
-			"recovered": "15",
+			"recovered": "17",
 			"slno": "375",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -12219,7 +12219,7 @@
 			"district": "Unknown",
 			"districtkey": "MH_Unknown",
 			"districtnotes": "",
-			"recovered": "106",
+			"recovered": "0",
 			"slno": "749",
 			"state": "Maharashtra",
 			"statecode": "MH"

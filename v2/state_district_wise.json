@@ -3221,10 +3221,10 @@
       {
         "district": "Buldana",
         "notes": "Reconciled as per MH bulleting 24/04",
-        "active": 5,
+        "active": 3,
         "confirmed": 21,
         "deceased": 1,
-        "recovered": 15,
+        "recovered": 17,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3576,19 +3576,6 @@
         "confirmed": 25,
         "deceased": 2,
         "recovered": 0,
-        "delta": {
-          "confirmed": 0,
-          "deceased": 0,
-          "recovered": 0
-        }
-      },
-      {
-        "district": "Unknown",
-        "notes": "",
-        "active": 0,
-        "confirmed": 0,
-        "deceased": 0,
-        "recovered": 106,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
