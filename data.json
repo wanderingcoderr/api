@@ -802,25 +802,25 @@
 			"totalrecovered": "7137"
 		},
 		{
-			"dailyconfirmed": "1921",
+			"dailyconfirmed": "1902",
 			"dailydeceased": "69",
 			"dailyrecovered": "610",
 			"date": "28 April ",
-			"totalconfirmed": "31379",
+			"totalconfirmed": "31360",
 			"totaldeceased": "1008",
 			"totalrecovered": "7747"
 		}
 	],
 	"statewise": [
 		{
-			"active": "22625",
-			"confirmed": "31380",
+			"active": "22603",
+			"confirmed": "31408",
 			"deaths": "1008",
-			"deltaconfirmed": "1",
+			"deltaconfirmed": "48",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "29/04/2020 09:21:44",
-			"recovered": "7747",
+			"deltarecovered": "50",
+			"lastupdatedtime": "29/04/2020 09:31:44",
+			"recovered": "7797",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -878,14 +878,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1561",
+			"active": "1521",
 			"confirmed": "2383",
 			"deaths": "52",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "19",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "29/04/2020 09:21:45",
-			"recovered": "770",
+			"deltarecovered": "40",
+			"lastupdatedtime": "29/04/2020 09:22:45",
+			"recovered": "810",
 			"state": "Rajasthan",
 			"statecode": "RJ",
 			"statenotes": ""
@@ -943,14 +943,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "566",
-			"confirmed": "697",
+			"active": "584",
+			"confirmed": "725",
 			"deaths": "22",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "28",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 20:41:46",
-			"recovered": "109",
+			"deltarecovered": "10",
+			"lastupdatedtime": "29/04/2020 09:31:45",
+			"recovered": "119",
 			"state": "West Bengal",
 			"statecode": "WB",
 			"statenotes": "WB totals and district numbers are currently updated according to https://www.mohfw.gov.in"

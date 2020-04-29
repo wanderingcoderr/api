@@ -4126,7 +4126,7 @@
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 11,
           "deceased": 0,
           "recovered": 0
         }
@@ -4152,7 +4152,7 @@
         "deceased": 0,
         "recovered": 31,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4225,14 +4225,14 @@
       {
         "district": "Churu",
         "notes": "",
-        "active": 1,
+        "active": 0,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 13,
+        "recovered": 14,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -4290,14 +4290,14 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 593,
+        "active": 564,
         "confirmed": 864,
         "deceased": 27,
-        "recovered": 244,
+        "recovered": 273,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 5,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 29
         }
       },
       {
@@ -4342,14 +4342,14 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 314,
+        "active": 304,
         "confirmed": 401,
         "deceased": 6,
-        "recovered": 81,
+        "recovered": 91,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 10
         }
       },
       {
@@ -4477,7 +4477,7 @@
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -6524,9 +6524,9 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 309,
+        "confirmed": 337,
         "deceased": 22,
-        "recovered": 109,
+        "recovered": 119,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
