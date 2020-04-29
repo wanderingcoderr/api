@@ -3884,14 +3884,14 @@
       },
       "Churu": {
         "notes": "",
-        "active": 0,
+        "active": 1,
         "confirmed": 14,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       "Dausa": {
@@ -3944,14 +3944,14 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 564,
+        "active": 593,
         "confirmed": 864,
         "deceased": 27,
-        "recovered": 273,
+        "recovered": 244,
         "delta": {
           "confirmed": 5,
           "deceased": 0,
-          "recovered": 29
+          "recovered": 0
         }
       },
       "Jaisalmer": {
@@ -3992,14 +3992,14 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 304,
+        "active": 314,
         "confirmed": 401,
         "deceased": 6,
-        "recovered": 91,
+        "recovered": 81,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 10
+          "recovered": 0
         }
       },
       "Karauli": {
