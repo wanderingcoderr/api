@@ -6177,7 +6177,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "5214",
+			"active": "5127",
 			"confirmed": "6169",
 			"deceased": "244",
 			"deltaactive": "0",
@@ -6187,7 +6187,7 @@
 			"district": "Mumbai",
 			"districtkey": "MH_Mumbai",
 			"districtnotes": "",
-			"recovered": "711",
+			"recovered": "798",
 			"slno": "385",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -6257,7 +6257,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "178",
+			"active": "177",
 			"confirmed": "195",
 			"deceased": "12",
 			"deltaactive": "0",
@@ -6267,7 +6267,7 @@
 			"district": "Nashik",
 			"districtkey": "MH_Nashik",
 			"districtnotes": "",
-			"recovered": "5",
+			"recovered": "6",
 			"slno": "390",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -6321,7 +6321,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "871",
+			"active": "859",
 			"confirmed": "1174",
 			"deceased": "82",
 			"deltaactive": "0",
@@ -6331,7 +6331,7 @@
 			"district": "Pune",
 			"districtkey": "MH_Pune",
 			"districtnotes": "",
-			"recovered": "221",
+			"recovered": "233",
 			"slno": "394",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -6433,7 +6433,7 @@
 			"statecode": "MH"
 		},
 		{
-			"active": "681",
+			"active": "678",
 			"confirmed": "824",
 			"deceased": "14",
 			"deltaactive": "0",
@@ -6443,7 +6443,7 @@
 			"district": "Thane",
 			"districtkey": "MH_Thane",
 			"districtnotes": "",
-			"recovered": "129",
+			"recovered": "132",
 			"slno": "401",
 			"state": "Maharashtra",
 			"statecode": "MH"
@@ -7585,11 +7585,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "19",
-			"confirmed": "46",
+			"active": "20",
+			"confirmed": "47",
 			"deceased": "1",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "1",
+			"deltaconfirmed": "1",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Khordha",

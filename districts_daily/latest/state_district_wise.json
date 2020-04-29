@@ -3069,10 +3069,10 @@
       },
       "Mumbai": {
         "notes": "",
-        "active": 5214,
+        "active": 5127,
         "confirmed": 6169,
         "deceased": 244,
-        "recovered": 711,
+        "recovered": 798,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3117,10 +3117,10 @@
       },
       "Nashik": {
         "notes": "",
-        "active": 178,
+        "active": 177,
         "confirmed": 195,
         "deceased": 12,
-        "recovered": 5,
+        "recovered": 6,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3165,10 +3165,10 @@
       },
       "Pune": {
         "notes": "",
-        "active": 871,
+        "active": 859,
         "confirmed": 1174,
         "deceased": 82,
-        "recovered": 221,
+        "recovered": 233,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3249,10 +3249,10 @@
       },
       "Thane": {
         "notes": "",
-        "active": 681,
+        "active": 678,
         "confirmed": 824,
         "deceased": 14,
-        "recovered": 129,
+        "recovered": 132,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -3473,12 +3473,12 @@
       },
       "Khordha": {
         "notes": "",
-        "active": 19,
-        "confirmed": 46,
+        "active": 20,
+        "confirmed": 47,
         "deceased": 1,
         "recovered": 26,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
