@@ -19739,6 +19739,48 @@
 			"statepatientnumber": "",
 			"statuschangedate": "",
 			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "Anantapur",
+			"detectedstate": "",
+			"entryid": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"numcases": "4",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "",
+			"statepatientnumber": "",
+			"statuschangedate": "",
+			"typeoftransmission": ""
+		},
+		{
+			"agebracket": "",
+			"contractedfromwhichpatientsuspected": "",
+			"currentstatus": "",
+			"dateannounced": "",
+			"detectedcity": "",
+			"detecteddistrict": "Chittoor",
+			"detectedstate": "",
+			"entryid": "",
+			"gender": "",
+			"nationality": "",
+			"notes": "",
+			"numcases": "3",
+			"source1": "",
+			"source2": "",
+			"source3": "",
+			"statecode": "",
+			"statepatientnumber": "",
+			"statuschangedate": "",
+			"typeoftransmission": ""
 		}
 	]
 }
