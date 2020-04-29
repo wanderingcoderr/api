@@ -12051,7 +12051,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "0",
+			"deceased": "16",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12194,7 +12194,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
+			"confirmed": "79",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12418,8 +12418,8 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
-			"deceased": "0",
+			"confirmed": "81",
+			"deceased": "5",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12427,7 +12427,7 @@
 			"district": "Unknown",
 			"districtkey": "UP_Unknown",
 			"districtnotes": "",
-			"recovered": "0",
+			"recovered": "48",
 			"slno": "762",
 			"state": "Uttar Pradesh",
 			"statecode": "UP"

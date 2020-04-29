@@ -1,9 +1,5 @@
 [
   {
-    "update": "23 recoveries in Andhra Pradesh\n",
-    "timestamp": 1588054929
-  },
-  {
     "update": "1 recovery in Bihar\n",
     "timestamp": 1588055513
   },
@@ -198,5 +194,9 @@
   {
     "update": "308 new cases in Gujarat\n33 new cases in Punjab\n",
     "timestamp": 1588170718
+  },
+  {
+    "update": "16 deaths in Gujarat\n79 new cases in Madhya Pradesh\n81 new cases, 48 recoveries and 5 deaths in Uttar Pradesh\n",
+    "timestamp": 1588171308
   }
 ]
