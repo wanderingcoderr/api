@@ -1,9 +1,5 @@
 [
   {
-    "update": "1 new case in Bihar\n",
-    "timestamp": 1588010521
-  },
-  {
     "update": "3 recoveries in Himachal Pradesh\n",
     "timestamp": 1588016510
   },
@@ -198,5 +194,9 @@
   {
     "update": "10 new cases and 10 recoveries in Kerala\n",
     "timestamp": 1588160507
+  },
+  {
+    "update": "2 new cases and 1 recovery in Karnataka\n",
+    "timestamp": 1588162300
   }
 ]

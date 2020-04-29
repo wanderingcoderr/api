@@ -2077,14 +2077,14 @@
       },
       "Belagavi": {
         "notes": "",
-        "active": 48,
+        "active": 47,
         "confirmed": 55,
         "deceased": 1,
-        "recovered": 6,
+        "recovered": 7,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       "Bengaluru": {
@@ -2161,12 +2161,12 @@
       },
       "Davanagere": {
         "notes": "",
-        "active": 0,
-        "confirmed": 2,
+        "active": 1,
+        "confirmed": 3,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -2233,14 +2233,14 @@
       },
       "Mysuru": {
         "notes": "",
-        "active": 39,
-        "confirmed": 89,
+        "active": 32,
+        "confirmed": 90,
         "deceased": 0,
-        "recovered": 50,
+        "recovered": 58,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 8
         }
       },
       "Tumakuru": {
@@ -2296,7 +2296,7 @@
         "active": 0,
         "confirmed": 0,
         "deceased": 0,
-        "recovered": 9,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

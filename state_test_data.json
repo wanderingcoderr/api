@@ -7301,6 +7301,26 @@
 			"updatedon": "28/04/2020"
 		},
 		{
+			"negative": "120136",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "9318",
+			"source": "https://twitter.com/Maha_MEDD/status/1255371358323773445?s=19",
+			"source2": "",
+			"state": "Maharashtra",
+			"testpositivityrate": "7.24%",
+			"testspermillion": "1055.780427",
+			"testsperthousand": "1.055780427",
+			"totalpeopleinquarantine": "",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "128726",
+			"unconfirmed": "",
+			"updatedon": "29/04/2020"
+		},
+		{
 			"negative": "299",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
