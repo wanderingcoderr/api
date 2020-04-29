@@ -3581,6 +3581,26 @@
 			"updatedon": "28/04/2020"
 		},
 		{
+			"negative": "55406",
+			"numcallsstatehelpline": "60855",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "",
+			"positive": "4082",
+			"source": "https://twitter.com/PIBAhmedabad/status/1255510142499643393",
+			"source2": "",
+			"state": "Gujarat",
+			"testpositivityrate": "",
+			"testspermillion": "917.9977606",
+			"testsperthousand": "0.9179977606",
+			"totalpeopleinquarantine": "42390",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "59488",
+			"unconfirmed": "0",
+			"updatedon": "29/04/2020"
+		},
+		{
 			"negative": "938",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
