@@ -1,9 +1,5 @@
 [
   {
-    "update": "66 new cases in Rajasthan\n",
-    "timestamp": 1588047102
-  },
-  {
     "update": "1 death in Rajasthan\n",
     "timestamp": 1588053115
   },
@@ -198,5 +194,9 @@
   {
     "update": "104 new cases in Tamil Nadu\n",
     "timestamp": 1588167128
+  },
+  {
+    "update": "82 recoveries and 2 deaths in Tamil Nadu\n2 recoveries in Uttarakhand\n",
+    "timestamp": 1588167718
   }
 ]

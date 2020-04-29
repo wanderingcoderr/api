@@ -813,14 +813,14 @@
 	],
 	"statewise": [
 		{
-			"active": "22915",
+			"active": "22829",
 			"confirmed": "31760",
-			"deaths": "1010",
+			"deaths": "1012",
 			"deltaconfirmed": "400",
-			"deltadeaths": "2",
-			"deltarecovered": "88",
-			"lastupdatedtime": "29/04/2020 19:01:45",
-			"recovered": "7835",
+			"deltadeaths": "4",
+			"deltarecovered": "172",
+			"lastupdatedtime": "29/04/2020 19:11:45",
+			"recovered": "7919",
 			"state": "Total",
 			"statecode": "TT",
 			"statenotes": ""
@@ -891,14 +891,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "1009",
+			"active": "925",
 			"confirmed": "2162",
-			"deaths": "25",
+			"deaths": "27",
 			"deltaconfirmed": "104",
-			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "29/04/2020 19:01:46",
-			"recovered": "1128",
+			"deltadeaths": "2",
+			"deltarecovered": "82",
+			"lastupdatedtime": "29/04/2020 19:11:46",
+			"recovered": "1210",
 			"state": "Tamil Nadu",
 			"statecode": "TN",
 			"statenotes": ""
@@ -1073,14 +1073,14 @@
 			"statenotes": ""
 		},
 		{
-			"active": "20",
+			"active": "18",
 			"confirmed": "54",
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "0",
-			"lastupdatedtime": "28/04/2020 21:02:52",
-			"recovered": "34",
+			"deltarecovered": "2",
+			"lastupdatedtime": "29/04/2020 19:11:51",
+			"recovered": "36",
 			"state": "Uttarakhand",
 			"statecode": "UT",
 			"statenotes": ""

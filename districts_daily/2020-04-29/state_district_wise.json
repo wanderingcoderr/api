@@ -4225,25 +4225,25 @@
       },
       "Chengalpattu": {
         "notes": "",
-        "active": 27,
-        "confirmed": 67,
+        "active": 31,
+        "confirmed": 71,
         "deceased": 0,
         "recovered": 40,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Chennai": {
         "notes": "",
-        "active": 471,
-        "confirmed": 678,
-        "deceased": 12,
+        "active": 563,
+        "confirmed": 772,
+        "deceased": 14,
         "recovered": 195,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 94,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -4321,12 +4321,12 @@
       },
       "Kancheepuram": {
         "notes": "",
-        "active": 12,
-        "confirmed": 19,
+        "active": 15,
+        "confirmed": 22,
         "deceased": 0,
         "recovered": 7,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4513,12 +4513,12 @@
       },
       "Thiruvallur": {
         "notes": "",
-        "active": 25,
-        "confirmed": 54,
+        "active": 26,
+        "confirmed": 55,
         "deceased": 0,
         "recovered": 29,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4621,12 +4621,12 @@
       },
       "Viluppuram": {
         "notes": "",
-        "active": 28,
-        "confirmed": 52,
+        "active": 30,
+        "confirmed": 54,
         "deceased": 2,
         "recovered": 22,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4646,9 +4646,9 @@
       "Unknown": {
         "notes": "",
         "active": 0,
-        "confirmed": 104,
+        "confirmed": 0,
         "deceased": 4,
-        "recovered": 0,
+        "recovered": 82,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5805,14 +5805,14 @@
       },
       "Dehradun": {
         "notes": "",
-        "active": 20,
+        "active": 18,
         "confirmed": 31,
         "deceased": 0,
-        "recovered": 11,
+        "recovered": 13,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 2
         }
       },
       "Haridwar": {
