@@ -8929,9 +8929,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "18",
+			"active": "17",
 			"confirmed": "80",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -8945,9 +8945,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "6",
+			"active": "5",
 			"confirmed": "70",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -9041,9 +9041,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "43",
+			"active": "42",
 			"confirmed": "79",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -9233,9 +9233,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "8",
+			"active": "7",
 			"confirmed": "44",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -9281,9 +9281,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "2",
+			"active": "0",
 			"confirmed": "27",
-			"deceased": "0",
+			"deceased": "2",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -9377,9 +9377,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "10",
+			"active": "9",
 			"confirmed": "23",
-			"deceased": "0",
+			"deceased": "1",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -9393,9 +9393,9 @@
 			"statecode": "TN"
 		},
 		{
-			"active": "30",
+			"active": "28",
 			"confirmed": "52",
-			"deceased": "0",
+			"deceased": "2",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12371,7 +12371,7 @@
 		{
 			"active": "",
 			"confirmed": "0",
-			"deceased": "13",
+			"deceased": "4",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",

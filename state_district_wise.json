@@ -4237,9 +4237,9 @@
       },
       "Dindigul": {
         "notes": "",
-        "active": 18,
+        "active": 17,
         "confirmed": 80,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 62,
         "delta": {
           "confirmed": 0,
@@ -4249,9 +4249,9 @@
       },
       "Erode": {
         "notes": "",
-        "active": 6,
+        "active": 5,
         "confirmed": 70,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 64,
         "delta": {
           "confirmed": 0,
@@ -4309,9 +4309,9 @@
       },
       "Madurai": {
         "notes": "",
-        "active": 43,
+        "active": 42,
         "confirmed": 79,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 36,
         "delta": {
           "confirmed": 0,
@@ -4453,9 +4453,9 @@
       },
       "Theni": {
         "notes": "",
-        "active": 8,
+        "active": 7,
         "confirmed": 44,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 36,
         "delta": {
           "confirmed": 0,
@@ -4489,9 +4489,9 @@
       },
       "Thoothukkudi": {
         "notes": "",
-        "active": 2,
+        "active": 0,
         "confirmed": 27,
-        "deceased": 0,
+        "deceased": 2,
         "recovered": 25,
         "delta": {
           "confirmed": 0,
@@ -4561,9 +4561,9 @@
       },
       "Vellore": {
         "notes": "",
-        "active": 10,
+        "active": 9,
         "confirmed": 23,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 13,
         "delta": {
           "confirmed": 0,
@@ -4573,9 +4573,9 @@
       },
       "Viluppuram": {
         "notes": "",
-        "active": 30,
+        "active": 28,
         "confirmed": 52,
-        "deceased": 0,
+        "deceased": 2,
         "recovered": 22,
         "delta": {
           "confirmed": 0,
@@ -4599,7 +4599,7 @@
         "notes": "",
         "active": 0,
         "confirmed": 0,
-        "deceased": 13,
+        "deceased": 4,
         "recovered": 0,
         "delta": {
           "confirmed": 0,
