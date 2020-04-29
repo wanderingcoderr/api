@@ -1,9 +1,5 @@
 [
   {
-    "update": "190 new cases in Delhi\n",
-    "timestamp": 1588006298
-  },
-  {
     "update": "4 recoveries in Jharkhand\n",
     "timestamp": 1588006959
   },
@@ -198,5 +194,9 @@
   {
     "update": "94 new cases and 2 deaths in Madhya Pradesh\n3 new cases in Odisha\n",
     "timestamp": 1588146724
+  },
+  {
+    "update": "12 new cases in Bihar\n",
+    "timestamp": 1588155699
   }
 ]

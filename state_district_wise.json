@@ -455,12 +455,12 @@
       },
       "Buxar": {
         "notes": "",
-        "active": 25,
-        "confirmed": 26,
+        "active": 37,
+        "confirmed": 38,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 12,
           "deceased": 0,
           "recovered": 0
         }

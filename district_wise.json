@@ -1297,11 +1297,11 @@
 			"statecode": "BR"
 		},
 		{
-			"active": "25",
-			"confirmed": "26",
+			"active": "37",
+			"confirmed": "38",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "12",
+			"deltaconfirmed": "12",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Buxar",
