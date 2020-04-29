@@ -6981,6 +6981,26 @@
 			"updatedon": "29/04/2020"
 		},
 		{
+			"negative": "14837",
+			"numcallsstatehelpline": "",
+			"numicubeds": "",
+			"numisolationbeds": "",
+			"numventilators": "",
+			"populationsourceuidai": "121924973",
+			"positive": "",
+			"source": "",
+			"source2": "",
+			"state": "Maharashtra",
+			"testpositivityrate": "0.00%",
+			"testspermillion": "",
+			"testsperthousand": "",
+			"totalpeopleinquarantine": "3122",
+			"totalpeoplereleasedfromquarantine": "",
+			"totaltested": "16008",
+			"unconfirmed": "",
+			"updatedon": "05/04/2020"
+		},
+		{
 			"negative": "15808",
 			"numcallsstatehelpline": "",
 			"numicubeds": "",
