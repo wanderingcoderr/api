@@ -3788,8 +3788,8 @@
     "districtData": {
       "Ajmer": {
         "notes": "",
-        "active": 130,
-        "confirmed": 135,
+        "active": 141,
+        "confirmed": 146,
         "deceased": 0,
         "recovered": 5,
         "delta": {
@@ -3812,8 +3812,8 @@
       },
       "Banswara": {
         "notes": "",
-        "active": 32,
-        "confirmed": 63,
+        "active": 33,
+        "confirmed": 64,
         "deceased": 0,
         "recovered": 31,
         "delta": {
@@ -3944,8 +3944,8 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 588,
-        "confirmed": 859,
+        "active": 593,
+        "confirmed": 864,
         "deceased": 27,
         "recovered": 244,
         "delta": {
@@ -3992,8 +3992,8 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 313,
-        "confirmed": 400,
+        "active": 314,
+        "confirmed": 401,
         "deceased": 6,
         "recovered": 81,
         "delta": {
@@ -4112,8 +4112,8 @@
       },
       "Udaipur": {
         "notes": "",
-        "active": 3,
-        "confirmed": 7,
+        "active": 4,
+        "confirmed": 8,
         "deceased": 0,
         "recovered": 4,
         "delta": {

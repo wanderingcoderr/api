@@ -8193,8 +8193,8 @@
 			"statecode": "PB"
 		},
 		{
-			"active": "130",
-			"confirmed": "135",
+			"active": "141",
+			"confirmed": "146",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -8225,8 +8225,8 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "32",
-			"confirmed": "63",
+			"active": "33",
+			"confirmed": "64",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -8449,8 +8449,8 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "588",
-			"confirmed": "859",
+			"active": "593",
+			"confirmed": "864",
 			"deceased": "27",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -8529,8 +8529,8 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "313",
-			"confirmed": "400",
+			"active": "314",
+			"confirmed": "401",
 			"deceased": "6",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -8705,8 +8705,8 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "3",
-			"confirmed": "7",
+			"active": "4",
+			"confirmed": "8",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
