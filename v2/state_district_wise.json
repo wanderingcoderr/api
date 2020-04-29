@@ -245,27 +245,27 @@
       {
         "district": "Dhubri",
         "notes": "",
-        "active": 4,
+        "active": 3,
         "confirmed": 4,
         "deceased": 0,
-        "recovered": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
         "district": "Goalpara",
         "notes": "",
-        "active": 2,
+        "active": 1,
         "confirmed": 5,
         "deceased": 0,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -3817,14 +3817,14 @@
       {
         "district": "Khordha",
         "notes": "",
-        "active": 20,
+        "active": 19,
         "confirmed": 47,
         "deceased": 1,
-        "recovered": 26,
+        "recovered": 27,
         "delta": {
           "confirmed": 1,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {

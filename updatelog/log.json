@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 recoveries in Himachal Pradesh\n",
-    "timestamp": 1588016510
-  },
-  {
     "update": "7 new cases in Odisha (Added for yesterday's date) \n",
     "timestamp": 1588041700
   },
@@ -198,5 +194,9 @@
   {
     "update": "2 new cases and 1 recovery in Karnataka\n",
     "timestamp": 1588162300
+  },
+  {
+    "update": "1 recovery in Odisha\n2 recoveries in Assam\n",
+    "timestamp": 1588164111
   }
 ]

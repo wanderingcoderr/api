@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,31637,7816,1010,22811,29/04/2020 17:41:45,TT,277,69,2,
+Total,31637,7819,1010,22808,29/04/2020 18:10:45,TT,277,72,2,
 Maharashtra,9318,1388,400,7530,29/04/2020 08:52:45,MH,0,0,0,
 Gujarat,3774,434,181,3159,28/04/2020 21:12:46,GJ,0,0,0,
 Delhi,3314,1078,54,2182,28/04/2020 22:22:46,DL,0,0,0,
@@ -16,12 +16,12 @@ Kerala,496,369,4,123,28/04/2020 17:30:38,KL,10,10,0,Mahe native who expired in K
 Bihar,383,64,2,317,29/04/2020 16:21:46,BR,17,0,0,
 Punjab,342,101,19,222,28/04/2020 21:22:46,PB,0,0,0,
 Haryana,308,224,3,81,28/04/2020 19:24:37,HR,0,0,0,
-Odisha,122,38,1,83,29/04/2020 13:22:48,OR,4,0,0,
+Odisha,122,39,1,82,29/04/2020 18:10:47,OR,4,1,0,
 Jharkhand,105,19,3,83,29/04/2020 00:32:47,JH,0,0,0,
 Chandigarh,67,17,0,50,29/04/2020 16:01:46,CH,11,0,0,
 Uttarakhand,54,34,0,20,28/04/2020 21:02:52,UT,0,0,0,
 Himachal Pradesh,40,25,2,13,28/04/2020 01:11:56,HP,0,0,0,Death of Tibetan refugee included
-Assam,38,27,1,10,28/04/2020 18:22:46,AS,0,0,0,Includes one case from Nagaland
+Assam,38,29,1,8,29/04/2020 18:10:48,AS,0,2,0,Includes one case from Nagaland
 Chhattisgarh,38,34,0,4,28/04/2020 23:41:48,CT,0,0,0,
 Andaman and Nicobar Islands,33,15,0,18,28/04/2020 11:32:57,AN,0,0,0,
 Ladakh,22,16,0,6,28/04/2020 16:11:56,LA,0,0,0,
