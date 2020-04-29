@@ -4725,10 +4725,10 @@
       {
         "district": "Madurai",
         "notes": "",
-        "active": 70,
+        "active": 42,
         "confirmed": 79,
         "deceased": 1,
-        "recovered": 8,
+        "recovered": 36,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4816,10 +4816,10 @@
       {
         "district": "Salem",
         "notes": "",
-        "active": 25,
+        "active": 15,
         "confirmed": 31,
         "deceased": 0,
-        "recovered": 6,
+        "recovered": 16,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4855,10 +4855,10 @@
       {
         "district": "Thanjavur",
         "notes": "",
-        "active": 31,
+        "active": 30,
         "confirmed": 54,
         "deceased": 0,
-        "recovered": 23,
+        "recovered": 24,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -4894,10 +4894,10 @@
       {
         "district": "Thiruvallur",
         "notes": "",
-        "active": 40,
+        "active": 25,
         "confirmed": 54,
         "deceased": 0,
-        "recovered": 14,
+        "recovered": 29,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -5040,7 +5040,7 @@
         "active": 0,
         "confirmed": 0,
         "deceased": 4,
-        "recovered": 54,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
