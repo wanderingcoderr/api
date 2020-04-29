@@ -1,9 +1,5 @@
 [
   {
-    "update": "19 new cases, 12 recoveries and 1 death in Jammu and Kashmir\n",
-    "timestamp": 1588076492
-  },
-  {
     "update": "1 new case in Assam\n",
     "timestamp": 1588078308
   },
@@ -198,5 +194,9 @@
   {
     "update": "33 recoveries in Rajasthan\n",
     "timestamp": 1588179730
+  },
+  {
+    "update": "125 new cases, 14 recoveries and 2 deaths in Delhi\n",
+    "timestamp": 1588182359
   }
 ]

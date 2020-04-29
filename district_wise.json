@@ -12018,8 +12018,8 @@
 		},
 		{
 			"active": "",
-			"confirmed": "2526",
-			"deceased": "54",
+			"confirmed": "2651",
+			"deceased": "56",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
 			"deltadeceased": "0",
@@ -12027,7 +12027,7 @@
 			"district": "Unknown",
 			"districtkey": "DL_Unknown",
 			"districtnotes": "",
-			"recovered": "1078",
+			"recovered": "1092",
 			"slno": "737",
 			"state": "Delhi",
 			"statecode": "DL"
