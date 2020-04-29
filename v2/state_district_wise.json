@@ -2812,13 +2812,13 @@
       {
         "district": "Bhopal",
         "notes": "",
-        "active": 331,
+        "active": 330,
         "confirmed": 483,
-        "deceased": 13,
+        "deceased": 14,
         "recovered": 139,
         "delta": {
           "confirmed": 25,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -2955,26 +2955,26 @@
       {
         "district": "Khandwa",
         "notes": "",
-        "active": 33,
+        "active": 31,
         "confirmed": 46,
-        "deceased": 1,
+        "deceased": 3,
         "recovered": 12,
         "delta": {
           "confirmed": 10,
-          "deceased": 0,
+          "deceased": 2,
           "recovered": 0
         }
       },
       {
         "district": "Khargone",
         "notes": "MP Bulletin dated 25/04 reduced one case in Khargone as there was a repetition",
-        "active": 52,
+        "active": 51,
         "confirmed": 70,
-        "deceased": 6,
+        "deceased": 7,
         "recovered": 12,
         "delta": {
           "confirmed": 9,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3007,13 +3007,13 @@
       {
         "district": "Raisen",
         "notes": "",
-        "active": 45,
+        "active": 44,
         "confirmed": 47,
-        "deceased": 1,
+        "deceased": 2,
         "recovered": 1,
         "delta": {
           "confirmed": 2,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -3124,13 +3124,13 @@
       {
         "district": "Ujjain",
         "notes": "",
-        "active": 102,
+        "active": 99,
         "confirmed": 127,
-        "deceased": 20,
+        "deceased": 23,
         "recovered": 5,
         "delta": {
           "confirmed": 4,
-          "deceased": 0,
+          "deceased": 3,
           "recovered": 0
         }
       },
