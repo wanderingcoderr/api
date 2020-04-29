@@ -4251,12 +4251,12 @@
       {
         "district": "Bharatpur",
         "notes": "",
-        "active": 103,
-        "confirmed": 110,
+        "active": 104,
+        "confirmed": 111,
         "deceased": 2,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4264,12 +4264,12 @@
       {
         "district": "Bhilwara",
         "notes": "",
-        "active": 3,
-        "confirmed": 35,
+        "active": 5,
+        "confirmed": 37,
         "deceased": 2,
         "recovered": 30,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4290,12 +4290,12 @@
       {
         "district": "Chittaurgarh",
         "notes": "",
-        "active": 13,
-        "confirmed": 13,
+        "active": 16,
+        "confirmed": 16,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 8,
           "deceased": 0,
           "recovered": 0
         }
@@ -4329,12 +4329,12 @@
       {
         "district": "Dhaulpur",
         "notes": "",
-        "active": 9,
-        "confirmed": 10,
+        "active": 10,
+        "confirmed": 11,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4368,12 +4368,12 @@
       {
         "district": "Jaipur",
         "notes": "",
-        "active": 564,
-        "confirmed": 867,
+        "active": 578,
+        "confirmed": 881,
         "deceased": 30,
         "recovered": 273,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 22,
           "deceased": 3,
           "recovered": 0
         }
@@ -4420,12 +4420,12 @@
       {
         "district": "Jodhpur",
         "notes": "",
-        "active": 304,
-        "confirmed": 401,
+        "active": 316,
+        "confirmed": 413,
         "deceased": 6,
         "recovered": 91,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 13,
           "deceased": 0,
           "recovered": 10
         }
@@ -4446,12 +4446,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 85,
-        "confirmed": 190,
+        "active": 87,
+        "confirmed": 192,
         "deceased": 7,
         "recovered": 98,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -4459,12 +4459,12 @@
       {
         "district": "Nagaur",
         "notes": "",
-        "active": 107,
-        "confirmed": 117,
+        "active": 108,
+        "confirmed": 118,
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4472,12 +4472,12 @@
       {
         "district": "Pali",
         "notes": "",
-        "active": 1,
-        "confirmed": 3,
+        "active": 10,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 9,
           "deceased": 0,
           "recovered": 0
         }
@@ -5488,7 +5488,7 @@
         "active": 0,
         "confirmed": 7,
         "deceased": 0,
-        "recovered": 92,
+        "recovered": 93,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

@@ -1,9 +1,5 @@
 [
   {
-    "update": "3 new cases and 9 recoveries in Karnataka\n",
-    "timestamp": 1588074725
-  },
-  {
     "update": "1 new case in Bihar\n1 recovery in Odisha\n11 new cases in Chandigarh\n",
     "timestamp": 1588075310
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 recovery in Telangana\n",
     "timestamp": 1588177904
+  },
+  {
+    "update": "45 new cases in Rajasthan\n",
+    "timestamp": 1588178512
   }
 ]
