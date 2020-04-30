@@ -1,5 +1,5 @@
 State,Confirmed,Recovered,Deaths,Active,Last_Updated_Time,State_code,Delta_Confirmed,Delta_Recovered,Delta_Deaths,State_Notes
-Total,33098,8442,1079,23577,30/04/2020 09:10:45,TT,36,5,0,
+Total,33098,8442,1079,23577,30/04/2020 09:12:45,TT,36,5,0,
 Maharashtra,9915,1593,432,7890,29/04/2020 22:37:46,MH,0,0,0,
 Gujarat,4082,527,197,3358,29/04/2020 20:54:45,GJ,0,0,0,
 Delhi,3439,1092,56,2291,29/04/2020 23:16:45,DL,0,0,0,
@@ -9,14 +9,14 @@ Tamil Nadu,2162,1210,27,925,29/04/2020 19:12:47,TN,0,0,0,
 Uttar Pradesh,2134,510,39,1585,29/04/2020 20:12:47,UP,0,0,0,
 Andhra Pradesh,1332,287,31,1014,29/04/2020 11:32:45,AP,0,0,0,
 Telangana,1016,409,25,582,29/04/2020 22:02:47,TG,0,0,0,
-West Bengal,758,124,22,612,30/04/2020 09:10:46,WB,33,5,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
+West Bengal,758,124,22,612,30/04/2020 09:12:46,WB,33,5,0,WB totals and district numbers are currently updated according to https://www.mohfw.gov.in
 Jammu and Kashmir,581,192,8,381,28/04/2020 17:51:56,JK,0,0,0,
 Karnataka,534,216,21,297,29/04/2020 19:22:45,KA,0,0,0,
 Kerala,496,369,4,123,28/04/2020 17:30:38,KL,0,0,0,Mahe native who expired in Kannur included in Kerala's tally
 Bihar,403,64,2,337,29/04/2020 20:42:46,BR,0,0,0,
 Punjab,375,101,19,255,29/04/2020 20:02:49,PB,0,0,0,
 Haryana,311,225,3,83,29/04/2020 20:01:51,HR,0,0,0,
-Odisha,128,39,1,88,30/04/2020 09:10:47,OR,3,0,0,
+Odisha,128,39,1,88,30/04/2020 09:12:47,OR,3,0,0,
 Jharkhand,107,19,3,85,29/04/2020 21:32:46,JH,0,0,0,
 Chandigarh,68,17,0,51,29/04/2020 21:12:46,CH,0,0,0,
 Uttarakhand,55,36,0,19,30/04/2020 00:01:47,UT,0,0,0,
