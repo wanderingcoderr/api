@@ -43,9 +43,9 @@
         "deceased": 4,
         "recovered": 17,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -56,7 +56,7 @@
         "deceased": 0,
         "recovered": 16,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -69,7 +69,7 @@
         "deceased": 0,
         "recovered": 12,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -82,9 +82,9 @@
         "deceased": 8,
         "recovered": 59,
         "delta": {
-          "confirmed": 29,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 20
+          "recovered": 0
         }
       },
       {
@@ -95,9 +95,9 @@
         "deceased": 8,
         "recovered": 32,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -108,7 +108,7 @@
         "deceased": 9,
         "recovered": 43,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -121,7 +121,7 @@
         "deceased": 0,
         "recovered": 23,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -136,7 +136,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -147,7 +147,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -160,7 +160,7 @@
         "deceased": 0,
         "recovered": 19,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -173,7 +173,7 @@
         "deceased": 0,
         "recovered": 11,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -186,7 +186,7 @@
         "deceased": 0,
         "recovered": 28,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -252,7 +252,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -265,7 +265,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -438,7 +438,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -464,7 +464,7 @@
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -490,7 +490,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -503,7 +503,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 14,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -516,7 +516,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -607,7 +607,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -672,7 +672,7 @@
         "deceased": 0,
         "recovered": 5,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -698,7 +698,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -737,7 +737,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -763,7 +763,7 @@
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -776,7 +776,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -795,7 +795,7 @@
         "deceased": 0,
         "recovered": 17,
         "delta": {
-          "confirmed": 12,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1092,9 +1092,9 @@
         "deceased": 137,
         "recovered": 263,
         "delta": {
-          "confirmed": 234,
-          "deceased": 9,
-          "recovered": 22
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -1105,9 +1105,9 @@
         "deceased": 3,
         "recovered": 23,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 0
         }
       },
       {
@@ -1146,7 +1146,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -1157,9 +1157,9 @@
         "deceased": 5,
         "recovered": 21,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -1170,7 +1170,7 @@
         "deceased": 1,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1185,7 +1185,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -1209,7 +1209,7 @@
         "deceased": 2,
         "recovered": 12,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1263,7 +1263,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -1274,7 +1274,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1287,7 +1287,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1315,7 +1315,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 9
+          "recovered": 0
         }
       },
       {
@@ -1326,7 +1326,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1339,9 +1339,9 @@
         "deceased": 2,
         "recovered": 2,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -1378,9 +1378,9 @@
         "deceased": 1,
         "recovered": 16,
         "delta": {
-          "confirmed": 3,
-          "deceased": 1,
-          "recovered": 1
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -1404,9 +1404,9 @@
         "deceased": 22,
         "recovered": 40,
         "delta": {
-          "confirmed": 31,
-          "deceased": 3,
-          "recovered": 20
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -1456,9 +1456,9 @@
         "deceased": 16,
         "recovered": 87,
         "delta": {
-          "confirmed": 15,
-          "deceased": 3,
-          "recovered": 29
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -1529,7 +1529,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -1579,7 +1579,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1644,7 +1644,7 @@
         "deceased": 0,
         "recovered": 46,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1722,7 +1722,7 @@
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1851,7 +1851,7 @@
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 9,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1864,7 +1864,7 @@
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1890,7 +1890,7 @@
         "deceased": 3,
         "recovered": 21,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1918,7 +1918,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 0
         }
       },
       {
@@ -1955,7 +1955,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -1970,7 +1970,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 10
+          "recovered": 0
         }
       },
       {
@@ -2059,9 +2059,9 @@
         "deceased": 2,
         "recovered": 51,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -2169,7 +2169,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2208,7 +2208,7 @@
         "deceased": 2,
         "recovered": 10,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2266,9 +2266,9 @@
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -2357,7 +2357,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2396,7 +2396,7 @@
         "deceased": 5,
         "recovered": 7,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2435,9 +2435,9 @@
         "deceased": 0,
         "recovered": 58,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 0
         }
       },
       {
@@ -2449,7 +2449,7 @@
         "recovered": 1,
         "delta": {
           "confirmed": 0,
-          "deceased": 1,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -2560,7 +2560,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -2571,9 +2571,9 @@
         "deceased": 0,
         "recovered": 165,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -2584,7 +2584,7 @@
         "deceased": 0,
         "recovered": 8,
         "delta": {
-          "confirmed": 6,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2612,7 +2612,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -2651,7 +2651,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -2662,7 +2662,7 @@
         "deceased": 1,
         "recovered": 14,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2722,7 +2722,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       }
     ]
@@ -2739,7 +2739,7 @@
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2804,9 +2804,9 @@
         "deceased": 14,
         "recovered": 162,
         "delta": {
-          "confirmed": 25,
-          "deceased": 1,
-          "recovered": 23
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -2832,7 +2832,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -2843,7 +2843,7 @@
         "deceased": 7,
         "recovered": 6,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2856,7 +2856,7 @@
         "deceased": 1,
         "recovered": 0,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2908,9 +2908,9 @@
         "deceased": 2,
         "recovered": 14,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 0
         }
       },
       {
@@ -2921,9 +2921,9 @@
         "deceased": 65,
         "recovered": 177,
         "delta": {
-          "confirmed": 104,
-          "deceased": 2,
-          "recovered": 43
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -2934,7 +2934,7 @@
         "deceased": 1,
         "recovered": 7,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -2947,8 +2947,8 @@
         "deceased": 3,
         "recovered": 12,
         "delta": {
-          "confirmed": 10,
-          "deceased": 2,
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -2960,9 +2960,9 @@
         "deceased": 7,
         "recovered": 22,
         "delta": {
-          "confirmed": 9,
-          "deceased": 1,
-          "recovered": 10
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -2999,8 +2999,8 @@
         "deceased": 2,
         "recovered": 1,
         "delta": {
-          "confirmed": 2,
-          "deceased": 1,
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -3066,7 +3066,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -3079,7 +3079,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -3116,8 +3116,8 @@
         "deceased": 23,
         "recovered": 5,
         "delta": {
-          "confirmed": 4,
-          "deceased": 3,
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -3174,7 +3174,7 @@
         "deceased": 1,
         "recovered": 8,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3200,8 +3200,8 @@
         "deceased": 7,
         "recovered": 22,
         "delta": {
-          "confirmed": 15,
-          "deceased": 1,
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -3356,9 +3356,9 @@
         "deceased": 270,
         "recovered": 936,
         "delta": {
-          "confirmed": 475,
-          "deceased": 26,
-          "recovered": 138
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -3369,9 +3369,9 @@
         "deceased": 1,
         "recovered": 35,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 15
+          "recovered": 0
         }
       },
       {
@@ -3434,9 +3434,9 @@
         "deceased": 4,
         "recovered": 40,
         "delta": {
-          "confirmed": 5,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -3449,7 +3449,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -3460,9 +3460,9 @@
         "deceased": 85,
         "recovered": 244,
         "delta": {
-          "confirmed": 18,
-          "deceased": 3,
-          "recovered": 11
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -3473,9 +3473,9 @@
         "deceased": 2,
         "recovered": 23,
         "delta": {
-          "confirmed": 3,
-          "deceased": 1,
-          "recovered": 2
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -3499,7 +3499,7 @@
         "deceased": 1,
         "recovered": 25,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3514,7 +3514,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -3525,7 +3525,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3538,8 +3538,8 @@
         "deceased": 6,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
-          "deceased": 1,
+          "confirmed": 0,
+          "deceased": 0,
           "recovered": 0
         }
       },
@@ -3551,9 +3551,9 @@
         "deceased": 14,
         "recovered": 163,
         "delta": {
-          "confirmed": 58,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 31
+          "recovered": 0
         }
       },
       {
@@ -3564,7 +3564,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3577,7 +3577,7 @@
         "deceased": 0,
         "recovered": 10,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3692,7 +3692,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3731,7 +3731,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3770,7 +3770,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3809,7 +3809,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3822,9 +3822,9 @@
         "deceased": 1,
         "recovered": 27,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -3938,7 +3938,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -3951,7 +3951,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4003,7 +4003,7 @@
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4016,7 +4016,7 @@
         "deceased": 3,
         "recovered": 7,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4042,7 +4042,7 @@
         "deceased": 4,
         "recovered": 6,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4094,7 +4094,7 @@
         "deceased": 1,
         "recovered": 2,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4120,7 +4120,7 @@
         "deceased": 2,
         "recovered": 31,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4133,7 +4133,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4146,7 +4146,7 @@
         "deceased": 1,
         "recovered": 18,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4191,9 +4191,9 @@
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 11,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 0
         }
       },
       {
@@ -4217,7 +4217,7 @@
         "deceased": 0,
         "recovered": 31,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4243,9 +4243,9 @@
         "deceased": 2,
         "recovered": 6,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4256,7 +4256,7 @@
         "deceased": 2,
         "recovered": 30,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4282,7 +4282,7 @@
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 8,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4297,7 +4297,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4310,7 +4310,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4321,7 +4321,7 @@
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4349,7 +4349,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -4360,9 +4360,9 @@
         "deceased": 30,
         "recovered": 283,
         "delta": {
-          "confirmed": 22,
-          "deceased": 3,
-          "recovered": 10
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -4412,9 +4412,9 @@
         "deceased": 6,
         "recovered": 103,
         "delta": {
-          "confirmed": 13,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 22
+          "recovered": 0
         }
       },
       {
@@ -4438,7 +4438,7 @@
         "deceased": 7,
         "recovered": 98,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4451,7 +4451,7 @@
         "deceased": 1,
         "recovered": 9,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4464,7 +4464,7 @@
         "deceased": 0,
         "recovered": 2,
         "delta": {
-          "confirmed": 9,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4542,7 +4542,7 @@
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
@@ -4615,7 +4615,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -4626,9 +4626,9 @@
         "deceased": 0,
         "recovered": 43,
         "delta": {
-          "confirmed": 4,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -4639,9 +4639,9 @@
         "deceased": 14,
         "recovered": 210,
         "delta": {
-          "confirmed": 94,
-          "deceased": 2,
-          "recovered": 15
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
         }
       },
       {
@@ -4654,7 +4654,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4693,7 +4693,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -4706,7 +4706,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 5
+          "recovered": 0
         }
       },
       {
@@ -4730,9 +4730,9 @@
         "deceased": 0,
         "recovered": 9,
         "delta": {
-          "confirmed": 3,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -4745,7 +4745,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -4771,7 +4771,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -4784,7 +4784,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -4797,7 +4797,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -4836,7 +4836,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -4849,7 +4849,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4862,7 +4862,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 4
+          "recovered": 0
         }
       },
       {
@@ -4888,7 +4888,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -4901,7 +4901,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 9
+          "recovered": 0
         }
       },
       {
@@ -4938,9 +4938,9 @@
         "deceased": 0,
         "recovered": 30,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4953,7 +4953,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -4979,7 +4979,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 3
+          "recovered": 0
         }
       },
       {
@@ -5018,7 +5018,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 8
+          "recovered": 0
         }
       },
       {
@@ -5044,7 +5044,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -5055,9 +5055,9 @@
         "deceased": 2,
         "recovered": 23,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 0,
           "deceased": 0,
-          "recovered": 1
+          "recovered": 0
         }
       },
       {
@@ -6355,7 +6355,7 @@
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 2
+          "recovered": 0
         }
       },
       {
@@ -6405,7 +6405,7 @@
         "deceased": 0,
         "recovered": 4,
         "delta": {
-          "confirmed": 1,
+          "confirmed": 0,
           "deceased": 0,
           "recovered": 0
         }
