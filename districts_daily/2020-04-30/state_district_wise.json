@@ -4004,26 +4004,26 @@
       },
       "Hanumangarh": {
         "notes": "",
-        "active": 6,
+        "active": 3,
         "confirmed": 11,
         "deceased": 0,
-        "recovered": 5,
+        "recovered": 8,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 3
         }
       },
       "Jaipur": {
         "notes": "",
-        "active": 580,
+        "active": 570,
         "confirmed": 895,
         "deceased": 32,
-        "recovered": 283,
+        "recovered": 293,
         "delta": {
           "confirmed": 14,
           "deceased": 2,
-          "recovered": 0
+          "recovered": 10
         }
       },
       "Jaisalmer": {
