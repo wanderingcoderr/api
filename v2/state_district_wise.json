@@ -4236,6 +4236,19 @@
         }
       },
       {
+        "district": "Baran",
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 1,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
         "district": "Barmer",
         "notes": "",
         "active": 1,
@@ -4446,12 +4459,12 @@
       {
         "district": "Kota",
         "notes": "",
-        "active": 89,
-        "confirmed": 194,
+        "active": 88,
+        "confirmed": 193,
         "deceased": 7,
         "recovered": 98,
         "delta": {
-          "confirmed": 2,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
