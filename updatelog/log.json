@@ -1,9 +1,5 @@
 [
   {
-    "update": "27 recoveries and 1 death in Tamil Nadu\n",
-    "timestamp": 1588079508
-  },
-  {
     "update": "4 new cases and 3 recoveries in Haryana\n",
     "timestamp": 1588081331
   },
@@ -198,5 +194,9 @@
   {
     "update": "33 new cases and 5 recoveries in West Bengal\n3 new cases in Odisha\n",
     "timestamp": 1588218113
+  },
+  {
+    "update": "86 new cases and 2 deaths in Rajasthan\n",
+    "timestamp": 1588219919
   }
 ]

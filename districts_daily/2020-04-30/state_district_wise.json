@@ -3860,24 +3860,24 @@
     "districtData": {
       "Ajmer": {
         "notes": "",
-        "active": 133,
-        "confirmed": 146,
+        "active": 137,
+        "confirmed": 150,
         "deceased": 0,
         "recovered": 13,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
       },
       "Alwar": {
         "notes": "",
-        "active": 1,
-        "confirmed": 7,
+        "active": 2,
+        "confirmed": 8,
         "deceased": 1,
         "recovered": 5,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -3944,12 +3944,12 @@
       },
       "Chittaurgarh": {
         "notes": "",
-        "active": 16,
-        "confirmed": 16,
+        "active": 19,
+        "confirmed": 19,
         "deceased": 0,
         "recovered": 0,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 3,
           "deceased": 0,
           "recovered": 0
         }
@@ -3980,12 +3980,12 @@
       },
       "Dhaulpur": {
         "notes": "",
-        "active": 10,
-        "confirmed": 11,
+        "active": 11,
+        "confirmed": 12,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 1,
           "deceased": 0,
           "recovered": 0
         }
@@ -4016,13 +4016,13 @@
       },
       "Jaipur": {
         "notes": "",
-        "active": 568,
-        "confirmed": 881,
-        "deceased": 30,
+        "active": 580,
+        "confirmed": 895,
+        "deceased": 32,
         "recovered": 283,
         "delta": {
-          "confirmed": 0,
-          "deceased": 0,
+          "confirmed": 14,
+          "deceased": 2,
           "recovered": 0
         }
       },
@@ -4064,12 +4064,12 @@
       },
       "Jodhpur": {
         "notes": "",
-        "active": 304,
-        "confirmed": 413,
+        "active": 363,
+        "confirmed": 472,
         "deceased": 6,
         "recovered": 103,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 59,
           "deceased": 0,
           "recovered": 0
         }
@@ -4088,12 +4088,12 @@
       },
       "Kota": {
         "notes": "",
-        "active": 87,
-        "confirmed": 192,
+        "active": 89,
+        "confirmed": 194,
         "deceased": 7,
         "recovered": 98,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -4172,12 +4172,12 @@
       },
       "Tonk": {
         "notes": "",
-        "active": 95,
-        "confirmed": 131,
+        "active": 97,
+        "confirmed": 133,
         "deceased": 1,
         "recovered": 35,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
