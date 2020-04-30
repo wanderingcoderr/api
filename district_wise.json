@@ -8753,7 +8753,7 @@
 			"statecode": "RJ"
 		},
 		{
-			"active": "-4",
+			"active": "-2",
 			"confirmed": "0",
 			"deceased": "2",
 			"deltaactive": "0",
@@ -8763,7 +8763,7 @@
 			"district": "Other state",
 			"districtkey": "RJ_Other state",
 			"districtnotes": "",
-			"recovered": "2",
+			"recovered": "0",
 			"slno": "0",
 			"state": "Rajasthan",
 			"statecode": "RJ"
@@ -12347,7 +12347,7 @@
 			"district": "Unknown",
 			"districtkey": "RJ_Unknown",
 			"districtnotes": "",
-			"recovered": "-2",
+			"recovered": "0",
 			"slno": "757",
 			"state": "Rajasthan",
 			"statecode": "RJ"
