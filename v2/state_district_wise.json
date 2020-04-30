@@ -3752,12 +3752,12 @@
       {
         "district": "Jajapur",
         "notes": "",
-        "active": 18,
-        "confirmed": 19,
+        "active": 20,
+        "confirmed": 21,
         "deceased": 0,
         "recovered": 1,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 2,
           "deceased": 0,
           "recovered": 0
         }
@@ -3860,6 +3860,19 @@
         "confirmed": 10,
         "deceased": 0,
         "recovered": 3,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": 0,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
@@ -6602,9 +6615,9 @@
         "district": "Unknown",
         "notes": "",
         "active": 0,
-        "confirmed": 337,
+        "confirmed": 370,
         "deceased": 22,
-        "recovered": 119,
+        "recovered": 124,
         "delta": {
           "confirmed": 0,
           "deceased": 0,

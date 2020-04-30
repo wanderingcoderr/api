@@ -1,9 +1,5 @@
 [
   {
-    "update": "121 new cases in Tamil Nadu\n",
-    "timestamp": 1588078931
-  },
-  {
     "update": "27 recoveries and 1 death in Tamil Nadu\n",
     "timestamp": 1588079508
   },
@@ -198,5 +194,9 @@
   {
     "update": "1 new case in Uttarakhand\n",
     "timestamp": 1588185104
+  },
+  {
+    "update": "33 new cases and 5 recoveries in West Bengal\n3 new cases in Odisha\n",
+    "timestamp": 1588218113
   }
 ]

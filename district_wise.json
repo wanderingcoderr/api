@@ -7489,11 +7489,11 @@
 			"statecode": "OR"
 		},
 		{
-			"active": "18",
-			"confirmed": "19",
+			"active": "20",
+			"confirmed": "21",
 			"deceased": "0",
-			"deltaactive": "0",
-			"deltaconfirmed": "0",
+			"deltaactive": "2",
+			"deltaconfirmed": "2",
 			"deltadeceased": "0",
 			"deltarecovered": "0",
 			"district": "Jajapur",
@@ -12290,7 +12290,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "0",
+			"confirmed": "1",
 			"deceased": "0",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12450,7 +12450,7 @@
 		},
 		{
 			"active": "",
-			"confirmed": "337",
+			"confirmed": "370",
 			"deceased": "22",
 			"deltaactive": "0",
 			"deltaconfirmed": "0",
@@ -12459,7 +12459,7 @@
 			"district": "Unknown",
 			"districtkey": "WB_Unknown",
 			"districtnotes": "",
-			"recovered": "119",
+			"recovered": "124",
 			"slno": "764",
 			"state": "West Bengal",
 			"statecode": "WB"
